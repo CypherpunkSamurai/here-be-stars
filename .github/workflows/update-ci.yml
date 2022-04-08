@@ -18,8 +18,8 @@ jobs:
           gh api repos/${{ github.repository }}/actions/runs \
           --paginate -q '.workflow_runs[] | select(.status != "in_progress" and .status != "queued") | "\(.id)"' | \
           xargs -n1 -I % gh api repos/${{ github.repository }}/actions/runs/% -X DELETE
-  awesome-stars:
-    name: ⭐ Update awesome-stars
+  update-stars:
+    name: ⭐ Update the stars repo
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -45,18 +45,21 @@ jobs:
           pip -V
           pip show starred
 
-      - name: ⭐ Update awesome-stars README
+      - name: ⭐ Update stars README
         env:
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
           GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
+          starred --username ${GITHUB_REPOSITORY_OWNER} --repository ${REPO_NAME} --sort
           git add .
+          git config user.name "Github Actions"
+          git config user.email "actions@github.com"
+          git commit -am "⭐ Github Stars update [Github Actions Cron]"
         
-      - name: Push changes
-        uses: actions-go/push@master
-        with:
-          remote: origin
-          commit-message: "⭐ Github Stars update [Github Actions Cron]"
+#       - name: Push changes
+#         uses: actions-go/push@master
+#         with:
+#           remote: origin
+#           commit-message: "⭐ Github Stars update [Github Actions Cron]"
