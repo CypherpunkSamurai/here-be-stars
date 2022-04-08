@@ -1,29 +1,60 @@
-name: update awesome-stars
+name: ⭐ Update here-be-stars
 on:
   push:
   workflow_dispatch:
   schedule:
-  - cron: 0 0 * * *
+    - cron: 30 0 * * *
+
 jobs:
-  awesome-stars:
-    name: update awesome-stars
+  delete_old_runs:
+    name: 🧹 Delete old workflow runs
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v1
-    - name: Set up Python
-      uses: actions/setup-python@v1
-      with:
-        python-version: 3.7
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install starred
-    - name: update repo
-      env:
-        REPO_OWNER: ${{ github.repository_owner }}
-        REPO_NAME: ${{ github.event.repository.name }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-      run: |
-        echo Running Starred for ${REPO_OWNER} at repo ${REPO_NAME}
-        starred --username ${REPO_OWNER} --repository ${REPO_NAME} --sort --token ${ACCESS_TOKEN} --message 'stars update by github actions cron'
+      - name: 🧹 Delete old workflow runs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api repos/${{ github.repository }}/actions/runs \
+          --paginate -q '.workflow_runs[] | select(.status != "in_progress" and .status != "queued") | "\(.id)"' | \
+          xargs -n1 -I % gh api repos/${{ github.repository }}/actions/runs/% -X DELETE
+  awesome-stars:
+    name: ⭐ Update awesome-stars
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.7']
+        
+    steps:
+      - name: ⬇ Checkout
+        uses: actions/checkout@v3
+
+      - name: 🔧 Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v3
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: 🔧 Install dependencies
+        run: |
+          python -m pip install --upgrade pip wheel
+          python -m pip install setuptools
+          pip install -e git+https://github.com/arbal/starred@master#egg=starred
+
+      - name: 🔧 Checks
+        run: |
+          pip -V
+          pip show starred
+
+      - name: ⭐ Update awesome-stars README
+        env:
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+          GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
+        
+      - name: Push changes
+        uses: actions-go/push@v1
+        with:
+          commit-message: "⭐ Github Stars update [Github Actions Cron]"
