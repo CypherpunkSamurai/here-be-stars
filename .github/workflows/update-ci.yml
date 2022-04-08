@@ -3,7 +3,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-  - cron: 30 0 * * *
+  - cron: 0 0 * * *
 jobs:
   awesome-stars:
     name: update awesome-stars
@@ -23,4 +23,4 @@ jobs:
         REPO_OWNER: ${{ github.repository_owner }}
         REPO_NAME: ${{ github.event.repository.name }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username ${REPO_OWNER} --repository ${REPO_NAME} -stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+      run: starred --username ${REPO_OWNER} --repository ${REPO_NAME} --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
