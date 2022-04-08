@@ -38,7 +38,7 @@ jobs:
       - name: 🔧 Install dependencies
         run: |
           pip3 install --upgrade pip wheel setuptools
-          pip3 install git+https://github.com/arbal/starred@master
+          pip3 install starred
 
       - name: 🔧 Checks
         run: |
