@@ -51,17 +51,32 @@ jobs:
           GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_ACTIONS_BOT_NAME: 'github-actions[bot]'
-          GITHUB_ACTIONS_BOT_EMAIL: 'github-actions[bot]@users.noreply.github.com'
-          COMMIT_MSG: "⭐ Github Stars update [Github Actions Cron]"
-          
         run: |
           starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
-          git add .
-          git config user.name ${GITHUB_ACTIONS_BOT_NAME}
-          git config user.email ${GITHUB_ACTIONS_BOT_EMAIL}
-          git commit -am "⭐ Github Stars update [Github Actions Cron]"
-          git push origin
+          
+      - name: Commit and Push
+        env:
+          TARGET_BRANCH: "origin"
+          GITHUB_ACTIONS_BOT_NAME: "github-actions[bot]"
+          GITHUB_ACTIONS_BOT_EMAIL: "github-actions[bot]@users.noreply.github.com"
+          COMMIT_MSG: "⭐ Github Stars update [Github Actions Cron]"
+        run: |
+          if [[ `git status --porcelain` ]]; then
+            # New Changes
+            echo ✅ Commiting changes...
+            git add .
+            git config user.name ${GITHUB_ACTIONS_BOT_NAME}
+            git config user.email ${GITHUB_ACTIONS_BOT_EMAIL}
+            git commit -am "⭐ Github Stars update [Github Actions Cron]"
+            echo ⬆ Pushing to ${TARGET_BRANCH}
+            git push ${TARGET_BRANCH}
+          else
+            # No changes
+            echo No New Changes...
+            exit 0
+          fi
+          
+        
         
 #       - name: Push changes
 #         uses: actions-go/push@master
