@@ -52,7 +52,7 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          starred --username ${GITHUB_REPOSITORY_OWNER} --repository ${REPO_NAME} --sort
+          starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
           git add .
           git config user.name "Github Actions"
           git config user.email "actions@github.com"
