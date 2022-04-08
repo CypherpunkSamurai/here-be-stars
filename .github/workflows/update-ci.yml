@@ -23,4 +23,7 @@ jobs:
         REPO_OWNER: ${{ github.repository_owner }}
         REPO_NAME: ${{ github.event.repository.name }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username ${REPO_OWNER} --repository ${REPO_NAME} --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      run: |
+        echo Running Starred for ${REPO_OWNER} at repo ${REPO_NAME}
+        starred --username ${REPO_OWNER} --repository ${REPO_NAME} --sort --token ${ACCESS_TOKEN} --message 'stars update by github actions cron'
