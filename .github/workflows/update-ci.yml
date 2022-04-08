@@ -1,5 +1,6 @@
 name: update awesome-stars
 on:
+  push:
   workflow_dispatch:
   schedule:
   - cron: 30 0 * * *
@@ -19,5 +20,7 @@ jobs:
         pip install starred
     - name: update repo
       env:
+        REPO_OWNER: ${{ github.repository_owner }}
+        REPO_NAME: ${{ github.event.repository.name }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username maguowei --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+      run: starred --username ${REPO_OWNER} --repository ${REPO_NAME} -stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
