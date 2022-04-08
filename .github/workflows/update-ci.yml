@@ -67,9 +67,9 @@ jobs:
             git add .
             git config user.name ${GITHUB_ACTIONS_BOT_NAME}
             git config user.email ${GITHUB_ACTIONS_BOT_EMAIL}
-            git commit -am ${COMMIT_MSG}
+            git commit -am "${COMMIT_MSG}"
             echo ⬆ Pushing to ${TARGET_BRANCH}
-            git push ${TARGET_BRANCH}
+            git push "${TARGET_BRANCH}"
           else
             # No changes
             echo No New Changes...
