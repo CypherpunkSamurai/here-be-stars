@@ -53,8 +53,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           starred --username ${GITHUB_REPOSITORY_OWNER} --sort > README.md
+          git add .
         
       - name: Push changes
-        uses: actions-go/push@v1
+        uses: actions-go/push@master
         with:
+          remote: origin
           commit-message: "⭐ Github Stars update [Github Actions Cron]"
