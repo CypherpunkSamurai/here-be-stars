@@ -72,6 +72,7 @@
 
 ## C++ 
 
+- [apkunpacker/XDEX](https://github.com/apkunpacker/XDEX) - 
 - [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor) - The IDE for competitive programming :tada: | Fetch, Code, Compile, Run, Check, Submit :rocket:
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
 - [tranleduy2000/c_cpp_compiler](https://github.com/tranleduy2000/c_cpp_compiler) - GNU C/C++ compiler on Android, full offline compiler, Learn to code on the go.
@@ -248,6 +249,8 @@
 
 ## Java 
 
+- [apkunpacker/Smali2Frida](https://github.com/apkunpacker/Smali2Frida) - 
+- [apkunpacker/Native2Frida](https://github.com/apkunpacker/Native2Frida) - 
 - [FoelliX/AMT](https://github.com/FoelliX/AMT) - Android Merge Tool
 - [ybdesire/app_java_compiler](https://github.com/ybdesire/app_java_compiler) - Android APP for editing and running Java code.
 - [bytedance/AabResGuard](https://github.com/bytedance/AabResGuard) - The tool of obfuscated aab resources.(Android app bundle资源混淆工具)
@@ -286,6 +289,9 @@
 
 ## JavaScript 
 
+- [apkunpacker/r2frida](https://github.com/apkunpacker/r2frida) - Radare2 and Frida better together.
+- [apkunpacker/DexDumper](https://github.com/apkunpacker/DexDumper) - 
+- [apkunpacker/FridaScripts](https://github.com/apkunpacker/FridaScripts) - 
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
@@ -389,6 +395,8 @@
 
 ## Others 
 
+- [apkunpacker/dumper](https://github.com/apkunpacker/dumper) - Dump L3 CDM from any Android device
+- [apkunpacker/jeb4frida](https://github.com/apkunpacker/jeb4frida) - Generate Frida hooks directly from JEB!
 - [pe3zx/my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) - My curated list of awesome links, resources and tools on infosec related topics
 - [kensh1ro/flutter-ssl-bypass](https://github.com/kensh1ro/flutter-ssl-bypass) - Flutter SSL pinning bypass using IP forwarding
 - [minhgalaxy/flutter](https://github.com/minhgalaxy/flutter) - Some helpful script to bypass SSL Pinning of Flutter
