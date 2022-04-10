@@ -369,7 +369,7 @@
 ## Kotlin 
 
 - [flyt3e/Tainer](https://github.com/flyt3e/Tainer) - Run Linux distribution on Android.
-- [saikou-app/saikou](https://github.com/saikou-app/saikou) - An anilist only client, which lets you stream & download Anime & Manga.
+- [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist only client, which lets you stream & download Anime & Manga.
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
 - [LagradOst/CloudStream-3](https://github.com/LagradOst/CloudStream-3) - Android app for streaming and downloading Movies, TV-Series and Anime.
 - [Jacekun/CloudStream-3XXX](https://github.com/Jacekun/CloudStream-3XXX) - 
