@@ -368,7 +368,7 @@
 
 ## Kotlin 
 
-- [flyt3e/Tainer](https://github.com/flyt3e/Tainer) - Run Linux distribution on Android.
+- [flyt3e/tainer_app](https://github.com/flyt3e/tainer_app) - Run Linux distribution on Android.
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist only client, which lets you stream & download Anime & Manga.
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
 - [LagradOst/CloudStream-3](https://github.com/LagradOst/CloudStream-3) - Android app for streaming and downloading Movies, TV-Series and Anime.
@@ -542,6 +542,7 @@
 
 ## SCSS 
 
+- [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 - [katydecorah/theme](https://github.com/katydecorah/theme) - 💅 Jekyll theme for katydecorah.com
 - [ELIXIR-Belgium/elixir-toolkit-theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) - Flexible Jekyll theme using bootstrap 5 as CSS framework.
 - [bitbrain/jekyll-dash](https://github.com/bitbrain/jekyll-dash) - 🌒 Light and dark blog theme for Jekyll, inspired by Dash UI for Atom.
