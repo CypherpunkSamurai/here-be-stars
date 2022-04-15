@@ -551,6 +551,8 @@
 
 ## Shell 
 
+- [beerpiss/sh0wer](https://github.com/beerpiss/sh0wer) - yet another distribution for jailbreaking A7-A11 iOS devices with checkra1n
+- [puppylinux-woof-CE/woof-CE](https://github.com/puppylinux-woof-CE/woof-CE) - woof - the Puppy builder
 - [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
 - [green-green-avk/build-proot-android](https://github.com/green-green-avk/build-proot-android) - PRoot build scripts (and prebuilt binaries) for Android.
 - [CypherpunkArmory/UserLAnd-Assets-Support](https://github.com/CypherpunkArmory/UserLAnd-Assets-Support) - Repository for building and holding the core assets of UserLAnd
