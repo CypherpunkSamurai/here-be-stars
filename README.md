@@ -445,6 +445,7 @@
 
 ## Python 
 
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [LaRevoltage/SMSPhisher](https://github.com/LaRevoltage/SMSPhisher) - This tool can send spoofed sms from name of company
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
