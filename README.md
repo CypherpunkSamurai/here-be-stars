@@ -544,6 +544,7 @@
 
 ## SCSS 
 
+- [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Cactus theme for hugo
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 - [katydecorah/theme](https://github.com/katydecorah/theme) - 💅 Jekyll theme for katydecorah.com
 - [ELIXIR-Belgium/elixir-toolkit-theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) - Flexible Jekyll theme using bootstrap 5 as CSS framework.
