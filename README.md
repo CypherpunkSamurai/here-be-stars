@@ -515,7 +515,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [d0u9/youtube-dl-webui](https://github.com/d0u9/youtube-dl-webui) - Another webui for youtube-dl powered by Flask.
 - [IGLICT/DeepFaceDrawing-Jittor](https://github.com/IGLICT/DeepFaceDrawing-Jittor) - 
-- [hluwa/frida-dexdump](https://github.com/hluwa/frida-dexdump) - A frida tool to find and dump dex in memory to support security engineers in analyzing malware.
+- [hluwa/frida-dexdump](https://github.com/hluwa/frida-dexdump) - A frida tool to dump dex in memory to support security engineers analyzing malware.
 - [peewpw/DomainFrontDiscover](https://github.com/peewpw/DomainFrontDiscover) - Scripts and results for finding domain frontable CloudFront domains
 - [stevecoward/domain-fronting-tools](https://github.com/stevecoward/domain-fronting-tools) - A small collection of scripts that are useful for implementing Domain Fronting in an assessment.
 
