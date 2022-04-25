@@ -445,6 +445,7 @@
 
 ## Python 
 
+- [topjohnwu/ADLxMLDS2017](https://github.com/topjohnwu/ADLxMLDS2017) - 
 - [wahyu6070/Jancox-tool-android](https://github.com/wahyu6070/Jancox-tool-android) - hzhz
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [LaRevoltage/SMSPhisher](https://github.com/LaRevoltage/SMSPhisher) - This tool can send spoofed sms from name of company
@@ -555,6 +556,7 @@
 
 ## Shell 
 
+- [julianxhokaxhiu/docker-lineage-cicd](https://github.com/julianxhokaxhiu/docker-lineage-cicd) - Docker microservice for LineageOS Continuous Integration and Continous Deployment
 - [beerpiss/sh0wer](https://github.com/beerpiss/sh0wer) - yet another distribution for jailbreaking A7-A11 iOS devices with checkra1n
 - [puppylinux-woof-CE/woof-CE](https://github.com/puppylinux-woof-CE/woof-CE) - woof - the Puppy builder
 - [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
