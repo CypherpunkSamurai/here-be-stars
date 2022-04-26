@@ -51,6 +51,7 @@
 
 ## C 
 
+- [rralf/ws2801_linux_driver_tutorial](https://github.com/rralf/ws2801_linux_driver_tutorial) - 
 - [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt) - Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [hackndev/qemu](https://github.com/hackndev/qemu) - 
@@ -395,6 +396,11 @@
 
 ## Others 
 
+- [Flopster101/cirrus-ci_build](https://github.com/Flopster101/cirrus-ci_build) - 
+- [Area69Lab/Recovery-Builder-NoKernel](https://github.com/Area69Lab/Recovery-Builder-NoKernel) - For recovery trees without the need of external kernel.
+- [Aswinbuilds/Recovery-builder](https://github.com/Aswinbuilds/Recovery-builder) - 
+- [Aswinbuilds/recovery-builder-cirrus](https://github.com/Aswinbuilds/recovery-builder-cirrus) - 
+- [Aswinbuilds/Recovery-Builder-NoKernel](https://github.com/Aswinbuilds/Recovery-Builder-NoKernel) - For recovery trees without the need of external kernel.
 - [apkunpacker/dumper](https://github.com/apkunpacker/dumper) - Dump L3 CDM from any Android device
 - [apkunpacker/jeb4frida](https://github.com/apkunpacker/jeb4frida) - Generate Frida hooks directly from JEB!
 - [pe3zx/my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) - My curated list of awesome links, resources and tools on infosec related topics
@@ -556,6 +562,14 @@
 
 ## Shell 
 
+- [ROM-builders/temporary](https://github.com/ROM-builders/temporary) - You can do PR with your build_rom.sh script respecting main branch and get a build, if you have a successful build, let me know to get into team. Contact me here ( https://t.me/ROM_builders ) if you need.
+- [halium-exynos/CirrusCI](https://github.com/halium-exynos/CirrusCI) - 
+- [adi153/rova_builder](https://github.com/adi153/rova_builder) - 
+- [Bauh-Yeoj/aosp-building](https://github.com/Bauh-Yeoj/aosp-building) - 
+- [KernelPanic-OpenSource/xiaomi-sweet](https://github.com/KernelPanic-OpenSource/xiaomi-sweet) - 
+- [Apon77Lab/aosp-builder](https://github.com/Apon77Lab/aosp-builder) - Build aosp project in docker with Ubuntu 20.04 via ci environments (by @Apon77)
+- [Apon77/aosp-builder](https://github.com/Apon77/aosp-builder) - Build aosp project in docker with Ubuntu 20.04 via ci environments (by @Apon77)
+- [Chatur27/aosp-builder-8_cores](https://github.com/Chatur27/aosp-builder-8_cores) - Build ROMs in docker with Ubuntu 20.04 via ci environments. This was originally written by @Apon77. I have rewritten it. I have been able to build vanilla version of Sakura arm64 !
 - [julianxhokaxhiu/docker-lineage-cicd](https://github.com/julianxhokaxhiu/docker-lineage-cicd) - Docker microservice for LineageOS Continuous Integration and Continous Deployment
 - [beerpiss/sh0wer](https://github.com/beerpiss/sh0wer) - yet another distribution for jailbreaking A7-A11 iOS devices with checkra1n
 - [puppylinux-woof-CE/woof-CE](https://github.com/puppylinux-woof-CE/woof-CE) - woof - the Puppy builder
