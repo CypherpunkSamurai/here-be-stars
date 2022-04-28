@@ -396,6 +396,7 @@
 
 ## Others 
 
+- [EngMoPro/TWRP-device-tree-generator](https://github.com/EngMoPro/TWRP-device-tree-generator) - A script to automatically generate TWRP-compatible device tree
 - [Flopster101/cirrus-ci_build](https://github.com/Flopster101/cirrus-ci_build) - 
 - [Area69Lab/Recovery-Builder-NoKernel](https://github.com/Area69Lab/Recovery-Builder-NoKernel) - For recovery trees without the need of external kernel.
 - [Aswinbuilds/Recovery-builder](https://github.com/Aswinbuilds/Recovery-builder) - 
@@ -562,6 +563,7 @@
 
 ## Shell 
 
+- [imasaru/android_device_tree_template](https://github.com/imasaru/android_device_tree_template) - LineageOS source device template. Tree away, if you will :smile:
 - [ROM-builders/temporary](https://github.com/ROM-builders/temporary) - You can do PR with your build_rom.sh script respecting main branch and get a build, if you have a successful build, let me know to get into team. Contact me here ( https://t.me/ROM_builders ) if you need.
 - [halium-exynos/CirrusCI](https://github.com/halium-exynos/CirrusCI) - 
 - [adi153/rova_builder](https://github.com/adi153/rova_builder) - 
