@@ -129,6 +129,7 @@
 
 ## Go 
 
+- [HatBoy/Awheel](https://github.com/HatBoy/Awheel) - 分布式信息收集工具（又一个轮子）
 - [diamondburned/gotk4-examples](https://github.com/diamondburned/gotk4-examples) - Examples for writing GTK4 applications in Go
 - [cretz/bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers
 - [Baozisoftware/qrcode-terminal-go](https://github.com/Baozisoftware/qrcode-terminal-go) - QRCode terminal for golang.
