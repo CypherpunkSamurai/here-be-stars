@@ -453,6 +453,7 @@
 
 ## Python 
 
+- [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
 - [topjohnwu/ADLxMLDS2017](https://github.com/topjohnwu/ADLxMLDS2017) - 
 - [wahyu6070/Jancox-tool-android](https://github.com/wahyu6070/Jancox-tool-android) - hzhz
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
