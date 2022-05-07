@@ -45,7 +45,7 @@
 - [vip123456789/Docs](https://github.com/vip123456789/Docs) - 一些文本
 - [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
 - [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Kills Adobe's pesky background apps, and more!
-- [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent by a keyword
+- [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent
 - [Elenedeath/AIK-Windows-mirror](https://github.com/Elenedeath/AIK-Windows-mirror) - 
 - [BlueMagicalWolf/NoxPlayerPortable-Curl](https://github.com/BlueMagicalWolf/NoxPlayerPortable-Curl) - The Curl version
 
@@ -68,7 +68,7 @@
 - [dan0v/xdelta3-cross-gui](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating xDelta3 patches, available for Windows, Linux, and Mac
 - [colin-chang/ArcFace.Net](https://github.com/colin-chang/ArcFace.Net) - A face recognition utility based on ArcSoft SDK 3.x for Linux/Windows platform.It can support multiple faces comparison.
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
-- [Terminals-Origin/Terminals](https://github.com/Terminals-Origin/Terminals) - Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections simultaneously. It is a complete replacement for the mstsc.exe (Terminal Services) client. This is official source moved from Codeplex.
+- [Terminals-Origin/Terminals](https://github.com/Terminals-Origin/Terminals) - Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections
 - [migueldeicaza/gui.cs](https://github.com/migueldeicaza/gui.cs) - Console-based user interface toolkit for .NET applications.
 
 ## C++ 
@@ -78,7 +78,7 @@
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
 - [tranleduy2000/c_cpp_compiler](https://github.com/tranleduy2000/c_cpp_compiler) - GNU C/C++ compiler on Android, full offline compiler, Learn to code on the go.
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
-- [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
+- [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from
 - [iwxyi/EasyMeeting_Desktop](https://github.com/iwxyi/EasyMeeting_Desktop) - [Qt] 智能会议室 桌面端，人脸识别签到
 - [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus) - 课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB
 - [royqh1979/RedPanda-CPP](https://github.com/royqh1979/RedPanda-CPP) - A light-weight C/C++ IDE based on Qt
@@ -105,7 +105,7 @@
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [12bitvn/news.12bit.vn](https://github.com/12bitvn/news.12bit.vn) - Browse multiple web development sites at the same time.
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
-- [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
+- [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [kaeyleo/jekyll-theme-H2O](https://github.com/kaeyleo/jekyll-theme-H2O) - 🎉 A clean and delicate Jekyll theme. Jekyll博客主题
 - [Isaac-Newt/userChrome-styles](https://github.com/Isaac-Newt/userChrome-styles) - A collection of userChrome.css styles for Firefox
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
@@ -145,7 +145,7 @@
 - [u3mur4/megadl](https://github.com/u3mur4/megadl) - Golang library to download public files from mega.
 - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-- [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
+- [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [koding/websocketproxy](https://github.com/koding/websocketproxy) - WebSocket reverse proxy handler for Go
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
@@ -206,7 +206,7 @@
 - [TruthHun/BookStack](https://github.com/TruthHun/BookStack) - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [wafer-bw/whatsmyip](https://github.com/wafer-bw/whatsmyip) - Golang API deployed as a Vercel Serverless Function that returns your public IP address
-- [forrestjgq/gmeter](https://github.com/forrestjgq/gmeter) - gmeter customizes HTTP RESTful clients and HTTP RESTful servers and runs them by configuration. With variable and command system supports, json acts as a script language to process HTTP request and response.
+- [forrestjgq/gmeter](https://github.com/forrestjgq/gmeter) - gmeter customizes HTTP RESTful clients and HTTP RESTful servers and runs them by configuration. With variable and command system supports, json acts as a script language to process HTTP request and re
 - [drachenfels-de/http-static](https://github.com/drachenfels-de/http-static) - Simple HTTP static files server.
 - [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. zoro 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. 内网穿透.
 - [bitcav/nitr](https://github.com/bitcav/nitr) - :computer: Nitr is a System and Hardware Inspection and Monitoring Web API.
@@ -230,7 +230,6 @@
 - [vszhub/not-pure-poole](https://github.com/vszhub/not-pure-poole) - A simple, beautiful, and powerful Jekyll theme for blogs.
 - [jitinnair1/gradfolio](https://github.com/jitinnair1/gradfolio) - responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio
 - [P0WEX/Gesko](https://github.com/P0WEX/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
-- [unblocked-pw/unblocked-pw.github.io](https://github.com/unblocked-pw/unblocked-pw.github.io) - Github mirror for Unblocked
 - [circa10a/web-link-tester](https://github.com/circa10a/web-link-tester) - Flask App to scrape hrefs from websites and validate links
 - [MadhubanKhatri/Weather-App-using-Flask-and-BeautifulSoup](https://github.com/MadhubanKhatri/Weather-App-using-Flask-and-BeautifulSoup) - In this video, I am creating a Weather App using Flask and BeautifulSoup for Web Scraping. You can get city's temprature, pressure and humidity.
 - [ritijjain/pudhina-fresh](https://github.com/ritijjain/pudhina-fresh) - A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
@@ -251,6 +250,8 @@
 
 ## Java 
 
+- [google/bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
+- [moneytoo/Player](https://github.com/moneytoo/Player) - ▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer
 - [apkunpacker/Smali2Frida](https://github.com/apkunpacker/Smali2Frida) - 
 - [apkunpacker/Native2Frida](https://github.com/apkunpacker/Native2Frida) - 
 - [FoelliX/AMT](https://github.com/FoelliX/AMT) - Android Merge Tool
@@ -259,6 +260,7 @@
 - [xiaoyvyv/JavaCompileEngine](https://github.com/xiaoyvyv/JavaCompileEngine) - 在Android上面编译和运行Java代码的引擎
 - [xiaoyvyv/JavaCompile](https://github.com/xiaoyvyv/JavaCompile) - Android平台的Java IDE
 - [ahmadaghazadeh/CodeEditor](https://github.com/ahmadaghazadeh/CodeEditor) - Code Editor Native Way
+- [MrIkso/CodeEditor-1](https://github.com/MrIkso/CodeEditor-1) - A wonderful code editor library on Android with syntax-highlighting and auto-completion.
 - [CloudburstMC/Protocol](https://github.com/CloudburstMC/Protocol) - A protocol library for Minecraft Bedrock Edition
 - [HemanthJabalpuri/AndroidExplorer](https://github.com/HemanthJabalpuri/AndroidExplorer) - Build android app from command line without Gradle/Ant.
 - [flyt3e/tainer_app](https://github.com/flyt3e/tainer_app) - Run Linux distribution on Android.
@@ -273,7 +275,7 @@
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 - [pkilller/super-jadx](https://github.com/pkilller/super-jadx) - Add new features for reverse engineering, such as: renaming of classes, fields, methods, variables, reference graphs and more.
-- [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - GDA is a new fast and powerful decompiler in C++(working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&java scripts, device memory extraction, data decryption, and encryption, etc.
+- [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - GDA is a new fast and powerful decompiler in C++(working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection,
 - [Maximoff/ApkEditor-Patches](https://github.com/Maximoff/ApkEditor-Patches) - Патчи для ApkEditor
 - [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
@@ -293,9 +295,10 @@
 ## JavaScript 
 
 - [apkunpacker/r2frida](https://github.com/apkunpacker/r2frida) - Radare2 and Frida better together.
+- [apkunpacker/dumper](https://github.com/apkunpacker/dumper) - Dump L3 CDM from any Android device
 - [apkunpacker/DexDumper](https://github.com/apkunpacker/DexDumper) - 
 - [apkunpacker/FridaScripts](https://github.com/apkunpacker/FridaScripts) - 
-- [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
+- [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - [bajins/notes-vuepress](https://github.com/bajins/notes-vuepress) - 使用VuePress构建静态网站 https://github.com/bajins/bajins.github.io ，动态构建 https://github.com/bajins/notes-docsify
 - [paytonjewell/ReactPortfolioTemplate](https://github.com/paytonjewell/ReactPortfolioTemplate) - Portfolio template for developers, build in React.
@@ -324,9 +327,9 @@
 - [new-789/GoWholeStack](https://github.com/new-789/GoWholeStack) - Go 语言全栈学习代码
 - [botsocket/quartz](https://github.com/botsocket/quartz) - Discord gateway client
 - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
-- [xtlsoft/cloudflare-workers-comment-server](https://github.com/xtlsoft/cloudflare-workers-comment-server) - Use Cloudflare Workers as a comment service. (datastore using GitHub Gists.)
 - [EstebanBorai/gist-updater-worker](https://github.com/EstebanBorai/gist-updater-worker) - 👷🏻‍♂️ Cloudflare Worker to update GitHub Gists with ease
-- [Mindgamesnl/GoogleDriveResource](https://github.com/Mindgamesnl/GoogleDriveResource) - A simple HTTP proxy that fetches raw google drive resources (images, video, audio, and whatever) and bypasses the virus warning if the file size is over 200MB to still deliver the content. Intended to be run in a CloudFlare worker.
+- [xtlsoft/cloudflare-workers-comment-server](https://github.com/xtlsoft/cloudflare-workers-comment-server) - Use Cloudflare Workers as a comment service. (datastore using GitHub Gists.)
+- [Mindgamesnl/GoogleDriveResource](https://github.com/Mindgamesnl/GoogleDriveResource) - A simple HTTP proxy that fetches raw google drive resources (images, video, audio, and whatever) and bypasses the virus warning if the file size is over 200MB to still deliver the content. Intended to
 - [cloudflare/websocket-template](https://github.com/cloudflare/websocket-template) - Example template for working with the WebSocketPair API in Cloudflare Workers.
 - [AudiusProject/web3-provider-proxy](https://github.com/AudiusProject/web3-provider-proxy) - 🌍 Proxying and caching web3 requests with Cloudflare workers
 - [suconghou/u2worker](https://github.com/suconghou/u2worker) - cloudflare youtube proxy worker
@@ -358,6 +361,7 @@
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [botgram/shell-bot](https://github.com/botgram/shell-bot) - :robot: Telegram bot that executes commands and sends the live output
 - [izumin5210/action-go-crossbuild](https://github.com/izumin5210/action-go-crossbuild) - Build Go applications for multiplatform on GitHub Actions
+- [CypherpunkSamurai/RandomPicTGBot](https://github.com/CypherpunkSamurai/RandomPicTGBot) - 
 - [BolverBlitz/RandomPicTGBot](https://github.com/BolverBlitz/RandomPicTGBot) - 
 - [ajaxorg/ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
 - [svr8/Desk](https://github.com/svr8/Desk) - Light-weight ide for competitive programming.
@@ -397,18 +401,13 @@
 
 ## Others 
 
-- [EngMoPro/TWRP-device-tree-generator](https://github.com/EngMoPro/TWRP-device-tree-generator) - A script to automatically generate TWRP-compatible device tree
-- [Flopster101/cirrus-ci_build](https://github.com/Flopster101/cirrus-ci_build) - 
 - [Area69Lab/Recovery-Builder-NoKernel](https://github.com/Area69Lab/Recovery-Builder-NoKernel) - For recovery trees without the need of external kernel.
 - [Aswinbuilds/Recovery-builder](https://github.com/Aswinbuilds/Recovery-builder) - 
 - [Aswinbuilds/recovery-builder-cirrus](https://github.com/Aswinbuilds/recovery-builder-cirrus) - 
 - [Aswinbuilds/Recovery-Builder-NoKernel](https://github.com/Aswinbuilds/Recovery-Builder-NoKernel) - For recovery trees without the need of external kernel.
-- [apkunpacker/dumper](https://github.com/apkunpacker/dumper) - Dump L3 CDM from any Android device
-- [apkunpacker/jeb4frida](https://github.com/apkunpacker/jeb4frida) - Generate Frida hooks directly from JEB!
 - [pe3zx/my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) - My curated list of awesome links, resources and tools on infosec related topics
 - [kensh1ro/flutter-ssl-bypass](https://github.com/kensh1ro/flutter-ssl-bypass) - Flutter SSL pinning bypass using IP forwarding
 - [minhgalaxy/flutter](https://github.com/minhgalaxy/flutter) - Some helpful script to bypass SSL Pinning of Flutter
-- [MrIkso/CodeEditor-1](https://github.com/MrIkso/CodeEditor-1) - A wonderful code editor library on Android with syntax-highlighting and auto-completion.
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [jiotv/jiotvtoken](https://github.com/jiotv/jiotvtoken) - jiotv token for IPTV
 - [Shigetorum635/Watson](https://github.com/Shigetorum635/Watson) - Gitpod Firefox VNC Workspace
@@ -428,18 +427,15 @@
 - [alilleybrinker/langs-in-rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration.
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [W00t3k/Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Awesome-Cellular-Hacking
-- [sizzlingkenny/gogoanime](https://github.com/sizzlingkenny/gogoanime) - GogoAnime Proxy List - GogoAnime 100% Working Mirrors - Unblocked GogoAnime
 - [jmir1/aniyomi-preview](https://github.com/jmir1/aniyomi-preview) - 
-- [ZFX07/reverse-rdp-windows](https://github.com/ZFX07/reverse-rdp-windows) - Forked from: https://github.com/nelsonjchen/reverse-rdp-windows-github-actions
 - [R0-Crew/CipherHater-Club](https://github.com/R0-Crew/CipherHater-Club) - "We always hack programs which you cannot competently protect..." © CipherHater
 - [llacb47/miscfilters](https://github.com/llacb47/miscfilters) - 
 - [acnapyx/paywall-remover](https://github.com/acnapyx/paywall-remover) - Block insecure paywalls using AdBlock.
 - [sweat89/wide](https://github.com/sweat89/wide) - A simple Web IDE for golang
 - [ArchiveBox/good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - 😇  A Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more...
-- [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges.  With the rollout of vaccines for COVID-19, these synthetic mRNAs have become broadly distributed RNA species in numerous human populations.  Despite their ubiquity, sequences are not always available for such RNAs.  Standard methods facilitate such sequencing.  In this note, we provide experimental sequence information for the RNA components of the initial Moderna (https://pubmed.ncbi.nlm.nih.gov/32756549/) and Pfizer/BioNTech (https://pubmed.ncbi.nlm.nih.gov/33301246/) COVID-19 vaccines, allowing a working assembly of the former and a confirmation of previously reported sequence information for the latter RNA.  Sharing of sequence information for broadly used therapeutics has the benefit of allowing any researchers or clinicians using sequencing approaches to rapidly identify such sequences as therapeutic-derived rather than host or infectious in origin.   For this work, RNAs were obtained as discards from the small portions of vaccine doses that remained in vials after immunization; such portions would have been required to be otherwise discarded and were analyzed under FDA authorization for research use.  To obtain the small amounts of RNA needed for characterization, vaccine remnants were phenol-chloroform extracted using TRIzol Reagent (Invitrogen), with intactness assessed by Agilent 2100 Bioanalyzer before and after extraction.    Although our analysis mainly focused on RNAs obtained as soon as possible following discard, we also analyzed samples which had been refrigerated (~4 ℃) for up to 42 days with and without the addition of EDTA.  Interestingly a substantial fraction of the RNA remained intact in these preparations.  We note that the formulation of the vaccines includes numerous key chemical components which are quite possibly unstable under these conditions-- so these data certainly do not suggest that the vaccine as a biological agent is stable.  But it is of interest that chemical stability of RNA itself is not sufficient to preclude eventual development of vaccines with a much less involved cold-chain storage and transportation.   For further analysis, the initial RNAs were fragmented by heating to 94℃, primed with a random hexamer-tailed adaptor, amplified through a template-switch protocol (Takara SMARTerer Stranded RNA-seq kit), and sequenced using a MiSeq instrument (Illumina) with paired end 78-per end sequencing.  As a reference material in specific assays, we included RNA of known concentration and sequence (from bacteriophage MS2).  From these data, we obtained partial information on strandedness and a set of segments that could be used for assembly.  This was particularly useful for the Moderna vaccine, for which the original vaccine RNA sequence was not available at the time our study was carried out.  Contigs encoding full-length spikes were assembled from the Moderna and Pfizer datasets.  The Pfizer/BioNTech data [Figure 1] verified the reported sequence for that vaccine (https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/), while the Moderna sequence [Figure 2] could not be checked against a published reference.   RNA preparations lacking dsRNA are desirable in generating vaccine formulations as these will minimize an otherwise dramatic biological (and nonspecific) response that vertebrates have to double stranded character in RNA (https://www.nature.com/articles/nrd.2017.243).  In the sequence data that we analyzed, we found that the vast majority of reads were from the expected sense strand.  In addition, the minority of antisense reads appeared different from sense reads in lacking the characteristic extensions expected from the template switching protocol.  Examining only the reads with an evident template switch (as an indicator for strand-of-origin), we observed that both vaccines overwhelmingly yielded sense reads (&gt;99.99%).  Independent sequencing assays and other experimental measurements are ongoing and will be needed to determine whether this template-switched sense read fraction in the SmarterSeq protocol indeed represents the actual dsRNA content in the original material.  This work provides an initial assessment of two RNAs that are now a part of the human ecosystem and that are likely to appear in numerous other high throughput RNA-seq studies in which a fraction of the individuals may have previously been vaccinated.  ProtoAcknowledgements: Thanks to our colleagues for help and suggestions (Nimit Jain, Emily Greenwald, Lamia Wahba, William Wang, Amisha Kumar, Sameer Sundrani, David Lipman, Bijoyita Roy).  Figure 1: Spike-encoding contig assembled from BioNTech/Pfizer BNT-162b2 vaccine.  Although the full coding region is included, the nature of the methodology used for sequencing and assembly is such that the assembled contig could lack some sequence from the ends of the RNA.  Within the assembled sequence, this hypothetical sequence shows a perfect match to the corresponding sequence from documents available online derived from manufacturer communications with the World Health Organization [as reported by https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/].  The 5’ end for the assembly matches the start site noted in these documents, while the read-based assembly lacks an interrupted polyA tail (A30(GCATATGACT)A70) that is expected to be present in the mRNA.
+- [NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges.  With the rollout of vaccin
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [internetwache/CT_subdomains](https://github.com/internetwache/CT_subdomains) - An hourly updated list of subdomains gathered from certificate transparency logs
-- [CypherpunkSamurai/RandomPicTGBot](https://github.com/CypherpunkSamurai/RandomPicTGBot) - 
 - [ignis-sec/Pwdb-Public](https://github.com/ignis-sec/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
 
 ## PHP 
@@ -453,17 +449,19 @@
 
 ## Python 
 
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
 - [topjohnwu/ADLxMLDS2017](https://github.com/topjohnwu/ADLxMLDS2017) - 
 - [wahyu6070/Jancox-tool-android](https://github.com/wahyu6070/Jancox-tool-android) - hzhz
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [LaRevoltage/SMSPhisher](https://github.com/LaRevoltage/SMSPhisher) - This tool can send spoofed sms from name of company
+- [apkunpacker/jeb4frida](https://github.com/apkunpacker/jeb4frida) - Generate Frida hooks directly from JEB!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [ymoslem/DesktopTranslator](https://github.com/ymoslem/DesktopTranslator) - Local cross-platform machine translation GUI, based on CTranslate2
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [sbaack/archive-md-urls](https://github.com/sbaack/archive-md-urls) - Turn URLs in Markdown files into archive.org snapshots
-- [ptswarm/reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 - [honeynet/GreedyBear](https://github.com/honeynet/GreedyBear) - Threat Intel Platform for T-POTs
 - [alechilczenko/pwndora](https://github.com/alechilczenko/pwndora) - Massive IPv4 scanner, find and analyze internet-connected devices in minutes, create your own IoT search engine at home.
 - [TuYuxiao/face_recognize](https://github.com/TuYuxiao/face_recognize) - 
@@ -518,7 +516,7 @@
 - [Quansight/.github](https://github.com/Quansight/.github) - Common GitHub community health files for Quansight
 - [AlfredoSequeida/fvid](https://github.com/AlfredoSequeida/fvid) - fvid is a project that aims to encode any file as a video using 1-bit color images to survive compression algorithms for data retrieval.
 - [TheApeMachine/cloudtube](https://github.com/TheApeMachine/cloudtube) - Using YouTube as an arbitrary Cloud storage for files.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and su
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
@@ -565,8 +563,9 @@
 
 ## Shell 
 
+- [EngMoPro/TWRP-device-tree-generator](https://github.com/EngMoPro/TWRP-device-tree-generator) - A script to automatically generate TWRP-compatible device tree
 - [imasaru/android_device_tree_template](https://github.com/imasaru/android_device_tree_template) - LineageOS source device template. Tree away, if you will :smile:
-- [ROM-builders/temporary](https://github.com/ROM-builders/temporary) - You can do PR with your build_rom.sh script respecting main branch and get a build, if you have a successful build, let me know to get into team. Contact me here ( https://t.me/ROM_builders ) if you need.
+- [ROM-builders/temporary](https://github.com/ROM-builders/temporary) - You can do PR with your build_rom.sh script respecting main branch and get a build, if you have a successful build, let me know to get into team. Contact me here ( https://t.me/ROM_builders ) if you n
 - [halium-exynos/CirrusCI](https://github.com/halium-exynos/CirrusCI) - 
 - [adi153/rova_builder](https://github.com/adi153/rova_builder) - 
 - [Bauh-Yeoj/aosp-building](https://github.com/Bauh-Yeoj/aosp-building) - 
@@ -593,12 +592,11 @@
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [0xnu/go-deploy-action](https://github.com/0xnu/go-deploy-action) - Go project binaries for multiple platforms with GitHub Action.
 - [cytopia/pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
-- [jpruden92/n8n-chatbots-heroku-deploy](https://github.com/jpruden92/n8n-chatbots-heroku-deploy) - This repository contains a customized version of N8N, an extendable tool for workflow automation. This customized version is focused on chatbots development, integrating nodes that allow to connect chatbot development platforms like Dialogflow.
+- [jpruden92/n8n-chatbots-heroku-deploy](https://github.com/jpruden92/n8n-chatbots-heroku-deploy) - This repository contains a customized version of N8N, an extendable tool for workflow automation. This customized version is focused on chatbots development, integrating nodes that allow to connect ch
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [fastai/fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 - [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action.
 
@@ -608,6 +606,7 @@
 
 ## TypeScript 
 
+- [SeeFlowerX/frida-protobuf](https://github.com/SeeFlowerX/frida-protobuf) - 
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [intelowlproject/IntelOwl-ng](https://github.com/intelowlproject/IntelOwl-ng) - IntelOwl's Web Interface. Built with Angular 10.
 - [shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
