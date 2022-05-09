@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -40,6 +41,10 @@
 - [Vim script](#vim-script)
 - [Vue](#vue)
 
+## Assembly 
+
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+
 ## Batchfile 
 
 - [vip123456789/Docs](https://github.com/vip123456789/Docs) - 一些文本
@@ -53,7 +58,6 @@
 
 - [rralf/ws2801_linux_driver_tutorial](https://github.com/rralf/ws2801_linux_driver_tutorial) - 
 - [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt) - Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [hackndev/qemu](https://github.com/hackndev/qemu) - 
 - [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor and traffic dump tool for Android devices
 - [green-green-avk/proot](https://github.com/green-green-avk/proot) - Original PRoot clone extended for better compatibility with Android versions 4.0 - 10.
@@ -372,6 +376,8 @@
 
 ## Jupyter Notebook 
 
+- [tulasiram58827/TTS_TFLite](https://github.com/tulasiram58827/TTS_TFLite) - This repository is a collection of TTS Models in TFLite
+- [robmarkcole/tensorflow-lite-rest-server](https://github.com/robmarkcole/tensorflow-lite-rest-server) - Expose tensorflow-lite models via a rest API using FastAPI
 - [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - jupyter/ipython experiment containers for GPU and general RAM re-use
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 
@@ -451,6 +457,9 @@
 
 ## Python 
 
+- [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
+- [Verssae/flask-tacotron2-tts-web-app](https://github.com/Verssae/flask-tacotron2-tts-web-app) - flask+tornado based NVIDIA tacotron2+waveglow tts web app
+- [avi33/StyleMelGan-Unofficial](https://github.com/avi33/StyleMelGan-Unofficial) - 
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
