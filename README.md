@@ -255,6 +255,7 @@
 
 ## Java 
 
+- [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 - [google/bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
 - [moneytoo/Player](https://github.com/moneytoo/Player) - ▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer
 - [apkunpacker/Smali2Frida](https://github.com/apkunpacker/Smali2Frida) - 
@@ -268,7 +269,6 @@
 - [MrIkso/CodeEditor-1](https://github.com/MrIkso/CodeEditor-1) - A wonderful code editor library on Android with syntax-highlighting and auto-completion.
 - [CloudburstMC/Protocol](https://github.com/CloudburstMC/Protocol) - A protocol library for Minecraft Bedrock Edition
 - [HemanthJabalpuri/AndroidExplorer](https://github.com/HemanthJabalpuri/AndroidExplorer) - Build android app from command line without Gradle/Ant.
-- [flyt3e/tainer_app](https://github.com/flyt3e/tainer_app) - Run Linux distribution on Android.
 - [las1991/arc-face](https://github.com/las1991/arc-face) - 
 - [V-Progress/ybFace_jd](https://github.com/V-Progress/ybFace_jd) - 
 - [ihxjie/MONDAY](https://github.com/ihxjie/MONDAY) - 毕业设计课题：签到系统-学生端
@@ -286,7 +286,7 @@
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [youlookwhat/CloudReader](https://github.com/youlookwhat/CloudReader) - 🗡️  云阅：一款基于网易云音乐UI，使用玩Android Api，Retrofit2 + RxJava2 + Room + MVVM-databinding架构开发的Android客户端
 - [sinzua/baseApk](https://github.com/sinzua/baseApk) - 
-- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense game
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [sunny0day/burp-auto-drop](https://github.com/sunny0day/burp-auto-drop) - Burp extension to automatically drop requests that match a certain regex.
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 - [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) - 使用jsoup爬取樱花动漫(Yhdm)、樱花动漫(Imomoe)部分内容编写的第三方Android客户端。
@@ -383,6 +383,7 @@
 
 ## Kotlin 
 
+- [flyt3e/tainer_app](https://github.com/flyt3e/tainer_app) - Run Linux distribution on Android.
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist only client, which lets you stream & download Anime & Manga.
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
 - [LagradOst/CloudStream-3](https://github.com/LagradOst/CloudStream-3) - Android app for streaming and downloading Movies, TV-Series and Anime.
@@ -409,6 +410,7 @@
 
 ## Others 
 
+- [noicevice/awesome-voice-cloning](https://github.com/noicevice/awesome-voice-cloning) - 
 - [Area69Lab/Recovery-Builder-NoKernel](https://github.com/Area69Lab/Recovery-Builder-NoKernel) - For recovery trees without the need of external kernel.
 - [Aswinbuilds/Recovery-builder](https://github.com/Aswinbuilds/Recovery-builder) - 
 - [Aswinbuilds/recovery-builder-cirrus](https://github.com/Aswinbuilds/recovery-builder-cirrus) - 
