@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -41,10 +40,6 @@
 - [Vim script](#vim-script)
 - [Vue](#vue)
 
-## Assembly 
-
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
-
 ## Batchfile 
 
 - [vip123456789/Docs](https://github.com/vip123456789/Docs) - 一些文本
@@ -58,6 +53,7 @@
 
 - [rralf/ws2801_linux_driver_tutorial](https://github.com/rralf/ws2801_linux_driver_tutorial) - 
 - [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt) - Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [hackndev/qemu](https://github.com/hackndev/qemu) - 
 - [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor and traffic dump tool for Android devices
 - [green-green-avk/proot](https://github.com/green-green-avk/proot) - Original PRoot clone extended for better compatibility with Android versions 4.0 - 10.
@@ -77,6 +73,7 @@
 
 ## C++ 
 
+- [d4ichi/CrackMe](https://github.com/d4ichi/CrackMe) - Source codes for CrackMe with modern GUI forms written in C++
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [apkunpacker/XDEX](https://github.com/apkunpacker/XDEX) - 
 - [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor) - The IDE for competitive programming :tada: | Fetch, Code, Compile, Run, Check, Submit :rocket:
@@ -410,6 +407,7 @@
 
 ## Others 
 
+- [cspinstructor/github-crackmes](https://github.com/cspinstructor/github-crackmes) - 
 - [noicevice/awesome-voice-cloning](https://github.com/noicevice/awesome-voice-cloning) - 
 - [Area69Lab/Recovery-Builder-NoKernel](https://github.com/Area69Lab/Recovery-Builder-NoKernel) - For recovery trees without the need of external kernel.
 - [Aswinbuilds/Recovery-builder](https://github.com/Aswinbuilds/Recovery-builder) - 
