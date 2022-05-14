@@ -298,6 +298,7 @@
 
 ## JavaScript 
 
+- [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
 - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
 - [apkunpacker/r2frida](https://github.com/apkunpacker/r2frida) - Radare2 and Frida better together.
 - [apkunpacker/dumper](https://github.com/apkunpacker/dumper) - Dump L3 CDM from any Android device
