@@ -355,7 +355,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [txthinking/nami](https://github.com/txthinking/nami) - The easy way to download command from anywhere. 从任何地方下载命令
+- [txthinking/nami](https://github.com/txthinking/nami) - The easy way to download anything from anywhere. 从任何地方下载任何东西
 - [siyujie/OkHttpLogger-Frida](https://github.com/siyujie/OkHttpLogger-Frida) - Frida 实现拦截okhttp的脚本
 - [CypherpunkSamurai/node-red-heroku](https://github.com/CypherpunkSamurai/node-red-heroku) - Node-RED in Heroku. A visual tool for wiring the Internet of Things.
 - [CypherpunkSamurai/node-red-pg](https://github.com/CypherpunkSamurai/node-red-pg) - 
@@ -376,6 +376,7 @@
 
 ## Jupyter Notebook 
 
+- [tugstugi/dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks) - Try out  deep learning models online on Google Colab
 - [tulasiram58827/TTS_TFLite](https://github.com/tulasiram58827/TTS_TFLite) - This repository is a collection of TTS Models in TFLite
 - [robmarkcole/tensorflow-lite-rest-server](https://github.com/robmarkcole/tensorflow-lite-rest-server) - Expose tensorflow-lite models via a rest API using FastAPI
 - [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - jupyter/ipython experiment containers for GPU and general RAM re-use
@@ -460,6 +461,8 @@
 
 ## Python 
 
+- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other lan
+- [Rayhane-mamah/Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2) - DeepMind's Tacotron-2 Tensorflow implementation
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [Verssae/flask-tacotron2-tts-web-app](https://github.com/Verssae/flask-tacotron2-tts-web-app) - flask+tornado based NVIDIA tacotron2+waveglow tts web app
 - [avi33/StyleMelGan-Unofficial](https://github.com/avi33/StyleMelGan-Unofficial) - 
