@@ -51,6 +51,7 @@
 
 ## C 
 
+- [bi-zone/masscan-ng](https://github.com/bi-zone/masscan-ng) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [NoraCodes/crackmes](https://github.com/NoraCodes/crackmes) - Some CrackMe codes for Linux x86/x86_64
 - [rralf/ws2801_linux_driver_tutorial](https://github.com/rralf/ws2801_linux_driver_tutorial) - 
@@ -556,6 +557,7 @@
 
 ## Rust 
 
+- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [littlebenlittle/web-terminal-rs](https://github.com/littlebenlittle/web-terminal-rs) - pty over websockets
