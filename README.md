@@ -481,7 +481,7 @@
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [sbaack/archive-md-urls](https://github.com/sbaack/archive-md-urls) - Turn URLs in Markdown files into archive.org snapshots
 - [honeynet/GreedyBear](https://github.com/honeynet/GreedyBear) - Threat Intel Platform for T-POTs
-- [alechilczenko/pwndora](https://github.com/alechilczenko/pwndora) - Massive IPv4 scanner, find and analyze internet-connected devices in minutes, create your own IoT search engine at home.
+- [alechilczenko/spidex](https://github.com/alechilczenko/spidex) - Continuous reconnaissance scanner. Find and analyze internet-connected devices in minutes.
 - [TuYuxiao/face_recognize](https://github.com/TuYuxiao/face_recognize) - 
 - [rscloura/Doldrums](https://github.com/rscloura/Doldrums) - A Flutter/Dart reverse engineering tool
 - [CHEFINHOTM/userbot](https://github.com/CHEFINHOTM/userbot) - user
