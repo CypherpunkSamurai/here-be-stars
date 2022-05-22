@@ -36,6 +36,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Smali](#smali)
 - [Stylus](#stylus)
 - [TypeScript](#typescript)
 - [Vim script](#vim-script)
@@ -111,6 +112,7 @@
 
 ## CSS 
 
+- [amsitlab/amsitlab.github.io](https://github.com/amsitlab/amsitlab.github.io) - Amsitlab
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [12bitvn/news.12bit.vn](https://github.com/12bitvn/news.12bit.vn) - Browse multiple web development sites at the same time.
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
@@ -229,6 +231,7 @@
 
 ## HTML 
 
+- [JakeWharton/jakewharton.com](https://github.com/JakeWharton/jakewharton.com) - Personal website and blog.
 - [Berny23/eclipse-portable](https://github.com/Berny23/eclipse-portable) - Portable version of the multifunctional development platform Eclipse.
 - [caohanzong/FaceRecognition-system](https://github.com/caohanzong/FaceRecognition-system) - 人脸识别初体验
 - [sudoist/hugo-jcos.io](https://github.com/sudoist/hugo-jcos.io) - My personal site. Decided to drop WordPress and replace with Hugo
@@ -259,6 +262,8 @@
 
 ## Java 
 
+- [weimingtom/dalvik_cygwin_port](https://github.com/weimingtom/dalvik_cygwin_port) - Experimental project for porting dalvik to cygwin, it's a very old version of dalvik.
+- [Insight-deviler/jar2dex-and-dex-merger](https://github.com/Insight-deviler/jar2dex-and-dex-merger) - Merge dex, convert jar or classes to dex, convert folder containing jar or classes to dex in Android
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 - [google/bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
 - [moneytoo/Player](https://github.com/moneytoo/Player) - ▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer
@@ -416,6 +421,7 @@
 
 ## Others 
 
+- [connglli/blog-notes](https://github.com/connglli/blog-notes) - My personal notes ✍️
 - [cspinstructor/github-crackmes](https://github.com/cspinstructor/github-crackmes) - 
 - [noicevice/awesome-voice-cloning](https://github.com/noicevice/awesome-voice-cloning) - 
 - [Area69Lab/Recovery-Builder-NoKernel](https://github.com/Area69Lab/Recovery-Builder-NoKernel) - For recovery trees without the need of external kernel.
@@ -622,6 +628,10 @@
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 - [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action.
+
+## Smali 
+
+- [IsmaelSaid/bytecodejava](https://github.com/IsmaelSaid/bytecodejava) - 
 
 ## Stylus 
 
