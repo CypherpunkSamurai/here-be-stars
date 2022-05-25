@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [SpectralOps/netz](https://github.com/SpectralOps/netz) - Discover internet-wide misconfigurations while drinking coffee
 - [HatBoy/Awheel](https://github.com/HatBoy/Awheel) - 分布式信息收集工具（又一个轮子）
 - [diamondburned/gotk4-examples](https://github.com/diamondburned/gotk4-examples) - Examples for writing GTK4 applications in Go
 - [cretz/bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers
@@ -422,6 +423,7 @@
 
 ## Others 
 
+- [paralax/awesome-internet-scanning](https://github.com/paralax/awesome-internet-scanning) - A curated list of awesome Internet port and host scanners, plus related components and much more, with a focus on free and open source projects.
 - [connglli/blog-notes](https://github.com/connglli/blog-notes) - My personal notes ✍️
 - [cspinstructor/github-crackmes](https://github.com/cspinstructor/github-crackmes) - 
 - [noicevice/awesome-voice-cloning](https://github.com/noicevice/awesome-voice-cloning) - 
