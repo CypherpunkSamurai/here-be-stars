@@ -265,6 +265,9 @@
 
 ## Java 
 
+- [tyron12233/JavaCompletions](https://github.com/tyron12233/JavaCompletions) - Java code completion library
+- [idelvall/jack-compiler](https://github.com/idelvall/jack-compiler) - A compiler for the Jack language (http://www.nand2tetris.org)
+- [google/desugar_jdk_libs](https://github.com/google/desugar_jdk_libs) - 
 - [weimingtom/dalvik_cygwin_port](https://github.com/weimingtom/dalvik_cygwin_port) - Experimental project for porting dalvik to cygwin, it's a very old version of dalvik.
 - [Insight-deviler/jar2dex-and-dex-merger](https://github.com/Insight-deviler/jar2dex-and-dex-merger) - Merge dex, convert jar or classes to dex, convert folder containing jar or classes to dex in Android
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
@@ -278,7 +281,6 @@
 - [xiaoyvyv/JavaCompileEngine](https://github.com/xiaoyvyv/JavaCompileEngine) - 在Android上面编译和运行Java代码的引擎
 - [xiaoyvyv/JavaCompile](https://github.com/xiaoyvyv/JavaCompile) - Android平台的Java IDE
 - [ahmadaghazadeh/CodeEditor](https://github.com/ahmadaghazadeh/CodeEditor) - Code Editor Native Way
-- [MrIkso/CodeEditor-1](https://github.com/MrIkso/CodeEditor-1) - A wonderful code editor library on Android with syntax-highlighting and auto-completion.
 - [CloudburstMC/Protocol](https://github.com/CloudburstMC/Protocol) - A protocol library for Minecraft Bedrock Edition
 - [HemanthJabalpuri/AndroidExplorer](https://github.com/HemanthJabalpuri/AndroidExplorer) - Build android app from command line without Gradle/Ant.
 - [las1991/arc-face](https://github.com/las1991/arc-face) - 
@@ -492,7 +494,7 @@
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
 - [topjohnwu/ADLxMLDS2017](https://github.com/topjohnwu/ADLxMLDS2017) - 
-- [wahyu6070/Jancox-tool-android](https://github.com/wahyu6070/Jancox-tool-android) - hzhz
+- [wahyu6070/Jancox-tool-android](https://github.com/wahyu6070/Jancox-tool-android) - Jancox Tool for unpack/repack rom in android
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [LaRevoltage/SMSPhisher](https://github.com/LaRevoltage/SMSPhisher) - This tool can send spoofed sms from name of company
 - [apkunpacker/jeb4frida](https://github.com/apkunpacker/jeb4frida) - Generate Frida hooks directly from JEB!
@@ -519,7 +521,7 @@
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
 - [mzjdy/MobaXterm-Keygen](https://github.com/mzjdy/MobaXterm-Keygen) - MobaXterm Keygen Originally by DoubleLabyrinth
-- [rainbowpigeon/sublime-text-4-patcher](https://github.com/rainbowpigeon/sublime-text-4-patcher) - Python 3 patcher for Sublime Text v4107-4131 Windows x64
+- [rainbowpigeon/sublime-text-4-patcher](https://github.com/rainbowpigeon/sublime-text-4-patcher) - Python 3 patcher for Sublime Text v4107-4134 Windows x64
 - [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
 - [python-geeks/Automation-scripts](https://github.com/python-geeks/Automation-scripts) - Repo for creating awesome automation scripts to make my panda lazier
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -642,6 +644,7 @@
 
 ## Smali 
 
+- [Deskfrest/JatToSmali_D8](https://github.com/Deskfrest/JatToSmali_D8) - jar包转smali，使用d8，支持java8特性的jar包转化
 - [IsmaelSaid/bytecodejava](https://github.com/IsmaelSaid/bytecodejava) - 
 
 ## Stylus 
