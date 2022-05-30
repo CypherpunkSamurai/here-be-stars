@@ -41,6 +41,7 @@
 - [Stylus](#stylus)
 - [TypeScript](#typescript)
 - [Vim script](#vim-script)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
 ## Assembly 
@@ -265,6 +266,17 @@
 
 ## Java 
 
+- [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future.
+- [Col-E/Bytecode-Modification-Framework](https://github.com/Col-E/Bytecode-Modification-Framework) - A bytecode modification library
+- [synnkfps/JByteCustom](https://github.com/synnkfps/JByteCustom) - A Improved JByteMod Fork. Based on JByteMod-Reborn & JByteMod-Remastered. CONTAINS KOFFEE DISASSEMBLER!
+- [Col-E/JRemapper](https://github.com/Col-E/JRemapper) - Remapping tool for compiled java programs.
+- [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
+- [guxingke/mini-jvm](https://github.com/guxingke/mini-jvm) - 使用 JDK8 实现 JVM(Java Virtual Machine)
+- [GraxCode/Cafebabe](https://github.com/GraxCode/Cafebabe) - Easy-to-use java bytecode editor - successor of JByteMod!
+- [GraxCode/JByteMod-Beta](https://github.com/GraxCode/JByteMod-Beta) - Java bytecode editor
+- [Onewen/baidupan](https://github.com/Onewen/baidupan) - 百度云盘
+- [jdownloader-mirror/jdownloader](https://github.com/jdownloader-mirror/jdownloader) - Mirror of svn://svn.jdownloader.org/jdownloader
+- [wizzardo/cloud-storage-webdav](https://github.com/wizzardo/cloud-storage-webdav) - 
 - [tyron12233/JavaCompletions](https://github.com/tyron12233/JavaCompletions) - Java code completion library
 - [idelvall/jack-compiler](https://github.com/idelvall/jack-compiler) - A compiler for the Jack language (http://www.nand2tetris.org)
 - [google/desugar_jdk_libs](https://github.com/google/desugar_jdk_libs) - 
@@ -313,6 +325,7 @@
 
 ## JavaScript 
 
+- [arandintday/js_backup](https://github.com/arandintday/js_backup) - 
 - [chylex/Userscripts](https://github.com/chylex/Userscripts) - A collection of small userscripts I made because websites suck.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
 - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
@@ -484,6 +497,9 @@
 
 ## Python 
 
+- [hxz393/BaiduPanFilesTransfers](https://github.com/hxz393/BaiduPanFilesTransfers) - 百度网盘批量转存工具
+- [chihuan389/python_spider](https://github.com/chihuan389/python_spider) - 
+- [ukyohpq/PythonMLB](https://github.com/ukyohpq/PythonMLB) - Python machine Learning Basic
 - [dmknght/xvideos-downloader](https://github.com/dmknght/xvideos-downloader) - simple script to download video from xvideos
 - [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other lan
 - [Rayhane-mamah/Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2) - DeepMind's Tacotron-2 Tensorflow implementation
@@ -580,6 +596,7 @@
 
 ## Rust 
 
+- [connorskees/coffea](https://github.com/connorskees/coffea) - Java decompiler written in Rust with a focus on performance
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
@@ -605,6 +622,7 @@
 
 ## Shell 
 
+- [die-Deutsche-Orthopaedie/shitty-arse-discord-bots](https://github.com/die-Deutsche-Orthopaedie/shitty-arse-discord-bots) - Shitty Arse Discord Bots usin' bash, and yep, arsefockin' B A S H
 - [EngMoPro/TWRP-device-tree-generator](https://github.com/EngMoPro/TWRP-device-tree-generator) - A script to automatically generate TWRP-compatible device tree
 - [imasaru/android_device_tree_template](https://github.com/imasaru/android_device_tree_template) - LineageOS source device template. Tree away, if you will :smile:
 - [ROM-builders/temporary](https://github.com/ROM-builders/temporary) - You can do PR with your build_rom.sh script respecting main branch and get a build, if you have a successful build, let me know to get into team. Contact me here ( https://t.me/ROM_builders ) if you n
@@ -653,6 +671,7 @@
 
 ## TypeScript 
 
+- [masx200/fetch-baidu-pan-files-api](https://github.com/masx200/fetch-baidu-pan-files-api) - 模拟浏览器脚本操作,使用nodejs来批量读取和操作网盘文件信息。 这个代码库是`百度网盘批量清理重复文件计划`的一部分。
 - [SeeFlowerX/frida-protobuf](https://github.com/SeeFlowerX/frida-protobuf) - 
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [intelowlproject/IntelOwl-ng](https://github.com/intelowlproject/IntelOwl-ng) - IntelOwl's Web Interface. Built with Angular 10.
@@ -675,6 +694,10 @@
 - [rstacruz/vim-closer](https://github.com/rstacruz/vim-closer) - Closes brackets
 - [justinmk/vim-gtfo](https://github.com/justinmk/vim-gtfo) - Go to Terminal or File manager :point_right:
 - [prabirshrestha/asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) - async completion in pure vim script for vim8 and neovim
+
+## Visual Basic .NET 
+
+- [shanxing2/ShanXingTech.Net2.BaiduNetdisk](https://github.com/shanxing2/ShanXingTech.Net2.BaiduNetdisk) - 百度网盘相关
 
 ## Vue 
 
