@@ -497,6 +497,7 @@
 
 ## Python 
 
+- [ebadawy/voice_conversion](https://github.com/ebadawy/voice_conversion) - 
 - [hxz393/BaiduPanFilesTransfers](https://github.com/hxz393/BaiduPanFilesTransfers) - 百度网盘批量转存工具
 - [chihuan389/python_spider](https://github.com/chihuan389/python_spider) - 
 - [ukyohpq/PythonMLB](https://github.com/ukyohpq/PythonMLB) - Python machine Learning Basic
@@ -622,6 +623,8 @@
 
 ## Shell 
 
+- [Hax4us/java](https://github.com/Hax4us/java) - This package of java (openjdk) is specially for termux users (without rooted phone) But it is unstable or beta version and I will update it soon with stable one
+- [HemanthJabalpuri/run_java](https://github.com/HemanthJabalpuri/run_java) - Run java program in Android.
 - [die-Deutsche-Orthopaedie/shitty-arse-discord-bots](https://github.com/die-Deutsche-Orthopaedie/shitty-arse-discord-bots) - Shitty Arse Discord Bots usin' bash, and yep, arsefockin' B A S H
 - [EngMoPro/TWRP-device-tree-generator](https://github.com/EngMoPro/TWRP-device-tree-generator) - A script to automatically generate TWRP-compatible device tree
 - [imasaru/android_device_tree_template](https://github.com/imasaru/android_device_tree_template) - LineageOS source device template. Tree away, if you will :smile:
