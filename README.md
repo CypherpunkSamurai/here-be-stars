@@ -266,6 +266,14 @@
 
 ## Java 
 
+- [tcurdt/jdependency](https://github.com/tcurdt/jdependency) - Provides an API to analyse and modify class dependencies. It provides the core to the maven shade plugin for removing unused classes.
+- [sudo-x86x64/Java-Class-DependencyFinder](https://github.com/sudo-x86x64/Java-Class-DependencyFinder) - DependencyFinder is application that scan dependencies of required class with other classes within a Java project.
+- [duraki/charles-keygen](https://github.com/duraki/charles-keygen) - An open-source Charles Proxy keygen via RC5 cracking
+- [ikws4/CodeEditor](https://github.com/ikws4/CodeEditor) - Code editor for android
+- [alimogh/JavaCompile](https://github.com/alimogh/JavaCompile) - Android平台的Java IDE
+- [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro's sources, in Java. Now anyone can contribute to Sketchware Pro.
+- [PranavPurwar/Java-Ide](https://github.com/PranavPurwar/Java-Ide) - Compile and run java code from your mobile phone
+- [Arashvscode/Vs-code-Mobile](https://github.com/Arashvscode/Vs-code-Mobile) - This is a public project, not all files are uploaded simply because of developer privacy
 - [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future.
 - [Col-E/Bytecode-Modification-Framework](https://github.com/Col-E/Bytecode-Modification-Framework) - A bytecode modification library
 - [synnkfps/JByteCustom](https://github.com/synnkfps/JByteCustom) - A Improved JByteMod Fork. Based on JByteMod-Reborn & JByteMod-Remastered. CONTAINS KOFFEE DISASSEMBLER!
@@ -414,6 +422,7 @@
 
 ## Kotlin 
 
+- [markusressel/KodeEditor](https://github.com/markusressel/KodeEditor) - A simple code editor with syntax highlighting and pinch to zoom
 - [flyt3e/tainer_app](https://github.com/flyt3e/tainer_app) - Run Linux distribution on Android.
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist only client, which lets you stream & download Anime & Manga.
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
@@ -445,6 +454,7 @@
 
 ## Others 
 
+- [kakathic/Tool-Shells](https://github.com/kakathic/Tool-Shells) - Application integrated editing apk
 - [paralax/awesome-internet-scanning](https://github.com/paralax/awesome-internet-scanning) - A curated list of awesome Internet port and host scanners, plus related components and much more, with a focus on free and open source projects.
 - [connglli/blog-notes](https://github.com/connglli/blog-notes) - My personal notes ✍️
 - [cspinstructor/github-crackmes](https://github.com/cspinstructor/github-crackmes) - 
