@@ -65,7 +65,7 @@
 - [rralf/ws2801_linux_driver_tutorial](https://github.com/rralf/ws2801_linux_driver_tutorial) - 
 - [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt) - Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.
 - [hackndev/qemu](https://github.com/hackndev/qemu) - 
-- [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor and traffic dump tool for Android devices
+- [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
 - [green-green-avk/proot](https://github.com/green-green-avk/proot) - Original PRoot clone extended for better compatibility with Android versions 4.0 - 10.
 - [OWASP/IoTGoat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
@@ -323,7 +323,7 @@
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [sunny0day/burp-auto-drop](https://github.com/sunny0day/burp-auto-drop) - Burp extension to automatically drop requests that match a certain regex.
 - [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
-- [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) - 使用jsoup爬取樱花动漫(Yhdm)、樱花动漫(Imomoe)部分内容编写的第三方Android客户端。
+- [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) - 使用jsoup爬取樱花动漫(Yhdm)、嘛哩嘛哩(MaliMali)部分内容编写的第三方Android客户端。
 - [iqiyi/Neptune](https://github.com/iqiyi/Neptune) - A flexible, powerful and lightweight plugin framework for Android
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [asLody/SandVXposed](https://github.com/asLody/SandVXposed) - Xposed environment without root (OS 5.0 - 10.0)
