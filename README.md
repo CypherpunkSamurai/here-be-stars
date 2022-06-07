@@ -683,6 +683,7 @@
 
 ## TypeScript 
 
+- [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [masx200/fetch-baidu-pan-files-api](https://github.com/masx200/fetch-baidu-pan-files-api) - 模拟浏览器脚本操作,使用nodejs来批量读取和操作网盘文件信息。 这个代码库是`百度网盘批量清理重复文件计划`的一部分。
 - [SeeFlowerX/frida-protobuf](https://github.com/SeeFlowerX/frida-protobuf) - 
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
