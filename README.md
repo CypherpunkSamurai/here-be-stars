@@ -354,7 +354,7 @@
 - [anio/cloudflare-worker-proxy](https://github.com/anio/cloudflare-worker-proxy) - Cloudflare worker as a web proxy
 - [Mikotwa/reverse-proxy-cf](https://github.com/Mikotwa/reverse-proxy-cf) - 将你的 Cloudflare Worker 变成一个 HTTP 在线网页代理 / 镜像。
 - [piaocf/nh](https://github.com/piaocf/nh) - Serverless proxy for nHentai.net made using Rocket Booster on Cloudflare Workers.
-- [hezhijie0327/CloudflareWorkers](https://github.com/hezhijie0327/CloudflareWorkers) - JavaScript - Cloudflare Workers - Tools
+- [hezhijie0327/CloudflareWorkers](https://github.com/hezhijie0327/CloudflareWorkers) - Toolkits build on Cloudflare Workers
 - [sleepwood/CF-Worker-Dir](https://github.com/sleepwood/CF-Worker-Dir) - A web directories base on Cloudflare worker.
 - [netnr/workers](https://github.com/netnr/workers) - Cloudflare Workers
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
