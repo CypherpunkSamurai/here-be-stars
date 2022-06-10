@@ -59,6 +59,7 @@
 
 ## C 
 
+- [SippieCup/Unknown6](https://github.com/SippieCup/Unknown6) - 
 - [bi-zone/masscan-ng](https://github.com/bi-zone/masscan-ng) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [NoraCodes/crackmes](https://github.com/NoraCodes/crackmes) - Some CrackMe codes for Linux x86/x86_64
@@ -143,6 +144,7 @@
 
 ## Go 
 
+- [89z/mech](https://github.com/89z/mech) - Download media or send API requests
 - [SpectralOps/netz](https://github.com/SpectralOps/netz) - Discover internet-wide misconfigurations while drinking coffee
 - [HatBoy/Awheel](https://github.com/HatBoy/Awheel) - 分布式信息收集工具（又一个轮子）
 - [diamondburned/gotk4-examples](https://github.com/diamondburned/gotk4-examples) - Examples for writing GTK4 applications in Go
@@ -333,6 +335,7 @@
 
 ## JavaScript 
 
+- [iGio90/GDumper](https://github.com/iGio90/GDumper) - SC packet dumper and proto parser + encryption
 - [arandintday/js_backup](https://github.com/arandintday/js_backup) - 
 - [chylex/Userscripts](https://github.com/chylex/Userscripts) - A collection of small userscripts I made because websites suck.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
@@ -506,6 +509,7 @@
 
 ## Python 
 
+- [imb4dm4n/dexStudy](https://github.com/imb4dm4n/dexStudy) - 
 - [ebadawy/voice_conversion](https://github.com/ebadawy/voice_conversion) - 
 - [hxz393/BaiduPanFilesTransfers](https://github.com/hxz393/BaiduPanFilesTransfers) - 百度网盘批量转存工具
 - [chihuan389/python_spider](https://github.com/chihuan389/python_spider) - 
