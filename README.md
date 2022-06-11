@@ -339,7 +339,6 @@
 - [arandintday/js_backup](https://github.com/arandintday/js_backup) - 
 - [chylex/Userscripts](https://github.com/chylex/Userscripts) - A collection of small userscripts I made because websites suck.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
-- [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
 - [apkunpacker/r2frida](https://github.com/apkunpacker/r2frida) - Radare2 and Frida better together.
 - [apkunpacker/dumper](https://github.com/apkunpacker/dumper) - Dump L3 CDM from any Android device
 - [apkunpacker/DexDumper](https://github.com/apkunpacker/DexDumper) - 
@@ -425,6 +424,8 @@
 
 ## Kotlin 
 
+- [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
+- [hamidrezasahraei/MusicAppComposeUI](https://github.com/hamidrezasahraei/MusicAppComposeUI) - A sample Music Player project that help you learn about Compose in Android. Note that this app only contain UI and has no logic. The design is inspired from this and this.
 - [markusressel/KodeEditor](https://github.com/markusressel/KodeEditor) - A simple code editor with syntax highlighting and pinch to zoom
 - [flyt3e/tainer_app](https://github.com/flyt3e/tainer_app) - Run Linux distribution on Android.
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist only client, which lets you stream & download Anime & Manga.
@@ -462,6 +463,7 @@
 - [connglli/blog-notes](https://github.com/connglli/blog-notes) - My personal notes ✍️
 - [cspinstructor/github-crackmes](https://github.com/cspinstructor/github-crackmes) - 
 - [noicevice/awesome-voice-cloning](https://github.com/noicevice/awesome-voice-cloning) - 
+- [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
 - [Area69Lab/Recovery-Builder-NoKernel](https://github.com/Area69Lab/Recovery-Builder-NoKernel) - For recovery trees without the need of external kernel.
 - [Aswinbuilds/Recovery-builder](https://github.com/Aswinbuilds/Recovery-builder) - 
 - [Aswinbuilds/recovery-builder-cirrus](https://github.com/Aswinbuilds/recovery-builder-cirrus) - 
@@ -509,6 +511,7 @@
 
 ## Python 
 
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [imb4dm4n/dexStudy](https://github.com/imb4dm4n/dexStudy) - 
 - [ebadawy/voice_conversion](https://github.com/ebadawy/voice_conversion) - 
 - [hxz393/BaiduPanFilesTransfers](https://github.com/hxz393/BaiduPanFilesTransfers) - 百度网盘批量转存工具
