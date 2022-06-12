@@ -268,6 +268,7 @@
 
 ## Java 
 
+- [ixuea/android-downloader](https://github.com/ixuea/android-downloader) - An powerful download library for Android.
 - [tcurdt/jdependency](https://github.com/tcurdt/jdependency) - Provides an API to analyse and modify class dependencies. It provides the core to the maven shade plugin for removing unused classes.
 - [sudo-x86x64/Java-Class-DependencyFinder](https://github.com/sudo-x86x64/Java-Class-DependencyFinder) - DependencyFinder is application that scan dependencies of required class with other classes within a Java project.
 - [duraki/charles-keygen](https://github.com/duraki/charles-keygen) - An open-source Charles Proxy keygen via RC5 cracking
@@ -590,7 +591,7 @@
 - [Quansight/.github](https://github.com/Quansight/.github) - Common GitHub community health files for Quansight
 - [AlfredoSequeida/fvid](https://github.com/AlfredoSequeida/fvid) - fvid is a project that aims to encode any file as a video using 1-bit color images to survive compression algorithms for data retrieval.
 - [TheApeMachine/cloudtube](https://github.com/TheApeMachine/cloudtube) - Using YouTube as an arbitrary Cloud storage for files.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready semantic search, question answering, summarization and document ra
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summariza
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
