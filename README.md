@@ -336,6 +336,7 @@
 
 ## JavaScript 
 
+- [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
 - [iGio90/GDumper](https://github.com/iGio90/GDumper) - SC packet dumper and proto parser + encryption
 - [arandintday/js_backup](https://github.com/arandintday/js_backup) - 
 - [chylex/Userscripts](https://github.com/chylex/Userscripts) - A collection of small userscripts I made because websites suck.
