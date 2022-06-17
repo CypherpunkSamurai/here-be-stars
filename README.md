@@ -230,7 +230,7 @@
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
-- [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
 - [magisterquis/connectproxy](https://github.com/magisterquis/connectproxy) - Package connectproxy implements a proxy.Dialer which uses HTTP(s) CONNECT requests.
@@ -513,12 +513,12 @@
 
 ## Python 
 
+- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [imb4dm4n/dexStudy](https://github.com/imb4dm4n/dexStudy) - 
 - [ebadawy/voice_conversion](https://github.com/ebadawy/voice_conversion) - 
 - [hxz393/BaiduPanFilesTransfers](https://github.com/hxz393/BaiduPanFilesTransfers) - 百度网盘批量转存工具
 - [chihuan389/python_spider](https://github.com/chihuan389/python_spider) - 
-- [ukyohpq/PythonMLB](https://github.com/ukyohpq/PythonMLB) - Python machine Learning Basic
 - [dmknght/xvideos-downloader](https://github.com/dmknght/xvideos-downloader) - simple script to download video from xvideos
 - [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other lan
 - [Rayhane-mamah/Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2) - DeepMind's Tacotron-2 Tensorflow implementation
