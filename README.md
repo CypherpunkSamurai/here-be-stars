@@ -618,6 +618,7 @@
 
 ## Rust 
 
+- [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [connorskees/coffea](https://github.com/connorskees/coffea) - Java decompiler written in Rust with a focus on performance
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
