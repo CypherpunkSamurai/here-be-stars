@@ -59,6 +59,8 @@
 
 ## C 
 
+- [fengjixuchui/Tiktok](https://github.com/fengjixuchui/Tiktok) - 抖音 as, cp, mas,xlog 压缩签名算法逆向-仅供学习使用
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [SippieCup/Unknown6](https://github.com/SippieCup/Unknown6) - 
 - [bi-zone/masscan-ng](https://github.com/bi-zone/masscan-ng) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
@@ -269,6 +271,7 @@
 
 ## Java 
 
+- [CimZzz/unidbg-android](https://github.com/CimZzz/unidbg-android) - 
 - [mstrobel/procyon](https://github.com/mstrobel/procyon) - Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.
 - [ixuea/android-downloader](https://github.com/ixuea/android-downloader) - An powerful download library for Android.
 - [tcurdt/jdependency](https://github.com/tcurdt/jdependency) - Provides an API to analyse and modify class dependencies. It provides the core to the maven shade plugin for removing unused classes.
@@ -337,6 +340,9 @@
 
 ## JavaScript 
 
+- [4ch12dy/FridaLib](https://github.com/4ch12dy/FridaLib) - iOS/android frida library for reversing
+- [SebastienWae/tiktok-gorgon-bridge](https://github.com/SebastienWae/tiktok-gorgon-bridge) - Express server with a Frida bridge to sign TikTok API requests
+- [xiaoweigege/FridaStudy](https://github.com/xiaoweigege/FridaStudy) - Frida学习
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
 - [iGio90/GDumper](https://github.com/iGio90/GDumper) - SC packet dumper and proto parser + encryption
 - [Arashvscode/Vs-code-Mobile](https://github.com/Arashvscode/Vs-code-Mobile) - This is a public project, not all files are uploaded simply because of developer privacy
@@ -462,6 +468,7 @@
 
 ## Others 
 
+- [wtdcode/DebianOnQEMU](https://github.com/wtdcode/DebianOnQEMU) - 
 - [kakathic/Tool-Shells](https://github.com/kakathic/Tool-Shells) - Application integrated editing apk
 - [paralax/awesome-internet-scanning](https://github.com/paralax/awesome-internet-scanning) - A curated list of awesome Internet port and host scanners, plus related components and much more, with a focus on free and open source projects.
 - [connglli/blog-notes](https://github.com/connglli/blog-notes) - My personal notes ✍️
@@ -515,6 +522,9 @@
 
 ## Python 
 
+- [coder-fly/douyin_device_register](https://github.com/coder-fly/douyin_device_register) - douyin device register
+- [iGio90/Dwarf](https://github.com/iGio90/Dwarf) - Full featured multi arch/os debugger built on top of PyQt5 and frida
+- [comboed/TikTok-API-Signatures](https://github.com/comboed/TikTok-API-Signatures) - 
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
@@ -645,6 +655,7 @@
 
 ## Shell 
 
+- [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [Hax4us/java](https://github.com/Hax4us/java) - This package of java (openjdk) is specially for termux users (without rooted phone) But it is unstable or beta version and I will update it soon with stable one
 - [HemanthJabalpuri/run_java](https://github.com/HemanthJabalpuri/run_java) - Run java program in Android.
 - [die-Deutsche-Orthopaedie/shitty-arse-discord-bots](https://github.com/die-Deutsche-Orthopaedie/shitty-arse-discord-bots) - Shitty Arse Discord Bots usin' bash, and yep, arsefockin' B A S H
