@@ -28,6 +28,7 @@
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Nim](#nim)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -59,6 +60,7 @@
 
 ## C 
 
+- [rednaga/native-shim](https://github.com/rednaga/native-shim) - A "shim" for loading native jni files for Android active debugging
 - [fengjixuchui/Tiktok](https://github.com/fengjixuchui/Tiktok) - 抖音 as, cp, mas,xlog 压缩签名算法逆向-仅供学习使用
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [SippieCup/Unknown6](https://github.com/SippieCup/Unknown6) - 
@@ -87,6 +89,7 @@
 
 ## C++ 
 
+- [REDasmOrg/REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
 - [d4ichi/CrackMe](https://github.com/d4ichi/CrackMe) - Source codes for CrackMe with modern GUI forms written in C++
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [apkunpacker/XDEX](https://github.com/apkunpacker/XDEX) - 
@@ -466,8 +469,13 @@
 
 - [yglukhov/nim-only-uuid](https://github.com/yglukhov/nim-only-uuid) - Nim UUID generator - Nim source only library
 
+## Objective-C 
+
+- [usualwyy/aweme-algorithm](https://github.com/usualwyy/aweme-algorithm) - 抖音协议中的加解密算法实现
+
 ## Others 
 
+- [IDALeaker/IDA-Pro-Leak](https://github.com/IDALeaker/IDA-Pro-Leak) - Since the original ida pro leak repo got deleted, i decided to upload them here! Enjoy!
 - [wtdcode/DebianOnQEMU](https://github.com/wtdcode/DebianOnQEMU) - 
 - [kakathic/Tool-Shells](https://github.com/kakathic/Tool-Shells) - Application integrated editing apk
 - [paralax/awesome-internet-scanning](https://github.com/paralax/awesome-internet-scanning) - A curated list of awesome Internet port and host scanners, plus related components and much more, with a focus on free and open source projects.
@@ -522,6 +530,16 @@
 
 ## Python 
 
+- [qilingframework/qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
+- [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma) - Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
+- [GeoSn0w/dumpAnywhere64](https://github.com/GeoSn0w/dumpAnywhere64) - An IDA (Interactive Disassembler) script that can save a chunk of binary from an address.
+- [Inndy/idapython-cheatsheet](https://github.com/Inndy/idapython-cheatsheet) - scripting IDA like a Pro
+- [patois/hexrays_scripts](https://github.com/patois/hexrays_scripts) - Various scripts for the Hexrays decompiler (kloppy, shuffle, arachno, IDA coffee, screenrecorder, ricky)
+- [NeatMonster/AMIE](https://github.com/NeatMonster/AMIE) - A Minimalist Instruction Extender for the ARM architecture and IDA Pro
+- [gaasedelen/lucid](https://github.com/gaasedelen/lucid) - An Interactive Hex-Rays Microcode Explorer
+- [SentineLabs/AlphaGolang](https://github.com/SentineLabs/AlphaGolang) - IDApython Scripts for Analyzing Golang Binaries
+- [a1ext/auto_re](https://github.com/a1ext/auto_re) - IDA PRO auto-renaming plugin with tagging support
+- [gaasedelen/patching](https://github.com/gaasedelen/patching) - An Interactive Binary Patching Plugin for IDA Pro
 - [coder-fly/douyin_device_register](https://github.com/coder-fly/douyin_device_register) - douyin device register
 - [iGio90/Dwarf](https://github.com/iGio90/Dwarf) - Full featured multi arch/os debugger built on top of PyQt5 and frida
 - [comboed/TikTok-API-Signatures](https://github.com/comboed/TikTok-API-Signatures) - 
@@ -628,6 +646,7 @@
 
 ## Rust 
 
+- [bet4it/udbserver](https://github.com/bet4it/udbserver) - Unicorn Emulator Debug Server - Written in Rust, with bindings of C, Go, Java and Python
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [connorskees/coffea](https://github.com/connorskees/coffea) - Java decompiler written in Rust with a focus on performance
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
