@@ -14,6 +14,7 @@
 - [CoffeeScript](#coffeescript)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -121,6 +122,8 @@
 
 ## CSS 
 
+- [hdxw/hexo-theme-prowiki](https://github.com/hdxw/hexo-theme-prowiki) - 自制精简hexo模板
+- [glazec/hexo-cheatsheets](https://github.com/glazec/hexo-cheatsheets) - a cheatsheets theme for hexo
 - [amsitlab/amsitlab.github.io](https://github.com/amsitlab/amsitlab.github.io) - Amsitlab
 - [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer) - A Jekyll theme for serial programmers (-.-)
 - [12bitvn/news.12bit.vn](https://github.com/12bitvn/news.12bit.vn) - Browse multiple web development sites at the same time.
@@ -142,6 +145,10 @@
 
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [onplus/v2hero](https://github.com/onplus/v2hero) - All Free . Deploy V2Ray to Heroku . v2ray学习参考
+
+## EJS 
+
+- [Ares-X/hexo-theme-freemind.bithack](https://github.com/Ares-X/hexo-theme-freemind.bithack) - Another hexo theme based on freemind.386
 
 ## Emacs Lisp 
 
@@ -343,6 +350,9 @@
 
 ## JavaScript 
 
+- [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
+- [ikeq/hexo-theme-inside](https://github.com/ikeq/hexo-theme-inside) - 🌈  SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside
+- [Yue-plus/hexo-theme-arknights](https://github.com/Yue-plus/hexo-theme-arknights) - 明日方舟罗德岛阵营的 Hexo 主题，支持数学公式、Valine&Gitalk评论系统、Mermaid图表
 - [4ch12dy/FridaLib](https://github.com/4ch12dy/FridaLib) - iOS/android frida library for reversing
 - [SebastienWae/tiktok-gorgon-bridge](https://github.com/SebastienWae/tiktok-gorgon-bridge) - Express server with a Frida bridge to sign TikTok API requests
 - [xiaoweigege/FridaStudy](https://github.com/xiaoweigege/FridaStudy) - Frida学习
@@ -722,6 +732,8 @@
 
 ## Stylus 
 
+- [fan-lv/Fan](https://github.com/fan-lv/Fan) - hexo-theme
+- [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus) - :cactus: A responsive, clean and simple theme for Hexo.
 - [Danktuary/vuepress-theme-yuu](https://github.com/Danktuary/vuepress-theme-yuu) - A VuePress 1.x theme that supports a dark theme, multiple color themes, and other useful features.
 
 ## TypeScript 
@@ -757,6 +769,7 @@
 
 ## Vue 
 
+- [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
 - [shcant/vuepress-theme-casper](https://github.com/shcant/vuepress-theme-casper) - Ghost default theme ported to vuepress
 - [ismailnguyen/vue-dark-mode-switch](https://github.com/ismailnguyen/vue-dark-mode-switch) - VueJS Dark mode switch component
 
