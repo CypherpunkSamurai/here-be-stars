@@ -52,6 +52,7 @@
 
 ## Batchfile 
 
+- [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 - [vip123456789/Docs](https://github.com/vip123456789/Docs) - 一些文本
 - [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
 - [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Kills Adobe's pesky background apps, and more!
@@ -404,7 +405,6 @@
 - [tuhinpal/amazon-scraper](https://github.com/tuhinpal/amazon-scraper) - Serverless Amazon India Scraper with search and product API, made with Cloudflare worker
 - [Wist9063/spotify-data](https://github.com/Wist9063/spotify-data) - Get your listening data directly from Spotify's API via vercel.
 - [jasonappah/google-sheet-to-json](https://github.com/jasonappah/google-sheet-to-json) - Use a Google Sheet as a read-only backend using Vercel's serverless functions.
-- [tsndr/cloudflare-worker-router](https://github.com/tsndr/cloudflare-worker-router) - A super lightweight router (3.6 kB) with middleware support and ZERO dependencies for CloudFlare Workers, inspired by the express.js syntax.
 - [trentm/json](https://github.com/trentm/json) - A "json" command for massaging JSON on your Unix command line.
 - [caiorss/caiorss.github.io](https://github.com/caiorss/caiorss.github.io) - Static Web page hosting
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
@@ -751,6 +751,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [chame1eon/jnitrace](https://github.com/chame1eon/jnitrace) - A Frida based tool that traces usage of the JNI API in Android apps.
 - [A5rocks/slash-worker](https://github.com/A5rocks/slash-worker) - A Cloudflare Workers thing for your Discord Slash Commands.
+- [tsndr/cloudflare-worker-router](https://github.com/tsndr/cloudflare-worker-router) - A super lightweight router (2.30 KiB) with middleware support and ZERO dependencies for CloudFlare Workers.
 - [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [tgcallsjs/gram-tgcalls](https://github.com/tgcallsjs/gram-tgcalls) - https://tgcallsjs.github.io/gram-tgcalls/
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
