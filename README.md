@@ -82,6 +82,7 @@
 
 ## C# # 
 
+- [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
 - [taylormcnally/YDrive](https://github.com/taylormcnally/YDrive) - Free unlimited file storage using your YouTube account
 - [dan0v/xdelta3-cross-gui](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating xDelta3 patches, available for Windows, Linux, and Mac
 - [colin-chang/ArcFace.Net](https://github.com/colin-chang/ArcFace.Net) - A face recognition utility based on ArcSoft SDK 3.x for Linux/Windows platform.It can support multiple faces comparison.
@@ -91,6 +92,7 @@
 
 ## C++ 
 
+- [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
 - [REDasmOrg/REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
 - [d4ichi/CrackMe](https://github.com/d4ichi/CrackMe) - Source codes for CrackMe with modern GUI forms written in C++
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
