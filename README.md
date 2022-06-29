@@ -62,6 +62,7 @@
 
 ## C 
 
+- [wtdcode/unicorn](https://github.com/wtdcode/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [rednaga/native-shim](https://github.com/rednaga/native-shim) - A "shim" for loading native jni files for Android active debugging
 - [fengjixuchui/Tiktok](https://github.com/fengjixuchui/Tiktok) - 抖音 as, cp, mas,xlog 压缩签名算法逆向-仅供学习使用
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
