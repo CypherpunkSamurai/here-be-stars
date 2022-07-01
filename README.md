@@ -453,7 +453,7 @@
 - [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
 - [hamidrezasahraei/MusicAppComposeUI](https://github.com/hamidrezasahraei/MusicAppComposeUI) - A sample Music Player project that help you learn about Compose in Android. Note that this app only contain UI and has no logic. The design is inspired from this and this.
 - [markusressel/KodeEditor](https://github.com/markusressel/KodeEditor) - A simple code editor with syntax highlighting and pinch to zoom
-- [flyt3e/Tainer2](https://github.com/flyt3e/Tainer2) - Run Linux distribution on Android.
+- [flyt3e/tainer](https://github.com/flyt3e/tainer) - Run Linux distribution on Android.
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist only client, which lets you stream & download Anime & Manga.
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
 - [LagradOst/CloudStream-3](https://github.com/LagradOst/CloudStream-3) - Android app for streaming and downloading Movies, TV-Series and Anime.
@@ -543,6 +543,11 @@
 
 ## Python 
 
+- [Ledger-Donjon/rainbow](https://github.com/Ledger-Donjon/rainbow) - Makes Unicorn traces. Generic Side-Channel and Fault Injection simulator
+- [Pr0214/uTrace](https://github.com/Pr0214/uTrace) - 一个简易的unicorn tracer，剪裁自项目Rainbow。
+- [acdwas/ctf](https://github.com/acdwas/ctf) - 
+- [Silentsoul04/some_paper_collect](https://github.com/Silentsoul04/some_paper_collect) - Collection of some articles
+- [qugemingzizhemefeijin/python-study](https://github.com/qugemingzizhemefeijin/python-study) - python学习案例
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
 - [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma) - Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 - [GeoSn0w/dumpAnywhere64](https://github.com/GeoSn0w/dumpAnywhere64) - An IDA (Interactive Disassembler) script that can save a chunk of binary from an address.
