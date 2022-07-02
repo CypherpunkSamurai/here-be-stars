@@ -55,7 +55,7 @@
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 - [vip123456789/Docs](https://github.com/vip123456789/Docs) - 一些文本
 - [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
-- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Kills Adobe's pesky background apps, and more!
+- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps, and more!
 - [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
 - [Elenedeath/AIK-Windows-mirror](https://github.com/Elenedeath/AIK-Windows-mirror) - 
 - [BlueMagicalWolf/NoxPlayerPortable-Curl](https://github.com/BlueMagicalWolf/NoxPlayerPortable-Curl) - The Curl version
@@ -264,7 +264,7 @@
 - [CypherpunkSamurai/Kusa-Jekyll](https://github.com/CypherpunkSamurai/Kusa-Jekyll) - Kusa-Jekyll - A Clean Simple Jekyll theme
 - [vszhub/not-pure-poole](https://github.com/vszhub/not-pure-poole) - A simple, beautiful, and powerful Jekyll theme for blogs.
 - [jitinnair1/gradfolio](https://github.com/jitinnair1/gradfolio) - responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio
-- [P0WEX/Gesko](https://github.com/P0WEX/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
+- [DavideBrie/Gesko](https://github.com/DavideBrie/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
 - [circa10a/web-link-tester](https://github.com/circa10a/web-link-tester) - Flask App to scrape hrefs from websites and validate links
 - [MadhubanKhatri/Weather-App-using-Flask-and-BeautifulSoup](https://github.com/MadhubanKhatri/Weather-App-using-Flask-and-BeautifulSoup) - In this video, I am creating a Weather App using Flask and BeautifulSoup for Web Scraping. You can get city's temprature, pressure and humidity.
 - [ritijjain/pudhina-fresh](https://github.com/ritijjain/pudhina-fresh) - A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
@@ -453,7 +453,6 @@
 - [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
 - [hamidrezasahraei/MusicAppComposeUI](https://github.com/hamidrezasahraei/MusicAppComposeUI) - A sample Music Player project that help you learn about Compose in Android. Note that this app only contain UI and has no logic. The design is inspired from this and this.
 - [markusressel/KodeEditor](https://github.com/markusressel/KodeEditor) - A simple code editor with syntax highlighting and pinch to zoom
-- [flyt3e/tainer](https://github.com/flyt3e/tainer) - Run Linux distribution on Android.
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist only client, which lets you stream & download Anime & Manga.
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
 - [LagradOst/CloudStream-3](https://github.com/LagradOst/CloudStream-3) - Android app for streaming and downloading Movies, TV-Series and Anime.
@@ -505,6 +504,7 @@
 - [minhgalaxy/flutter](https://github.com/minhgalaxy/flutter) - Some helpful script to bypass SSL Pinning of Flutter
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [jiotv/jiotvtoken](https://github.com/jiotv/jiotvtoken) - jiotv token for IPTV
+- [flyt3e/TainerApp](https://github.com/flyt3e/TainerApp) - Run Linux distribution on Android.
 - [Shigetorum635/Watson](https://github.com/Shigetorum635/Watson) - Gitpod Firefox VNC Workspace
 - [kikfox/kikfox](https://github.com/kikfox/kikfox) - A resource obfuscated apk & xapk decompiling tool
 - [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
@@ -543,6 +543,7 @@
 
 ## Python 
 
+- [marin-m/pbtk](https://github.com/marin-m/pbtk) - A toolset for reverse engineering and fuzzing Protobuf-based apps
 - [Ledger-Donjon/rainbow](https://github.com/Ledger-Donjon/rainbow) - Makes Unicorn traces. Generic Side-Channel and Fault Injection simulator
 - [Pr0214/uTrace](https://github.com/Pr0214/uTrace) - 一个简易的unicorn tracer，剪裁自项目Rainbow。
 - [acdwas/ctf](https://github.com/acdwas/ctf) - 
