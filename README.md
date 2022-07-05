@@ -160,6 +160,7 @@
 
 ## Go 
 
+- [Gituser143/cryptgo](https://github.com/Gituser143/cryptgo) - A terminal application to watch crypto prices!
 - [dimaskiddo/go-whatsapp-multidevice-rest](https://github.com/dimaskiddo/go-whatsapp-multidevice-rest) - Go WhatsApp Multi-Device Implementation in REST API with Multi-Session/Account Support
 - [89z/mech](https://github.com/89z/mech) - Download media or send API requests
 - [SpectralOps/netz](https://github.com/SpectralOps/netz) - Discover internet-wide misconfigurations while drinking coffee
