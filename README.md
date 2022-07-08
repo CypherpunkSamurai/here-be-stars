@@ -55,7 +55,7 @@
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 - [vip123456789/Docs](https://github.com/vip123456789/Docs) - 一些文本
 - [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
-- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps, and more!
+- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more!
 - [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
 - [Elenedeath/AIK-Windows-mirror](https://github.com/Elenedeath/AIK-Windows-mirror) - 
 - [BlueMagicalWolf/NoxPlayerPortable-Curl](https://github.com/BlueMagicalWolf/NoxPlayerPortable-Curl) - The Curl version
@@ -427,7 +427,6 @@
 - [CypherpunkSamurai/node-red-pg](https://github.com/CypherpunkSamurai/node-red-pg) - 
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [librariesio/justopensourced](https://github.com/librariesio/justopensourced) - :bird: Tweeting whenever a repo is open sourced on GitHub
-- [xinxin8816/heroku-ariang-21vianet](https://github.com/xinxin8816/heroku-ariang-21vianet) - 世纪互联版 Heroku-AriaNG。Heroku-AriaNG-21vianet.
 - [Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) - This is a goindex theme.一个goindex的扩展主题。
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
