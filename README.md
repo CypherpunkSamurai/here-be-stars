@@ -108,7 +108,6 @@
 - [royqh1979/RedPanda-CPP](https://github.com/royqh1979/RedPanda-CPP) - A light-weight C/C++ IDE based on Qt
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [0bliss/AnonymousChat](https://github.com/0bliss/AnonymousChat) - C++ Anonymous Chat server
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [akildemir/cpp-http-client](https://github.com/akildemir/cpp-http-client) - Simple, header only  C++ http-client library using boost asio and beast.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
@@ -427,6 +426,7 @@
 - [CypherpunkSamurai/node-red-pg](https://github.com/CypherpunkSamurai/node-red-pg) - 
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [librariesio/justopensourced](https://github.com/librariesio/justopensourced) - :bird: Tweeting whenever a repo is open sourced on GitHub
+- [xinxin8816/heroku-ariang-21vianet](https://github.com/xinxin8816/heroku-ariang-21vianet) - 世纪互联版 Heroku-AriaNG。Heroku-AriaNG-21vianet.
 - [Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) - This is a goindex theme.一个goindex的扩展主题。
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
