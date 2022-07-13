@@ -366,7 +366,6 @@
 - [arandintday/js_backup](https://github.com/arandintday/js_backup) - 
 - [chylex/Userscripts](https://github.com/chylex/Userscripts) - A collection of small userscripts I made because websites suck.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
-- [apkunpacker/r2frida](https://github.com/apkunpacker/r2frida) - Radare2 and Frida better together.
 - [apkunpacker/dumper](https://github.com/apkunpacker/dumper) - Dump L3 CDM from any Android device
 - [apkunpacker/DexDumper](https://github.com/apkunpacker/DexDumper) - 
 - [apkunpacker/FridaScripts](https://github.com/apkunpacker/FridaScripts) - 
