@@ -254,6 +254,7 @@
 
 ## HTML 
 
+- [MrGreensWorkshop/MrGreen-JekyllTheme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) - Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.
 - [JakeWharton/jakewharton.com](https://github.com/JakeWharton/jakewharton.com) - Personal website and blog.
 - [Berny23/eclipse-portable](https://github.com/Berny23/eclipse-portable) - Portable version of the multifunctional development platform Eclipse.
 - [caohanzong/FaceRecognition-system](https://github.com/caohanzong/FaceRecognition-system) - 人脸识别初体验
@@ -542,6 +543,7 @@
 
 ## Python 
 
+- [angr/binsync](https://github.com/angr/binsync) - A collaborative reversing plugin for cross-decompiler collaboration, built on git.
 - [marin-m/pbtk](https://github.com/marin-m/pbtk) - A toolset for reverse engineering and fuzzing Protobuf-based apps
 - [Ledger-Donjon/rainbow](https://github.com/Ledger-Donjon/rainbow) - Makes Unicorn traces. Generic Side-Channel and Fault Injection simulator
 - [Pr0214/uTrace](https://github.com/Pr0214/uTrace) - 一个简易的unicorn tracer，剪裁自项目Rainbow。
