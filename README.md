@@ -260,7 +260,7 @@
 - [caohanzong/FaceRecognition-system](https://github.com/caohanzong/FaceRecognition-system) - 人脸识别初体验
 - [sudoist/hugo-jcos.io](https://github.com/sudoist/hugo-jcos.io) - My personal site. Decided to drop WordPress and replace with Hugo
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
-- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive and feature-rich Hugo theme for personal blog and documentations.
+- [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme.
 - [coolabhays/Terminal-Fonts](https://github.com/coolabhays/Terminal-Fonts) - Collection of Fonts I prefer to use
 - [CypherpunkSamurai/Kusa-Jekyll](https://github.com/CypherpunkSamurai/Kusa-Jekyll) - Kusa-Jekyll - A Clean Simple Jekyll theme
 - [vszhub/not-pure-poole](https://github.com/vszhub/not-pure-poole) - A simple, beautiful, and powerful Jekyll theme for blogs.
