@@ -295,7 +295,7 @@
 - [ikws4/CodeEditor](https://github.com/ikws4/CodeEditor) - Code editor for android
 - [alimogh/JavaCompile](https://github.com/alimogh/JavaCompile) - Android平台的Java IDE
 - [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro's sources, in Java. Now anyone can contribute to Sketchware Pro.
-- [Cosmic-Ide/Java-Ide](https://github.com/Cosmic-Ide/Java-Ide) - A next-gen Ide for JVM development on Android
+- [Cosmic-Ide/Cosmic-Ide](https://github.com/Cosmic-Ide/Cosmic-Ide) - A next-gen Ide for JVM development on Android
 - [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future.
 - [Col-E/Bytecode-Modification-Framework](https://github.com/Col-E/Bytecode-Modification-Framework) - A bytecode modification library
 - [synnkfps/JByteCustom](https://github.com/synnkfps/JByteCustom) - A Improved JByteMod Fork. Based on JByteMod-Reborn & JByteMod-Remastered. CONTAINS KOFFEE DISASSEMBLER!
