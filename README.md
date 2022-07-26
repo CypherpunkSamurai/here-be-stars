@@ -89,7 +89,7 @@
 - [colin-chang/ArcFace.Net](https://github.com/colin-chang/ArcFace.Net) - A face recognition utility based on ArcSoft SDK 3.x for Linux/Windows platform.It can support multiple faces comparison.
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [Terminals-Origin/Terminals](https://github.com/Terminals-Origin/Terminals) - Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections
-- [migueldeicaza/gui.cs](https://github.com/migueldeicaza/gui.cs) - Console-based user interface toolkit for .NET applications.
+- [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 
 ## C++ 
 
