@@ -332,7 +332,7 @@
 - [Easonkkkk/Facility](https://github.com/Easonkkkk/Facility) - 
 - [saizhangco/imdc-face](https://github.com/saizhangco/imdc-face) - 
 - [Face-recognition-main/face](https://github.com/Face-recognition-main/face) - 
-- [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental  iOS emulation
+- [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 - [pkilller/super-jadx](https://github.com/pkilller/super-jadx) - Add new features for reverse engineering, such as: renaming of classes, fields, methods, variables, reference graphs and more.
