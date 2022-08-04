@@ -18,6 +18,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
+- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
 - [Java](#java)
@@ -177,7 +178,6 @@
 - [micvbang/pocketmine-rcon](https://github.com/micvbang/pocketmine-rcon) - Very simple, synchronous minecraft and minecraft pocket edition (pocketmine, minecraft PE) RCON client
 - [t3rm1n4l/go-mega](https://github.com/t3rm1n4l/go-mega) - A client library in go for mega.co.nz storage service
 - [u3mur4/megadl](https://github.com/u3mur4/megadl) - Golang library to download public files from mega.
-- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -275,6 +275,10 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [fsfw-dresden/usb-live-linux](https://github.com/fsfw-dresden/usb-live-linux) - USB-Stick-Live-Softwareumgebung für Lernende und Lehrende jeden Alters: Schulstick, Unistick, Makerstick, Rentnerstick..
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
+
+## Handlebars 
+
+- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 
 ## Haskell 
 
@@ -455,7 +459,6 @@
 - [markusressel/KodeEditor](https://github.com/markusressel/KodeEditor) - A simple code editor with syntax highlighting and pinch to zoom
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist only client, which lets you stream & download Anime & Manga.
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
-- [LagradOst/CloudStream-3](https://github.com/LagradOst/CloudStream-3) - Android app for streaming and downloading Movies, TV-Series and Anime.
 - [Jacekun/CloudStream-3XXX](https://github.com/Jacekun/CloudStream-3XXX) - 
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
 - [jmir1/aniyomi](https://github.com/jmir1/aniyomi) - Unofficial fork of Tachiyomi for anime
