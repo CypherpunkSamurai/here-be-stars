@@ -359,6 +359,8 @@
 
 ## JavaScript 
 
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2150 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [ebenezerdon/nextjs-mdx-blog](https://github.com/ebenezerdon/nextjs-mdx-blog) - A Next.js and MDX blog
 - [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
 - [ikeq/hexo-theme-inside](https://github.com/ikeq/hexo-theme-inside) - 🌈  SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside
 - [Yue-plus/hexo-theme-arknights](https://github.com/Yue-plus/hexo-theme-arknights) - 明日方舟罗德岛阵营的 Hexo 主题，支持数学公式、Valine&Gitalk评论系统、Mermaid图表
@@ -670,6 +672,8 @@
 
 ## Rust 
 
+- [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
+- [evilsocket/mcaptcha_bypass](https://github.com/evilsocket/mcaptcha_bypass) - PoC to bypass mCaptcha and its rate limiting capabilities from a fully automated bot.
 - [bet4it/udbserver](https://github.com/bet4it/udbserver) - Unicorn Emulator Debug Server - Written in Rust, with bindings of C, Go, Java and Python
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [connorskees/coffea](https://github.com/connorskees/coffea) - Java decompiler written in Rust with a focus on performance
@@ -752,6 +756,9 @@
 
 ## TypeScript 
 
+- [fantasticit/wipi](https://github.com/fantasticit/wipi) - A blog system written by next.js, nest.js and MySQL.
+- [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
+- [techhiveIO/nextjs-blog-starter-kit](https://github.com/techhiveIO/nextjs-blog-starter-kit) - NextJS Blog + Contentful Typescript Starter kit with Static Export 🚀
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [masx200/fetch-baidu-pan-files-api](https://github.com/masx200/fetch-baidu-pan-files-api) - 模拟浏览器脚本操作,使用nodejs来批量读取和操作网盘文件信息。 这个代码库是`百度网盘批量清理重复文件计划`的一部分。
 - [SeeFlowerX/frida-protobuf](https://github.com/SeeFlowerX/frida-protobuf) - 
