@@ -290,6 +290,8 @@
 
 ## Java 
 
+- [airmessage/airmessage-connect-java](https://github.com/airmessage/airmessage-connect-java) - AirMessage's online Connect service
+- [airmessage/airmessage-android](https://github.com/airmessage/airmessage-android) - AirMessage for Android phones, tablets, and laptops
 - [CimZzz/unidbg-android](https://github.com/CimZzz/unidbg-android) - 
 - [mstrobel/procyon](https://github.com/mstrobel/procyon) - Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.
 - [ixuea/android-downloader](https://github.com/ixuea/android-downloader) - An powerful download library for Android.
@@ -756,6 +758,7 @@
 
 ## TypeScript 
 
+- [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
 - [fantasticit/wipi](https://github.com/fantasticit/wipi) - A blog system written by next.js, nest.js and MySQL.
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
 - [techhiveIO/nextjs-blog-starter-kit](https://github.com/techhiveIO/nextjs-blog-starter-kit) - NextJS Blog + Contentful Typescript Starter kit with Static Export 🚀
@@ -773,7 +776,7 @@
 - [chame1eon/jnitrace](https://github.com/chame1eon/jnitrace) - A Frida based tool that traces usage of the JNI API in Android apps.
 - [A5rocks/slash-worker](https://github.com/A5rocks/slash-worker) - A Cloudflare Workers thing for your Discord Slash Commands.
 - [tsndr/cloudflare-worker-router](https://github.com/tsndr/cloudflare-worker-router) - A super lightweight router (2.30 KiB) with middleware support and ZERO dependencies for CloudFlare Workers.
-- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [tgcallsjs/gram-tgcalls](https://github.com/tgcallsjs/gram-tgcalls) - https://tgcallsjs.github.io/gram-tgcalls/
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
