@@ -713,7 +713,6 @@
 - [ROM-builders/temporary](https://github.com/ROM-builders/temporary) - You can do PR with your build_rom.sh script respecting main branch and get a build, if you have a successful build, let me know to get into team. Contact me here ( https://t.me/ROM_builders ) if you n
 - [halium-exynos/CirrusCI](https://github.com/halium-exynos/CirrusCI) - 
 - [adi153/rova_builder](https://github.com/adi153/rova_builder) - 
-- [Bauh-Yeoj/aosp-building](https://github.com/Bauh-Yeoj/aosp-building) - 
 - [KernelPanic-OpenSource/xiaomi-sweet](https://github.com/KernelPanic-OpenSource/xiaomi-sweet) - 
 - [Apon77Lab/aosp-builder](https://github.com/Apon77Lab/aosp-builder) - Build aosp project in docker with Ubuntu 20.04 via ci environments (by @Apon77)
 - [Apon77/aosp-builder](https://github.com/Apon77/aosp-builder) - Build aosp project in docker with Ubuntu 20.04 via ci environments (by @Apon77)
