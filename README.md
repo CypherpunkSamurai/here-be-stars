@@ -43,7 +43,7 @@
 - [Smali](#smali)
 - [Stylus](#stylus)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
@@ -589,7 +589,7 @@
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
 - [topjohnwu/ADLxMLDS2017](https://github.com/topjohnwu/ADLxMLDS2017) - 
 - [wahyu6070/Jancox-tool-android](https://github.com/wahyu6070/Jancox-tool-android) - Jancox Tool for unpack/repack rom in android
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [LaRevoltage/SMSPhisher](https://github.com/LaRevoltage/SMSPhisher) - This tool can send spoofed sms from name of company
 - [apkunpacker/jeb4frida](https://github.com/apkunpacker/jeb4frida) - Generate Frida hooks directly from JEB!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -780,7 +780,7 @@
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 
-## Vim script 
+## Vim Script 
 
 - [tpope/vim-endwise](https://github.com/tpope/vim-endwise) - endwise.vim: Wisely add
 - [rstacruz/vim-closer](https://github.com/rstacruz/vim-closer) - Closes brackets
