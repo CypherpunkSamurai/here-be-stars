@@ -46,6 +46,7 @@
 - [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -94,6 +95,7 @@
 
 ## C++ 
 
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
 - [REDasmOrg/REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
 - [d4ichi/CrackMe](https://github.com/d4ichi/CrackMe) - Source codes for CrackMe with modern GUI forms written in C++
@@ -160,6 +162,8 @@
 
 ## Go 
 
+- [raystlin/megaman](https://github.com/raystlin/megaman) - A cli to download public files from mega.nz
+- [u3mur4/megadl](https://github.com/u3mur4/megadl) - Golang library to download public files from mega.
 - [Gituser143/cryptgo](https://github.com/Gituser143/cryptgo) - A terminal application to watch crypto prices!
 - [dimaskiddo/go-whatsapp-multidevice-rest](https://github.com/dimaskiddo/go-whatsapp-multidevice-rest) - Go WhatsApp Multi-Device Implementation in REST API with Multi-Session/Account Support
 - [89z/mech](https://github.com/89z/mech) - Download media or send API requests
@@ -177,7 +181,6 @@
 - [mixcode/https_capture](https://github.com/mixcode/https_capture) - A tiny utility to capture and save HTTP(s) communications to files
 - [micvbang/pocketmine-rcon](https://github.com/micvbang/pocketmine-rcon) - Very simple, synchronous minecraft and minecraft pocket edition (pocketmine, minecraft PE) RCON client
 - [t3rm1n4l/go-mega](https://github.com/t3rm1n4l/go-mega) - A client library in go for mega.co.nz storage service
-- [u3mur4/megadl](https://github.com/u3mur4/megadl) - Golang library to download public files from mega.
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -796,6 +799,10 @@
 - [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
 - [shcant/vuepress-theme-casper](https://github.com/shcant/vuepress-theme-casper) - Ghost default theme ported to vuepress
 - [ismailnguyen/vue-dark-mode-switch](https://github.com/ismailnguyen/vue-dark-mode-switch) - VueJS Dark mode switch component
+
+## Zig 
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License
