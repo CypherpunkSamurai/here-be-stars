@@ -54,6 +54,8 @@
 
 ## Batchfile 
 
+- [osm0sis/Android-Image-Kitchen](https://github.com/osm0sis/Android-Image-Kitchen) - Automated scripts to unpack/repack Android kernel/recovery images + ramdisks
+- [carlos-burelo/plugins](https://github.com/carlos-burelo/plugins) - Extra tools for Scarlett Kitchen to facilitate the work of it
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 - [vip123456789/Docs](https://github.com/vip123456789/Docs) - 一些文本
 - [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
@@ -498,6 +500,7 @@
 
 ## Others 
 
+- [MacianYuan/pro3288-07inch](https://github.com/MacianYuan/pro3288-07inch) - 手持仪
 - [IDALeaker/IDA-Pro-Leak](https://github.com/IDALeaker/IDA-Pro-Leak) - Since the original ida pro leak repo got deleted, i decided to upload them here! Enjoy!
 - [wtdcode/DebianOnQEMU](https://github.com/wtdcode/DebianOnQEMU) - 
 - [kakathic/Tool-Shells](https://github.com/kakathic/Tool-Shells) - Application integrated editing apk
@@ -553,6 +556,8 @@
 
 ## Python 
 
+- [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) - Patch boot image with magisk on windows/linux
+- [Furniel/Apk-Changer](https://github.com/Furniel/Apk-Changer) - Command line program for modifying apk files
 - [portabledevapps/jupyterlab-portable](https://github.com/portabledevapps/jupyterlab-portable) - 🌌 JUPYTERLAB PORTABLE : Portable version of JupyterLab for Windows. "JupyterLab is the next-generation web-based user interface for Project Jupyter."
 - [angr/binsync](https://github.com/angr/binsync) - A collaborative reversing plugin for cross-decompiler collaboration, built on git.
 - [marin-m/pbtk](https://github.com/marin-m/pbtk) - A toolset for reverse engineering and fuzzing Protobuf-based apps
