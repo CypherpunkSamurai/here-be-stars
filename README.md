@@ -26,6 +26,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
+- [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
@@ -88,6 +89,7 @@
 
 ## C# # 
 
+- [djkaty/Il2CppProtoExtractor-FallGuys](https://github.com/djkaty/Il2CppProtoExtractor-FallGuys) - IL2CPP protobuf-net reverse engineering tutorial for Fall Guys: Ultimate Knockout
 - [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
 - [taylormcnally/YDrive](https://github.com/taylormcnally/YDrive) - Free unlimited file storage using your YouTube account
 - [dan0v/xdelta3-cross-gui](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating xDelta3 patches, available for Windows, Linux, and Mac
@@ -215,7 +217,6 @@
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [mattn/go-isatty](https://github.com/mattn/go-isatty) - 
 - [mattn/go-tty](https://github.com/mattn/go-tty) - 
-- [SagerNet/SagerNetDesktop](https://github.com/SagerNet/SagerNetDesktop) - nothing here
 - [abanoubha/ocr](https://github.com/abanoubha/ocr) - A Cross-platform Text Recognition Software for Arabic & English Languages.
 - [jhekasoft/insteadman](https://github.com/jhekasoft/insteadman) - Manager for INSTEAD games
 - [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
@@ -480,6 +481,11 @@
 
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme
 
+## Lua 
+
+- [librespot-org/spotify-analyze](https://github.com/librespot-org/spotify-analyze) - Spotify Reverse Engineering tools and scripts
+- [plietar/spotify-analyze](https://github.com/plietar/spotify-analyze) - Spotify Reverse Engineering tools and scripts
+
 ## Makefile 
 
 - [sourajitk/vendor_asus](https://github.com/sourajitk/vendor_asus) - 
@@ -714,6 +720,7 @@
 
 ## Shell 
 
+- [nlitsme/whatsapp-apk-proto](https://github.com/nlitsme/whatsapp-apk-proto) - Changes in the whatsapp protocol as extracted from apk files
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [Hax4us/java](https://github.com/Hax4us/java) - This package of java (openjdk) is specially for termux users (without rooted phone) But it is unstable or beta version and I will update it soon with stable one
 - [HemanthJabalpuri/run_java](https://github.com/HemanthJabalpuri/run_java) - Run java program in Android.
@@ -767,6 +774,7 @@
 
 ## TypeScript 
 
+- [ndunks/whatsapp-protobuf](https://github.com/ndunks/whatsapp-protobuf) - 
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
 - [fantasticit/wipi](https://github.com/fantasticit/wipi) - A blog system written by next.js, nest.js and MySQL.
 - [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) - Homepage & blog
