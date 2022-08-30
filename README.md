@@ -370,7 +370,7 @@
 ## JavaScript 
 
 - [aD4wn/Workers-Proxy](https://github.com/aD4wn/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ebenezerdon/nextjs-mdx-blog](https://github.com/ebenezerdon/nextjs-mdx-blog) - A Next.js and MDX blog
 - [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
 - [ikeq/hexo-theme-inside](https://github.com/ikeq/hexo-theme-inside) - 🌈  SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside
@@ -509,7 +509,6 @@
 ## Others 
 
 - [MacianYuan/pro3288-07inch](https://github.com/MacianYuan/pro3288-07inch) - 手持仪
-- [IDALeaker/IDA-Pro-Leak](https://github.com/IDALeaker/IDA-Pro-Leak) - Since the original ida pro leak repo got deleted, i decided to upload them here! Enjoy!
 - [wtdcode/DebianOnQEMU](https://github.com/wtdcode/DebianOnQEMU) - 
 - [kakathic/Tool-Shells](https://github.com/kakathic/Tool-Shells) - Application integrated editing apk
 - [paralax/awesome-internet-scanning](https://github.com/paralax/awesome-internet-scanning) - A curated list of awesome Internet port and host scanners, plus related components and much more, with a focus on free and open source projects.
