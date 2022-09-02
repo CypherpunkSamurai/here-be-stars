@@ -167,6 +167,13 @@
 
 ## Go 
 
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
+- [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
+- [gofiber/recipes](https://github.com/gofiber/recipes) - 📁 Examples for 🚀 Fiber
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [raystlin/megaman](https://github.com/raystlin/megaman) - A cli to download public files from mega.nz
 - [u3mur4/megadl](https://github.com/u3mur4/megadl) - Golang library to download public files from mega.
 - [Gituser143/cryptgo](https://github.com/Gituser143/cryptgo) - A terminal application to watch crypto prices!
