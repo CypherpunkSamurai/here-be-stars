@@ -376,6 +376,7 @@
 
 ## JavaScript 
 
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [aD4wn/Workers-Proxy](https://github.com/aD4wn/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ebenezerdon/nextjs-mdx-blog](https://github.com/ebenezerdon/nextjs-mdx-blog) - A Next.js and MDX blog
@@ -515,6 +516,7 @@
 
 ## Others 
 
+- [Redgifs/api](https://github.com/Redgifs/api) - API documentation
 - [MacianYuan/pro3288-07inch](https://github.com/MacianYuan/pro3288-07inch) - 手持仪
 - [wtdcode/DebianOnQEMU](https://github.com/wtdcode/DebianOnQEMU) - 
 - [kakathic/Tool-Shells](https://github.com/kakathic/Tool-Shells) - Application integrated editing apk
@@ -747,7 +749,6 @@
 - [green-green-avk/build-proot-android](https://github.com/green-green-avk/build-proot-android) - PRoot build scripts (and prebuilt binaries) for Android.
 - [CypherpunkArmory/UserLAnd-Assets-Support](https://github.com/CypherpunkArmory/UserLAnd-Assets-Support) - Repository for building and holding the core assets of UserLAnd
 - [fanzheming/Blog](https://github.com/fanzheming/Blog) - :bear:基于vuepress、vuepress-theme-reco、vssue、travis-ci 搭建的静态博客
-- [arcresu/plowshare-modules-debian](https://github.com/arcresu/plowshare-modules-debian) - Debian packaging for plowshare-modules
 - [lem0nez/bashapk](https://github.com/lem0nez/bashapk) - Diet pills for APK files
 - [firmadyne/firmadyne](https://github.com/firmadyne/firmadyne) - Platform for emulation and dynamic analysis of Linux-based firmware
 - [ohmybahgosh/YT-DLP-SCRIPTS](https://github.com/ohmybahgosh/YT-DLP-SCRIPTS) - ...Just a place for me to share my various YT-DLP & related bash scripts.
