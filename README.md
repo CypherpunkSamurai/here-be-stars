@@ -268,6 +268,7 @@
 
 ## HTML 
 
+- [WSG88/ak47](https://github.com/WSG88/ak47) - 
 - [MrGreensWorkshop/MrGreen-JekyllTheme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) - Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.
 - [JakeWharton/jakewharton.com](https://github.com/JakeWharton/jakewharton.com) - Personal website and blog.
 - [Berny23/eclipse-portable](https://github.com/Berny23/eclipse-portable) - Portable version of the multifunctional development platform Eclipse.
@@ -304,6 +305,9 @@
 
 ## Java 
 
+- [revanthstrakz/vx](https://github.com/revanthstrakz/vx) - 
+- [WindySha/Xpatch](https://github.com/WindySha/Xpatch) - 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
+- [WindySha/xposed_module_loader](https://github.com/WindySha/xposed_module_loader) - This is a library that can load  installed xposed modules and load xposed modules by file path. And native libraries in the xposed module can also be loaded.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [airmessage/airmessage-connect-java](https://github.com/airmessage/airmessage-connect-java) - AirMessage's online Connect service
 - [airmessage/airmessage-android](https://github.com/airmessage/airmessage-android) - AirMessage for Android phones, tablets, and laptops
