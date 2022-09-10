@@ -27,7 +27,6 @@
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [Lua](#lua)
-- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Nim](#nim)
@@ -281,7 +280,6 @@
 - [coolabhays/Terminal-Fonts](https://github.com/coolabhays/Terminal-Fonts) - Collection of Fonts I prefer to use
 - [CypherpunkSamurai/Kusa-Jekyll](https://github.com/CypherpunkSamurai/Kusa-Jekyll) - Kusa-Jekyll - A Clean Simple Jekyll theme
 - [vszhub/not-pure-poole](https://github.com/vszhub/not-pure-poole) - A simple, beautiful, and powerful Jekyll theme for blogs.
-- [jitinnair1/gradfolio](https://github.com/jitinnair1/gradfolio) - responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio
 - [DavideBrie/Gesko](https://github.com/DavideBrie/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
 - [circa10a/web-link-tester](https://github.com/circa10a/web-link-tester) - Flask App to scrape hrefs from websites and validate links
 - [MadhubanKhatri/Weather-App-using-Flask-and-BeautifulSoup](https://github.com/MadhubanKhatri/Weather-App-using-Flask-and-BeautifulSoup) - In this video, I am creating a Weather App using Flask and BeautifulSoup for Web Scraping. You can get city's temprature, pressure and humidity.
@@ -499,10 +497,6 @@
 
 - [librespot-org/spotify-analyze](https://github.com/librespot-org/spotify-analyze) - Spotify Reverse Engineering tools and scripts
 - [plietar/spotify-analyze](https://github.com/plietar/spotify-analyze) - Spotify Reverse Engineering tools and scripts
-
-## Makefile 
-
-- [sourajitk/vendor_asus](https://github.com/sourajitk/vendor_asus) - 
 
 ## Markdown 
 
@@ -729,6 +723,7 @@
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 - [katydecorah/theme](https://github.com/katydecorah/theme) - 💅 Jekyll theme for katydecorah.com
 - [ELIXIR-Belgium/elixir-toolkit-theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) - Flexible Jekyll theme using bootstrap 5 as CSS framework.
+- [jitinnair1/gradfolio](https://github.com/jitinnair1/gradfolio) - responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio
 - [bitbrain/jekyll-dash](https://github.com/bitbrain/jekyll-dash) - 🌒 Light and dark blog theme for Jekyll, inspired by Dash UI for Atom.
 - [heiswayi/the-plain](https://github.com/heiswayi/the-plain) - A minimalist Jekyll theme, ideally designed for your personal blog use.
 - [ItsPatrq/minimal-categorized](https://github.com/ItsPatrq/minimal-categorized) - Jekyll minimal-categorized theme
