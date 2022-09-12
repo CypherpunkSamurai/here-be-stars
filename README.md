@@ -99,6 +99,7 @@
 
 ## C++ 
 
+- [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
 - [REDasmOrg/REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
@@ -305,6 +306,7 @@
 
 ## Java 
 
+- [BalazsAtWork/blog-polymorphism-with-gson](https://github.com/BalazsAtWork/blog-polymorphism-with-gson) - Gson and Object Hierarchies
 - [revanthstrakz/vx](https://github.com/revanthstrakz/vx) - 
 - [WindySha/Xpatch](https://github.com/WindySha/Xpatch) - 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
 - [WindySha/xposed_module_loader](https://github.com/WindySha/xposed_module_loader) - This is a library that can load  installed xposed modules and load xposed modules by file path. And native libraries in the xposed module can also be loaded.
@@ -702,6 +704,7 @@
 
 ## Rust 
 
+- [qualified/lsp-ws-proxy](https://github.com/qualified/lsp-ws-proxy) - WebSocketify any Language Server
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
 - [evilsocket/mcaptcha_bypass](https://github.com/evilsocket/mcaptcha_bypass) - PoC to bypass mCaptcha and its rate limiting capabilities from a fully automated bot.
 - [bet4it/udbserver](https://github.com/bet4it/udbserver) - Unicorn Emulator Debug Server - Written in Rust, with bindings of C, Go, Java and Python
