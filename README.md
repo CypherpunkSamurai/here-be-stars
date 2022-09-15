@@ -306,6 +306,7 @@
 
 ## Java 
 
+- [singwhatiwanna/dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) - DL : dynamic load framework in android
 - [BalazsAtWork/blog-polymorphism-with-gson](https://github.com/BalazsAtWork/blog-polymorphism-with-gson) - Gson and Object Hierarchies
 - [revanthstrakz/vx](https://github.com/revanthstrakz/vx) - 
 - [WindySha/Xpatch](https://github.com/WindySha/Xpatch) - 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
@@ -521,6 +522,7 @@
 
 ## Others 
 
+- [liaohuqiu/android-dynamic-load-awesome](https://github.com/liaohuqiu/android-dynamic-load-awesome) - 
 - [Redgifs/api](https://github.com/Redgifs/api) - API documentation
 - [MacianYuan/pro3288-07inch](https://github.com/MacianYuan/pro3288-07inch) - 手持仪
 - [wtdcode/DebianOnQEMU](https://github.com/wtdcode/DebianOnQEMU) - 
@@ -628,7 +630,7 @@
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [sbaack/archive-md-urls](https://github.com/sbaack/archive-md-urls) - Turn URLs in Markdown files into archive.org snapshots
 - [honeynet/GreedyBear](https://github.com/honeynet/GreedyBear) - Threat Intel Platform for T-POTs
-- [alechilczenko/spidex](https://github.com/alechilczenko/spidex) - Continuous reconnaissance scanner. Find and analyze internet-connected devices in minutes.
+- [alechilczenko/spidex](https://github.com/alechilczenko/spidex) - A little internet crawler
 - [TuYuxiao/face_recognize](https://github.com/TuYuxiao/face_recognize) - 
 - [rscloura/Doldrums](https://github.com/rscloura/Doldrums) - A Flutter/Dart reverse engineering tool
 - [CHEFINHOTM/userbot](https://github.com/CHEFINHOTM/userbot) - user
