@@ -306,6 +306,7 @@
 
 ## Java 
 
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [singwhatiwanna/dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) - DL : dynamic load framework in android
 - [BalazsAtWork/blog-polymorphism-with-gson](https://github.com/BalazsAtWork/blog-polymorphism-with-gson) - Gson and Object Hierarchies
 - [revanthstrakz/vx](https://github.com/revanthstrakz/vx) - 
@@ -579,6 +580,7 @@
 
 ## Python 
 
+- [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - 
 - [hyprex-deva/DC-Bot-python](https://github.com/hyprex-deva/DC-Bot-python) - 
 - [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) - Patch boot image with magisk on windows/linux
 - [Furniel/Apk-Changer](https://github.com/Furniel/Apk-Changer) - Command line program for modifying apk files
