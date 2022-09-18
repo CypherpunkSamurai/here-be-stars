@@ -580,6 +580,7 @@
 
 ## Python 
 
+- [babca/python-gsmmodem](https://github.com/babca/python-gsmmodem) - Maintained fork of a Python module to control GSM modems attached to the system: send/receive SMS messages in your scripts, handle calls, and more.
 - [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - 
 - [hyprex-deva/DC-Bot-python](https://github.com/hyprex-deva/DC-Bot-python) - 
 - [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) - Patch boot image with magisk on windows/linux
