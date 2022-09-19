@@ -306,6 +306,7 @@
 
 ## Java 
 
+- [didi/VirtualAPK](https://github.com/didi/VirtualAPK) - A powerful and lightweight plugin framework for Android
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [singwhatiwanna/dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) - DL : dynamic load framework in android
 - [BalazsAtWork/blog-polymorphism-with-gson](https://github.com/BalazsAtWork/blog-polymorphism-with-gson) - Gson and Object Hierarchies
