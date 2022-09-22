@@ -390,7 +390,7 @@
 - [Mz49/emuparadise-mirror](https://github.com/Mz49/emuparadise-mirror) - A Cloudflare Worker script that mirrors EmuParadise and alters download pages to include a working link.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [aD4wn/Workers-Proxy](https://github.com/aD4wn/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ebenezerdon/nextjs-mdx-blog](https://github.com/ebenezerdon/nextjs-mdx-blog) - A Next.js and MDX blog
 - [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
 - [ikeq/hexo-theme-inside](https://github.com/ikeq/hexo-theme-inside) - 🌈  SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside
@@ -635,6 +635,7 @@
 - [ymoslem/DesktopTranslator](https://github.com/ymoslem/DesktopTranslator) - Local cross-platform machine translation GUI, based on CTranslate2
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [sbaack/archive-md-urls](https://github.com/sbaack/archive-md-urls) - Turn URLs in Markdown files into archive.org snapshots
+- [ptswarm/reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 - [honeynet/GreedyBear](https://github.com/honeynet/GreedyBear) - Threat Intel Platform for T-POTs
 - [alechilczenko/spidex](https://github.com/alechilczenko/spidex) - A little internet crawler
 - [TuYuxiao/face_recognize](https://github.com/TuYuxiao/face_recognize) - 
