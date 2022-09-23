@@ -307,6 +307,7 @@
 
 ## Java 
 
+- [MarinX/godroid](https://github.com/MarinX/godroid) - Golang 1.4 beta on Android
 - [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 12.0 in business version)
 - [didi/VirtualAPK](https://github.com/didi/VirtualAPK) - A powerful and lightweight plugin framework for Android
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
@@ -583,6 +584,8 @@
 
 ## Python 
 
+- [juan-castano/pyforex](https://github.com/juan-castano/pyforex) - Python App Reading Telegram channels
+- [pylakey/aiotdlib](https://github.com/pylakey/aiotdlib) - Python asyncio Telegram client based on TDLib https://github.com/tdlib/td
 - [babca/python-gsmmodem](https://github.com/babca/python-gsmmodem) - Maintained fork of a Python module to control GSM modems attached to the system: send/receive SMS messages in your scripts, handle calls, and more.
 - [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - 
 - [hyprex-deva/DC-Bot-python](https://github.com/hyprex-deva/DC-Bot-python) - 
