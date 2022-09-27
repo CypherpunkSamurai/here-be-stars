@@ -23,6 +23,7 @@
 - [Haxe](#haxe)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
@@ -477,6 +478,10 @@
 - [ace-diff/ace-diff](https://github.com/ace-diff/ace-diff) - A diff/merging wrapper for Ace Editor built on google-diff-match-patch
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 
+## Jinja 
+
+- [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
+
 ## Jupyter Notebook 
 
 - [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
@@ -646,7 +651,6 @@
 - [CHEFINHOTM/userbot](https://github.com/CHEFINHOTM/userbot) - user
 - [XayahSuSuSu/Demo-ArcsoftFace](https://github.com/XayahSuSuSu/Demo-ArcsoftFace) - 虹软人脸识别Linux Demo
 - [maiyao1988/ExAndroidNativeEmu](https://github.com/maiyao1988/ExAndroidNativeEmu) - An improved version of AndroidNativeEmu,Allow running android elf on PC
-- [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [blackjack4494/youtube-dlc](https://github.com/blackjack4494/youtube-dlc) - Command-line program to download various media from YouTube.com and other sites
 - [h4shur/spider-box](https://github.com/h4shur/spider-box) - Information Gathering [ OSINT utility ]
