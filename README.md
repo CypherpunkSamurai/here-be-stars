@@ -100,6 +100,7 @@
 
 ## C++ 
 
+- [hippyau/pb-cimgui](https://github.com/hippyau/pb-cimgui) - PureBasic interface to CImGui Wrapper
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 - [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
