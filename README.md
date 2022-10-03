@@ -284,7 +284,7 @@
 - [coolabhays/Terminal-Fonts](https://github.com/coolabhays/Terminal-Fonts) - Collection of Fonts I prefer to use
 - [CypherpunkSamurai/Kusa-Jekyll](https://github.com/CypherpunkSamurai/Kusa-Jekyll) - Kusa-Jekyll - A Clean Simple Jekyll theme
 - [vszhub/not-pure-poole](https://github.com/vszhub/not-pure-poole) - A simple, beautiful, and powerful Jekyll theme for blogs.
-- [DavideBrie/Gesko](https://github.com/DavideBrie/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
+- [DavideBri/Gesko](https://github.com/DavideBri/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
 - [circa10a/web-link-tester](https://github.com/circa10a/web-link-tester) - Flask App to scrape hrefs from websites and validate links
 - [MadhubanKhatri/Weather-App-using-Flask-and-BeautifulSoup](https://github.com/MadhubanKhatri/Weather-App-using-Flask-and-BeautifulSoup) - In this video, I am creating a Weather App using Flask and BeautifulSoup for Web Scraping. You can get city's temprature, pressure and humidity.
 - [ritijjain/pudhina-fresh](https://github.com/ritijjain/pudhina-fresh) - A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
