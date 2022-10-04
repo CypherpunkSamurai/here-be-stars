@@ -586,6 +586,7 @@
 
 ## Pascal 
 
+- [JoeJoeTV/startLazarusPortable](https://github.com/JoeJoeTV/startLazarusPortable) - A launcher application for Windows that starts Lazarus from a folder/USB stick and keeps it all contained.
 - [Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp) - A fast, portable, simple, and free C/C++ IDE
 
 ## Python 
