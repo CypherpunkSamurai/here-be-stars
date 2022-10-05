@@ -533,6 +533,7 @@
 
 ## Others 
 
+- [cheshie/secrets](https://github.com/cheshie/secrets) - Various secrets for regex search and rules for DumpsterDiver.py https://github.com/securing/DumpsterDiver
 - [liaohuqiu/android-dynamic-load-awesome](https://github.com/liaohuqiu/android-dynamic-load-awesome) - 
 - [Redgifs/api](https://github.com/Redgifs/api) - API documentation
 - [MacianYuan/pro3288-07inch](https://github.com/MacianYuan/pro3288-07inch) - 手持仪
@@ -591,6 +592,7 @@
 
 ## Python 
 
+- [securing/DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes.
 - [juan-castano/pyforex](https://github.com/juan-castano/pyforex) - Python App Reading Telegram channels
 - [pylakey/aiotdlib](https://github.com/pylakey/aiotdlib) - Python asyncio Telegram client based on TDLib https://github.com/tdlib/td
 - [babca/python-gsmmodem](https://github.com/babca/python-gsmmodem) - Maintained fork of a Python module to control GSM modems attached to the system: send/receive SMS messages in your scripts, handle calls, and more.
