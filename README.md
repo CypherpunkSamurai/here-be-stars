@@ -37,6 +37,7 @@
 - [Pascal](#pascal)
 - [Python](#python)
 - [R](#r)
+- [Reason](#reason)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -716,6 +717,10 @@
 ## R 
 
 - [virtualstaticvoid/heroku-proot-poc](https://github.com/virtualstaticvoid/heroku-proot-poc) - PoC using `proot` on Heroku
+
+## Reason 
+
+- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 
 ## Ruby 
 
