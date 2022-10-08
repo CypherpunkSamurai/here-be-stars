@@ -310,6 +310,7 @@
 
 ## Java 
 
+- [FasterXML/jackson-annotations](https://github.com/FasterXML/jackson-annotations) - Core annotations (annotations that only depend on jackson-core) for Jackson data processor
 - [MarinX/godroid](https://github.com/MarinX/godroid) - Golang 1.4 beta on Android
 - [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 12.0 in business version)
 - [didi/VirtualAPK](https://github.com/didi/VirtualAPK) - A powerful and lightweight plugin framework for Android
@@ -593,6 +594,11 @@
 
 ## Python 
 
+- [mcfletch/pyopengl](https://github.com/mcfletch/pyopengl) - Repository for the PyOpenGL Project
+- [pokepetter/ursina](https://github.com/pokepetter/ursina) - A game engine powered by python and panda3d.
+- [ractf/core](https://github.com/ractf/core) - The Django backend running RACTF wargame events.
+- [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
+- [Alexey-T/CudaText](https://github.com/Alexey-T/CudaText) - Cross-platform text editor, written in Lazarus
 - [securing/DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes.
 - [juan-castano/pyforex](https://github.com/juan-castano/pyforex) - Python App Reading Telegram channels
 - [pylakey/aiotdlib](https://github.com/pylakey/aiotdlib) - Python asyncio Telegram client based on TDLib https://github.com/tdlib/td
