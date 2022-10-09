@@ -101,6 +101,7 @@
 
 ## C++ 
 
+- [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
 - [hippyau/pb-cimgui](https://github.com/hippyau/pb-cimgui) - PureBasic interface to CImGui Wrapper
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
@@ -487,6 +488,7 @@
 
 ## Jupyter Notebook 
 
+- [arty4999/UnstableFusion](https://github.com/arty4999/UnstableFusion) - 
 - [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
 - [tugstugi/dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks) - Try out  deep learning models online on Google Colab
 - [tulasiram58827/TTS_TFLite](https://github.com/tulasiram58827/TTS_TFLite) - This repository is a collection of TTS Models in TFLite
