@@ -68,6 +68,8 @@
 
 ## C 
 
+- [aresrpg/minecraft-dissector](https://github.com/aresrpg/minecraft-dissector) - A wireshark dissector for the Minecraft protocol using https://github.com/PrismarineJS/minecraft-data
+- [uis246/MCPC_dissect](https://github.com/uis246/MCPC_dissect) - Minecraft PC wireshark dissector
 - [wlanslovenija/MeshApp](https://github.com/wlanslovenija/MeshApp) - An open-source, cross-platform application for ad-hoc wireless mesh networking on mobile devices.
 - [wtdcode/unicorn](https://github.com/wtdcode/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [rednaga/native-shim](https://github.com/rednaga/native-shim) - A "shim" for loading native jni files for Android active debugging
@@ -101,6 +103,9 @@
 
 ## C++ 
 
+- [KooroshRZ/Windows-DLL-Injector](https://github.com/KooroshRZ/Windows-DLL-Injector) - Some DLL Injection techniques in C++ implemented for both x86 and x64 windows OS processes
+- [AYIDouble/Simple-DLL-Injection](https://github.com/AYIDouble/Simple-DLL-Injection) - 🔧 Simple DLL Injection into a Process with C++ 🔧
+- [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft) - Simple C++ program to capture and display all traffic between a client and a server in minecraft
 - [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
 - [hippyau/pb-cimgui](https://github.com/hippyau/pb-cimgui) - PureBasic interface to CImGui Wrapper
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
@@ -172,6 +177,7 @@
 
 ## Go 
 
+- [forewing/csgo-rcon](https://github.com/forewing/csgo-rcon) - Golang package for CS:GO RCON Protocol client. Also support other games using the protocol (Source Engine games, Minecraft, etc.)
 - [Narasimha1997/tor-proxy](https://github.com/Narasimha1997/tor-proxy) - An experimental Tor-Proxy serivce written in Go using Go-proxy and Go-libtor.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
@@ -393,6 +399,8 @@
 
 ## JavaScript 
 
+- [PrismarineJS/minecraft-packets](https://github.com/PrismarineJS/minecraft-packets) - Stores minecraft packets to test implementation of the minecraft protocol
+- [Heath123/pakkit](https://github.com/Heath123/pakkit) - 
 - [Mz49/emuparadise-mirror](https://github.com/Mz49/emuparadise-mirror) - A Cloudflare Worker script that mirrors EmuParadise and alters download pages to include a working link.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [aD4wn/Workers-Proxy](https://github.com/aD4wn/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
@@ -596,6 +604,7 @@
 
 ## Python 
 
+- [Owen-Cochell/mctools](https://github.com/Owen-Cochell/mctools) - Minecraft Connection Tools - Python implementations of common Minecraft protocols.
 - [mcfletch/pyopengl](https://github.com/mcfletch/pyopengl) - Repository for the PyOpenGL Project
 - [pokepetter/ursina](https://github.com/pokepetter/ursina) - A game engine powered by python and panda3d.
 - [ractf/core](https://github.com/ractf/core) - The Django backend running RACTF wargame events.
