@@ -68,6 +68,7 @@
 
 ## C 
 
+- [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
 - [aresrpg/minecraft-dissector](https://github.com/aresrpg/minecraft-dissector) - A wireshark dissector for the Minecraft protocol using https://github.com/PrismarineJS/minecraft-data
 - [uis246/MCPC_dissect](https://github.com/uis246/MCPC_dissect) - Minecraft PC wireshark dissector
 - [wlanslovenija/MeshApp](https://github.com/wlanslovenija/MeshApp) - An open-source, cross-platform application for ad-hoc wireless mesh networking on mobile devices.
@@ -103,6 +104,8 @@
 
 ## C++ 
 
+- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+- [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) - C++ client for making HTTP/REST requests
 - [KooroshRZ/Windows-DLL-Injector](https://github.com/KooroshRZ/Windows-DLL-Injector) - Some DLL Injection techniques in C++ implemented for both x86 and x64 windows OS processes
 - [AYIDouble/Simple-DLL-Injection](https://github.com/AYIDouble/Simple-DLL-Injection) - 🔧 Simple DLL Injection into a Process with C++ 🔧
 - [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft) - Simple C++ program to capture and display all traffic between a client and a server in minecraft
@@ -163,6 +166,7 @@
 
 ## Dockerfile 
 
+- [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [PeterDaveHello/tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) - 🐳 Tiny Docker image (🤏 10MB) as 🧅 Tor SOCKS5 proxy 🛡
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [onplus/v2hero](https://github.com/onplus/v2hero) - All Free . Deploy V2Ray to Heroku . v2ray学习参考
@@ -666,7 +670,7 @@
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [sbaack/archive-md-urls](https://github.com/sbaack/archive-md-urls) - Turn URLs in Markdown files into archive.org snapshots
 - [ptswarm/reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
-- [honeynet/GreedyBear](https://github.com/honeynet/GreedyBear) - Threat Intel Platform for T-POTs
+- [intelowlproject/GreedyBear](https://github.com/intelowlproject/GreedyBear) - Threat Intel Platform for T-POTs
 - [alechilczenko/spidex](https://github.com/alechilczenko/spidex) - A little internet crawler
 - [TuYuxiao/face_recognize](https://github.com/TuYuxiao/face_recognize) - 
 - [rscloura/Doldrums](https://github.com/rscloura/Doldrums) - A Flutter/Dart reverse engineering tool
