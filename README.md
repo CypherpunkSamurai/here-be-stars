@@ -104,6 +104,7 @@
 
 ## C++ 
 
+- [ferhatgec/curl4cpp](https://github.com/ferhatgec/curl4cpp) - Single header cURL wrapper for C++ around libcURL
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) - C++ client for making HTTP/REST requests
 - [KooroshRZ/Windows-DLL-Injector](https://github.com/KooroshRZ/Windows-DLL-Injector) - Some DLL Injection techniques in C++ implemented for both x86 and x64 windows OS processes
