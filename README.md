@@ -68,6 +68,7 @@
 
 ## C 
 
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
 - [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
 - [aresrpg/minecraft-dissector](https://github.com/aresrpg/minecraft-dissector) - A wireshark dissector for the Minecraft protocol using https://github.com/PrismarineJS/minecraft-data
 - [uis246/MCPC_dissect](https://github.com/uis246/MCPC_dissect) - Minecraft PC wireshark dissector
@@ -104,6 +105,7 @@
 
 ## C++ 
 
+- [radareorg/iaito](https://github.com/radareorg/iaito) - Official QT frontend of radare2
 - [ferhatgec/curl4cpp](https://github.com/ferhatgec/curl4cpp) - Single header cURL wrapper for C++ around libcURL
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) - C++ client for making HTTP/REST requests
@@ -405,6 +407,7 @@
 
 ## JavaScript 
 
+- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
 - [PrismarineJS/minecraft-packets](https://github.com/PrismarineJS/minecraft-packets) - Stores minecraft packets to test implementation of the minecraft protocol
 - [Heath123/pakkit](https://github.com/Heath123/pakkit) - 
 - [Mz49/emuparadise-mirror](https://github.com/Mz49/emuparadise-mirror) - A Cloudflare Worker script that mirrors EmuParadise and alters download pages to include a working link.
@@ -502,6 +505,7 @@
 
 ## Jupyter Notebook 
 
+- [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
 - [arty4999/UnstableFusion](https://github.com/arty4999/UnstableFusion) - 
 - [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
 - [tugstugi/dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks) - Try out  deep learning models online on Google Colab
