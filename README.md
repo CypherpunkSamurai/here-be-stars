@@ -68,6 +68,7 @@
 
 ## C 
 
+- [simple2d/simple2d](https://github.com/simple2d/simple2d) - :video_game: Simple, open-source 2D graphics for everyone
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
 - [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
 - [aresrpg/minecraft-dissector](https://github.com/aresrpg/minecraft-dissector) - A wireshark dissector for the Minecraft protocol using https://github.com/PrismarineJS/minecraft-data
@@ -184,6 +185,7 @@
 
 ## Go 
 
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [forewing/csgo-rcon](https://github.com/forewing/csgo-rcon) - Golang package for CS:GO RCON Protocol client. Also support other games using the protocol (Source Engine games, Minecraft, etc.)
 - [Narasimha1997/tor-proxy](https://github.com/Narasimha1997/tor-proxy) - An experimental Tor-Proxy serivce written in Go using Go-proxy and Go-libtor.
@@ -325,6 +327,7 @@
 
 ## Java 
 
+- [ripmeapp2/ripme](https://github.com/ripmeapp2/ripme) - Downloads albums in bulk
 - [FasterXML/jackson-annotations](https://github.com/FasterXML/jackson-annotations) - Core annotations (annotations that only depend on jackson-core) for Jackson data processor
 - [MarinX/godroid](https://github.com/MarinX/godroid) - Golang 1.4 beta on Android
 - [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 12.0 in business version)
@@ -534,6 +537,10 @@
 
 ## Lua 
 
+- [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
+- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
+- [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
+- [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [librespot-org/spotify-analyze](https://github.com/librespot-org/spotify-analyze) - Spotify Reverse Engineering tools and scripts
 - [plietar/spotify-analyze](https://github.com/plietar/spotify-analyze) - Spotify Reverse Engineering tools and scripts
 
@@ -697,7 +704,7 @@
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
 - [mzjdy/MobaXterm-Keygen](https://github.com/mzjdy/MobaXterm-Keygen) - MobaXterm Keygen Originally by DoubleLabyrinth
-- [rainbowpigeon/sublime-text-4-patcher](https://github.com/rainbowpigeon/sublime-text-4-patcher) - Python 3 patcher for Sublime Text v4107-4134 Windows x64
+- [rainbowpigeon/sublime-text-4-patcher](https://github.com/rainbowpigeon/sublime-text-4-patcher) - Python 3 patcher for Sublime Text v4107-4137 Windows x64
 - [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
 - [python-geeks/Automation-scripts](https://github.com/python-geeks/Automation-scripts) - Repo for creating awesome automation scripts to make my panda lazier
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -792,6 +799,7 @@
 
 ## Shell 
 
+- [alcove-sh/Alcove.sh](https://github.com/alcove-sh/Alcove.sh) - Yet Another chroot script to run Linux on Android.
 - [nlitsme/whatsapp-apk-proto](https://github.com/nlitsme/whatsapp-apk-proto) - Changes in the whatsapp protocol as extracted from apk files
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [Hax4us/java](https://github.com/Hax4us/java) - This package of java (openjdk) is specially for termux users (without rooted phone) But it is unstable or beta version and I will update it soon with stable one
@@ -872,6 +880,8 @@
 
 ## Vim Script 
 
+- [hiyali/nvim](https://github.com/hiyali/nvim) - ❤️  A neovim config repo.
+- [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite [best] text editor
 - [tpope/vim-endwise](https://github.com/tpope/vim-endwise) - endwise.vim: Wisely add
 - [rstacruz/vim-closer](https://github.com/rstacruz/vim-closer) - Closes brackets
 - [justinmk/vim-gtfo](https://github.com/justinmk/vim-gtfo) - Go to Terminal or File manager :point_right:
@@ -883,6 +893,7 @@
 
 ## Vue 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
 - [shcant/vuepress-theme-casper](https://github.com/shcant/vuepress-theme-casper) - Ghost default theme ported to vuepress
 - [ismailnguyen/vue-dark-mode-switch](https://github.com/ismailnguyen/vue-dark-mode-switch) - VueJS Dark mode switch component
