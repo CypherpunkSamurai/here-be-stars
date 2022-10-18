@@ -68,6 +68,7 @@
 
 ## C 
 
+- [Ximerixx/freezer](https://github.com/Ximerixx/freezer) - 
 - [simple2d/simple2d](https://github.com/simple2d/simple2d) - :video_game: Simple, open-source 2D graphics for everyone
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
 - [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
@@ -327,6 +328,9 @@
 
 ## Java 
 
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+- [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) - A syntax highlighting, code folding text editor for Java Swing applications.
+- [rejochandran/Text-Editor-in-Java](https://github.com/rejochandran/Text-Editor-in-Java) - Text Editor in Java with syntax highlighting
 - [ripmeapp2/ripme](https://github.com/ripmeapp2/ripme) - Downloads albums in bulk
 - [FasterXML/jackson-annotations](https://github.com/FasterXML/jackson-annotations) - Core annotations (annotations that only depend on jackson-core) for Jackson data processor
 - [MarinX/godroid](https://github.com/MarinX/godroid) - Golang 1.4 beta on Android
@@ -623,6 +627,8 @@
 
 ## Python 
 
+- [rllola/deezer-dl](https://github.com/rllola/deezer-dl) - Deezer downloader cli
+- [magneto261290/deezloader](https://github.com/magneto261290/deezloader) - Grabbed from pypi.org    (Deleted repo of https://github.com/An0nimia)
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [eyaadh/megadlbot_oss](https://github.com/eyaadh/megadlbot_oss) - Megatron was a telegram file management bot that helped a lot of users, specially movie channel managers to upload their files to telegram by just providing a link to it. The project initially started
 - [Owen-Cochell/mctools](https://github.com/Owen-Cochell/mctools) - Minecraft Connection Tools - Python implementations of common Minecraft protocols.
@@ -824,7 +830,7 @@
 - [lem0nez/bashapk](https://github.com/lem0nez/bashapk) - Diet pills for APK files
 - [firmadyne/firmadyne](https://github.com/firmadyne/firmadyne) - Platform for emulation and dynamic analysis of Linux-based firmware
 - [ohmybahgosh/YT-DLP-SCRIPTS](https://github.com/ohmybahgosh/YT-DLP-SCRIPTS) - ...Just a place for me to share my various YT-DLP & related bash scripts.
-- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
+- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - 
 - [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
 - [Kingsman44/Pixelify](https://github.com/Kingsman44/Pixelify) - Magisk module to enables pixel exclusive features and ui
 - [viperML/qemu-android-x86](https://github.com/viperML/qemu-android-x86) - Android-x86 environment via QEMU and VirGL
@@ -853,6 +859,7 @@
 
 ## TypeScript 
 
+- [Almo7aya/audio-encryption](https://github.com/Almo7aya/audio-encryption) - https://almo7aya.github.io/audio-encryption/
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [ndunks/whatsapp-protobuf](https://github.com/ndunks/whatsapp-protobuf) - 
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
