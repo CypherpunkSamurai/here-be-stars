@@ -291,6 +291,7 @@
 
 ## HTML 
 
+- [wadezhan/billfeller.github.io](https://github.com/wadezhan/billfeller.github.io) - 
 - [HangZhouCat/ReaverAPKTools](https://github.com/HangZhouCat/ReaverAPKTools) - 逆向APK工具
 - [WSG88/ak47](https://github.com/WSG88/ak47) - 
 - [MrGreensWorkshop/MrGreen-JekyllTheme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) - Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.
@@ -328,6 +329,7 @@
 
 ## Java 
 
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) - A syntax highlighting, code folding text editor for Java Swing applications.
 - [rejochandran/Text-Editor-in-Java](https://github.com/rejochandran/Text-Editor-in-Java) - Text Editor in Java with syntax highlighting
@@ -414,6 +416,7 @@
 
 ## JavaScript 
 
+- [Amithab/Ace-Editor-example](https://github.com/Amithab/Ace-Editor-example) - Basic custom theme, mode, and autcomplete for Ace editor
 - [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
 - [PrismarineJS/minecraft-packets](https://github.com/PrismarineJS/minecraft-packets) - Stores minecraft packets to test implementation of the minecraft protocol
 - [Heath123/pakkit](https://github.com/Heath123/pakkit) - 
@@ -523,6 +526,7 @@
 
 ## Kotlin 
 
+- [oianmol/DiscordJetpackCompose](https://github.com/oianmol/DiscordJetpackCompose) - A Jetpack compose clone for Discord Android Client
 - [recloudstream/plugin-template](https://github.com/recloudstream/plugin-template) - 
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading Movies, TV-Series and Anime.
 - [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
@@ -805,6 +809,7 @@
 
 ## Shell 
 
+- [Treecord/Treecord](https://github.com/Treecord/Treecord) - A modded Discord client for Android
 - [alcove-sh/Alcove.sh](https://github.com/alcove-sh/Alcove.sh) - Yet Another chroot script to run Linux on Android.
 - [nlitsme/whatsapp-apk-proto](https://github.com/nlitsme/whatsapp-apk-proto) - Changes in the whatsapp protocol as extracted from apk files
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
@@ -859,6 +864,9 @@
 
 ## TypeScript 
 
+- [goorm-dev/lsp-editor-adapter](https://github.com/goorm-dev/lsp-editor-adapter) - Connects language servers with the CodeMirror editor
+- [krassowski/lsp-ws-connection](https://github.com/krassowski/lsp-ws-connection) - Easily connect language servers over websockets. A LSP-aware wrapper for vscode-ws-jsonrpc.
+- [wylieconlon/lsp-editor-adapter](https://github.com/wylieconlon/lsp-editor-adapter) - Connects language servers with the CodeMirror editor
 - [Almo7aya/audio-encryption](https://github.com/Almo7aya/audio-encryption) - https://almo7aya.github.io/audio-encryption/
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [ndunks/whatsapp-protobuf](https://github.com/ndunks/whatsapp-protobuf) - 
@@ -896,6 +904,7 @@
 
 ## Visual Basic .NET 
 
+- [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - Media downloader from any sites, including Twitter, Reddit, Instagram, TikTok, XVIDEOS etc.
 - [shanxing2/ShanXingTech.Net2.BaiduNetdisk](https://github.com/shanxing2/ShanXingTech.Net2.BaiduNetdisk) - 百度网盘相关
 
 ## Vue 
