@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -50,10 +49,6 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
-## Assembly 
-
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
-
 ## Batchfile 
 
 - [osm0sis/Android-Image-Kitchen](https://github.com/osm0sis/Android-Image-Kitchen) - Automated scripts to unpack/repack Android kernel/recovery images + ramdisks
@@ -85,6 +80,7 @@
 - [NoraCodes/crackmes](https://github.com/NoraCodes/crackmes) - Some CrackMe codes for Linux x86/x86_64
 - [rralf/ws2801_linux_driver_tutorial](https://github.com/rralf/ws2801_linux_driver_tutorial) - 
 - [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt) - Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [hackndev/qemu](https://github.com/hackndev/qemu) - 
 - [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
 - [green-green-avk/proot](https://github.com/green-green-avk/proot) - Original PRoot clone extended for better compatibility with Android versions 4.0 - 10.
@@ -186,6 +182,8 @@
 
 ## Go 
 
+- [msquee/go-websockify](https://github.com/msquee/go-websockify) - Pure Go implementation of novnc/websockify TCP to WebSocket proxy with improved connection handling. Runs on Linux, Windows and MacOS.
+- [miladj/websockify-go](https://github.com/miladj/websockify-go) - websockify implementation in golang
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [forewing/csgo-rcon](https://github.com/forewing/csgo-rcon) - Golang package for CS:GO RCON Protocol client. Also support other games using the protocol (Source Engine games, Minecraft, etc.)
@@ -291,6 +289,8 @@
 
 ## HTML 
 
+- [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
+- [wsztrush/wsztrush.github.io](https://github.com/wsztrush/wsztrush.github.io) - 
 - [wadezhan/billfeller.github.io](https://github.com/wadezhan/billfeller.github.io) - 
 - [HangZhouCat/ReaverAPKTools](https://github.com/HangZhouCat/ReaverAPKTools) - 逆向APK工具
 - [WSG88/ak47](https://github.com/WSG88/ak47) - 
@@ -416,6 +416,10 @@
 
 ## JavaScript 
 
+- [tigoe/websocket-examples](https://github.com/tigoe/websocket-examples) - Examples for websocket clients and servers
+- [shineyZhou/HQL-Editor](https://github.com/shineyZhou/HQL-Editor) - Editor with Highlight Function
+- [KarthickMathesh/Text-Editor](https://github.com/KarthickMathesh/Text-Editor) - Text Editor created using ace.js with Emmet auto completion features.
+- [p2004a/ace-clang-completion-poc](https://github.com/p2004a/ace-clang-completion-poc) - Proof of concept of Clang completion through WebSockets in Ace editor.
 - [Amithab/Ace-Editor-example](https://github.com/Amithab/Ace-Editor-example) - Basic custom theme, mode, and autcomplete for Ace editor
 - [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
 - [PrismarineJS/minecraft-packets](https://github.com/PrismarineJS/minecraft-packets) - Stores minecraft packets to test implementation of the minecraft protocol
@@ -864,6 +868,8 @@
 
 ## TypeScript 
 
+- [kaitai-io/kaitai_struct_webide](https://github.com/kaitai-io/kaitai_struct_webide) - Online editor / visualizer for Kaitai Struct .ksy files
+- [sluger/ace-ts-editor](https://github.com/sluger/ace-ts-editor) - Ace Typescript editor supporting custom language through completers with Typescript, Rollup and Babel
 - [goorm-dev/lsp-editor-adapter](https://github.com/goorm-dev/lsp-editor-adapter) - Connects language servers with the CodeMirror editor
 - [krassowski/lsp-ws-connection](https://github.com/krassowski/lsp-ws-connection) - Easily connect language servers over websockets. A LSP-aware wrapper for vscode-ws-jsonrpc.
 - [wylieconlon/lsp-editor-adapter](https://github.com/wylieconlon/lsp-editor-adapter) - Connects language servers with the CodeMirror editor
