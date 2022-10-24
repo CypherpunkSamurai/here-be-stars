@@ -34,6 +34,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [R](#r)
 - [Reason](#reason)
@@ -56,7 +57,6 @@
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
 - [vip123456789/Docs](https://github.com/vip123456789/Docs) - 一些文本
 - [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
-- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more!
 - [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
 - [Elenedeath/AIK-Windows-mirror](https://github.com/Elenedeath/AIK-Windows-mirror) - 
 - [BlueMagicalWolf/NoxPlayerPortable-Curl](https://github.com/BlueMagicalWolf/NoxPlayerPortable-Curl) - The Curl version
@@ -633,8 +633,13 @@
 - [JoeJoeTV/startLazarusPortable](https://github.com/JoeJoeTV/startLazarusPortable) - A launcher application for Windows that starts Lazarus from a folder/USB stick and keeps it all contained.
 - [Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp) - A fast, portable, simple, and free C/C++ IDE
 
+## PowerShell 
+
+- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more 😉
+
 ## Python 
 
+- [VNAPNIC/public-apis](https://github.com/VNAPNIC/public-apis) - A collective list of free APIs for use in software development
 - [rllola/deezer-dl](https://github.com/rllola/deezer-dl) - Deezer downloader cli
 - [magneto261290/deezloader](https://github.com/magneto261290/deezloader) - Grabbed from pypi.org    (Deleted repo of https://github.com/An0nimia)
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
