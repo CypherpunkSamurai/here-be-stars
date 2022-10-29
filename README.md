@@ -329,7 +329,7 @@
 
 ## Java 
 
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) - A syntax highlighting, code folding text editor for Java Swing applications.
 - [rejochandran/Text-Editor-in-Java](https://github.com/rejochandran/Text-Editor-in-Java) - Text Editor in Java with syntax highlighting
