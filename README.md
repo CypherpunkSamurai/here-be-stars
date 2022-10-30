@@ -373,7 +373,6 @@
 - [google/desugar_jdk_libs](https://github.com/google/desugar_jdk_libs) - 
 - [weimingtom/dalvik_cygwin_port](https://github.com/weimingtom/dalvik_cygwin_port) - Experimental project for porting dalvik to cygwin, it's a very old version of dalvik.
 - [Insight-deviler/jar2dex-and-dex-merger](https://github.com/Insight-deviler/jar2dex-and-dex-merger) - Merge dex, convert jar or classes to dex, convert folder containing jar or classes to dex in Android
-- [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 - [google/bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
 - [moneytoo/Player](https://github.com/moneytoo/Player) - ▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer
 - [apkunpacker/Smali2Frida](https://github.com/apkunpacker/Smali2Frida) - 
@@ -536,6 +535,7 @@
 - [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
 - [hamidrezasahraei/MusicAppComposeUI](https://github.com/hamidrezasahraei/MusicAppComposeUI) - A sample Music Player project that help you learn about Compose in Android. Note that this app only contain UI and has no logic. The design is inspired from this and this.
 - [markusressel/KodeEditor](https://github.com/markusressel/KodeEditor) - A simple code editor with syntax highlighting and pinch to zoom
+- [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 - [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist only client, which lets you stream & download Anime & Manga.
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
 - [Jacekun/CloudStream-3XXX](https://github.com/Jacekun/CloudStream-3XXX) - 
