@@ -182,6 +182,7 @@
 
 ## Go 
 
+- [glanderson42/gomk](https://github.com/glanderson42/gomk) - Json based built system for Go, written in Go!
 - [msquee/go-websockify](https://github.com/msquee/go-websockify) - Pure Go implementation of novnc/websockify TCP to WebSocket proxy with improved connection handling. Runs on Linux, Windows and MacOS.
 - [miladj/websockify-go](https://github.com/miladj/websockify-go) - websockify implementation in golang
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
@@ -614,7 +615,7 @@
 - [W00t3k/Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Awesome-Cellular-Hacking
 - [jmir1/aniyomi-preview](https://github.com/jmir1/aniyomi-preview) - 
 - [R0-Crew/CipherHater-Club](https://github.com/R0-Crew/CipherHater-Club) - "We always hack programs which you cannot competently protect..." © CipherHater
-- [llacb47/miscfilters](https://github.com/llacb47/miscfilters) - 
+- [liamengland1/miscfilters](https://github.com/liamengland1/miscfilters) - 
 - [acnapyx/paywall-remover](https://github.com/acnapyx/paywall-remover) - Block insecure paywalls using AdBlock.
 - [sweat89/wide](https://github.com/sweat89/wide) - A simple Web IDE for golang
 - [ArchiveBox/good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - 😇  A Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more...
