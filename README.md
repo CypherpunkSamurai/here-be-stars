@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -50,6 +51,10 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
+## Assembly 
+
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+
 ## Batchfile 
 
 - [osm0sis/Android-Image-Kitchen](https://github.com/osm0sis/Android-Image-Kitchen) - Automated scripts to unpack/repack Android kernel/recovery images + ramdisks
@@ -80,7 +85,6 @@
 - [NoraCodes/crackmes](https://github.com/NoraCodes/crackmes) - Some CrackMe codes for Linux x86/x86_64
 - [rralf/ws2801_linux_driver_tutorial](https://github.com/rralf/ws2801_linux_driver_tutorial) - 
 - [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt) - Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [hackndev/qemu](https://github.com/hackndev/qemu) - 
 - [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
 - [green-green-avk/proot](https://github.com/green-green-avk/proot) - Original PRoot clone extended for better compatibility with Android versions 4.0 - 10.
@@ -92,6 +96,8 @@
 
 ## C# # 
 
+- [dotnet/TorchSharp](https://github.com/dotnet/TorchSharp) - A .NET library that provides access to the library that powers PyTorch.
+- [NMZivkovic/BertTokenizers](https://github.com/NMZivkovic/BertTokenizers) - Open source project for BERT Tokenizers in C#.
 - [djkaty/Il2CppProtoExtractor-FallGuys](https://github.com/djkaty/Il2CppProtoExtractor-FallGuys) - IL2CPP protobuf-net reverse engineering tutorial for Fall Guys: Ultimate Knockout
 - [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
 - [taylormcnally/YDrive](https://github.com/taylormcnally/YDrive) - Free unlimited file storage using your YouTube account
@@ -182,6 +188,7 @@
 
 ## Go 
 
+- [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [glanderson42/gomk](https://github.com/glanderson42/gomk) - Json based built system for Go, written in Go!
 - [msquee/go-websockify](https://github.com/msquee/go-websockify) - Pure Go implementation of novnc/websockify TCP to WebSocket proxy with improved connection handling. Runs on Linux, Windows and MacOS.
 - [miladj/websockify-go](https://github.com/miladj/websockify-go) - websockify implementation in golang
@@ -787,6 +794,8 @@
 
 ## Rust 
 
+- [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
+- [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [qualified/lsp-ws-proxy](https://github.com/qualified/lsp-ws-proxy) - WebSocketify any Language Server
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
 - [evilsocket/mcaptcha_bypass](https://github.com/evilsocket/mcaptcha_bypass) - PoC to bypass mCaptcha and its rate limiting capabilities from a fully automated bot.
