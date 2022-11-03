@@ -152,6 +152,7 @@
 
 ## CSS 
 
+- [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
 - [hdxw/hexo-theme-prowiki](https://github.com/hdxw/hexo-theme-prowiki) - 自制精简hexo模板
 - [glazec/hexo-cheatsheets](https://github.com/glazec/hexo-cheatsheets) - a cheatsheets theme for hexo
 - [amsitlab/amsitlab.github.io](https://github.com/amsitlab/amsitlab.github.io) - Amsitlab
@@ -537,6 +538,7 @@
 
 ## Kotlin 
 
+- [NeNpO/QuillNote](https://github.com/NeNpO/QuillNote) - Take beautiful markdown notes and stay organized with task lists.
 - [oianmol/DiscordJetpackCompose](https://github.com/oianmol/DiscordJetpackCompose) - A Jetpack compose clone for Discord Android Client
 - [recloudstream/plugin-template](https://github.com/recloudstream/plugin-template) - 
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading Movies, TV-Series and Anime.
