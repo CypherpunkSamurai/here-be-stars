@@ -338,6 +338,7 @@
 
 ## Java 
 
+- [TimScriptov/ApkSignatureKill](https://github.com/TimScriptov/ApkSignatureKill) - 
 - [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) - A syntax highlighting, code folding text editor for Java Swing applications.
@@ -649,6 +650,7 @@
 
 ## Python 
 
+- [amlanpatra/daily_stock](https://github.com/amlanpatra/daily_stock) - 
 - [VNAPNIC/public-apis](https://github.com/VNAPNIC/public-apis) - A collective list of free APIs for use in software development
 - [rllola/deezer-dl](https://github.com/rllola/deezer-dl) - Deezer downloader cli
 - [magneto261290/deezloader](https://github.com/magneto261290/deezloader) - Grabbed from pypi.org    (Deleted repo of https://github.com/An0nimia)
