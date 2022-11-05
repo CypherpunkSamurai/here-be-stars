@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -51,10 +50,6 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
-## Assembly 
-
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
-
 ## Batchfile 
 
 - [osm0sis/Android-Image-Kitchen](https://github.com/osm0sis/Android-Image-Kitchen) - Automated scripts to unpack/repack Android kernel/recovery images + ramdisks
@@ -85,6 +80,7 @@
 - [NoraCodes/crackmes](https://github.com/NoraCodes/crackmes) - Some CrackMe codes for Linux x86/x86_64
 - [rralf/ws2801_linux_driver_tutorial](https://github.com/rralf/ws2801_linux_driver_tutorial) - 
 - [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt) - Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [hackndev/qemu](https://github.com/hackndev/qemu) - 
 - [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
 - [green-green-avk/proot](https://github.com/green-green-avk/proot) - Original PRoot clone extended for better compatibility with Android versions 4.0 - 10.
@@ -436,7 +432,7 @@
 - [Mz49/emuparadise-mirror](https://github.com/Mz49/emuparadise-mirror) - A Cloudflare Worker script that mirrors EmuParadise and alters download pages to include a working link.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [aD4wn/Workers-Proxy](https://github.com/aD4wn/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ebenezerdon/nextjs-mdx-blog](https://github.com/ebenezerdon/nextjs-mdx-blog) - A Next.js and MDX blog
 - [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
 - [ikeq/hexo-theme-inside](https://github.com/ikeq/hexo-theme-inside) - 🌈  SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside
