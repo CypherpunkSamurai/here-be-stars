@@ -92,6 +92,7 @@
 
 ## C# # 
 
+- [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 - [dotnet/TorchSharp](https://github.com/dotnet/TorchSharp) - A .NET library that provides access to the library that powers PyTorch.
 - [NMZivkovic/BertTokenizers](https://github.com/NMZivkovic/BertTokenizers) - Open source project for BERT Tokenizers in C#.
 - [djkaty/Il2CppProtoExtractor-FallGuys](https://github.com/djkaty/Il2CppProtoExtractor-FallGuys) - IL2CPP protobuf-net reverse engineering tutorial for Fall Guys: Ultimate Knockout
@@ -581,6 +582,7 @@
 
 ## Others 
 
+- [emantin34/QGISPDAM](https://github.com/emantin34/QGISPDAM) - QGIS Project for Water Supply Company
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [cheshie/secrets](https://github.com/cheshie/secrets) - Various secrets for regex search and rules for DumpsterDiver.py https://github.com/securing/DumpsterDiver
@@ -789,6 +791,7 @@
 
 ## Ruby 
 
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [mohkale/jekyll-site-tree](https://github.com/mohkale/jekyll-site-tree) - create a site tree from a jekyll website
 
