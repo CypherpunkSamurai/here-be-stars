@@ -335,6 +335,8 @@
 
 ## Java 
 
+- [CloudburstMC/ProxyPass](https://github.com/CloudburstMC/ProxyPass) - MITM proxy tool for Minecraft: Bedrock Edition
+- [happylishang/AntiFakerAndroidChecker](https://github.com/happylishang/AntiFakerAndroidChecker) - 设备指纹 获取真实的IMEI AndroidId 序列号 MAC地址等，Android模拟器检测，检测Android模拟器 ，作为可信DeviceID，应对防刷需求等                  Android设备指纹  How to detect Android emulator
 - [TimScriptov/ApkSignatureKill](https://github.com/TimScriptov/ApkSignatureKill) - 
 - [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
