@@ -106,6 +106,7 @@
 
 ## C++ 
 
+- [NepMods/Aide-Imgui](https://github.com/NepMods/Aide-Imgui) - Imgui Project Based On Dear IMGUI, For Aide Users.
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official QT frontend of radare2
 - [ferhatgec/curl4cpp](https://github.com/ferhatgec/curl4cpp) - Single header cURL wrapper for C++ around libcURL
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
@@ -368,7 +369,7 @@
 - [Cosmic-Ide/Cosmic-Ide](https://github.com/Cosmic-Ide/Cosmic-Ide) - A next-gen Ide for JVM development on Android
 - [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future.
 - [Col-E/Bytecode-Modification-Framework](https://github.com/Col-E/Bytecode-Modification-Framework) - A bytecode modification library
-- [synnkfps/JByteCustom](https://github.com/synnkfps/JByteCustom) - A sophisticated Java Decompiler (active maintenance)
+- [synnkfps/JByteCustom](https://github.com/synnkfps/JByteCustom) - project discontinuated
 - [Col-E/JRemapper](https://github.com/Col-E/JRemapper) - Remapping tool for compiled java programs.
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 - [guxingke/mini-jvm](https://github.com/guxingke/mini-jvm) - 使用 JDK8 实现 JVM(Java Virtual Machine)
