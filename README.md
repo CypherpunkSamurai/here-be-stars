@@ -931,7 +931,7 @@
 
 ## Visual Basic .NET 
 
-- [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - Media downloader from any sites, including Twitter, Reddit, Instagram, TikTok, XVIDEOS etc.
+- [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - :rainbow_flag: Media downloader from any sites, including Twitter, Reddit, Instagram, TikTok, XVIDEOS etc.
 - [shanxing2/ShanXingTech.Net2.BaiduNetdisk](https://github.com/shanxing2/ShanXingTech.Net2.BaiduNetdisk) - 百度网盘相关
 
 ## Vue 
