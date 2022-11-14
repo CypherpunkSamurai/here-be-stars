@@ -676,7 +676,7 @@
 - [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) - Patch boot image with magisk on windows/linux
 - [Furniel/Apk-Changer](https://github.com/Furniel/Apk-Changer) - Command line program for modifying apk files
 - [portabledevapps/jupyterlab-portable](https://github.com/portabledevapps/jupyterlab-portable) - 🌌 JUPYTERLAB PORTABLE : Portable version of JupyterLab for Windows. "JupyterLab is the next-generation web-based user interface for Project Jupyter."
-- [angr/binsync](https://github.com/angr/binsync) - A collaborative reversing plugin for cross-decompiler collaboration, built on git.
+- [binsync/binsync](https://github.com/binsync/binsync) - A collaborative reversing plugin for cross-decompiler collaboration, built on git.
 - [marin-m/pbtk](https://github.com/marin-m/pbtk) - A toolset for reverse engineering and fuzzing Protobuf-based apps
 - [Ledger-Donjon/rainbow](https://github.com/Ledger-Donjon/rainbow) - Makes Unicorn traces. Generic Side-Channel and Fault Injection simulator
 - [Pr0214/uTrace](https://github.com/Pr0214/uTrace) - 一个简易的unicorn tracer，剪裁自项目Rainbow。
