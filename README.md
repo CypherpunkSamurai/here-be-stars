@@ -655,6 +655,7 @@
 
 ## Python 
 
+- [reinai/FlappyBirdAI](https://github.com/reinai/FlappyBirdAI) - Various reinforcement learning algorithms applied to Flappy Bird game agent
 - [amlanpatra/daily_stock](https://github.com/amlanpatra/daily_stock) - 
 - [VNAPNIC/public-apis](https://github.com/VNAPNIC/public-apis) - A collective list of free APIs for use in software development
 - [rllola/deezer-dl](https://github.com/rllola/deezer-dl) - Deezer downloader cli
