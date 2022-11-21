@@ -655,6 +655,13 @@
 
 ## Python 
 
+- [rapidrabbit76/stable-diffusion-API](https://github.com/rapidrabbit76/stable-diffusion-API) - Unofficial Fastapi implementation Stable-Diffusion API
+- [kiri-art/docker-compvis-stable-diffusion-api](https://github.com/kiri-art/docker-compvis-stable-diffusion-api) - CompVis Stable Diffusion in docker with a REST API
+- [vexingcodes/slack-stable-diffusion](https://github.com/vexingcodes/slack-stable-diffusion) - A Slack slash-command to generate images using Stable Diffusion
+- [Mikubill/naifu-diffusion](https://github.com/Mikubill/naifu-diffusion) - Train stable diffusion model with Diffusers, Hivemind and Pytorch Lightning
+- [patil-suraj/stable-diffusion-jax](https://github.com/patil-suraj/stable-diffusion-jax) - 
+- [DavidDworetzky/Fastcasso](https://github.com/DavidDworetzky/Fastcasso) - FastApi Implementation of Stable Diffusion Art Generation
+- [shyamsn97/stable-diffusion-server](https://github.com/shyamsn97/stable-diffusion-server) - Stable Diffusion colab server built with fastapi
 - [reinai/FlappyBirdAI](https://github.com/reinai/FlappyBirdAI) - Various reinforcement learning algorithms applied to Flappy Bird game agent
 - [amlanpatra/daily_stock](https://github.com/amlanpatra/daily_stock) - 
 - [VNAPNIC/public-apis](https://github.com/VNAPNIC/public-apis) - A collective list of free APIs for use in software development
@@ -894,6 +901,7 @@
 
 ## TypeScript 
 
+- [yuanqing/stable-diffusion-rest-api](https://github.com/yuanqing/stable-diffusion-rest-api) - 🤗 Run Stable Diffusion locally via a REST API on an M1/M2 MacBook
 - [kaitai-io/kaitai_struct_webide](https://github.com/kaitai-io/kaitai_struct_webide) - Online editor / visualizer for Kaitai Struct .ksy files
 - [sluger/ace-ts-editor](https://github.com/sluger/ace-ts-editor) - Ace Typescript editor supporting custom language through completers with Typescript, Rollup and Babel
 - [goorm-dev/lsp-editor-adapter](https://github.com/goorm-dev/lsp-editor-adapter) - Connects language servers with the CodeMirror editor
