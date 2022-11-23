@@ -178,6 +178,7 @@
 
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [PeterDaveHello/tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) - 🐳 Tiny Docker image (🤏 10MB) as 🧅 Tor SOCKS5 proxy 🛡
+- [julianxhokaxhiu/docker-lineage-cicd](https://github.com/julianxhokaxhiu/docker-lineage-cicd) - Docker microservice for LineageOS Continuous Integration and Continous Deployment
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [onplus/v2hero](https://github.com/onplus/v2hero) - All Free . Deploy V2Ray to Heroku . v2ray学习参考
 
@@ -863,7 +864,6 @@
 - [Apon77Lab/aosp-builder](https://github.com/Apon77Lab/aosp-builder) - Build aosp project in docker with Ubuntu 20.04 via ci environments (by @Apon77)
 - [Apon77/aosp-builder](https://github.com/Apon77/aosp-builder) - Build aosp project in docker with Ubuntu 20.04 via ci environments (by @Apon77)
 - [Chatur27/aosp-builder-8_cores](https://github.com/Chatur27/aosp-builder-8_cores) - Build ROMs in docker with Ubuntu 20.04 via ci environments. This was originally written by @Apon77. I have rewritten it. I have been able to build vanilla version of Sakura arm64 !
-- [julianxhokaxhiu/docker-lineage-cicd](https://github.com/julianxhokaxhiu/docker-lineage-cicd) - Docker microservice for LineageOS Continuous Integration and Continous Deployment
 - [beerpiss/sh0wer](https://github.com/beerpiss/sh0wer) - yet another distribution for jailbreaking A7-A11 iOS devices with checkra1n
 - [puppylinux-woof-CE/woof-CE](https://github.com/puppylinux-woof-CE/woof-CE) - woof - the Puppy builder
 - [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
