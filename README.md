@@ -211,7 +211,6 @@
 - [u3mur4/megadl](https://github.com/u3mur4/megadl) - Golang library to download public files from mega.
 - [Gituser143/cryptgo](https://github.com/Gituser143/cryptgo) - A terminal application to watch crypto prices!
 - [dimaskiddo/go-whatsapp-multidevice-rest](https://github.com/dimaskiddo/go-whatsapp-multidevice-rest) - Go WhatsApp Multi-Device Implementation in REST API with Multi-Session/Account Support
-- [89z/mech](https://github.com/89z/mech) - Download media or send API requests
 - [SpectralOps/netz](https://github.com/SpectralOps/netz) - Discover internet-wide misconfigurations while drinking coffee
 - [HatBoy/Awheel](https://github.com/HatBoy/Awheel) - 分布式信息收集工具（又一个轮子）
 - [diamondburned/gotk4-examples](https://github.com/diamondburned/gotk4-examples) - Examples for writing GTK4 applications in Go
