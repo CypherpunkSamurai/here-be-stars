@@ -340,6 +340,7 @@
 
 ## Java 
 
+- [micha4w/MC-PacketRouter](https://github.com/micha4w/MC-PacketRouter) - Simple Fabric Mod that catches *valid* Mineraft Packets
 - [CloudburstMC/ProxyPass](https://github.com/CloudburstMC/ProxyPass) - MITM proxy tool for Minecraft: Bedrock Edition
 - [happylishang/AntiFakerAndroidChecker](https://github.com/happylishang/AntiFakerAndroidChecker) - 设备指纹 获取真实的IMEI AndroidId 序列号 MAC地址等，Android模拟器检测，检测Android模拟器 ，作为可信DeviceID，应对防刷需求等                  Android设备指纹  How to detect Android emulator
 - [TimScriptov/ApkSignatureKill](https://github.com/TimScriptov/ApkSignatureKill) - 
@@ -655,6 +656,8 @@
 
 ## Python 
 
+- [Criptc/minecraft-handmade-headless-client](https://github.com/Criptc/minecraft-handmade-headless-client) - A minecraft client that I hand made. Still very WIP
+- [Gaming32/Minecraft-Protocol](https://github.com/Gaming32/Minecraft-Protocol) - interaction with minecraft server/client protocol
 - [hafriedlander/stable-diffusion-grpcserver](https://github.com/hafriedlander/stable-diffusion-grpcserver) - An implementation of a server for the Stability AI Stable Diffusion API
 - [rapidrabbit76/stable-diffusion-API](https://github.com/rapidrabbit76/stable-diffusion-API) - Unofficial Fastapi implementation Stable-Diffusion API
 - [kiri-art/docker-compvis-stable-diffusion-api](https://github.com/kiri-art/docker-compvis-stable-diffusion-api) - CompVis Stable Diffusion in docker with a REST API
