@@ -659,7 +659,7 @@
 - [Criptc/minecraft-handmade-headless-client](https://github.com/Criptc/minecraft-handmade-headless-client) - A minecraft client that I hand made. Still very WIP
 - [Gaming32/Minecraft-Protocol](https://github.com/Gaming32/Minecraft-Protocol) - interaction with minecraft server/client protocol
 - [hafriedlander/stable-diffusion-grpcserver](https://github.com/hafriedlander/stable-diffusion-grpcserver) - An implementation of a server for the Stability AI Stable Diffusion API
-- [rapidrabbit76/stable-diffusion-API](https://github.com/rapidrabbit76/stable-diffusion-API) - Unofficial Fastapi implementation Stable-Diffusion API
+- [rapidrabbit76/stable-diffusion-API](https://github.com/rapidrabbit76/stable-diffusion-API) - Unofficial Fastapi implementation of Stable-Diffusion API
 - [kiri-art/docker-compvis-stable-diffusion-api](https://github.com/kiri-art/docker-compvis-stable-diffusion-api) - CompVis Stable Diffusion in docker with a REST API
 - [vexingcodes/slack-stable-diffusion](https://github.com/vexingcodes/slack-stable-diffusion) - A Slack slash-command to generate images using Stable Diffusion
 - [Mikubill/naifu-diffusion](https://github.com/Mikubill/naifu-diffusion) - Train stable diffusion model with Diffusers, Hivemind and Pytorch Lightning
@@ -904,6 +904,7 @@
 
 ## TypeScript 
 
+- [cocos/cocos-example-cartoon-vegetation](https://github.com/cocos/cocos-example-cartoon-vegetation) - 
 - [yuanqing/stable-diffusion-rest-api](https://github.com/yuanqing/stable-diffusion-rest-api) - 🤗 Run Stable Diffusion locally via a REST API on an M1/M2 MacBook
 - [kaitai-io/kaitai_struct_webide](https://github.com/kaitai-io/kaitai_struct_webide) - Online editor / visualizer for Kaitai Struct .ksy files
 - [sluger/ace-ts-editor](https://github.com/sluger/ace-ts-editor) - Ace Typescript editor supporting custom language through completers with Typescript, Rollup and Babel
