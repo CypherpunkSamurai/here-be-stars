@@ -656,6 +656,7 @@
 
 ## Python 
 
+- [noshbar/SDGG](https://github.com/noshbar/SDGG) - Stable Diffusion Gradio GUI
 - [Criptc/minecraft-handmade-headless-client](https://github.com/Criptc/minecraft-handmade-headless-client) - A minecraft client that I hand made. Still very WIP
 - [Gaming32/Minecraft-Protocol](https://github.com/Gaming32/Minecraft-Protocol) - interaction with minecraft server/client protocol
 - [hafriedlander/stable-diffusion-grpcserver](https://github.com/hafriedlander/stable-diffusion-grpcserver) - An implementation of a server for the Stability AI Stable Diffusion API
