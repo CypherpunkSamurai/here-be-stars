@@ -86,7 +86,6 @@
 - [rralf/ws2801_linux_driver_tutorial](https://github.com/rralf/ws2801_linux_driver_tutorial) - 
 - [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt) - Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.
 - [hackndev/qemu](https://github.com/hackndev/qemu) - 
-- [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
 - [green-green-avk/proot](https://github.com/green-green-avk/proot) - Original PRoot clone extended for better compatibility with Android versions 4.0 - 10.
 - [OWASP/IoTGoat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
@@ -400,6 +399,7 @@
 - [ahmadaghazadeh/CodeEditor](https://github.com/ahmadaghazadeh/CodeEditor) - Code Editor Native Way
 - [CloudburstMC/Protocol](https://github.com/CloudburstMC/Protocol) - A protocol library for Minecraft Bedrock Edition
 - [HemanthJabalpuri/AndroidExplorer](https://github.com/HemanthJabalpuri/AndroidExplorer) - Build android app from command line without Gradle/Ant.
+- [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
 - [las1991/arc-face](https://github.com/las1991/arc-face) - 
 - [V-Progress/ybFace_jd](https://github.com/V-Progress/ybFace_jd) - 
 - [ihxjie/MONDAY](https://github.com/ihxjie/MONDAY) - 毕业设计课题：签到系统-学生端
@@ -533,6 +533,7 @@
 
 ## Jupyter Notebook 
 
+- [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
 - [arty4999/UnstableFusion](https://github.com/arty4999/UnstableFusion) - 
 - [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
@@ -954,6 +955,7 @@
 
 ## Vue 
 
+- [aqualxx/stable-ui](https://github.com/aqualxx/stable-ui) - 🔥 A frontend for generating images with Stable Diffusion through Stable Horde
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
 - [shcant/vuepress-theme-casper](https://github.com/shcant/vuepress-theme-casper) - Ghost default theme ported to vuepress
