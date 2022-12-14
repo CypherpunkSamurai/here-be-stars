@@ -614,7 +614,6 @@
 - [minhgalaxy/flutter](https://github.com/minhgalaxy/flutter) - Some helpful script to bypass SSL Pinning of Flutter
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [jiotv/jiotvtoken](https://github.com/jiotv/jiotvtoken) - jiotv token for IPTV
-- [flyt3e/TainerApp](https://github.com/flyt3e/TainerApp) - Run Linux distribution on Android.
 - [Shigetorum635/Watson](https://github.com/Shigetorum635/Watson) - Gitpod Firefox VNC Workspace
 - [kikfox/kikfox](https://github.com/kikfox/kikfox) - A resource obfuscated apk & xapk decompiling tool
 - [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
