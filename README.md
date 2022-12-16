@@ -109,6 +109,7 @@
 
 ## C++ 
 
+- [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [NepMods/Aide-Imgui](https://github.com/NepMods/Aide-Imgui) - Imgui Project Based On Dear IMGUI, For Aide Users.
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official QT frontend of radare2
 - [ferhatgec/curl4cpp](https://github.com/ferhatgec/curl4cpp) - Single header cURL wrapper for C++ around libcURL
