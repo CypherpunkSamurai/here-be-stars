@@ -288,6 +288,7 @@
 - [wafer-bw/whatsmyip](https://github.com/wafer-bw/whatsmyip) - Golang API deployed as a Vercel Serverless Function that returns your public IP address
 - [forrestjgq/gmeter](https://github.com/forrestjgq/gmeter) - gmeter customizes HTTP RESTful clients and HTTP RESTful servers and runs them by configuration. With variable and command system supports, json acts as a script language to process HTTP request and re
 - [drachenfels-de/http-static](https://github.com/drachenfels-de/http-static) - Simple HTTP static files server.
+- [txthinking/nami](https://github.com/txthinking/nami) - The easy way to download anything from anywhere. 从任何地方下载任何东西
 - [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. zoro 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. 内网穿透.
 - [bitcav/nitr](https://github.com/bitcav/nitr) - :computer: Nitr is a System and Hardware Inspection and Monitoring Web API.
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
@@ -509,7 +510,6 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [txthinking/nami](https://github.com/txthinking/nami) - The easy way to download anything from anywhere. 从任何地方下载任何东西
 - [siyujie/OkHttpLogger-Frida](https://github.com/siyujie/OkHttpLogger-Frida) - Frida 实现拦截okhttp的脚本
 - [CypherpunkSamurai/node-red-heroku](https://github.com/CypherpunkSamurai/node-red-heroku) - Node-RED in Heroku. A visual tool for wiring the Internet of Things.
 - [CypherpunkSamurai/node-red-pg](https://github.com/CypherpunkSamurai/node-red-pg) - 
