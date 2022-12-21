@@ -184,7 +184,7 @@
 
 ## EJS 
 
-- [Ares-X/hexo-theme-freemind.bithack](https://github.com/Ares-X/hexo-theme-freemind.bithack) - Another hexo theme based on freemind.386
+- [Ares-X/hexo-theme-freemind.bithack](https://github.com/Ares-X/hexo-theme-freemind.bithack) - Hexo dark theme based on freemind.386
 
 ## Emacs Lisp 
 
