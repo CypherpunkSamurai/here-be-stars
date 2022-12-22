@@ -657,6 +657,7 @@
 
 ## Python 
 
+- [shenao1100/Baidu_Netdisk_thirdpart](https://github.com/shenao1100/Baidu_Netdisk_thirdpart) - 百度网盘第三方管理工具
 - [noshbar/SDGG](https://github.com/noshbar/SDGG) - Stable Diffusion Gradio GUI
 - [Criptc/minecraft-handmade-headless-client](https://github.com/Criptc/minecraft-handmade-headless-client) - A minecraft client that I hand made. Still very WIP
 - [Gaming32/Minecraft-Protocol](https://github.com/Gaming32/Minecraft-Protocol) - interaction with minecraft server/client protocol
