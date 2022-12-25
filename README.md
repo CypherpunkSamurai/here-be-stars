@@ -432,6 +432,7 @@
 
 ## JavaScript 
 
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [tigoe/websocket-examples](https://github.com/tigoe/websocket-examples) - Examples for websocket clients and servers
 - [shineyZhou/HQL-Editor](https://github.com/shineyZhou/HQL-Editor) - Editor with Highlight Function
 - [KarthickMathesh/Text-Editor](https://github.com/KarthickMathesh/Text-Editor) - Text Editor created using ace.js with Emmet auto completion features.
@@ -546,6 +547,7 @@
 
 ## Kotlin 
 
+- [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [NeNpO/QuillNote](https://github.com/NeNpO/QuillNote) - Take beautiful markdown notes and stay organized with task lists.
 - [oianmol/DiscordJetpackCompose](https://github.com/oianmol/DiscordJetpackCompose) - A Jetpack compose clone for Discord Android Client
 - [recloudstream/plugin-template](https://github.com/recloudstream/plugin-template) - 
@@ -592,6 +594,7 @@
 
 ## Others 
 
+- [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [emantin34/QGISPDAM](https://github.com/emantin34/QGISPDAM) - QGIS Project for Water Supply Company
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
