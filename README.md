@@ -64,7 +64,7 @@
 - [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
 - [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
 - [Elenedeath/AIK-Windows-mirror](https://github.com/Elenedeath/AIK-Windows-mirror) - 
-- [BlueMagicalWolf/NoxPlayerPortable-Curl](https://github.com/BlueMagicalWolf/NoxPlayerPortable-Curl) - The Curl version
+- [Raycast7373/NoxPlayerPortable-Curl](https://github.com/Raycast7373/NoxPlayerPortable-Curl) - The Curl version
 
 ## C 
 
@@ -663,6 +663,7 @@
 
 ## Python 
 
+- [arenatemp/sd-tagging-helper](https://github.com/arenatemp/sd-tagging-helper) - 
 - [Linaqruf/kohya-trainer](https://github.com/Linaqruf/kohya-trainer) - Adapted from https://note.com/kohya_ss/n/nbf7ce8d80f29 for easier cloning
 - [rundfunk47/Google-Image-Scraper](https://github.com/rundfunk47/Google-Image-Scraper) - A library to scrape and resize google images, focusing on faces - mainly for machine learning (Stable Diffusion)
 - [shenao1100/Baidu_Netdisk_thirdpart](https://github.com/shenao1100/Baidu_Netdisk_thirdpart) - 百度网盘第三方管理工具
