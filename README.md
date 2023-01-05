@@ -100,7 +100,7 @@
 - [NMZivkovic/BertTokenizers](https://github.com/NMZivkovic/BertTokenizers) - Open source project for BERT Tokenizers in C#.
 - [djkaty/Il2CppProtoExtractor-FallGuys](https://github.com/djkaty/Il2CppProtoExtractor-FallGuys) - IL2CPP protobuf-net reverse engineering tutorial for Fall Guys: Ultimate Knockout
 - [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
-- [taylormcnally/YDrive](https://github.com/taylormcnally/YDrive) - Free unlimited file storage using your YouTube account
+- [tensorneko/YDrive](https://github.com/tensorneko/YDrive) - Free unlimited file storage using your YouTube account
 - [dan0v/xdelta3-cross-gui](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating xDelta3 patches, available for Windows, Linux, and Mac
 - [colin-chang/ArcFace.Net](https://github.com/colin-chang/ArcFace.Net) - A face recognition utility based on ArcSoft SDK 3.x for Linux/Windows platform.It can support multiple faces comparison.
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
@@ -301,6 +301,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
 - [wsztrush/wsztrush.github.io](https://github.com/wsztrush/wsztrush.github.io) - 
 - [wadezhan/billfeller.github.io](https://github.com/wadezhan/billfeller.github.io) - 
