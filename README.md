@@ -433,6 +433,7 @@
 
 ## JavaScript 
 
+- [t-rekttt/reddit_unofficial](https://github.com/t-rekttt/reddit_unofficial) - 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [tigoe/websocket-examples](https://github.com/tigoe/websocket-examples) - Examples for websocket clients and servers
 - [shineyZhou/HQL-Editor](https://github.com/shineyZhou/HQL-Editor) - Editor with Highlight Function
@@ -665,6 +666,9 @@
 
 ## Python 
 
+- [andreykiriienko/script_to_create_and_login_user](https://github.com/andreykiriienko/script_to_create_and_login_user) - 
+- [AcierP/nohcaptcha](https://github.com/AcierP/nohcaptcha) - an efficient and lightweight hcaptcha bypass/solver hybrid
+- [WaltDisneyWorld/okgendiz](https://github.com/WaltDisneyWorld/okgendiz) - 
 - [arenatemp/sd-tagging-helper](https://github.com/arenatemp/sd-tagging-helper) - 
 - [Linaqruf/kohya-trainer](https://github.com/Linaqruf/kohya-trainer) - Adapted from https://note.com/kohya_ss/n/nbf7ce8d80f29 for easier cloning
 - [rundfunk47/Google-Image-Scraper](https://github.com/rundfunk47/Google-Image-Scraper) - A library to scrape and resize google images, focusing on faces - mainly for machine learning (Stable Diffusion)
