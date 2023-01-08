@@ -666,6 +666,7 @@
 
 ## Python 
 
+- [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
 - [andreykiriienko/script_to_create_and_login_user](https://github.com/andreykiriienko/script_to_create_and_login_user) - 
 - [AcierP/nohcaptcha](https://github.com/AcierP/nohcaptcha) - an efficient and lightweight hcaptcha bypass/solver hybrid
 - [WaltDisneyWorld/okgendiz](https://github.com/WaltDisneyWorld/okgendiz) - 
