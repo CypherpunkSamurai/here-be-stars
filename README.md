@@ -192,6 +192,8 @@
 
 ## Go 
 
+- [aztecrabbit/bugscanner-go](https://github.com/aztecrabbit/bugscanner-go) - 
+- [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) - A Friendly Kubernetes CloudShell (Web Terminal) !
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [glanderson42/gomk](https://github.com/glanderson42/gomk) - Json based built system for Go, written in Go!
 - [msquee/go-websockify](https://github.com/msquee/go-websockify) - Pure Go implementation of novnc/websockify TCP to WebSocket proxy with improved connection handling. Runs on Linux, Windows and MacOS.
@@ -301,7 +303,8 @@
 
 ## HTML 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
+- [PalindromeLabs/WebSockets-Playground](https://github.com/PalindromeLabs/WebSockets-Playground) - Jumpstart multiple WebSocket servers quickly
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
 - [wsztrush/wsztrush.github.io](https://github.com/wsztrush/wsztrush.github.io) - 
 - [wadezhan/billfeller.github.io](https://github.com/wadezhan/billfeller.github.io) - 
@@ -666,6 +669,7 @@
 
 ## Python 
 
+- [mansimov/text2image](https://github.com/mansimov/text2image) - Generating Images from Captions with Attention
 - [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
 - [andreykiriienko/script_to_create_and_login_user](https://github.com/andreykiriienko/script_to_create_and_login_user) - 
 - [AcierP/nohcaptcha](https://github.com/AcierP/nohcaptcha) - an efficient and lightweight hcaptcha bypass/solver hybrid
