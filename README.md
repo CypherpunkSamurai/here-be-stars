@@ -192,6 +192,9 @@
 
 ## Go 
 
+- [eternal-flame-AD/go-pixiv](https://github.com/eternal-flame-AD/go-pixiv) - Bypass SNI censorship on Pixiv with golang
+- [KonaArctic/domain-fronting](https://github.com/KonaArctic/domain-fronting) - i want to make this repo private but golang hates me if i do :(
+- [getlantern/fronted](https://github.com/getlantern/fronted) - Go library for doing domain fronting
 - [aztecrabbit/bugscanner-go](https://github.com/aztecrabbit/bugscanner-go) - 
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) - A Friendly Kubernetes CloudShell (Web Terminal) !
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
@@ -253,7 +256,7 @@
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [noxer/gops](https://github.com/noxer/gops) - Powerline shell like prompt in Go
 - [llgcode/draw2d](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf, svg)
-- [jacklin293/golang-parallel-download-with-accept-ranges](https://github.com/jacklin293/golang-parallel-download-with-accept-ranges) - Parallel download with Accept-Ranges in golang
+- [linlichieh/golang-parallel-download-with-accept-ranges](https://github.com/linlichieh/golang-parallel-download-with-accept-ranges) - Parallel download with Accept-Ranges in golang
 - [getspine/cachepix](https://github.com/getspine/cachepix) - Caching proxy which transparently downloads photos from popular photo services into local storage
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [mattn/go-isatty](https://github.com/mattn/go-isatty) - 
@@ -601,6 +604,7 @@
 
 ## Others 
 
+- [aiioats/clashd](https://github.com/aiioats/clashd) - Clash profiles repo مخزن پروفایل‌های کلش
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [Delcos/Hentai-Diffusion](https://github.com/Delcos/Hentai-Diffusion) - The official place for the best A.I.
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
@@ -669,6 +673,10 @@
 
 ## Python 
 
+- [supprise0408/V2RayAggregator](https://github.com/supprise0408/V2RayAggregator) - 
+- [Supprise0924/Supprise0924](https://github.com/Supprise0924/Supprise0924) - Config files for my GitHub profile.
+- [redteam-cyberark/Google-Domain-fronting](https://github.com/redteam-cyberark/Google-Domain-fronting) - Domain fronting using Google app engine
+- [skahwah/fronter](https://github.com/skahwah/fronter) - Find frontable domains
 - [mansimov/text2image](https://github.com/mansimov/text2image) - Generating Images from Captions with Attention
 - [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
 - [andreykiriienko/script_to_create_and_login_user](https://github.com/andreykiriienko/script_to_create_and_login_user) - 
