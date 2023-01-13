@@ -24,6 +24,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
@@ -68,6 +69,7 @@
 
 ## C 
 
+- [radareorg/radare2-book](https://github.com/radareorg/radare2-book) - Radare2 official book
 - [Ximerixx/freezer](https://github.com/Ximerixx/freezer) - 
 - [simple2d/simple2d](https://github.com/simple2d/simple2d) - :video_game: Simple, open-source 2D graphics for everyone
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
@@ -541,6 +543,10 @@
 
 - [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
 
+## Julia 
+
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
+
 ## Jupyter Notebook 
 
 - [acheong08/Diffusion-ColabUI](https://github.com/acheong08/Diffusion-ColabUI) - Choose your diffusion models and spin up a WebUI on Colab in one click
@@ -673,6 +679,7 @@
 
 ## Python 
 
+- [abhishekkrthakur/diffuzers](https://github.com/abhishekkrthakur/diffuzers) - a web ui & api for 🤗 diffusers
 - [supprise0408/V2RayAggregator](https://github.com/supprise0408/V2RayAggregator) - 
 - [Supprise0924/Supprise0924](https://github.com/Supprise0924/Supprise0924) - Config files for my GitHub profile.
 - [redteam-cyberark/Google-Domain-fronting](https://github.com/redteam-cyberark/Google-Domain-fronting) - Domain fronting using Google app engine
@@ -935,6 +942,7 @@
 
 ## TypeScript 
 
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [cocos/cocos-example-cartoon-vegetation](https://github.com/cocos/cocos-example-cartoon-vegetation) - 
 - [yuanqing/stable-diffusion-rest-api](https://github.com/yuanqing/stable-diffusion-rest-api) - 🤗 Run Stable Diffusion locally via a REST API on an M1/M2 MacBook
 - [kaitai-io/kaitai_struct_webide](https://github.com/kaitai-io/kaitai_struct_webide) - Online editor / visualizer for Kaitai Struct .ksy files
