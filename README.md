@@ -308,6 +308,7 @@
 
 ## HTML 
 
+- [ankitvadariya/ssh-client-connection](https://github.com/ankitvadariya/ssh-client-connection) - This Project is to use to when we need to give root access of server without sharing root password
 - [PalindromeLabs/WebSockets-Playground](https://github.com/PalindromeLabs/WebSockets-Playground) - Jumpstart multiple WebSocket servers quickly
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
