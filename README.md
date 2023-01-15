@@ -50,6 +50,7 @@
 - [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
+- [YARA](#yara)
 - [Zig](#zig)
 
 ## Assembly 
@@ -998,6 +999,10 @@
 - [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
 - [shcant/vuepress-theme-casper](https://github.com/shcant/vuepress-theme-casper) - Ghost default theme ported to vuepress
 - [ismailnguyen/vue-dark-mode-switch](https://github.com/ismailnguyen/vue-dark-mode-switch) - VueJS Dark mode switch component
+
+## YARA 
+
+- [rednaga/APKiD](https://github.com/rednaga/APKiD) - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 
 ## Zig 
 
