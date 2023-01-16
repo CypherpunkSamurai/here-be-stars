@@ -551,6 +551,7 @@
 
 ## Jupyter Notebook 
 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [acheong08/Diffusion-ColabUI](https://github.com/acheong08/Diffusion-ColabUI) - Choose your diffusion models and spin up a WebUI on Colab in one click
 - [victorchall/EveryDream-trainer](https://github.com/victorchall/EveryDream-trainer) - General fine tuning for Stable Diffusion
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
