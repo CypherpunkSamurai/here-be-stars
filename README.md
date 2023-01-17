@@ -386,7 +386,6 @@
 - [Cosmic-Ide/Cosmic-Ide](https://github.com/Cosmic-Ide/Cosmic-Ide) - A next-gen Ide for JVM development on Android
 - [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future.
 - [Col-E/Bytecode-Modification-Framework](https://github.com/Col-E/Bytecode-Modification-Framework) - A bytecode modification library
-- [synnkfps/JByteCustom](https://github.com/synnkfps/JByteCustom) - project discontinuated
 - [Col-E/JRemapper](https://github.com/Col-E/JRemapper) - Remapping tool for compiled java programs.
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 - [guxingke/mini-jvm](https://github.com/guxingke/mini-jvm) - 使用 JDK8 实现 JVM(Java Virtual Machine)
