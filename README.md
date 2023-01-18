@@ -59,6 +59,7 @@
 
 ## Batchfile 
 
+- [FoxP/PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) - KISS batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution ICO files using ImageMagick.
 - [osm0sis/Android-Image-Kitchen](https://github.com/osm0sis/Android-Image-Kitchen) - Automated scripts to unpack/repack Android kernel/recovery images + ramdisks
 - [carlos-burelo/plugins](https://github.com/carlos-burelo/plugins) - Extra tools for Scarlett Kitchen to facilitate the work of it
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
@@ -98,6 +99,8 @@
 
 ## C# # 
 
+- [rmTizi/CadWin](https://github.com/rmTizi/CadWin) - CadWin is a QT style sheet for FreeCAD LinkStage 3 implementing the WinUI 2.7 specification.
+- [Lmpessoa/MakeIcon](https://github.com/Lmpessoa/MakeIcon) - A simple application to build Windows 10 compatible ICO icon files from multiple PNG image files.
 - [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 - [dotnet/TorchSharp](https://github.com/dotnet/TorchSharp) - A .NET library that provides access to the library that powers PyTorch.
 - [NMZivkovic/BertTokenizers](https://github.com/NMZivkovic/BertTokenizers) - Open source project for BERT Tokenizers in C#.
@@ -112,6 +115,8 @@
 
 ## C++ 
 
+- [HappySeaFox/qsseditor](https://github.com/HappySeaFox/qsseditor) - 🎨 Cross-platform application to edit and preview Qt style sheets (QSS).
+- [LSPosed/LSPlant](https://github.com/LSPosed/LSPlant) - A hook framework for Android Runtime (ART)
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [NepMods/Aide-Imgui](https://github.com/NepMods/Aide-Imgui) - Imgui Project Based On Dear IMGUI, For Aide Users.
 - [radareorg/iaito](https://github.com/radareorg/iaito) - Official QT frontend of radare2
@@ -352,6 +357,7 @@
 
 ## Java 
 
+- [canyie/pine](https://github.com/canyie/pine) - Dynamic java method hook framework on ART. Allowing you to change almost all java methods' behavior dynamically.
 - [micha4w/MC-PacketRouter](https://github.com/micha4w/MC-PacketRouter) - Simple Fabric Mod that catches *valid* Mineraft Packets
 - [CloudburstMC/ProxyPass](https://github.com/CloudburstMC/ProxyPass) - MITM proxy tool for Minecraft: Bedrock Edition
 - [happylishang/AntiFakerAndroidChecker](https://github.com/happylishang/AntiFakerAndroidChecker) - 设备指纹 获取真实的IMEI AndroidId 序列号 MAC地址等，Android模拟器检测，检测Android模拟器 ，作为可信DeviceID，应对防刷需求等                  Android设备指纹  How to detect Android emulator
@@ -442,6 +448,9 @@
 
 ## JavaScript 
 
+- [mkslanc/ace-linters](https://github.com/mkslanc/ace-linters) - Language-aware features for Ace Editor
+- [noobpk/frida-android-hook](https://github.com/noobpk/frida-android-hook) - A script that helps you trace classes, functions, and modify the return values of methods on Android platform
+- [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
 - [t-rekttt/reddit_unofficial](https://github.com/t-rekttt/reddit_unofficial) - 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [tigoe/websocket-examples](https://github.com/tigoe/websocket-examples) - Examples for websocket clients and servers
@@ -612,6 +621,7 @@
 
 ## Others 
 
+- [Jihadist/qt-stylesheets](https://github.com/Jihadist/qt-stylesheets) - Qt stylesheets (QSS) or QStyle ideas
 - [aiioats/clashd](https://github.com/aiioats/clashd) - Clash profiles repo مخزن پروفایل‌های کلش
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [Delcos/Hentai-Diffusion](https://github.com/Delcos/Hentai-Diffusion) - The official place for the best A.I.
@@ -681,6 +691,8 @@
 
 ## Python 
 
+- [victorchall/EveryDream](https://github.com/victorchall/EveryDream) - Advanced fine tuning tools for vision models
+- [hustlei/QssStylesheetEditor](https://github.com/hustlei/QssStylesheetEditor) - Editor for qt stylesheet (qss).  Real-time preview, and user can define varibles in qss.
 - [abhishekkrthakur/diffuzers](https://github.com/abhishekkrthakur/diffuzers) - a web ui & api for 🤗 diffusers
 - [supprise0408/V2RayAggregator](https://github.com/supprise0408/V2RayAggregator) - 
 - [Supprise0924/Supprise0924](https://github.com/Supprise0924/Supprise0924) - Config files for my GitHub profile.
@@ -689,7 +701,7 @@
 - [mansimov/text2image](https://github.com/mansimov/text2image) - Generating Images from Captions with Attention
 - [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
 - [andreykiriienko/script_to_create_and_login_user](https://github.com/andreykiriienko/script_to_create_and_login_user) - 
-- [AcierP/nohcaptcha](https://github.com/AcierP/nohcaptcha) - an efficient and lightweight hcaptcha bypass/solver hybrid
+- [acierp/nohcaptcha](https://github.com/acierp/nohcaptcha) - an efficient and lightweight hcaptcha bypass/solver hybrid
 - [WaltDisneyWorld/okgendiz](https://github.com/WaltDisneyWorld/okgendiz) - 
 - [arenatemp/sd-tagging-helper](https://github.com/arenatemp/sd-tagging-helper) - 
 - [Linaqruf/kohya-trainer](https://github.com/Linaqruf/kohya-trainer) - Adapted from https://note.com/kohya_ss/n/nbf7ce8d80f29 for easier cloning
