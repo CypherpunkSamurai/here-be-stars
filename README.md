@@ -559,6 +559,7 @@
 
 ## Jupyter Notebook 
 
+- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [acheong08/Diffusion-ColabUI](https://github.com/acheong08/Diffusion-ColabUI) - Choose your diffusion models and spin up a WebUI on Colab in one click
 - [victorchall/EveryDream-trainer](https://github.com/victorchall/EveryDream-trainer) - General fine tuning for Stable Diffusion
@@ -902,6 +903,7 @@
 
 ## Shell 
 
+- [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [Treecord/Treecord](https://github.com/Treecord/Treecord) - A modded Discord client for Android
 - [alcove-sh/Alcove.sh](https://github.com/alcove-sh/Alcove.sh) - Yet Another chroot script to run Linux on Android.
 - [nlitsme/whatsapp-apk-proto](https://github.com/nlitsme/whatsapp-apk-proto) - Changes in the whatsapp protocol as extracted from apk files
