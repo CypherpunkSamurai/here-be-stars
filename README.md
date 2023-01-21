@@ -71,6 +71,7 @@
 
 ## C 
 
+- [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [radareorg/radare2-book](https://github.com/radareorg/radare2-book) - Radare2 official book
 - [Ximerixx/freezer](https://github.com/Ximerixx/freezer) - 
 - [simple2d/simple2d](https://github.com/simple2d/simple2d) - :video_game: Simple, open-source 2D graphics for everyone
@@ -903,6 +904,7 @@
 
 ## Shell 
 
+- [opendocument-app/npmabot](https://github.com/opendocument-app/npmabot) - 
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [Treecord/Treecord](https://github.com/Treecord/Treecord) - A modded Discord client for Android
 - [alcove-sh/Alcove.sh](https://github.com/alcove-sh/Alcove.sh) - Yet Another chroot script to run Linux on Android.
@@ -958,6 +960,7 @@
 
 ## TypeScript 
 
+- [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [cocos/cocos-example-cartoon-vegetation](https://github.com/cocos/cocos-example-cartoon-vegetation) - 
 - [yuanqing/stable-diffusion-rest-api](https://github.com/yuanqing/stable-diffusion-rest-api) - 🤗 Run Stable Diffusion locally via a REST API on an M1/M2 MacBook
