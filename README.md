@@ -291,6 +291,7 @@
 - [pixelbender/ws](https://github.com/pixelbender/ws) - Command line WebSocket client that pipes stdin/stdout
 - [jtakamine/stdroute](https://github.com/jtakamine/stdroute) - Forward Stdin to JSON-RPC endpoint
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
+- [kataras/neffos](https://github.com/kataras/neffos) - A modern, fast and scalable websocket framework with elegant API written in Go
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go
 - [jacobdufault/lspc](https://github.com/jacobdufault/lspc) - Command line language server protocol client (LSPC)
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -450,7 +451,6 @@
 
 ## JavaScript 
 
-- [mkslanc/ace-linters](https://github.com/mkslanc/ace-linters) - Language-aware features for Ace Editor
 - [noobpk/frida-android-hook](https://github.com/noobpk/frida-android-hook) - A script that helps you trace classes, functions, and modify the return values of methods on Android platform
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
 - [t-rekttt/reddit_unofficial](https://github.com/t-rekttt/reddit_unofficial) - 
@@ -527,7 +527,6 @@
 - [royzhao/learn4meIDE](https://github.com/royzhao/learn4meIDE) - 
 - [niklasbuschmann/contrast](https://github.com/niklasbuschmann/contrast) - Jekyll Theme
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
-- [kataras/neffos](https://github.com/kataras/neffos) - A modern, fast and scalable websocket framework with elegant API written in Go
 - [janczizikow/sleek](https://github.com/janczizikow/sleek) - :chart_with_upwards_trend: Sleek is a modern Jekyll theme focused on speed performance & SEO best practices
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
@@ -870,6 +869,7 @@
 
 ## Rust 
 
+- [mkslanc/ace-linters](https://github.com/mkslanc/ace-linters) - Language-aware features for Ace Editor
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [qualified/lsp-ws-proxy](https://github.com/qualified/lsp-ws-proxy) - WebSocketify any Language Server
