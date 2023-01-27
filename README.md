@@ -77,6 +77,7 @@
 - [simple2d/simple2d](https://github.com/simple2d/simple2d) - :video_game: Simple, open-source 2D graphics for everyone
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
 - [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
+- [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [aresrpg/minecraft-dissector](https://github.com/aresrpg/minecraft-dissector) - A wireshark dissector for the Minecraft protocol using https://github.com/PrismarineJS/minecraft-data
 - [uis246/MCPC_dissect](https://github.com/uis246/MCPC_dissect) - Minecraft PC wireshark dissector
 - [wlanslovenija/MeshApp](https://github.com/wlanslovenija/MeshApp) - An open-source, cross-platform application for ad-hoc wireless mesh networking on mobile devices.
@@ -186,7 +187,6 @@
 
 ## Dockerfile 
 
-- [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [PeterDaveHello/tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) - 🐳 Tiny Docker image (🤏 10MB) as 🧅 Tor SOCKS5 proxy 🛡
 - [julianxhokaxhiu/docker-lineage-cicd](https://github.com/julianxhokaxhiu/docker-lineage-cicd) - Docker microservice for LineageOS Continuous Integration and Continous Deployment
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
@@ -693,6 +693,7 @@
 
 ## Python 
 
+- [pygments/pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
 - [victorchall/EveryDream](https://github.com/victorchall/EveryDream) - Advanced fine tuning tools for vision models
 - [hustlei/QssStylesheetEditor](https://github.com/hustlei/QssStylesheetEditor) - Editor for qt stylesheet (qss).  Real-time preview, and user can define varibles in qss.
