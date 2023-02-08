@@ -562,6 +562,7 @@
 
 ## Jupyter Notebook 
 
+- [karaage0703/stable-diffusion-colab-tools](https://github.com/karaage0703/stable-diffusion-colab-tools) - Stable diffusion very easy and useful tools on Google Colaboratory(Google Colab)
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [acheong08/Diffusion-ColabUI](https://github.com/acheong08/Diffusion-ColabUI) - Choose your diffusion models and spin up a WebUI on Colab in one click
