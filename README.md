@@ -368,7 +368,6 @@
 - [CloudburstMC/ProxyPass](https://github.com/CloudburstMC/ProxyPass) - MITM proxy tool for Minecraft: Bedrock Edition
 - [happylishang/AntiFakerAndroidChecker](https://github.com/happylishang/AntiFakerAndroidChecker) - 设备指纹 获取真实的IMEI AndroidId 序列号 MAC地址等，Android模拟器检测，检测Android模拟器 ，作为可信DeviceID，应对防刷需求等                  Android设备指纹  How to detect Android emulator
 - [TimScriptov/ApkSignatureKill](https://github.com/TimScriptov/ApkSignatureKill) - 
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) - A syntax highlighting, code folding text editor for Java Swing applications.
 - [rejochandran/Text-Editor-in-Java](https://github.com/rejochandran/Text-Editor-in-Java) - Text Editor in Java with syntax highlighting
@@ -632,6 +631,7 @@
 - [Delcos/Hentai-Diffusion](https://github.com/Delcos/Hentai-Diffusion) - The official place for the best A.I.
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [emantin34/QGISPDAM](https://github.com/emantin34/QGISPDAM) - QGIS Project for Water Supply Company
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [cheshie/secrets](https://github.com/cheshie/secrets) - Various secrets for regex search and rules for DumpsterDiver.py https://github.com/securing/DumpsterDiver
