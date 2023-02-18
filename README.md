@@ -454,6 +454,7 @@
 
 ## JavaScript 
 
+- [ErinSteph/Cute-Sync](https://github.com/ErinSteph/Cute-Sync) - a light version of NameSync/FrenSync for the 4chan mobile layout. Does not require 4chan X.
 - [noobpk/frida-android-hook](https://github.com/noobpk/frida-android-hook) - A script that helps you trace classes, functions, and modify the return values of methods on Android platform
 - [t-rekttt/reddit_unofficial](https://github.com/t-rekttt/reddit_unofficial) - 
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
