@@ -627,6 +627,8 @@
 
 ## Others 
 
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+- [gayolGate/gayolGate](https://github.com/gayolGate/gayolGate) - Information about my GitHub profile
 - [Jihadist/qt-stylesheets](https://github.com/Jihadist/qt-stylesheets) - Qt stylesheets (QSS) or QStyle ideas
 - [aiioats/clashd](https://github.com/aiioats/clashd) - Clash profiles repo مخزن پروفایل‌های کلش
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
@@ -698,6 +700,9 @@
 
 ## Python 
 
+- [LogicPy/Python](https://github.com/LogicPy/Python) - 
+- [YellowGreg/GPT-AI](https://github.com/YellowGreg/GPT-AI) - made with python
+- [xtekky/ChatGPT-Alternative](https://github.com/xtekky/ChatGPT-Alternative) - You.com ChatGPT Clone client - Google on steroids
 - [pygments/pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
 - [victorchall/EveryDream](https://github.com/victorchall/EveryDream) - Advanced fine tuning tools for vision models
@@ -917,7 +922,6 @@
 - [nlitsme/whatsapp-apk-proto](https://github.com/nlitsme/whatsapp-apk-proto) - Changes in the whatsapp protocol as extracted from apk files
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [Hax4us/java](https://github.com/Hax4us/java) - This package of java (openjdk) is specially for termux users (without rooted phone) But it is unstable or beta version and I will update it soon with stable one
-- [HemanthJabalpuri/run_java](https://github.com/HemanthJabalpuri/run_java) - Run java program in Android.
 - [die-Deutsche-Orthopaedie/shitty-arse-discord-bots](https://github.com/die-Deutsche-Orthopaedie/shitty-arse-discord-bots) - Shitty Arse Discord Bots usin' bash, and yep, arsefockin' B A S H
 - [EngMoPro/TWRP-device-tree-generator](https://github.com/EngMoPro/TWRP-device-tree-generator) - A script to automatically generate TWRP-compatible device tree
 - [imasaru/android_device_tree_template](https://github.com/imasaru/android_device_tree_template) - LineageOS source device template. Tree away, if you will :smile:
