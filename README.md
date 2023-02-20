@@ -133,7 +133,7 @@
 - [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
 - [hippyau/pb-cimgui](https://github.com/hippyau/pb-cimgui) - PureBasic interface to CImGui Wrapper
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
-- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
 - [REDasmOrg/REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
 - [d4ichi/CrackMe](https://github.com/d4ichi/CrackMe) - Source codes for CrackMe with modern GUI forms written in C++
@@ -362,6 +362,7 @@
 
 ## Java 
 
+- [SkyTubeTeam/SkyTube](https://github.com/SkyTubeTeam/SkyTube) - Copylefted libre / open source YouTube player for Android
 - [twoyi/twoyi](https://github.com/twoyi/twoyi) - A lightweight Android container on Android
 - [canyie/pine](https://github.com/canyie/pine) - Dynamic java method hook framework on ART. Allowing you to change almost all java methods' behavior dynamically.
 - [micha4w/MC-PacketRouter](https://github.com/micha4w/MC-PacketRouter) - Simple Fabric Mod that catches *valid* Mineraft Packets
@@ -700,6 +701,7 @@
 
 ## Python 
 
+- [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
 - [LogicPy/Python](https://github.com/LogicPy/Python) - 
 - [YellowGreg/GPT-AI](https://github.com/YellowGreg/GPT-AI) - made with python
 - [xtekky/ChatGPT-Alternative](https://github.com/xtekky/ChatGPT-Alternative) - You.com ChatGPT Clone client - Google on steroids
