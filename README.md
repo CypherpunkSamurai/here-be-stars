@@ -203,6 +203,7 @@
 
 ## Go 
 
+- [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [eternal-flame-AD/go-pixiv](https://github.com/eternal-flame-AD/go-pixiv) - Bypass SNI censorship on Pixiv with golang
 - [KonaArctic/domain-fronting](https://github.com/KonaArctic/domain-fronting) - i want to make this repo private but golang hates me if i do :(
 - [getlantern/fronted](https://github.com/getlantern/fronted) - Go library for doing domain fronting
@@ -701,6 +702,7 @@
 
 ## Python 
 
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
 - [LogicPy/Python](https://github.com/LogicPy/Python) - 
 - [YellowGreg/GPT-AI](https://github.com/YellowGreg/GPT-AI) - made with python
@@ -884,6 +886,7 @@
 
 ## Rust 
 
+- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
 - [qualified/lsp-ws-proxy](https://github.com/qualified/lsp-ws-proxy) - WebSocketify any Language Server
