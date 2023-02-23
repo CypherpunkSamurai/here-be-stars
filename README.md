@@ -702,6 +702,7 @@
 
 ## Python 
 
+- [Neo23x0/munin](https://github.com/Neo23x0/munin) - Online hash checker for Virustotal and other services
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
 - [LogicPy/Python](https://github.com/LogicPy/Python) - 
