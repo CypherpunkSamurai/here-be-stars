@@ -456,6 +456,7 @@
 
 ## JavaScript 
 
+- [HasanAboShally/web-content-edit-and-blur--browser-extension](https://github.com/HasanAboShally/web-content-edit-and-blur--browser-extension) - A simple browser extension to edit and blur web content.
 - [ErinSteph/Cute-Sync](https://github.com/ErinSteph/Cute-Sync) - a light version of NameSync/FrenSync for the 4chan mobile layout. Does not require 4chan X.
 - [noobpk/frida-android-hook](https://github.com/noobpk/frida-android-hook) - A script that helps you trace classes, functions, and modify the return values of methods on Android platform
 - [t-rekttt/reddit_unofficial](https://github.com/t-rekttt/reddit_unofficial) - 
@@ -580,6 +581,7 @@
 
 ## Kotlin 
 
+- [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [Iamlooker/Droid-ify](https://github.com/Iamlooker/Droid-ify) - F-Droid client with Material UI.
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
@@ -702,6 +704,7 @@
 
 ## Python 
 
+- [UnknownCollections/pysmali](https://github.com/UnknownCollections/pysmali) - Python library for parsing and unparsing smali files for programatic modification
 - [Neo23x0/munin](https://github.com/Neo23x0/munin) - Online hash checker for Virustotal and other services
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
