@@ -639,7 +639,7 @@
 - [Delcos/Hentai-Diffusion](https://github.com/Delcos/Hentai-Diffusion) - The official place for the best A.I.
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [emantin34/QGISPDAM](https://github.com/emantin34/QGISPDAM) - QGIS Project for Water Supply Company
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
+- [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [cheshie/secrets](https://github.com/cheshie/secrets) - Various secrets for regex search and rules for DumpsterDiver.py https://github.com/securing/DumpsterDiver
@@ -704,6 +704,7 @@
 
 ## Python 
 
+- [TsingJyujing/DataSpider](https://github.com/TsingJyujing/DataSpider) - A spider library of several data sources.
 - [UnknownCollections/pysmali](https://github.com/UnknownCollections/pysmali) - Python library for parsing and unparsing smali files for programatic modification
 - [Neo23x0/munin](https://github.com/Neo23x0/munin) - Online hash checker for Virustotal and other services
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
