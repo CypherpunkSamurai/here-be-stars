@@ -166,6 +166,7 @@
 
 ## CSS 
 
+- [zhonger/jekyll-theme-H2O-ac](https://github.com/zhonger/jekyll-theme-H2O-ac) - 🎉 A Jekyll theme for researchers and maintainers based on H2O theme.
 - [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
 - [hdxw/hexo-theme-prowiki](https://github.com/hdxw/hexo-theme-prowiki) - 自制精简hexo模板
 - [glazec/hexo-cheatsheets](https://github.com/glazec/hexo-cheatsheets) - a cheatsheets theme for hexo
@@ -980,6 +981,7 @@
 
 ## TypeScript 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [mkslanc/ace-linters](https://github.com/mkslanc/ace-linters) - Language-aware features for Ace Editor
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
