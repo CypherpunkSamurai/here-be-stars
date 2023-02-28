@@ -705,6 +705,8 @@
 
 ## Python 
 
+- [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
+- [anapnoe/stable-diffusion-webui](https://github.com/anapnoe/stable-diffusion-webui) - Stable Diffusion web UI
 - [TsingJyujing/DataSpider](https://github.com/TsingJyujing/DataSpider) - A spider library of several data sources.
 - [UnknownCollections/pysmali](https://github.com/UnknownCollections/pysmali) - Python library for parsing and unparsing smali files for programatic modification
 - [Neo23x0/munin](https://github.com/Neo23x0/munin) - Online hash checker for Virustotal and other services
