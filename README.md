@@ -457,6 +457,7 @@
 
 ## JavaScript 
 
+- [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [HasanAboShally/web-content-edit-and-blur--browser-extension](https://github.com/HasanAboShally/web-content-edit-and-blur--browser-extension) - A simple browser extension to edit and blur web content.
 - [ErinSteph/Cute-Sync](https://github.com/ErinSteph/Cute-Sync) - a light version of NameSync/FrenSync for the 4chan mobile layout. Does not require 4chan X.
 - [noobpk/frida-android-hook](https://github.com/noobpk/frida-android-hook) - A script that helps you trace classes, functions, and modify the return values of methods on Android platform
@@ -582,6 +583,9 @@
 
 ## Kotlin 
 
+- [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Free and open source manga reader for Android
+- [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - Free and open source manga reader for Android
+- [CarlosEsco/Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader  for Android
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [Iamlooker/Droid-ify](https://github.com/Iamlooker/Droid-ify) - F-Droid client with Material UI.
@@ -632,6 +636,7 @@
 
 ## Others 
 
+- [jobobby04/TachiyomiSYPreview](https://github.com/jobobby04/TachiyomiSYPreview) - A download host for TachiyomiSY Preview builds
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [gayolGate/gayolGate](https://github.com/gayolGate/gayolGate) - Information about my GitHub profile
 - [Jihadist/qt-stylesheets](https://github.com/Jihadist/qt-stylesheets) - Qt stylesheets (QSS) or QStyle ideas
