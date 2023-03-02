@@ -185,6 +185,7 @@
 
 ## Dart 
 
+- [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
@@ -204,6 +205,7 @@
 
 ## Go 
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [eternal-flame-AD/go-pixiv](https://github.com/eternal-flame-AD/go-pixiv) - Bypass SNI censorship on Pixiv with golang
 - [KonaArctic/domain-fronting](https://github.com/KonaArctic/domain-fronting) - i want to make this repo private but golang hates me if i do :(
@@ -457,6 +459,7 @@
 
 ## JavaScript 
 
+- [onweru/compose](https://github.com/onweru/compose) - A Hugo theme for documentation sites. It's inspired by https://forestry.io/docs/welcome/
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [HasanAboShally/web-content-edit-and-blur--browser-extension](https://github.com/HasanAboShally/web-content-edit-and-blur--browser-extension) - A simple browser extension to edit and blur web content.
 - [ErinSteph/Cute-Sync](https://github.com/ErinSteph/Cute-Sync) - a light version of NameSync/FrenSync for the 4chan mobile layout. Does not require 4chan X.
@@ -701,6 +704,7 @@
 
 ## Pascal 
 
+- [Kisspeace/NsfwBox](https://github.com/Kisspeace/NsfwBox) - Cross-platform app for search and download porn
 - [JoeJoeTV/startLazarusPortable](https://github.com/JoeJoeTV/startLazarusPortable) - A launcher application for Windows that starts Lazarus from a folder/USB stick and keeps it all contained.
 - [Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp) - A fast, portable, simple, and free C/C++ IDE
 
@@ -710,6 +714,8 @@
 
 ## Python 
 
+- [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
+- [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
 - [anapnoe/stable-diffusion-webui](https://github.com/anapnoe/stable-diffusion-webui) - Stable Diffusion web UI
 - [TsingJyujing/DataSpider](https://github.com/TsingJyujing/DataSpider) - A spider library of several data sources.
@@ -923,6 +929,7 @@
 
 ## SCSS 
 
+- [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - A simple, elegant, book-like hexo theme with some useful features.
 - [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Cactus theme for hugo
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 - [katydecorah/theme](https://github.com/katydecorah/theme) - 💅 Jekyll theme for katydecorah.com
