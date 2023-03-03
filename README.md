@@ -459,6 +459,7 @@
 
 ## JavaScript 
 
+- [DominikDoom/a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) - Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI
 - [onweru/compose](https://github.com/onweru/compose) - A Hugo theme for documentation sites. It's inspired by https://forestry.io/docs/welcome/
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [HasanAboShally/web-content-edit-and-blur--browser-extension](https://github.com/HasanAboShally/web-content-edit-and-blur--browser-extension) - A simple browser extension to edit and blur web content.
@@ -972,7 +973,6 @@
 - [viperML/qemu-android-x86](https://github.com/viperML/qemu-android-x86) - Android-x86 environment via QEMU and VirGL
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
-- [0xnu/go-deploy-action](https://github.com/0xnu/go-deploy-action) - Go project binaries for multiple platforms with GitHub Action.
 - [cytopia/pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
 - [jpruden92/n8n-chatbots-heroku-deploy](https://github.com/jpruden92/n8n-chatbots-heroku-deploy) - This repository contains a customized version of N8N, an extendable tool for workflow automation. This customized version is focused on chatbots development, integrating nodes that allow to connect ch
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
