@@ -985,7 +985,6 @@
 ## Smali 
 
 - [Deskfrest/JatToSmali_D8](https://github.com/Deskfrest/JatToSmali_D8) - jar包转smali，使用d8，支持java8特性的jar包转化
-- [IsmaelSaid/bytecodejava](https://github.com/IsmaelSaid/bytecodejava) - 
 
 ## Stylus 
 
