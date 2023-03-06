@@ -587,6 +587,7 @@
 
 ## Kotlin 
 
+- [Stormunblessed/stormunblessed-cs3](https://github.com/Stormunblessed/stormunblessed-cs3) - 
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Free and open source manga reader for Android
 - [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - Free and open source manga reader for Android
 - [CarlosEsco/Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader  for Android
@@ -715,6 +716,8 @@
 
 ## Python 
 
+- [kinosal/tweet](https://github.com/kinosal/tweet) - Generate Tweet texts using OpenAI's GPT-3 based Davinci model
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
 - [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
