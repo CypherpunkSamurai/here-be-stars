@@ -953,7 +953,6 @@
 - [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [Hax4us/java](https://github.com/Hax4us/java) - This package of java (openjdk) is specially for termux users (without rooted phone) But it is unstable or beta version and I will update it soon with stable one
 - [die-Deutsche-Orthopaedie/shitty-arse-discord-bots](https://github.com/die-Deutsche-Orthopaedie/shitty-arse-discord-bots) - Shitty Arse Discord Bots usin' bash, and yep, arsefockin' B A S H
-- [EngMoPro/TWRP-device-tree-generator](https://github.com/EngMoPro/TWRP-device-tree-generator) - A script to automatically generate TWRP-compatible device tree
 - [imasaru/android_device_tree_template](https://github.com/imasaru/android_device_tree_template) - LineageOS source device template. Tree away, if you will :smile:
 - [ROM-builders/temporary](https://github.com/ROM-builders/temporary) - You can do PR with your build_rom.sh script respecting main branch and get a build, if you have a successful build, let me know to get into team. Contact me here ( https://t.me/ROM_builders ) if you n
 - [halium-exynos/CirrusCI](https://github.com/halium-exynos/CirrusCI) - 
