@@ -571,6 +571,7 @@
 
 ## Jupyter Notebook 
 
+- [lablab-ai/How-to-use-OpenAIs-Whisper-Tutorial](https://github.com/lablab-ai/How-to-use-OpenAIs-Whisper-Tutorial) - In this tutorial you will learn how to use OpenAIs Whisper to useful applications that leverage speech recognition
 - [karaage0703/stable-diffusion-colab-tools](https://github.com/karaage0703/stable-diffusion-colab-tools) - Stable diffusion very easy and useful tools on Google Colaboratory(Google Colab)
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
