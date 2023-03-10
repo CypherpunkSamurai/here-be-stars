@@ -718,6 +718,7 @@
 
 ## Python 
 
+- [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [kinosal/tweet](https://github.com/kinosal/tweet) - Generate Tweet texts using OpenAI's GPT-3 based Davinci model
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
