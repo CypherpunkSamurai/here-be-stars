@@ -71,6 +71,7 @@
 
 ## C 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [radareorg/radare2-book](https://github.com/radareorg/radare2-book) - Radare2 official book
@@ -718,6 +719,7 @@
 
 ## Python 
 
+- [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [kinosal/tweet](https://github.com/kinosal/tweet) - Generate Tweet texts using OpenAI's GPT-3 based Davinci model
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
@@ -1039,6 +1041,7 @@
 
 ## Vim Script 
 
+- [jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete) - 杭州市余杭区最好用的 VIM/NVIM 代码补全插件
 - [hiyali/nvim](https://github.com/hiyali/nvim) - ❤️  A neovim config repo.
 - [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite [best] text editor
 - [tpope/vim-endwise](https://github.com/tpope/vim-endwise) - endwise.vim: Wisely add
