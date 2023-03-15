@@ -323,6 +323,7 @@
 
 ## HTML 
 
+- [kaihordewebui/kaihordewebui.github.io](https://github.com/kaihordewebui/kaihordewebui.github.io) - A zero dependency web UI for KoboldAI Horde
 - [ankitvadariya/ssh-client-connection](https://github.com/ankitvadariya/ssh-client-connection) - This Project is to use to when we need to give root access of server without sharing root password
 - [PalindromeLabs/WebSockets-Playground](https://github.com/PalindromeLabs/WebSockets-Playground) - Jumpstart multiple WebSocket servers quickly
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -726,7 +727,7 @@
 - [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
 - [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
-- [anapnoe/stable-diffusion-webui](https://github.com/anapnoe/stable-diffusion-webui) - Stable Diffusion web UI
+- [anapnoe/stable-diffusion-webui-ux](https://github.com/anapnoe/stable-diffusion-webui-ux) - Stable Diffusion web UI
 - [TsingJyujing/DataSpider](https://github.com/TsingJyujing/DataSpider) - A spider library of several data sources.
 - [UnknownCollections/pysmali](https://github.com/UnknownCollections/pysmali) - Python library for parsing and unparsing smali files for programatic modification
 - [Neo23x0/munin](https://github.com/Neo23x0/munin) - Online hash checker for Virustotal and other services
