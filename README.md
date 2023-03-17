@@ -645,6 +645,7 @@
 
 ## Others 
 
+- [LeaderbotX400/chatbot-experiments](https://github.com/LeaderbotX400/chatbot-experiments) - A place to store jailbreaks, or results of some prompts
 - [jobobby04/TachiyomiSYPreview](https://github.com/jobobby04/TachiyomiSYPreview) - A download host for TachiyomiSY Preview builds
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [gayolGate/gayolGate](https://github.com/gayolGate/gayolGate) - Information about my GitHub profile
@@ -720,6 +721,7 @@
 
 ## Python 
 
+- [scmanjarrez/Edge-GPT-Telegram-Bot](https://github.com/scmanjarrez/Edge-GPT-Telegram-Bot) - Telegram bot using EdgeGPT unofficial API
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [kinosal/tweet](https://github.com/kinosal/tweet) - Generate Tweet texts using OpenAI's GPT-3 based Davinci model
@@ -1002,6 +1004,8 @@
 
 ## TypeScript 
 
+- [tuhinpal/bingchat-api](https://github.com/tuhinpal/bingchat-api) - Bing Chat unofficial API
+- [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [mkslanc/ace-linters](https://github.com/mkslanc/ace-linters) - Language-aware features for Ace Editor
