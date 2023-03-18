@@ -103,6 +103,7 @@
 
 ## C# # 
 
+- [DenchiSoft/VTubeStudio](https://github.com/DenchiSoft/VTubeStudio) - VTube Studio API Development Page
 - [rmTizi/CadWin](https://github.com/rmTizi/CadWin) - CadWin is a QT style sheet for FreeCAD LinkStage 3 implementing the WinUI 2.7 specification.
 - [Lmpessoa/MakeIcon](https://github.com/Lmpessoa/MakeIcon) - A simple application to build Windows 10 compatible ICO icon files from multiple PNG image files.
 - [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
@@ -206,6 +207,7 @@
 
 ## Go 
 
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [eternal-flame-AD/go-pixiv](https://github.com/eternal-flame-AD/go-pixiv) - Bypass SNI censorship on Pixiv with golang
