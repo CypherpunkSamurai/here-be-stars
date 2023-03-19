@@ -723,7 +723,7 @@
 
 ## Python 
 
-- [scmanjarrez/Edge-GPT-Telegram-Bot](https://github.com/scmanjarrez/Edge-GPT-Telegram-Bot) - Telegram bot using EdgeGPT unofficial API
+- [scmanjarrez/EdgeGPT-Telegram-Bot](https://github.com/scmanjarrez/EdgeGPT-Telegram-Bot) - Telegram bot using EdgeGPT unofficial API
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [kinosal/tweet](https://github.com/kinosal/tweet) - Generate Tweet texts using OpenAI's GPT-3 based Davinci model
