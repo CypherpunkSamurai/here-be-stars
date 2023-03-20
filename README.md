@@ -402,7 +402,7 @@
 - [duraki/charles-keygen](https://github.com/duraki/charles-keygen) - An open-source Charles Proxy keygen via RC5 cracking
 - [ikws4/CodeEditor](https://github.com/ikws4/CodeEditor) - Code editor for android
 - [alimogh/JavaCompile](https://github.com/alimogh/JavaCompile) - Android平台的Java IDE
-- [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro's sources, in Java. Now anyone can contribute to Sketchware Pro.
+- [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro is an open-source, modified version of the popular app builder (Sketchware) tool that includes additional features and improvements. Our repository welcomes contributions from anyone in
 - [Cosmic-Ide/Cosmic-Ide](https://github.com/Cosmic-Ide/Cosmic-Ide) - A next-gen Ide for JVM development on Android
 - [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future.
 - [Col-E/Bytecode-Modification-Framework](https://github.com/Col-E/Bytecode-Modification-Framework) - A bytecode modification library
