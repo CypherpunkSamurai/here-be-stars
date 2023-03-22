@@ -463,6 +463,7 @@
 
 ## JavaScript 
 
+- [SchneeHertz/chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) - ChatGPT双向语音助手
 - [DominikDoom/a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) - Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI
 - [onweru/compose](https://github.com/onweru/compose) - A Hugo theme for documentation sites. It's inspired by https://forestry.io/docs/welcome/
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
@@ -575,6 +576,7 @@
 
 ## Jupyter Notebook 
 
+- [Vision-CAIR/ChatCaptioner](https://github.com/Vision-CAIR/ChatCaptioner) - Official Repository of ChatCaptioner
 - [lablab-ai/How-to-use-OpenAIs-Whisper-Tutorial](https://github.com/lablab-ai/How-to-use-OpenAIs-Whisper-Tutorial) - In this tutorial you will learn how to use OpenAIs Whisper to useful applications that leverage speech recognition
 - [karaage0703/stable-diffusion-colab-tools](https://github.com/karaage0703/stable-diffusion-colab-tools) - Stable diffusion very easy and useful tools on Google Colaboratory(Google Colab)
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
@@ -723,6 +725,8 @@
 
 ## Python 
 
+- [Eerrly/VITSAIChatVtube](https://github.com/Eerrly/VITSAIChatVtube) - 使用Torch VITS语音合成，结合OpenAI ChatGPT进行互动，使用Live2D进行人物展示
+- [VNOI-Admin/vnoj-docker](https://github.com/VNOI-Admin/vnoj-docker) - Docker setup for the VNOJ: VNOI Online Judge
 - [scmanjarrez/EdgeGPT-Telegram-Bot](https://github.com/scmanjarrez/EdgeGPT-Telegram-Bot) - Telegram bot using EdgeGPT unofficial API
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
