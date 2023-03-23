@@ -595,7 +595,6 @@
 
 ## Kotlin 
 
-- [Stormunblessed/stormunblessed-cs3](https://github.com/Stormunblessed/stormunblessed-cs3) - 
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Free and open source manga reader for Android
 - [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - Free and open source manga reader for Android
 - [CarlosEsco/Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader  for Android
@@ -605,7 +604,6 @@
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [NeNpO/QuillNote](https://github.com/NeNpO/QuillNote) - Take beautiful markdown notes and stay organized with task lists.
 - [oianmol/DiscordJetpackCompose](https://github.com/oianmol/DiscordJetpackCompose) - A Jetpack compose clone for Discord Android Client
-- [recloudstream/plugin-template](https://github.com/recloudstream/plugin-template) - 
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading Movies, TV-Series and Anime.
 - [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
 - [hamidrezasahraei/MusicAppComposeUI](https://github.com/hamidrezasahraei/MusicAppComposeUI) - A sample Music Player project that help you learn about Compose in Android. Note that this app only contain UI and has no logic. The design is inspired from this and this.
@@ -649,6 +647,7 @@
 
 ## Others 
 
+- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [LeaderbotX400/chatbot-experiments](https://github.com/LeaderbotX400/chatbot-experiments) - A place to store jailbreaks, or results of some prompts
 - [jobobby04/TachiyomiSYPreview](https://github.com/jobobby04/TachiyomiSYPreview) - A download host for TachiyomiSY Preview builds
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
@@ -725,7 +724,8 @@
 
 ## Python 
 
-- [Eerrly/VITSAIChatVtube](https://github.com/Eerrly/VITSAIChatVtube) - 使用Torch VITS语音合成，结合OpenAI ChatGPT进行互动，使用Live2D进行人物展示
+- [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
+- [Eerrly/VITSAIChatVtube](https://github.com/Eerrly/VITSAIChatVtube) - 使用Torch VITS语音合成，结合OpenAI ChatGPT进行互动
 - [VNOI-Admin/vnoj-docker](https://github.com/VNOI-Admin/vnoj-docker) - Docker setup for the VNOJ: VNOI Online Judge
 - [scmanjarrez/EdgeGPT-Telegram-Bot](https://github.com/scmanjarrez/EdgeGPT-Telegram-Bot) - Telegram bot using EdgeGPT unofficial API
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
@@ -1010,6 +1010,7 @@
 
 ## TypeScript 
 
+- [enricoros/nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) - 💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.
 - [tuhinpal/bingchat-api](https://github.com/tuhinpal/bingchat-api) - Bing Chat unofficial API
 - [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
