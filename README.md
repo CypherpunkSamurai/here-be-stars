@@ -724,6 +724,7 @@
 
 ## Python 
 
+- [ruvnet/chatgpt_plugin_python](https://github.com/ruvnet/chatgpt_plugin_python) - A simple To-do ChatGPT Plugin using python and deployed on replit.
 - [apple/ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
 - [jiggy-ai/pair](https://github.com/jiggy-ai/pair) - REPL environment for GPT pair programming
 - [Eerrly/VITSAIChatVtube](https://github.com/Eerrly/VITSAIChatVtube) - 使用Torch VITS语音合成，结合OpenAI ChatGPT进行互动
