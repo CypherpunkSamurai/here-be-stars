@@ -103,6 +103,7 @@
 
 ## C# # 
 
+- [UlyssesWu/D2Evil](https://github.com/UlyssesWu/D2Evil) - Managed waifu model parsing libs.
 - [DenchiSoft/VTubeStudio](https://github.com/DenchiSoft/VTubeStudio) - VTube Studio API Development Page
 - [rmTizi/CadWin](https://github.com/rmTizi/CadWin) - CadWin is a QT style sheet for FreeCAD LinkStage 3 implementing the WinUI 2.7 specification.
 - [Lmpessoa/MakeIcon](https://github.com/Lmpessoa/MakeIcon) - A simple application to build Windows 10 compatible ICO icon files from multiple PNG image files.
@@ -402,7 +403,7 @@
 - [duraki/charles-keygen](https://github.com/duraki/charles-keygen) - An open-source Charles Proxy keygen via RC5 cracking
 - [ikws4/CodeEditor](https://github.com/ikws4/CodeEditor) - Code editor for android
 - [alimogh/JavaCompile](https://github.com/alimogh/JavaCompile) - Android平台的Java IDE
-- [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro is an open-source, modified version of the popular app builder (Sketchware) tool that includes additional features and improvements. Our repository welcomes contributions from anyone in
+- [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro is a modified version of the popular app building tool Sketchware that includes additional features and improvements. Our repository welcomes contributions from anyone interested in add
 - [Cosmic-Ide/Cosmic-Ide](https://github.com/Cosmic-Ide/Cosmic-Ide) - A next-gen Ide for JVM development on Android
 - [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future.
 - [Col-E/Bytecode-Modification-Framework](https://github.com/Col-E/Bytecode-Modification-Framework) - A bytecode modification library
@@ -595,6 +596,7 @@
 
 ## Kotlin 
 
+- [stars-one/xtool](https://github.com/stars-one/xtool) - 使用TornadoFx封装的跨平台工具集合桌面程序
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Free and open source manga reader for Android
 - [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - Free and open source manga reader for Android
 - [CarlosEsco/Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader  for Android
@@ -724,6 +726,7 @@
 
 ## Python 
 
+- [ihopenot/LpkUnpacker](https://github.com/ihopenot/LpkUnpacker) - unpack Live2DViewerEx .lpk file
 - [IST-DASLab/sparsegpt](https://github.com/IST-DASLab/sparsegpt) - Code for the paper "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot".
 - [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
@@ -757,7 +760,6 @@
 - [supprise0408/V2RayAggregator](https://github.com/supprise0408/V2RayAggregator) - 
 - [Supprise0924/Supprise0924](https://github.com/Supprise0924/Supprise0924) - Config files for my GitHub profile.
 - [redteam-cyberark/Google-Domain-fronting](https://github.com/redteam-cyberark/Google-Domain-fronting) - Domain fronting using Google app engine
-- [skahwah/fronter](https://github.com/skahwah/fronter) - Find frontable domains
 - [mansimov/text2image](https://github.com/mansimov/text2image) - Generating Images from Captions with Attention
 - [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
 - [andreykiriienko/script_to_create_and_login_user](https://github.com/andreykiriienko/script_to_create_and_login_user) - 
@@ -1051,7 +1053,7 @@
 - [chame1eon/jnitrace](https://github.com/chame1eon/jnitrace) - A Frida based tool that traces usage of the JNI API in Android apps.
 - [A5rocks/slash-worker](https://github.com/A5rocks/slash-worker) - A Cloudflare Workers thing for your Discord Slash Commands.
 - [tsndr/cloudflare-worker-router](https://github.com/tsndr/cloudflare-worker-router) - A super lightweight router (1.3K) with middleware support and ZERO dependencies for CloudFlare Workers.
-- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [tgcallsjs/gram-tgcalls](https://github.com/tgcallsjs/gram-tgcalls) - https://tgcallsjs.github.io/gram-tgcalls/
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
