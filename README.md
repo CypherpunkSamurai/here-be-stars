@@ -903,7 +903,7 @@
 - [Quansight/.github](https://github.com/Quansight/.github) - Common GitHub community health files for Quansight
 - [AlfredoSequeida/fvid](https://github.com/AlfredoSequeida/fvid) - fvid is a project that aims to encode any file as a video using 1-bit color images to survive compression algorithms for data retrieval.
 - [TheApeMachine/cloudtube](https://github.com/TheApeMachine/cloudtube) - Using YouTube as an arbitrary Cloud storage for files.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like ques
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
