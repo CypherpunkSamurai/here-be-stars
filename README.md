@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 - [HappySeaFox/qsseditor](https://github.com/HappySeaFox/qsseditor) - 🎨 Cross-platform application to edit and preview Qt style sheets (QSS).
 - [LSPosed/LSPlant](https://github.com/LSPosed/LSPlant) - A hook framework for Android Runtime (ART)
@@ -327,6 +328,7 @@
 
 ## HTML 
 
+- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [kaihordewebui/kaihordewebui.github.io](https://github.com/kaihordewebui/kaihordewebui.github.io) - A zero dependency web UI for KoboldAI Horde
 - [ankitvadariya/ssh-client-connection](https://github.com/ankitvadariya/ssh-client-connection) - This Project is to use to when we need to give root access of server without sharing root password
 - [PalindromeLabs/WebSockets-Playground](https://github.com/PalindromeLabs/WebSockets-Playground) - Jumpstart multiple WebSocket servers quickly
@@ -728,6 +730,9 @@
 
 ## Python 
 
+- [lucidrains/gigagan-pytorch](https://github.com/lucidrains/gigagan-pytorch) - Implementation of GigaGAN, new SOTA GAN out of Adobe
+- [ssbuild/chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning) - chatglm 6b finetuning and alpaca finetuning
+- [Mouad-scriptz/HCaptcha-Image-Scraper](https://github.com/Mouad-scriptz/HCaptcha-Image-Scraper) - A Fast hcaptcha images scraper that scrapes captcha images and questions for what every you need those for.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community
@@ -772,7 +777,7 @@
 - [andreykiriienko/script_to_create_and_login_user](https://github.com/andreykiriienko/script_to_create_and_login_user) - 
 - [acierp/nohcaptcha](https://github.com/acierp/nohcaptcha) - an efficient and lightweight hcaptcha bypass/solver hybrid
 - [WaltDisneyWorld/okgendiz](https://github.com/WaltDisneyWorld/okgendiz) - 
-- [arenatemp/sd-tagging-helper](https://github.com/arenatemp/sd-tagging-helper) - A GUI to help with manual tagging and cropping
+- [arenasys/sd-tagging-helper](https://github.com/arenasys/sd-tagging-helper) - A GUI to help with manual tagging and cropping
 - [Linaqruf/kohya-trainer](https://github.com/Linaqruf/kohya-trainer) - Adapted from https://note.com/kohya_ss/n/nbf7ce8d80f29 for easier cloning
 - [rundfunk47/Google-Image-Scraper](https://github.com/rundfunk47/Google-Image-Scraper) - A library to scrape and resize google images, focusing on faces - mainly for machine learning (Stable Diffusion)
 - [shenao1100/Baidu_Netdisk_thirdpart](https://github.com/shenao1100/Baidu_Netdisk_thirdpart) - 百度网盘第三方管理工具
