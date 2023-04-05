@@ -295,7 +295,6 @@
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [devlights/gitpod-gui-example](https://github.com/devlights/gitpod-gui-example) - This is a example that is shown the Gui application in Gitpod. (using gitpod-full-vnc docker file)
 - [crgimenes/term](https://github.com/crgimenes/term) - 90's VGA terminal emulator
-- [jlywxy/void](https://github.com/jlywxy/void) - voidshell is a CUSTOM shell service
 - [rjm521/Rose](https://github.com/rjm521/Rose) - This is a back-end program for an online code runner, implemented in Go.
 - [tomatod/wsnc](https://github.com/tomatod/wsnc) - WebSocket CLI (like NetCat) written by Golang
 - [willbarkoff/airport](https://github.com/willbarkoff/airport) - 🛫 A simple program for redirecting stdout and stdin to the network.
@@ -468,6 +467,7 @@
 
 ## JavaScript 
 
+- [SillyLossy/TavernAI](https://github.com/SillyLossy/TavernAI) - Silly TavernAI mod
 - [SchneeHertz/chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) - ChatGPT双向语音助手
 - [DominikDoom/a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) - Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI
 - [onweru/compose](https://github.com/onweru/compose) - A Hugo theme for documentation sites. It's inspired by https://forestry.io/docs/welcome/
@@ -580,6 +580,7 @@
 
 ## Jupyter Notebook 
 
+- [peppertaco/AI](https://github.com/peppertaco/AI) - 
 - [Vision-CAIR/ChatCaptioner](https://github.com/Vision-CAIR/ChatCaptioner) - Official Repository of ChatCaptioner
 - [lablab-ai/How-to-use-OpenAIs-Whisper-Tutorial](https://github.com/lablab-ai/How-to-use-OpenAIs-Whisper-Tutorial) - In this tutorial you will learn how to use OpenAIs Whisper to useful applications that leverage speech recognition
 - [karaage0703/stable-diffusion-colab-tools](https://github.com/karaage0703/stable-diffusion-colab-tools) - Stable diffusion very easy and useful tools on Google Colaboratory(Google Colab)
@@ -652,6 +653,7 @@
 
 ## Others 
 
+- [wangschang/chatgpt-resource](https://github.com/wangschang/chatgpt-resource) - openai notionai chatgpt 免费chatgpt资源整理  MidJourney关键词 prompt chatgpt代理配置
 - [GTRONICK/QSS](https://github.com/GTRONICK/QSS) - QT Style Sheets templates
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [LeaderbotX400/chatbot-experiments](https://github.com/LeaderbotX400/chatbot-experiments) - A place to store jailbreaks, or results of some prompts
@@ -730,6 +732,7 @@
 
 ## Python 
 
+- [SillyLossy/TavernAI-extras](https://github.com/SillyLossy/TavernAI-extras) - Unofficial extensions for TavernAI
 - [lucidrains/gigagan-pytorch](https://github.com/lucidrains/gigagan-pytorch) - Implementation of GigaGAN, new SOTA GAN out of Adobe
 - [ssbuild/chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning) - chatglm 6b finetuning and alpaca finetuning
 - [Mouad-scriptz/HCaptcha-Image-Scraper](https://github.com/Mouad-scriptz/HCaptcha-Image-Scraper) - A Fast hcaptcha images scraper that scrapes captcha images and questions for what every you need those for.
