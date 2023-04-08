@@ -345,7 +345,7 @@
 - [sudoist/hugo-jcos.io](https://github.com/sudoist/hugo-jcos.io) - My personal site. Decided to drop WordPress and replace with Hugo
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme.
-- [coolabhays/Terminal-Fonts](https://github.com/coolabhays/Terminal-Fonts) - Collection of Fonts I prefer to use
+- [abhaysp95/Terminal-Fonts](https://github.com/abhaysp95/Terminal-Fonts) - Collection of Fonts I prefer to use
 - [CypherpunkSamurai/Kusa-Jekyll](https://github.com/CypherpunkSamurai/Kusa-Jekyll) - Kusa-Jekyll - A Clean Simple Jekyll theme
 - [vszhub/not-pure-poole](https://github.com/vszhub/not-pure-poole) - A simple, beautiful, and powerful Jekyll theme for blogs.
 - [DavideBri/Gesko](https://github.com/DavideBri/Gesko) - Gesko is a simple and minimalistic jekyll blogging theme.
@@ -738,7 +738,7 @@
 - [Mouad-scriptz/HCaptcha-Image-Scraper](https://github.com/Mouad-scriptz/HCaptcha-Image-Scraper) - A Fast hcaptcha images scraper that scrapes captcha images and questions for what every you need those for.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
-- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [ihopenot/LpkUnpacker](https://github.com/ihopenot/LpkUnpacker) - unpack Live2DViewerEx .lpk file
