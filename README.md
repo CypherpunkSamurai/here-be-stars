@@ -585,6 +585,7 @@
 
 ## Jupyter Notebook 
 
+- [MarkSchmidty/ChatGLM-6B-Int4-Web-Demo](https://github.com/MarkSchmidty/ChatGLM-6B-Int4-Web-Demo) - 
 - [peppertaco/AI](https://github.com/peppertaco/AI) - 
 - [Vision-CAIR/ChatCaptioner](https://github.com/Vision-CAIR/ChatCaptioner) - Official Repository of ChatCaptioner
 - [lablab-ai/How-to-use-OpenAIs-Whisper-Tutorial](https://github.com/lablab-ai/How-to-use-OpenAIs-Whisper-Tutorial) - In this tutorial you will learn how to use OpenAIs Whisper to useful applications that leverage speech recognition
