@@ -1066,6 +1066,7 @@
 - [krassowski/lsp-ws-connection](https://github.com/krassowski/lsp-ws-connection) - Easily connect language servers over websockets. A LSP-aware wrapper for vscode-ws-jsonrpc.
 - [wylieconlon/lsp-editor-adapter](https://github.com/wylieconlon/lsp-editor-adapter) - Connects language servers with the CodeMirror editor
 - [Almo7aya/audio-encryption](https://github.com/Almo7aya/audio-encryption) - https://almo7aya.github.io/audio-encryption/
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [ndunks/whatsapp-protobuf](https://github.com/ndunks/whatsapp-protobuf) - 
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
@@ -1109,7 +1110,6 @@
 ## Vue 
 
 - [aqualxx/stable-ui](https://github.com/aqualxx/stable-ui) - 🔥 A frontend for generating images with Stable Diffusion through Stable Horde
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
 - [shcant/vuepress-theme-casper](https://github.com/shcant/vuepress-theme-casper) - Ghost default theme ported to vuepress
 - [ismailnguyen/vue-dark-mode-switch](https://github.com/ismailnguyen/vue-dark-mode-switch) - VueJS Dark mode switch component
