@@ -738,6 +738,7 @@
 
 ## Python 
 
+- [Buhankoanon/OAI_API_Checker](https://github.com/Buhankoanon/OAI_API_Checker) - Program that allows you to check all the available information about your OAI API key
 - [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain) - 
 - [xwings/chatgpt-on-wechat2](https://github.com/xwings/chatgpt-on-wechat2) - 
 - [Cohee1207/TavernAI-extras](https://github.com/Cohee1207/TavernAI-extras) - Unofficial extensions for TavernAI
