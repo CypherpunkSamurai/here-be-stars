@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 - [HappySeaFox/qsseditor](https://github.com/HappySeaFox/qsseditor) - 🎨 Cross-platform application to edit and preview Qt style sheets (QSS).
@@ -330,6 +331,7 @@
 
 ## HTML 
 
+- [josephrocca/OpenCharacters](https://github.com/josephrocca/OpenCharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [kaihordewebui/kaihordewebui.github.io](https://github.com/kaihordewebui/kaihordewebui.github.io) - A zero dependency web UI for KoboldAI Horde
 - [ankitvadariya/ssh-client-connection](https://github.com/ankitvadariya/ssh-client-connection) - This Project is to use to when we need to give root access of server without sharing root password
@@ -470,6 +472,7 @@
 
 ## JavaScript 
 
+- [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的 JS 插件
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [rzarvirov/newbot-server](https://github.com/rzarvirov/newbot-server) - 
 - [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) - TavernAI for nerds
@@ -536,7 +539,6 @@
 - [bufgix/github-cv](https://github.com/bufgix/github-cv) - The App that generates CV based on your Github Profile
 - [new-789/GoWholeStack](https://github.com/new-789/GoWholeStack) - Go 语言全栈学习代码
 - [botsocket/quartz](https://github.com/botsocket/quartz) - Discord gateway client
-- [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
 - [EstebanBorai/gist-updater-worker](https://github.com/EstebanBorai/gist-updater-worker) - 👷🏻‍♂️ Cloudflare Worker to update GitHub Gists with ease
 - [xtlsoft/cloudflare-workers-comment-server](https://github.com/xtlsoft/cloudflare-workers-comment-server) - Use Cloudflare Workers as a comment service. (datastore using GitHub Gists.)
 - [Mindgamesnl/GoogleDriveResource](https://github.com/Mindgamesnl/GoogleDriveResource) - A simple HTTP proxy that fetches raw google drive resources (images, video, audio, and whatever) and bypasses the virus warning if the file size is over 200MB to still deliver the content. Intended to
@@ -585,6 +587,7 @@
 
 ## Jupyter Notebook 
 
+- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [LC1332/Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora) - 骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
 - [ttengwang/Caption-Anything](https://github.com/ttengwang/Caption-Anything) - Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences.
 - [MarkSchmidty/ChatGLM-6B-Int4-Web-Demo](https://github.com/MarkSchmidty/ChatGLM-6B-Int4-Web-Demo) - 
@@ -742,6 +745,10 @@
 
 ## Python 
 
+- [houseofsecrets/SdPaint](https://github.com/houseofsecrets/SdPaint) - Stable Diffusion Painting
+- [johannakarras/DreamPose](https://github.com/johannakarras/DreamPose) - Official implementation of "DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion"
+- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
+- [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
@@ -1061,6 +1068,8 @@
 
 ## TypeScript 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
