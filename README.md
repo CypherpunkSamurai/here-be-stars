@@ -535,7 +535,6 @@
 - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [wowthemesnet/jekyll-theme-memoirs](https://github.com/wowthemesnet/jekyll-theme-memoirs) - Memoirs is a free minimalist Jekyll theme for those who love the beauty of simplicity.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [pokearaujo/multidevice](https://github.com/pokearaujo/multidevice) - 
 - [bufgix/github-cv](https://github.com/bufgix/github-cv) - The App that generates CV based on your Github Profile
 - [new-789/GoWholeStack](https://github.com/new-789/GoWholeStack) - Go 语言全栈学习代码
 - [botsocket/quartz](https://github.com/botsocket/quartz) - Discord gateway client
