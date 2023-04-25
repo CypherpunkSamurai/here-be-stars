@@ -87,7 +87,7 @@
 - [wtdcode/unicorn](https://github.com/wtdcode/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [rednaga/native-shim](https://github.com/rednaga/native-shim) - A "shim" for loading native jni files for Android active debugging
 - [fengjixuchui/Tiktok](https://github.com/fengjixuchui/Tiktok) - 抖音 as, cp, mas,xlog 压缩签名算法逆向-仅供学习使用
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [SippieCup/Unknown6](https://github.com/SippieCup/Unknown6) - 
 - [bi-zone/masscan-ng](https://github.com/bi-zone/masscan-ng) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
@@ -275,7 +275,6 @@
 - [google/goterm](https://github.com/google/goterm) - Go Terminal library with PTY support and colors
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [voxpupuli/webhook-go](https://github.com/voxpupuli/webhook-go) - Puppet Webhook port in Golang
-- [lourenci/sudoku](https://github.com/lourenci/sudoku) - Sudoku algorithms
 - [itfactory-tm/thomas-bot](https://github.com/itfactory-tm/thomas-bot) - Thomas Bot, the friendly Discord bot
 - [smartass08/WarpUnlimitedGo](https://github.com/smartass08/WarpUnlimitedGo) - Proxy support needs to be done
 - [AllAlgorithms/go](https://github.com/AllAlgorithms/go) - Implementation of All ▲lgorithms in Go Programming Language
@@ -746,6 +745,7 @@
 
 ## Python 
 
+- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [houseofsecrets/SdPaint](https://github.com/houseofsecrets/SdPaint) - Stable Diffusion Painting
 - [johannakarras/DreamPose](https://github.com/johannakarras/DreamPose) - Official implementation of "DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion"
@@ -1079,7 +1079,7 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [KeJunMao/edgegpt](https://github.com/KeJunMao/edgegpt) - The reverse engineering the chat feature of the new version of Bing.新必应聊天功能的逆向工程
-- [enricoros/nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) - 💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.
+- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Responsive personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for de
 - [tuhinpal/bingchat-api](https://github.com/tuhinpal/bingchat-api) - Bing Chat unofficial API
 - [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
