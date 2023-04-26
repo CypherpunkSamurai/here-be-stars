@@ -745,6 +745,8 @@
 
 ## Python 
 
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
+- [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [houseofsecrets/SdPaint](https://github.com/houseofsecrets/SdPaint) - Stable Diffusion Painting
@@ -915,7 +917,6 @@
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
 - [mzjdy/MobaXterm-Keygen](https://github.com/mzjdy/MobaXterm-Keygen) - MobaXterm Keygen Originally by DoubleLabyrinth
 - [rainbowpigeon/sublime-text-4-patcher](https://github.com/rainbowpigeon/sublime-text-4-patcher) - Python 3 patcher for Sublime Text v4107-4143 Windows x64
-- [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
 - [python-geeks/Automation-scripts](https://github.com/python-geeks/Automation-scripts) - Repo for creating awesome automation scripts to make my panda lazier
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [SuperCV/Book](https://github.com/SuperCV/Book) - :green_book:我的个人书籍学习和收藏
@@ -1071,6 +1072,7 @@
 
 ## TypeScript 
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
