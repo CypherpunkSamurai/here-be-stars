@@ -750,7 +750,7 @@
 
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -806,7 +806,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
 - [LogicPy/Python](https://github.com/LogicPy/Python) - 
-- [YellowGreg/GPT-AI](https://github.com/YellowGreg/GPT-AI) - made with python
+- [YellowGreg/GPT-AI](https://github.com/YellowGreg/GPT-AI) - 
 - [xtekky/ChatGPT-Alternative](https://github.com/xtekky/ChatGPT-Alternative) - You.com ChatGPT Clone client - Google on steroids
 - [pygments/pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
@@ -1142,7 +1142,7 @@
 
 ## Visual Basic .NET 
 
-- [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - :rainbow_flag: Media downloader from any sites, including Twitter, Reddit, Instagram, TikTok, PornHub, XHamster, XVIDEOS etc.
+- [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - :rainbow_flag: Media downloader from any sites, including Twitter, Reddit, Instagram, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
 - [shanxing2/ShanXingTech.Net2.BaiduNetdisk](https://github.com/shanxing2/ShanXingTech.Net2.BaiduNetdisk) - 百度网盘相关
 
 ## Vue 
