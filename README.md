@@ -472,7 +472,7 @@
 
 ## JavaScript 
 
-- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
+- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的 JS 插件
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [rzarvirov/newbot-server](https://github.com/rzarvirov/newbot-server) - 
@@ -750,6 +750,7 @@
 
 ## Python 
 
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [chavinlo/deepfloyd-api](https://github.com/chavinlo/deepfloyd-api) - Simple but scalable API for IF by Deepfloyd
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
@@ -987,7 +988,7 @@
 
 ## Rust 
 
-- [rustformers/llama-rs](https://github.com/rustformers/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+- [rustformers/llm](https://github.com/rustformers/llm) - Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
