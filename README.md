@@ -173,7 +173,6 @@
 
 ## CSS 
 
-- [zhonger/jekyll-theme-H2O-ac](https://github.com/zhonger/jekyll-theme-H2O-ac) - 🎉 A Jekyll theme for researchers and maintainers based on H2O theme.
 - [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
 - [hdxw/hexo-theme-prowiki](https://github.com/hdxw/hexo-theme-prowiki) - 自制精简hexo模板
 - [glazec/hexo-cheatsheets](https://github.com/glazec/hexo-cheatsheets) - a cheatsheets theme for hexo
@@ -781,7 +780,7 @@
 - [ssbuild/chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning) - chatglm 6b finetuning and alpaca finetuning
 - [Mouad-scriptz/HCaptcha-Image-Scraper](https://github.com/Mouad-scriptz/HCaptcha-Image-Scraper) - A Fast hcaptcha images scraper that scrapes captcha images and questions for what every you need those for.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
@@ -1014,6 +1013,7 @@
 ## SCSS 
 
 - [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - A simple, elegant, book-like hexo theme with some useful features.
+- [zhonger/jekyll-theme-H2O-ac](https://github.com/zhonger/jekyll-theme-H2O-ac) - 🎉 A Jekyll theme for researchers and maintainers based on H2O theme.
 - [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Cactus theme for hugo
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 - [katydecorah/theme](https://github.com/katydecorah/theme) - 💅 Jekyll theme for katydecorah.com
