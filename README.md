@@ -786,7 +786,7 @@
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [ihopenot/LpkUnpacker](https://github.com/ihopenot/LpkUnpacker) - unpack Live2DViewerEx .lpk file
-- [IST-DASLab/sparsegpt](https://github.com/IST-DASLab/sparsegpt) - Code for the paper "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot".
+- [IST-DASLab/sparsegpt](https://github.com/IST-DASLab/sparsegpt) - Code for the ICML 2023 paper "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot".
 - [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
 - [ruvnet/chatgpt_plugin_python](https://github.com/ruvnet/chatgpt_plugin_python) - A simple To-do ChatGPT Plugin using python and deployed on replit.
