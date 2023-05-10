@@ -750,6 +750,7 @@
 
 ## Python 
 
+- [Barbariskaa/Biba](https://github.com/Barbariskaa/Biba) - 
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [chavinlo/deepfloyd-api](https://github.com/chavinlo/deepfloyd-api) - Simple but scalable API for IF by Deepfloyd
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
