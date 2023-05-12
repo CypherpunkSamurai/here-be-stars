@@ -587,6 +587,7 @@
 
 ## Jupyter Notebook 
 
+- [nolanaatama/sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) - 
 - [leehanchung/lora-instruct](https://github.com/leehanchung/lora-instruct) - Instruct-tune LLaMA, MPT, and RedPajama on consumer hardware using PEFT LoRA
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
