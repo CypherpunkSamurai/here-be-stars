@@ -304,7 +304,6 @@
 - [willbarkoff/airport](https://github.com/willbarkoff/airport) - 🛫 A simple program for redirecting stdout and stdin to the network.
 - [xyproto/plsclient](https://github.com/xyproto/plsclient) - A client for gopls
 - [pixelbender/ws](https://github.com/pixelbender/ws) - Command line WebSocket client that pipes stdin/stdout
-- [jtakamine/stdroute](https://github.com/jtakamine/stdroute) - Forward Stdin to JSON-RPC endpoint
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [kataras/neffos](https://github.com/kataras/neffos) - A modern, fast and scalable websocket framework with elegant API written in Go
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go
