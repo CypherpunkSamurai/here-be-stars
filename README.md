@@ -286,7 +286,7 @@
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [mattn/go-isatty](https://github.com/mattn/go-isatty) - 
 - [mattn/go-tty](https://github.com/mattn/go-tty) - 
-- [abanoubha/ocr](https://github.com/abanoubha/ocr) - A Cross-platform Text Recognition Software for Arabic & English Languages.
+- [abanoubha/ocr](https://github.com/abanoubha/ocr) - A Cross-platform Text Recognition Software
 - [jhekasoft/insteadman](https://github.com/jhekasoft/insteadman) - Manager for INSTEAD games
 - [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
 - [SilentGopherLnx/GopherFileManager](https://github.com/SilentGopherLnx/GopherFileManager) - Main App
@@ -341,7 +341,7 @@
 - [wadezhan/billfeller.github.io](https://github.com/wadezhan/billfeller.github.io) - 
 - [HangZhouCat/ReaverAPKTools](https://github.com/HangZhouCat/ReaverAPKTools) - 逆向APK工具
 - [WSG88/ak47](https://github.com/WSG88/ak47) - 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [MrGreensWorkshop/MrGreen-JekyllTheme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) - Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.
 - [JakeWharton/jakewharton.com](https://github.com/JakeWharton/jakewharton.com) - Personal website and blog.
 - [Berny23/eclipse-portable](https://github.com/Berny23/eclipse-portable) - Portable version of the multifunctional development platform Eclipse.
@@ -990,7 +990,7 @@
 ## Rust 
 
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-- [rustformers/llm](https://github.com/rustformers/llm) - Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
+- [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for the C++ api of PyTorch.
