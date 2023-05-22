@@ -471,6 +471,7 @@
 
 ## JavaScript 
 
+- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的 JS 插件
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
@@ -752,6 +753,8 @@
 
 ## Python 
 
+- [ading2210/openplayground-api](https://github.com/ading2210/openplayground-api) - A reverse engineered Python API wrapper for OpenPlayground (nat.dev)
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [Barbariskaa/Biba](https://github.com/Barbariskaa/Biba) - 
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [chavinlo/deepfloyd-api](https://github.com/chavinlo/deepfloyd-api) - Simple but scalable API for IF by Deepfloyd
@@ -1084,6 +1087,7 @@
 
 ## TypeScript 
 
+- [PawanOsman/GoogleBard](https://github.com/PawanOsman/GoogleBard) - GoogleBard - A reverse engineered API for Google Bard chatbot for NodeJS
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
