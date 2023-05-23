@@ -907,6 +907,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [LaRevoltage/SMSPhisher](https://github.com/LaRevoltage/SMSPhisher) - This tool can send spoofed sms from name of company
 - [apkunpacker/jeb4frida](https://github.com/apkunpacker/jeb4frida) - Generate Frida hooks directly from JEB!
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [ymoslem/DesktopTranslator](https://github.com/ymoslem/DesktopTranslator) - Local cross-platform machine translation GUI, based on CTranslate2
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
