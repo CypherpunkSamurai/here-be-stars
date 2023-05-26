@@ -754,6 +754,7 @@
 
 ## Python 
 
+- [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
 - [ading2210/openplayground-api](https://github.com/ading2210/openplayground-api) - A reverse engineered Python API wrapper for OpenPlayground (nat.dev)
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [Barbariskaa/Biba](https://github.com/Barbariskaa/Biba) - 
@@ -788,7 +789,7 @@
 - [ssbuild/chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning) - chatglm 6b finetuning and alpaca finetuning
 - [Mouad-scriptz/HCaptcha-Image-Scraper](https://github.com/Mouad-scriptz/HCaptcha-Image-Scraper) - A Fast hcaptcha images scraper that scrapes captcha images and questions for what every you need those for.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [ihopenot/LpkUnpacker](https://github.com/ihopenot/LpkUnpacker) - unpack Live2DViewerEx .lpk file
@@ -1142,6 +1143,7 @@
 
 ## Vim Script 
 
+- [HenryNewcomer/vim-theme-papaya](https://github.com/HenryNewcomer/vim-theme-papaya) - A dark theme for Vim specifically made to focus your attention on the important things.
 - [jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete) - 杭州市余杭区最好用的 VIM/NVIM 代码补全插件
 - [hiyali/nvim](https://github.com/hiyali/nvim) - ❤️  A neovim config repo.
 - [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite [best] text editor
