@@ -123,6 +123,7 @@
 
 ## C++ 
 
+- [unitaryfund/qrack](https://github.com/unitaryfund/qrack) - Comprehensive, GPU accelerated framework for developing universal virtual quantum processors
 - [SamLarenN/SpeedFan-Exploit](https://github.com/SamLarenN/SpeedFan-Exploit) - Abusing SpeedFan driver ability of physical memory manipulation
 - [Neo-Desktop/WindowsXPKg](https://github.com/Neo-Desktop/WindowsXPKg) - Keygen for Windows XP
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
@@ -334,7 +335,7 @@
 
 - [josephrocca/OpenCharacters](https://github.com/josephrocca/OpenCharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
-- [kaihordewebui/kaihordewebui.github.io](https://github.com/kaihordewebui/kaihordewebui.github.io) - A zero dependency web UI for KoboldAI Horde
+- [LostRuins/lite.koboldai.net](https://github.com/LostRuins/lite.koboldai.net) - A zero dependency web UI for KoboldAI Horde
 - [ankitvadariya/ssh-client-connection](https://github.com/ankitvadariya/ssh-client-connection) - This Project is to use to when we need to give root access of server without sharing root password
 - [PalindromeLabs/WebSockets-Playground](https://github.com/PalindromeLabs/WebSockets-Playground) - Jumpstart multiple WebSocket servers quickly
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -592,6 +593,8 @@
 
 ## Jupyter Notebook 
 
+- [atherfawaz/Quantum-Simulator](https://github.com/atherfawaz/Quantum-Simulator) - Colab-friendly implementation of a quantum computing simulator using only numpy
+- [someshkar/colabcat](https://github.com/someshkar/colabcat) - :smiley_cat: Running Hashcat on Google Colab with session backup and restore.
 - [nolanaatama/sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) - 
 - [leehanchung/lora-instruct](https://github.com/leehanchung/lora-instruct) - Instruct-tune LLaMA, MPT, and RedPajama on consumer hardware using PEFT LoRA
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
@@ -759,6 +762,8 @@
 
 ## Python 
 
+- [ken-nakanishi/qupy](https://github.com/ken-nakanishi/qupy) - QuPy: Quantum circuit simulator for both CPU and GPU
+- [unitaryfund/pyqrack](https://github.com/unitaryfund/pyqrack) - Pure Python bindings for the pure C++11/OpenCL Qrack quantum computer simulator library
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [kachayev/fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
