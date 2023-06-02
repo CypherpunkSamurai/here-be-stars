@@ -215,6 +215,7 @@
 
 ## Go 
 
+- [jstemmer/sqlstore](https://github.com/jstemmer/sqlstore) - SQL session store for gorilla/sessions
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [pavel-one/EdgeGPT-Go](https://github.com/pavel-one/EdgeGPT-Go) - EdgeGPT-Go: Reverse engineered API of Microsoft's Bing Chat AI for Golang with GRPC, CLI, Library interface and cookie manager
 - [billikeu/Go-EdgeGPT](https://github.com/billikeu/Go-EdgeGPT) - Go-EdgeGPT: Reverse engineered API of Microsoft's Bing Chat AI. 新必应聊天功能的逆向工程
@@ -596,7 +597,7 @@
 - [atherfawaz/Quantum-Simulator](https://github.com/atherfawaz/Quantum-Simulator) - Colab-friendly implementation of a quantum computing simulator using only numpy
 - [someshkar/colabcat](https://github.com/someshkar/colabcat) - :smiley_cat: Running Hashcat on Google Colab with session backup and restore.
 - [nolanaatama/sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) - 
-- [leehanchung/lora-instruct](https://github.com/leehanchung/lora-instruct) - Instruct-tune LLaMA, MPT, and RedPajama on consumer hardware using PEFT LoRA
+- [leehanchung/lora-instruct](https://github.com/leehanchung/lora-instruct) - Finetune Falcon, LLaMA, MPT, and RedPajama on consumer hardware using PEFT LoRA
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like
