@@ -56,6 +56,7 @@
 
 ## Assembly 
 
+- [msm8916-mainline/qhypstub](https://github.com/msm8916-mainline/qhypstub) - "hyp" firmware stub for Qualcomm MSM8916/MSM8939 that allows using EL2/KVM
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 
 ## Batchfile 
@@ -72,6 +73,10 @@
 
 ## C 
 
+- [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
+- [msm8916-mainline/lk2nd](https://github.com/msm8916-mainline/lk2nd) - Custom bootloader for Qualcomm MSM8916/MSM8226/MSM8974/... devices
+- [HandsomeMod/HandsomeMod](https://github.com/HandsomeMod/HandsomeMod) - IOT freedom for end users!
+- [OpenStick/linux](https://github.com/OpenStick/linux) - Linux mainline kernel fork for many Qualcomm MSM8916/APQ8016 devices
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
@@ -200,6 +205,7 @@
 
 ## Dockerfile 
 
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [PeterDaveHello/tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) - 🐳 Tiny Docker image (🤏 10MB) as 🧅 Tor SOCKS5 proxy 🛡
 - [julianxhokaxhiu/docker-lineage-cicd](https://github.com/julianxhokaxhiu/docker-lineage-cicd) - Docker microservice for LineageOS Continuous Integration and Continous Deployment
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
@@ -763,6 +769,7 @@
 
 ## Python 
 
+- [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) - Enlighten Progress Bar for Python Console Apps
 - [ken-nakanishi/qupy](https://github.com/ken-nakanishi/qupy) - QuPy: Quantum circuit simulator for both CPU and GPU
 - [unitaryfund/pyqrack](https://github.com/unitaryfund/pyqrack) - Pure Python bindings for the pure C++11/OpenCL Qrack quantum computer simulator library
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
