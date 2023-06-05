@@ -110,6 +110,7 @@
 
 ## C# # 
 
+- [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
 - [UlyssesWu/D2Evil](https://github.com/UlyssesWu/D2Evil) - Managed waifu model parsing libs.
 - [DenchiSoft/VTubeStudio](https://github.com/DenchiSoft/VTubeStudio) - VTube Studio API Development Page
 - [rmTizi/CadWin](https://github.com/rmTizi/CadWin) - CadWin is a QT style sheet for FreeCAD LinkStage 3 implementing the WinUI 2.7 specification.
@@ -387,6 +388,8 @@
 
 ## Java 
 
+- [zytedata/zyte-smartproxy-clients](https://github.com/zytedata/zyte-smartproxy-clients) - HTTPS clients for Smart Proxy Manager
+- [mandiant/Ghidrathon](https://github.com/mandiant/Ghidrathon) - The FLARE team's open-source extension to add Python 3 scripting to Ghidra.
 - [anujd64/Thunder](https://github.com/anujd64/Thunder) - An Android app to stream and download your media stored in Google Drive in an Awesome way !!
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
@@ -769,6 +772,7 @@
 
 ## Python 
 
+- [zhvng/open-musiclm](https://github.com/zhvng/open-musiclm) - Implementation of MusicLM, a text to music model published by Google Research, with a few modifications.
 - [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) - Enlighten Progress Bar for Python Console Apps
 - [ken-nakanishi/qupy](https://github.com/ken-nakanishi/qupy) - QuPy: Quantum circuit simulator for both CPU and GPU
 - [unitaryfund/pyqrack](https://github.com/unitaryfund/pyqrack) - Pure Python bindings for the pure C++11/OpenCL Qrack quantum computer simulator library
@@ -1015,6 +1019,7 @@
 
 ## Rust 
 
+- [keyvank/femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
