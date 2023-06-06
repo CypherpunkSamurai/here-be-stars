@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [tux116/navicat-keygen](https://github.com/tux116/navicat-keygen) - https://notabug.org/doublesine/navicat-keygen
 - [unitaryfund/qrack](https://github.com/unitaryfund/qrack) - Comprehensive, GPU accelerated framework for developing universal virtual quantum processors
 - [SamLarenN/SpeedFan-Exploit](https://github.com/SamLarenN/SpeedFan-Exploit) - Abusing SpeedFan driver ability of physical memory manipulation
 - [Neo-Desktop/WindowsXPKg](https://github.com/Neo-Desktop/WindowsXPKg) - Keygen for Windows XP
