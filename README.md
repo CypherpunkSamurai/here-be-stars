@@ -147,7 +147,7 @@
 - [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) - C++ client for making HTTP/REST requests
 - [KooroshRZ/Windows-DLL-Injector](https://github.com/KooroshRZ/Windows-DLL-Injector) - Some DLL Injection techniques in C++ implemented for both x86 and x64 windows OS processes
 - [AYIDouble/Simple-DLL-Injection](https://github.com/AYIDouble/Simple-DLL-Injection) - 🔧 Simple DLL Injection into a Process with C++ 🔧
-- [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft) - Simple C++ program to capture and display all traffic between a client and a server in minecraft
+- [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft) - C++ program to capture and display all traffic between a client and a server in minecraft
 - [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
 - [hippyau/pb-cimgui](https://github.com/hippyau/pb-cimgui) - PureBasic interface to CImGui Wrapper
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
@@ -202,6 +202,7 @@
 
 ## Dart 
 
+- [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -389,6 +390,7 @@
 
 ## Java 
 
+- [AndreAle94/moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
 - [zytedata/zyte-smartproxy-clients](https://github.com/zytedata/zyte-smartproxy-clients) - HTTPS clients for Smart Proxy Manager
 - [mandiant/Ghidrathon](https://github.com/mandiant/Ghidrathon) - The FLARE team's open-source extension to add Python 3 scripting to Ghidra.
 - [anujd64/Thunder](https://github.com/anujd64/Thunder) - An Android app to stream and download your media stored in Google Drive in an Awesome way !!
@@ -487,6 +489,7 @@
 
 ## JavaScript 
 
+- [bfs15/slaude](https://github.com/bfs15/slaude) - 
 - [matrix-org/matrix-public-archive](https://github.com/matrix-org/matrix-public-archive) - View the history of public and world readable Matrix rooms
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
@@ -508,7 +511,7 @@
 - [KarthickMathesh/Text-Editor](https://github.com/KarthickMathesh/Text-Editor) - Text Editor created using ace.js with Emmet auto completion features.
 - [p2004a/ace-clang-completion-poc](https://github.com/p2004a/ace-clang-completion-poc) - Proof of concept of Clang completion through WebSockets in Ace editor.
 - [Amithab/Ace-Editor-example](https://github.com/Amithab/Ace-Editor-example) - Basic custom theme, mode, and autcomplete for Ace editor
-- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
 - [PrismarineJS/minecraft-packets](https://github.com/PrismarineJS/minecraft-packets) - Stores minecraft packets to test implementation of the minecraft protocol
 - [Heath123/pakkit](https://github.com/Heath123/pakkit) - 
 - [Mz49/emuparadise-mirror](https://github.com/Mz49/emuparadise-mirror) - A Cloudflare Worker script that mirrors EmuParadise and alters download pages to include a working link.
@@ -635,6 +638,8 @@
 
 ## Kotlin 
 
+- [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
+- [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
 - [stars-one/xtool](https://github.com/stars-one/xtool) - 使用TornadoFx封装的跨平台工具集合桌面程序
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Free and open source manga reader for Android
 - [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - Free and open source manga reader for Android
@@ -688,6 +693,7 @@
 
 ## Others 
 
+- [anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
 - [jllllll/bitsandbytes-windows-webui](https://github.com/jllllll/bitsandbytes-windows-webui) - Windows compile of bitsandbytes for use in text-generation-webui.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [togethercomputer/OpenDataHub](https://github.com/togethercomputer/OpenDataHub) - 
@@ -1117,6 +1123,7 @@
 
 ## TypeScript 
 
+- [jerameel/sushi](https://github.com/jerameel/sushi) - A personal finance management app built with react-native.
 - [PawanOsman/GoogleBard](https://github.com/PawanOsman/GoogleBard) - GoogleBard - A reverse engineered API for Google Bard chatbot for NodeJS
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
