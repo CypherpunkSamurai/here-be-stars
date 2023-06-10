@@ -779,6 +779,8 @@
 
 ## Python 
 
+- [OpenBuddy/text-generation-inference](https://github.com/OpenBuddy/text-generation-inference) - Large Language Model Text Generation Inference
+- [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [XzaiCloud/AI-Vtuber](https://github.com/XzaiCloud/AI-Vtuber) - :octocat:AI Vtuber是一个由ChatterBot驱动的虚拟主播，可以在Bilibili直播中与观众实时互动。它使用自然语言处理和文本转语音技术生成对观众问题的回答。
 - [zhvng/open-musiclm](https://github.com/zhvng/open-musiclm) - Implementation of MusicLM, a text to music model published by Google Research, with a few modifications.
 - [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) - Enlighten Progress Bar for Python Console Apps
