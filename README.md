@@ -224,6 +224,7 @@
 
 ## Go 
 
+- [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server
 - [jstemmer/sqlstore](https://github.com/jstemmer/sqlstore) - SQL session store for gorilla/sessions
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [pavel-one/EdgeGPT-Go](https://github.com/pavel-one/EdgeGPT-Go) - EdgeGPT-Go: Reverse engineered API of Microsoft's Bing Chat AI for Golang with GRPC, CLI, Library interface and cookie manager
