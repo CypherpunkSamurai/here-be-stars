@@ -1126,6 +1126,7 @@
 
 ## TypeScript 
 
+- [yacineMTB/talk](https://github.com/yacineMTB/talk) - Let's make sand talk
 - [jerameel/sushi](https://github.com/jerameel/sushi) - A personal finance management app built with react-native.
 - [PawanOsman/GoogleBard](https://github.com/PawanOsman/GoogleBard) - GoogleBard - A reverse engineered API for Google Bard chatbot for NodeJS
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
