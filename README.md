@@ -132,7 +132,7 @@
 - [tux116/navicat-keygen](https://github.com/tux116/navicat-keygen) - https://notabug.org/doublesine/navicat-keygen
 - [unitaryfund/qrack](https://github.com/unitaryfund/qrack) - Comprehensive, GPU accelerated framework for developing universal virtual quantum processors
 - [SamLarenN/SpeedFan-Exploit](https://github.com/SamLarenN/SpeedFan-Exploit) - Abusing SpeedFan driver ability of physical memory manipulation
-- [Neo-Desktop/WindowsXPKg](https://github.com/Neo-Desktop/WindowsXPKg) - Keygen for Windows XP
+- [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - Universal MS Key Toolkit
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
@@ -517,7 +517,6 @@
 - [PrismarineJS/minecraft-packets](https://github.com/PrismarineJS/minecraft-packets) - Stores minecraft packets to test implementation of the minecraft protocol
 - [Heath123/pakkit](https://github.com/Heath123/pakkit) - 
 - [Mz49/emuparadise-mirror](https://github.com/Mz49/emuparadise-mirror) - A Cloudflare Worker script that mirrors EmuParadise and alters download pages to include a working link.
-- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [aD4wn/Workers-Proxy](https://github.com/aD4wn/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
 - [ebenezerdon/nextjs-mdx-blog](https://github.com/ebenezerdon/nextjs-mdx-blog) - A Next.js and MDX blog
 - [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
@@ -649,7 +648,7 @@
 - [CarlosEsco/Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader  for Android
 - [zt64/Hyperion](https://github.com/zt64/Hyperion) - An alternative YouTube front-end
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
-- [Iamlooker/Droid-ify](https://github.com/Iamlooker/Droid-ify) - F-Droid client with Material UI.
+- [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [NeNpO/QuillNote](https://github.com/NeNpO/QuillNote) - Take beautiful markdown notes and stay organized with task lists.
 - [oianmol/DiscordJetpackCompose](https://github.com/oianmol/DiscordJetpackCompose) - A Jetpack compose clone for Discord Android Client
@@ -662,7 +661,7 @@
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
 - [Jacekun/CloudStream-3XXX](https://github.com/Jacekun/CloudStream-3XXX) - 
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
-- [jmir1/aniyomi](https://github.com/jmir1/aniyomi) - Unofficial fork of Tachiyomi for anime
+- [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - Unofficial fork of Tachiyomi for anime
 - [msoultanidis/quillnote](https://github.com/msoultanidis/quillnote) - Take beautiful markdown notes and stay organized with task lists.
 
 ## Liquid 
@@ -754,7 +753,7 @@
 - [abhishekkrthakur/how-to-become-a-ds-in-30-days](https://github.com/abhishekkrthakur/how-to-become-a-ds-in-30-days) - How to become a data scientist in 30 days
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [W00t3k/Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Awesome-Cellular-Hacking
-- [jmir1/aniyomi-preview](https://github.com/jmir1/aniyomi-preview) - 
+- [aniyomiorg/aniyomi-preview](https://github.com/aniyomiorg/aniyomi-preview) - 
 - [R0-Crew/CipherHater-Club](https://github.com/R0-Crew/CipherHater-Club) - "We always hack programs which you cannot competently protect..." © CipherHater
 - [liamengland1/miscfilters](https://github.com/liamengland1/miscfilters) - 
 - [acnapyx/paywall-remover](https://github.com/acnapyx/paywall-remover) - Block insecure paywalls using AdBlock.
@@ -1160,6 +1159,7 @@
 - [Almo7aya/audio-encryption](https://github.com/Almo7aya/audio-encryption) - https://almo7aya.github.io/audio-encryption/
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [ndunks/whatsapp-protobuf](https://github.com/ndunks/whatsapp-protobuf) - 
 - [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web) - AirMessage for the web
 - [fantasticit/wipi](https://github.com/fantasticit/wipi) - A blog system written by next.js, nest.js and MySQL.
