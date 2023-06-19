@@ -1061,7 +1061,7 @@
 
 ## SCSS 
 
-- [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - A simple, elegant, book-like hexo theme with some useful features.
+- [kaiiiz/hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) - [No Longer Maintained] A simple, elegant, book-like hexo theme with some useful features.
 - [zhonger/jekyll-theme-H2O-ac](https://github.com/zhonger/jekyll-theme-H2O-ac) - 🎉 A Jekyll theme for researchers and maintainers based on H2O theme.
 - [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Cactus theme for hugo
 - [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) - 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
