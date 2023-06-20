@@ -249,7 +249,7 @@
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
 - [gofiber/recipes](https://github.com/gofiber/recipes) - 📁 Examples for 🚀 Fiber
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -1197,7 +1197,7 @@
 
 ## Visual Basic .NET 
 
-- [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - :rainbow_flag: Media downloader from any sites, including Twitter, Reddit, Instagram, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
+- [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - :rainbow_flag: Media downloader from any sites, including Twitter, Reddit, Instagram, OnlyFans, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
 - [shanxing2/ShanXingTech.Net2.BaiduNetdisk](https://github.com/shanxing2/ShanXingTech.Net2.BaiduNetdisk) - 百度网盘相关
 
 ## Vue 
