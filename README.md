@@ -61,6 +61,7 @@
 
 ## Batchfile 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [FoxP/PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) - KISS batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution ICO files using ImageMagick.
 - [osm0sis/Android-Image-Kitchen](https://github.com/osm0sis/Android-Image-Kitchen) - Automated scripts to unpack/repack Android kernel/recovery images + ramdisks
 - [carlos-burelo/plugins](https://github.com/carlos-burelo/plugins) - Extra tools for Scarlett Kitchen to facilitate the work of it
@@ -782,6 +783,9 @@
 
 ## Python 
 
+- [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
+- [facebookresearch/encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [OpenLMLab/fastNLP](https://github.com/OpenLMLab/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
 - [OpenBuddy/text-generation-inference](https://github.com/OpenBuddy/text-generation-inference) - Large Language Model Text Generation Inference
@@ -1131,6 +1135,7 @@
 
 ## TypeScript 
 
+- [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
 - [yacineMTB/talk](https://github.com/yacineMTB/talk) - Let's make sand talk
 - [jerameel/sushi](https://github.com/jerameel/sushi) - A personal finance management app built with react-native.
 - [PawanOsman/GoogleBard](https://github.com/PawanOsman/GoogleBard) - GoogleBard - A reverse engineered API for Google Bard chatbot for NodeJS
