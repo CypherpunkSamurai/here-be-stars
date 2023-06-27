@@ -74,6 +74,7 @@
 
 ## C 
 
+- [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plugin for WhatsApp Web.
 - [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
 - [msm8916-mainline/lk2nd](https://github.com/msm8916-mainline/lk2nd) - Custom bootloader for Qualcomm MSM8916/MSM8226/MSM8974/... devices
 - [HandsomeMod/HandsomeMod](https://github.com/HandsomeMod/HandsomeMod) - IOT freedom for end users!
@@ -111,6 +112,7 @@
 
 ## C# # 
 
+- [MasterQ32/zig-opengl](https://github.com/MasterQ32/zig-opengl) - OpenGL binding generator based on the opengl registry
 - [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
 - [UlyssesWu/D2Evil](https://github.com/UlyssesWu/D2Evil) - Managed waifu model parsing libs.
 - [DenchiSoft/VTubeStudio](https://github.com/DenchiSoft/VTubeStudio) - VTube Studio API Development Page
@@ -130,6 +132,7 @@
 
 ## C++ 
 
+- [fegennari/3DWorld](https://github.com/fegennari/3DWorld) - 3D Procedural Game Engine Using OpenGL
 - [tux116/navicat-keygen](https://github.com/tux116/navicat-keygen) - https://notabug.org/doublesine/navicat-keygen
 - [unitaryfund/qrack](https://github.com/unitaryfund/qrack) - Comprehensive, GPU accelerated framework for developing universal virtual quantum processors
 - [SamLarenN/SpeedFan-Exploit](https://github.com/SamLarenN/SpeedFan-Exploit) - Abusing SpeedFan driver ability of physical memory manipulation
@@ -226,6 +229,11 @@
 
 ## Go 
 
+- [codespearhead/whatsmeow-quickstart](https://github.com/codespearhead/whatsmeow-quickstart) - The quickstart with WhatsMeow®'s WhatsApp Web API you've always wanted
+- [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) - 
+- [asternic/wuzapi](https://github.com/asternic/wuzapi) - Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)
+- [monobilisim/whatsapp-ws](https://github.com/monobilisim/whatsapp-ws) - WhatsApp WebSocket via whatsmeow
+- [BerkaySan/WhatsAppGPT](https://github.com/BerkaySan/WhatsAppGPT) - 
 - [Snawoot/windscribe-proxy](https://github.com/Snawoot/windscribe-proxy) - Standalone client for proxies of Windscribe browser extension
 - [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server
 - [jstemmer/sqlstore](https://github.com/jstemmer/sqlstore) - SQL session store for gorilla/sessions
@@ -783,6 +791,9 @@
 
 ## Python 
 
+- [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
+- [viblo/pymunk](https://github.com/viblo/pymunk) - Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  you need 2d rigid body physics from Python
+- [ARISE-Initiative/robosuite](https://github.com/ARISE-Initiative/robosuite) - robosuite: A Modular Simulation Framework and Benchmark for Robot Learning
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [facebookresearch/encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
@@ -1219,6 +1230,8 @@
 
 ## Zig 
 
+- [Aransentin/ZWL](https://github.com/Aransentin/ZWL) - Zig Windowing Library
+- [ziglibs/zgl](https://github.com/ziglibs/zgl) - Zig OpenGL Wrapper
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
