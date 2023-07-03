@@ -701,6 +701,7 @@
 
 ## Objective-C 
 
+- [EthanArbuckle/Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials) - Tweak to use your own reddit API credentials in Apollo
 - [NeoTheCapt/aweme-algorithm](https://github.com/NeoTheCapt/aweme-algorithm) - 抖音协议中的加解密算法实现
 
 ## Others 
@@ -1230,6 +1231,7 @@
 
 ## Zig 
 
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Aransentin/ZWL](https://github.com/Aransentin/ZWL) - Zig Windowing Library
 - [ziglibs/zgl](https://github.com/ziglibs/zgl) - Zig OpenGL Wrapper
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
