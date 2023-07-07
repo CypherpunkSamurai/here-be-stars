@@ -1121,7 +1121,7 @@
 - [lem0nez/bashapk](https://github.com/lem0nez/bashapk) - Diet pills for APK files
 - [firmadyne/firmadyne](https://github.com/firmadyne/firmadyne) - Platform for emulation and dynamic analysis of Linux-based firmware
 - [ohmybahgosh/YT-DLP-SCRIPTS](https://github.com/ohmybahgosh/YT-DLP-SCRIPTS) - ...Just a place for me to share my various YT-DLP & related bash scripts.
-- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - 
+- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
 - [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
 - [Kingsman44/Pixelify](https://github.com/Kingsman44/Pixelify) - Magisk module to enables pixel exclusive features and ui
 - [viperML/qemu-android-x86](https://github.com/viperML/qemu-android-x86) - Android-x86 environment via QEMU and VirGL
