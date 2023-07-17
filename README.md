@@ -132,6 +132,8 @@
 
 ## C++ 
 
+- [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
+- [hzqst/FuckCertVerifyTimeValidity](https://github.com/hzqst/FuckCertVerifyTimeValidity) - This tiny project prevents the signtool from verifing cert time validity and let you sign your bin with outdated cert without changing system time manually
 - [strato-emu/strato](https://github.com/strato-emu/strato) - Run Nintendo Switch homebrew & games on your Android device!
 - [fegennari/3DWorld](https://github.com/fegennari/3DWorld) - 3D Procedural Game Engine Using OpenGL
 - [tux116/navicat-keygen](https://github.com/tux116/navicat-keygen) - https://notabug.org/doublesine/navicat-keygen
@@ -207,6 +209,8 @@
 
 ## Dart 
 
+- [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Music Streaming and Downloading app made in Flutter!
 - [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
 - [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
@@ -404,6 +408,7 @@
 
 ## Java 
 
+- [tyron12233/CodeAssist](https://github.com/tyron12233/CodeAssist) - Experimental IDE for building Android applicatons on Android.
 - [AndreAle94/moneywallet](https://github.com/AndreAle94/moneywallet) - An android application that let you track your expenses
 - [zytedata/zyte-smartproxy-clients](https://github.com/zytedata/zyte-smartproxy-clients) - HTTPS clients for Smart Proxy Manager
 - [mandiant/Ghidrathon](https://github.com/mandiant/Ghidrathon) - The FLARE team's open-source extension to add Python 3 scripting to Ghidra.
@@ -503,6 +508,7 @@
 
 ## JavaScript 
 
+- [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
 - [threadsjs/threads.js](https://github.com/threadsjs/threads.js) - A Node.js library for the Threads API
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [bfs15/slaude](https://github.com/bfs15/slaude) - 
@@ -653,6 +659,9 @@
 
 ## Kotlin 
 
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
+- [BobbyESP/Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
@@ -712,7 +721,6 @@
 ## Others 
 
 - [anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
-- [jllllll/bitsandbytes-windows-webui](https://github.com/jllllll/bitsandbytes-windows-webui) - Windows compile of bitsandbytes for use in text-generation-webui.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [togethercomputer/OpenDataHub](https://github.com/togethercomputer/OpenDataHub) - 
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
@@ -793,6 +801,7 @@
 
 ## PowerShell 
 
+- [jllllll/bitsandbytes-windows-webui](https://github.com/jllllll/bitsandbytes-windows-webui) - Windows compile of bitsandbytes for use in text-generation-webui.
 - [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more 😉
 
 ## Python 
@@ -842,7 +851,7 @@
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [Buhankoanon/OAI_API_Checker](https://github.com/Buhankoanon/OAI_API_Checker) - Program that allows you to check all the available information about your OAI API key
+- [Buhankoanon/OAI_API_Checker](https://github.com/Buhankoanon/OAI_API_Checker) - Program that allows you to check all the available information about your OAI API keys
 - [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain) - 
 - [xwings/chatgpt-on-wechat2](https://github.com/xwings/chatgpt-on-wechat2) - 
 - [SillyTavern/SillyTavern-extras](https://github.com/SillyTavern/SillyTavern-extras) - Extensions API for SillyTavern
@@ -903,7 +912,7 @@
 - [rapidrabbit76/stable-diffusion-API](https://github.com/rapidrabbit76/stable-diffusion-API) - Unofficial Fastapi implementation of Stable-Diffusion API
 - [kiri-art/docker-compvis-stable-diffusion-api](https://github.com/kiri-art/docker-compvis-stable-diffusion-api) - CompVis Stable Diffusion in docker with a REST API
 - [vexingcodes/slack-stable-diffusion](https://github.com/vexingcodes/slack-stable-diffusion) - A Slack slash-command to generate images using Stable Diffusion
-- [Mikubill/naifu-diffusion](https://github.com/Mikubill/naifu-diffusion) - Train stable diffusion model with Diffusers, Hivemind and Pytorch Lightning
+- [Mikubill/naifu-diffusion](https://github.com/Mikubill/naifu-diffusion) - Train stable diffusion model with Diffusers, Fabric and Pytorch Lightning
 - [patil-suraj/stable-diffusion-jax](https://github.com/patil-suraj/stable-diffusion-jax) - 
 - [DavidDworetzky/Fastcasso](https://github.com/DavidDworetzky/Fastcasso) - FastApi Implementation of Stable Diffusion Art Generation
 - [shyamsn97/stable-diffusion-server](https://github.com/shyamsn97/stable-diffusion-server) - Stable Diffusion colab server built with fastapi
