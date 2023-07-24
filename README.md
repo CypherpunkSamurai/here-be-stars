@@ -498,7 +498,7 @@
 - [pkilller/super-jadx](https://github.com/pkilller/super-jadx) - Add new features for reverse engineering, such as: renaming of classes, fields, methods, variables, reference graphs and more.
 - [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leakin
 - [Maximoff/ApkEditor-Patches](https://github.com/Maximoff/ApkEditor-Patches) - Патчи для ApkEditor
-- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.
+- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms + interview preparation bootcamp of WeMakeDevs.
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [youlookwhat/CloudReader](https://github.com/youlookwhat/CloudReader) - 🗡️  云阅：一款基于网易云音乐UI，使用玩Android Api，Retrofit2 + RxJava2 + Room + MVVM-databinding架构开发的Android客户端
 - [sinzua/baseApk](https://github.com/sinzua/baseApk) - 
@@ -844,7 +844,7 @@
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [chavinlo/deepfloyd-api](https://github.com/chavinlo/deepfloyd-api) - Simple but scalable API for IF by Deepfloyd
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
@@ -868,7 +868,7 @@
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [xwings/chatgpt-on-wechat2](https://github.com/xwings/chatgpt-on-wechat2) - 
 - [SillyTavern/SillyTavern-extras](https://github.com/SillyTavern/SillyTavern-extras) - Extensions API for SillyTavern
-- [lucidrains/gigagan-pytorch](https://github.com/lucidrains/gigagan-pytorch) - Implementation of GigaGAN, new SOTA GAN out of Adobe
+- [lucidrains/gigagan-pytorch](https://github.com/lucidrains/gigagan-pytorch) - Implementation of GigaGAN, new SOTA GAN out of Adobe. Culmination of nearly a decade of research into GANs
 - [ssbuild/chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning) - chatglm 6b finetuning and alpaca finetuning
 - [Mouad-scriptz/HCaptcha-Image-Scraper](https://github.com/Mouad-scriptz/HCaptcha-Image-Scraper) - A Fast hcaptcha images scraper that scrapes captcha images and questions for what every you need those for.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
@@ -961,7 +961,7 @@
 - [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma) - Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 - [GeoSn0w/dumpAnywhere64](https://github.com/GeoSn0w/dumpAnywhere64) - An IDA (Interactive Disassembler) script that can save a chunk of binary from an address.
 - [Inndy/idapython-cheatsheet](https://github.com/Inndy/idapython-cheatsheet) - scripting IDA like a Pro
-- [patois/hexrays_scripts](https://github.com/patois/hexrays_scripts) - Various scripts for the Hexrays decompiler (kloppy, shuffle, arachno, IDA coffee, screenrecorder, ricky)
+- [patois/hexrays_scripts](https://github.com/patois/hexrays_scripts) - Various scripts for the Hexrays decompiler
 - [NeatMonster/AMIE](https://github.com/NeatMonster/AMIE) - A Minimalist Instruction Extender for the ARM architecture and IDA Pro
 - [gaasedelen/lucid](https://github.com/gaasedelen/lucid) - An Interactive Hex-Rays Microcode Explorer
 - [SentineLabs/AlphaGolang](https://github.com/SentineLabs/AlphaGolang) - IDApython Scripts for Analyzing Golang Binaries
