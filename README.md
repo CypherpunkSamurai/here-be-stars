@@ -237,6 +237,10 @@
 
 ## Go 
 
+- [shahab14/gradle-resolver-redirector](https://github.com/shahab14/gradle-resolver-redirector) - Redirect gradle resolver requests
+- [laminy/gradle-cache-server](https://github.com/laminy/gradle-cache-server) - Golang Gradle cache server
+- [Mindgamesnl/maven-dependency-extractor](https://github.com/Mindgamesnl/maven-dependency-extractor) - A simple commandline tool to extract/download maven dependencies from a pom.xml into a directory
+- [status-im/go-maven-resolver](https://github.com/status-im/go-maven-resolver) - Tool for resolving Java Maven dependencies
 - [fireinrain/opaitokens](https://github.com/fireinrain/opaitokens) - A golang lib to help you to get openai access token and refresh the token
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
@@ -668,6 +672,7 @@
 
 ## Kotlin 
 
+- [puskal-khadka/TikTok-Compose](https://github.com/puskal-khadka/TikTok-Compose) - TikTok clone Android app built with jetpack compose following clean architecture & modularization.
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
@@ -816,6 +821,7 @@
 
 ## Python 
 
+- [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 - [bkerler/oppo_decrypt](https://github.com/bkerler/oppo_decrypt) - Oppo .ofp Firmware decrypter and oneplus .ops de-/encrypter
