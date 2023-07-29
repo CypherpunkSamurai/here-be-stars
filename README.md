@@ -113,6 +113,9 @@
 
 ## C# # 
 
+- [icsharpcode/AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
+- [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
+- [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [MasterQ32/zig-opengl](https://github.com/MasterQ32/zig-opengl) - OpenGL binding generator based on the opengl registry
 - [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
 - [UlyssesWu/D2Evil](https://github.com/UlyssesWu/D2Evil) - Managed waifu model parsing libs.
@@ -268,7 +271,7 @@
 - [msquee/go-websockify](https://github.com/msquee/go-websockify) - Pure Go implementation of novnc/websockify TCP to WebSocket proxy with improved connection handling. Runs on Linux, Windows and MacOS.
 - [miladj/websockify-go](https://github.com/miladj/websockify-go) - websockify implementation in golang
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple CI engine with great extensibility.
 - [forewing/csgo-rcon](https://github.com/forewing/csgo-rcon) - Golang package for CS:GO RCON Protocol client. Also support other games using the protocol (Source Engine games, Minecraft, etc.)
 - [Narasimha1997/tor-proxy](https://github.com/Narasimha1997/tor-proxy) - An experimental Tor-Proxy serivce written in Go using Go-proxy and Go-libtor.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
@@ -382,7 +385,7 @@
 - [wadezhan/billfeller.github.io](https://github.com/wadezhan/billfeller.github.io) - 
 - [HangZhouCat/ReaverAPKTools](https://github.com/HangZhouCat/ReaverAPKTools) - 逆向APK工具
 - [WSG88/ak47](https://github.com/WSG88/ak47) - 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [MrGreensWorkshop/MrGreen-JekyllTheme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) - Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.
 - [JakeWharton/jakewharton.com](https://github.com/JakeWharton/jakewharton.com) - Personal website and blog.
 - [Berny23/eclipse-portable](https://github.com/Berny23/eclipse-portable) - Portable version of the multifunctional development platform Eclipse.
@@ -418,6 +421,8 @@
 
 ## Java 
 
+- [Numinha/pabb](https://github.com/Numinha/pabb) - PABB - Por*graphic App Booru Based is a android app thats show booru and other sites like a tiktok, with donwloader various images, simple gui and tagged system. You can use this app for SFW searchs, 
+- [faldez/shachi](https://github.com/faldez/shachi) - Booru client for Android
 - [lukeaschenbrenner/TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - An app that lets you browse the web over SMS
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [tyron12233/CodeAssist](https://github.com/tyron12233/CodeAssist) - Experimental IDE for building Android applicatons on Android.
@@ -672,6 +677,7 @@
 
 ## Kotlin 
 
+- [Yochyo/Yummybooru](https://github.com/Yochyo/Yummybooru) - Yummybooru is a Danbooru/Moebooru client/viewer for android
 - [puskal-khadka/TikTok-Compose](https://github.com/puskal-khadka/TikTok-Compose) - TikTok clone Android app built with jetpack compose following clean architecture & modularization.
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
@@ -735,6 +741,7 @@
 
 ## Others 
 
+- [TyCaugher/SaltyViewer](https://github.com/TyCaugher/SaltyViewer) - An e621/booru viewer built on modern android ui
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -1057,7 +1064,7 @@
 - [Quansight/.github](https://github.com/Quansight/.github) - Common GitHub community health files for Quansight
 - [AlfredoSequeida/fvid](https://github.com/AlfredoSequeida/fvid) - fvid is a project that aims to encode any file as a video using 1-bit color images to survive compression algorithms for data retrieval.
 - [TheApeMachine/cloudtube](https://github.com/TheApeMachine/cloudtube) - Using YouTube as an arbitrary Cloud storage for files.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, Falcon and alike). Haystack offers production-ready tools to quickly build complex q
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (Models, Vector DBs, File Converters) to Pipelines or Agents that can interact with your 
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
