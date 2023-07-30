@@ -136,6 +136,7 @@
 
 ## C++ 
 
+- [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - 
 - [feelfreelinux/cspot](https://github.com/feelfreelinux/cspot) - A Spotify Connect player targeting, but not limited to embedded devices (ESP32).
 - [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
 - [hzqst/FuckCertVerifyTimeValidity](https://github.com/hzqst/FuckCertVerifyTimeValidity) - This tiny project prevents the signtool from verifing cert time validity and let you sign your bin with outdated cert without changing system time manually
@@ -421,6 +422,7 @@
 
 ## Java 
 
+- [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) - A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing sche
 - [Numinha/pabb](https://github.com/Numinha/pabb) - PABB - Por*graphic App Booru Based is a android app thats show booru and other sites like a tiktok, with donwloader various images, simple gui and tagged system. You can use this app for SFW searchs, 
 - [faldez/shachi](https://github.com/faldez/shachi) - Booru client for Android
 - [lukeaschenbrenner/TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - An app that lets you browse the web over SMS
@@ -828,6 +830,8 @@
 
 ## Python 
 
+- [Schwartzblat/WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - A patcher that decompiles WhatsApp APK, patches the smali, recompiles and signs it.
+- [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
