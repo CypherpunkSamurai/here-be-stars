@@ -930,8 +930,6 @@
 - [victorchall/EveryDream](https://github.com/victorchall/EveryDream) - Advanced fine tuning tools for vision models
 - [hustlei/QssStylesheetEditor](https://github.com/hustlei/QssStylesheetEditor) - Editor for qt stylesheet (qss).  Real-time preview, and user can define varibles in qss.
 - [abhishekkrthakur/diffuzers](https://github.com/abhishekkrthakur/diffuzers) - a web ui & api for 🤗 diffusers
-- [supprise0408/V2RayAggregator](https://github.com/supprise0408/V2RayAggregator) - 
-- [Supprise0924/Supprise0924](https://github.com/Supprise0924/Supprise0924) - Config files for my GitHub profile.
 - [redteam-cyberark/Google-Domain-fronting](https://github.com/redteam-cyberark/Google-Domain-fronting) - Domain fronting using Google app engine
 - [mansimov/text2image](https://github.com/mansimov/text2image) - Generating Images from Captions with Attention
 - [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
