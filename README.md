@@ -424,6 +424,7 @@
 
 ## Java 
 
+- [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
 - [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) - A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing sche
 - [Numinha/pabb](https://github.com/Numinha/pabb) - PABB - Por*graphic App Booru Based is a android app thats show booru and other sites like a tiktok, with donwloader various images, simple gui and tagged system. You can use this app for SFW searchs, 
@@ -681,6 +682,7 @@
 
 ## Kotlin 
 
+- [ibrahimsn98/SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar) - A lightweight Android material bottom navigation bar library
 - [Yochyo/Yummybooru](https://github.com/Yochyo/Yummybooru) - Yummybooru is a Danbooru/Moebooru client/viewer for android
 - [puskal-khadka/TikTok-Compose](https://github.com/puskal-khadka/TikTok-Compose) - TikTok clone Android app built with jetpack compose following clean architecture & modularization.
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
