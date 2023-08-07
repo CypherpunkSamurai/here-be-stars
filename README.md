@@ -74,6 +74,7 @@
 
 ## C 
 
+- [paxo-rch/paxos_8](https://github.com/paxo-rch/paxos_8) - 
 - [darvincisec/DetectFrida](https://github.com/darvincisec/DetectFrida) - Detect Frida for Android
 - [MrPurple666/skyline](https://github.com/MrPurple666/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plugin for WhatsApp Web.
