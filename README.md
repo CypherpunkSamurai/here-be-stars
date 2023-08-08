@@ -74,6 +74,7 @@
 
 ## C 
 
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - 
 - [paxo-rch/paxos_8](https://github.com/paxo-rch/paxos_8) - 
 - [darvincisec/DetectFrida](https://github.com/darvincisec/DetectFrida) - Detect Frida for Android
 - [MrPurple666/skyline](https://github.com/MrPurple666/skyline) - Run Nintendo Switch homebrew & games on your Android device!
@@ -138,6 +139,7 @@
 
 ## C++ 
 
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - [bylaws/libadrenotools](https://github.com/bylaws/libadrenotools) - A library for applying rootless Adreno GPU driver modifications/replacements
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - 
 - [feelfreelinux/cspot](https://github.com/feelfreelinux/cspot) - A Spotify Connect player targeting, but not limited to embedded devices (ESP32).
@@ -1146,6 +1148,9 @@
 
 ## Shell 
 
+- [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
+- [olegos2/termux-box](https://github.com/olegos2/termux-box) - 
+- [Ilya114/Box64Droid](https://github.com/Ilya114/Box64Droid) - Running x86_64 applications on Android
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [Treecord/Treecord](https://github.com/Treecord/Treecord) - A modded Discord client for Android
 - [alcove-sh/Alcove.sh](https://github.com/alcove-sh/Alcove.sh) - Yet Another chroot script to run Linux on Android.
