@@ -74,6 +74,7 @@
 
 ## C 
 
+- [AndnixSH/Auto-Il2cppDumper](https://github.com/AndnixSH/Auto-Il2cppDumper) - Internal dumper for Unity3D libil2cpp.so
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - 
 - [paxo-rch/paxos_8](https://github.com/paxo-rch/paxos_8) - 
 - [darvincisec/DetectFrida](https://github.com/darvincisec/DetectFrida) - Detect Frida for Android
@@ -1080,7 +1081,7 @@
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [d0u9/youtube-dl-webui](https://github.com/d0u9/youtube-dl-webui) - Another webui for youtube-dl powered by Flask.
 - [IGLICT/DeepFaceDrawing-Jittor](https://github.com/IGLICT/DeepFaceDrawing-Jittor) - 
 - [hluwa/frida-dexdump](https://github.com/hluwa/frida-dexdump) - A frida tool to dump dex in memory to support security engineers analyzing malware.
