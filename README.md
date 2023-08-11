@@ -223,7 +223,7 @@
 ## Dart 
 
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
-- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Music Streaming and Downloading app made in Flutter!
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock Music's Full Potential: Stream, Download, and Play with Ease, All in One App!
 - [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
 - [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
