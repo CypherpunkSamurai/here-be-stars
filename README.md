@@ -457,7 +457,7 @@
 - [ripmeapp2/ripme](https://github.com/ripmeapp2/ripme) - Downloads albums in bulk
 - [FasterXML/jackson-annotations](https://github.com/FasterXML/jackson-annotations) - Core annotations (annotations that only depend on jackson-core) for Jackson data processor
 - [MarinX/godroid](https://github.com/MarinX/godroid) - Golang 1.4 beta on Android
-- [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 12.0 in business version)
+- [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
 - [didi/VirtualAPK](https://github.com/didi/VirtualAPK) - A powerful and lightweight plugin framework for Android
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [singwhatiwanna/dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) - DL : dynamic load framework in android
