@@ -118,6 +118,7 @@
 
 ## C# # 
 
+- [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
 - [compujuckel/AssettoServer](https://github.com/compujuckel/AssettoServer) - Custom Assetto Corsa server with focus on freeroam
 - [icsharpcode/AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
@@ -1155,6 +1156,8 @@
 
 ## Shell 
 
+- [CodeNinja-sys/FEX-Emu-Termux](https://github.com/CodeNinja-sys/FEX-Emu-Termux) - A FEX-Emu + Wine on Termux!
+- [jurises99/Fex-on-termux](https://github.com/jurises99/Fex-on-termux) - 
 - [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
 - [olegos2/termux-box](https://github.com/olegos2/termux-box) - 
 - [Ilya114/Box64Droid](https://github.com/Ilya114/Box64Droid) - Running x86_64 applications on Android
