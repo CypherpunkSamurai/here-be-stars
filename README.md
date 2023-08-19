@@ -688,6 +688,7 @@
 
 ## Kotlin 
 
+- [KotatsuApp/kotatsu-parsers](https://github.com/KotatsuApp/kotatsu-parsers) - Manga parsers library for Kotlin/JVM and Android
 - [ibrahimsn98/SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar) - A lightweight Android material bottom navigation bar library
 - [Yochyo/Yummybooru](https://github.com/Yochyo/Yummybooru) - Yummybooru is a Danbooru/Moebooru client/viewer for android
 - [puskal-khadka/TikTok-Compose](https://github.com/puskal-khadka/TikTok-Compose) - TikTok clone Android app built with jetpack compose following clean architecture & modularization.
@@ -845,6 +846,7 @@
 
 ## Python 
 
+- [scrazzz/redgifs](https://github.com/scrazzz/redgifs) - Simple Python API wrapper for the RedGIFs API
 - [Fornoth/spotify-connect-web](https://github.com/Fornoth/spotify-connect-web) - 
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [Schwartzblat/WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - A patcher that decompiles WhatsApp APK, patches the smali, recompiles and signs it.
@@ -898,7 +900,7 @@
 - [yuanzhoulvpi2017/DocumentSearch](https://github.com/yuanzhoulvpi2017/DocumentSearch) - 基于sentence transformers和chatglm实现的文档搜索工具
 - [ttengwang/Caption-Anything](https://github.com/ttengwang/Caption-Anything) - Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences. https://huggingface.co/space
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - Visual Instruction Tuning: Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Buhankoanon/OAI_API_Checker](https://github.com/Buhankoanon/OAI_API_Checker) - Program that allows you to check all the available information about your OAI API keys
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
