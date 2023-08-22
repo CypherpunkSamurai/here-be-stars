@@ -906,7 +906,6 @@
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Buhankoanon/OAI_API_Checker](https://github.com/Buhankoanon/OAI_API_Checker) - Program that allows you to check all the available information about your OAI API keys
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
-- [xwings/chatgpt-on-wechat2](https://github.com/xwings/chatgpt-on-wechat2) - 
 - [SillyTavern/SillyTavern-extras](https://github.com/SillyTavern/SillyTavern-extras) - Extensions API for SillyTavern
 - [lucidrains/gigagan-pytorch](https://github.com/lucidrains/gigagan-pytorch) - Implementation of GigaGAN, new SOTA GAN out of Adobe. Culmination of nearly a decade of research into GANs
 - [ssbuild/chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning) - chatglm 6b finetuning and alpaca finetuning
