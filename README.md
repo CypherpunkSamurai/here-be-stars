@@ -431,6 +431,7 @@
 
 ## Java 
 
+- [marwa-eltayeb/YoutubeDownloader](https://github.com/marwa-eltayeb/YoutubeDownloader) - Android App for searching for videos on Youtube by keywords using YouTube Data API and download videos from YouTube in different formats.
 - [KhunHtetzNaing/xGetter](https://github.com/KhunHtetzNaing/xGetter) - Android library for extract stream/download url from Google Drive,MegaUp,Google Photos,Mp4Upload,Facebook,Mediafire,Ok.Ru,VK,Twitter,Youtube,SolidFiles,Vidoza,UptoStream,SendVid,FanSubs,Uptobox,FEmbed
 - [TeamYouDown/YouDown](https://github.com/TeamYouDown/YouDown) - YouTube Audio/MP3 and Video Downloader Application - The first version of YouDown is live. Now you can use all premium features of YouTube for free and without ads. Make your own music and video libra
 - [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
@@ -690,6 +691,10 @@
 
 ## Kotlin 
 
+- [alexbezhan/Instagram-Clone-Kotlin](https://github.com/alexbezhan/Instagram-Clone-Kotlin) - Source code for Instagram app - Youtube video series for making Kotlin clone app
+- [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
+- [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
+- [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [KotatsuApp/kotatsu-parsers](https://github.com/KotatsuApp/kotatsu-parsers) - Manga parsers library for Kotlin/JVM and Android
 - [ibrahimsn98/SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar) - A lightweight Android material bottom navigation bar library
 - [Yochyo/Yummybooru](https://github.com/Yochyo/Yummybooru) - Yummybooru is a Danbooru/Moebooru client/viewer for android
