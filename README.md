@@ -77,7 +77,7 @@
 - [wouterdevinck/clonos-poc-spotify](https://github.com/wouterdevinck/clonos-poc-spotify) - Spotify Connect integration proof-of-concept
 - [AndnixSH/Auto-Il2cppDumper](https://github.com/AndnixSH/Auto-Il2cppDumper) - Internal dumper for Unity3D libil2cpp.so
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - 
-- [paxo-rch/paxos_8](https://github.com/paxo-rch/paxos_8) - 
+- [paxo-phone/paxos_8](https://github.com/paxo-phone/paxos_8) - 
 - [darvincisec/DetectFrida](https://github.com/darvincisec/DetectFrida) - Detect Frida for Android
 - [MrPurple666/skyline](https://github.com/MrPurple666/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plugin for WhatsApp Web.
@@ -1091,7 +1091,7 @@
 - [Quansight/.github](https://github.com/Quansight/.github) - Common GitHub community health files for Quansight
 - [AlfredoSequeida/fvid](https://github.com/AlfredoSequeida/fvid) - fvid is a project that aims to encode any file as a video using 1-bit color images to survive compression algorithms for data retrieval.
 - [TheApeMachine/cloudtube](https://github.com/TheApeMachine/cloudtube) - Using YouTube as an arbitrary Cloud storage for files.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (Models, Vector DBs, File Converters) to Pipelines or Agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
