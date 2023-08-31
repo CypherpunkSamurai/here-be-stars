@@ -118,6 +118,7 @@
 
 ## C# # 
 
+- [n00mkrad/text2image-gui](https://github.com/n00mkrad/text2image-gui) - Somewhat modular text2image GUI, initially just for Stable Diffusion
 - [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
 - [compujuckel/AssettoServer](https://github.com/compujuckel/AssettoServer) - Custom Assetto Corsa server with focus on freeroam
 - [icsharpcode/AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
@@ -661,6 +662,7 @@
 
 ## Jupyter Notebook 
 
+- [mobassir94/comprehensive-bangla-tts](https://github.com/mobassir94/comprehensive-bangla-tts) - Aiming to achieve ultimate Multilingual TTS pipeline with main focus on releasing COQUI🐸TTS(Text-to-Speech) based high performing neural voice cloning systems for Bangla for the first time, supporting
 - [atherfawaz/Quantum-Simulator](https://github.com/atherfawaz/Quantum-Simulator) - Colab-friendly implementation of a quantum computing simulator using only numpy
 - [someshkar/colabcat](https://github.com/someshkar/colabcat) - :smiley_cat: Running Hashcat on Google Colab with session backup and restore.
 - [nolanaatama/sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) - 
@@ -855,6 +857,7 @@
 
 ## Python 
 
+- [thorstenMueller/Thorsten-Voice](https://github.com/thorstenMueller/Thorsten-Voice) - Thorsten-Voice: A free to use, offline working, high quality german TTS voice should be available for every project without any license struggling.
 - [scrazzz/redgifs](https://github.com/scrazzz/redgifs) - Simple Python API wrapper for the RedGIFs API
 - [Fornoth/spotify-connect-web](https://github.com/Fornoth/spotify-connect-web) - 
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
