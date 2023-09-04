@@ -857,6 +857,7 @@
 
 ## Python 
 
+- [LlmKira/VitsServer](https://github.com/LlmKira/VitsServer) - 🌻 A VITS ONNX server designed for fast inference 🔥
 - [thorstenMueller/Thorsten-Voice](https://github.com/thorstenMueller/Thorsten-Voice) - Thorsten-Voice: A free to use, offline working, high quality german TTS voice should be available for every project without any license struggling.
 - [scrazzz/redgifs](https://github.com/scrazzz/redgifs) - Simple Python API wrapper for the RedGIFs API
 - [Fornoth/spotify-connect-web](https://github.com/Fornoth/spotify-connect-web) - 
