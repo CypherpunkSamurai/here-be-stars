@@ -484,7 +484,7 @@
 - [ikws4/CodeEditor](https://github.com/ikws4/CodeEditor) - Code editor for android
 - [alimogh/JavaCompile](https://github.com/alimogh/JavaCompile) - Android平台的Java IDE
 - [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.
-- [Cosmic-Ide/Cosmic-Ide](https://github.com/Cosmic-Ide/Cosmic-Ide) - A next-gen Ide for JVM development on Android
+- [Cosmic-Ide/Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) - A next-gen Ide for JVM development on Android
 - [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future.
 - [Col-E/Bytecode-Modification-Framework](https://github.com/Col-E/Bytecode-Modification-Framework) - A bytecode modification library
 - [synnkfps/JByteCustom](https://github.com/synnkfps/JByteCustom) - project discontinued due to lack of performance, usage and some other development issues, rip JByteCustom.
@@ -1274,7 +1274,7 @@
 - [chame1eon/jnitrace-engine](https://github.com/chame1eon/jnitrace-engine) - Engine used by jnitrace to intercept JNI API calls.
 - [hkamran80/nebula-new-tab](https://github.com/hkamran80/nebula-new-tab) - Nebula - A clean and simple new tab page
 - [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [chame1eon/jnitrace](https://github.com/chame1eon/jnitrace) - A Frida based tool that traces usage of the JNI API in Android apps.
 - [A5rocks/slash-worker](https://github.com/A5rocks/slash-worker) - A Cloudflare Workers thing for your Discord Slash Commands.
