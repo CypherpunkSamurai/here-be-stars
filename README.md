@@ -74,6 +74,8 @@
 
 ## C 
 
+- [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, nearest, bilinear, bicubic, AVIR.
+- [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 - [wouterdevinck/clonos-poc-spotify](https://github.com/wouterdevinck/clonos-poc-spotify) - Spotify Connect integration proof-of-concept
 - [AndnixSH/Auto-Il2cppDumper](https://github.com/AndnixSH/Auto-Il2cppDumper) - Internal dumper for Unity3D libil2cpp.so
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - 
@@ -144,6 +146,16 @@
 
 ## C++ 
 
+- [yaoyi30/ResNet_ncnn_android](https://github.com/yaoyi30/ResNet_ncnn_android) - This is an android app about monkey image classification
+- [EdVince/GPT2-ChineseChat-NCNN](https://github.com/EdVince/GPT2-ChineseChat-NCNN) - GPT2⚡NCNN⚡中文对话⚡x86⚡Android
+- [EdVince/CLIP-ImageSearch-NCNN](https://github.com/EdVince/CLIP-ImageSearch-NCNN) - CLIP⚡NCNN⚡基于自然语言的图片搜索(Image Search)⚡以字搜图⚡x86⚡Android
+- [weirdseed/Vits-Android-ncnn](https://github.com/weirdseed/Vits-Android-ncnn) - vits Android部署
+- [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, etc.
+- [nihui/ncnn-android-yolov5](https://github.com/nihui/ncnn-android-yolov5) - The YOLOv5 object detection android example
+- [lrw04/llama2.c-to-ncnn](https://github.com/lrw04/llama2.c-to-ncnn) - A converter for llama2.c legacy models to ncnn models.
+- [daquexian/faster-rwkv](https://github.com/daquexian/faster-rwkv) - 
+- [axodox/axodox-machinelearning](https://github.com/axodox/axodox-machinelearning) - This repository contains a C++ ONNX implementation of StableDiffusion.
+- [EdVince/Stable-Diffusion-NCNN](https://github.com/EdVince/Stable-Diffusion-NCNN) - Stable Diffusion in NCNN with c++, supported txt2img and img2img
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
 - [bylaws/libadrenotools](https://github.com/bylaws/libadrenotools) - A library for applying rootless Adreno GPU driver modifications/replacements
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - 
@@ -433,6 +445,7 @@
 
 ## Java 
 
+- [pytorch/android-demo-app](https://github.com/pytorch/android-demo-app) - PyTorch android examples of usage in applications
 - [moseoridev/WarpShare](https://github.com/moseoridev/WarpShare) - An Open-source AirDrop Alternative
 - [marwa-eltayeb/YoutubeDownloader](https://github.com/marwa-eltayeb/YoutubeDownloader) - Android App for searching for videos on Youtube by keywords using YouTube Data API and download videos from YouTube in different formats.
 - [KhunHtetzNaing/xGetter](https://github.com/KhunHtetzNaing/xGetter) - Android library for extract stream/download url from Google Drive,MegaUp,Google Photos,Mp4Upload,Facebook,Mediafire,Ok.Ru,VK,Twitter,Youtube,SolidFiles,Vidoza,UptoStream,SendVid,FanSubs,Uptobox,FEmbed
@@ -526,7 +539,7 @@
 - [pkilller/super-jadx](https://github.com/pkilller/super-jadx) - Add new features for reverse engineering, such as: renaming of classes, fields, methods, variables, reference graphs and more.
 - [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leakin
 - [Maximoff/ApkEditor-Patches](https://github.com/Maximoff/ApkEditor-Patches) - Патчи для ApkEditor
-- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms + interview preparation bootcamp of WeMakeDevs.
+- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [youlookwhat/CloudReader](https://github.com/youlookwhat/CloudReader) - 🗡️  云阅：一款基于网易云音乐UI，使用玩Android Api，Retrofit2 + RxJava2 + Room + MVVM-databinding架构开发的Android客户端
 - [sinzua/baseApk](https://github.com/sinzua/baseApk) - 
@@ -547,6 +560,7 @@
 - [threadsjs/threads.js](https://github.com/threadsjs/threads.js) - A Node.js library for the Threads API
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [bfs15/slaude](https://github.com/bfs15/slaude) - 
+- [XzaiCloud/LunaAI](https://github.com/XzaiCloud/LunaAI) - ikaros-521/AI-Vtuber
 - [matrix-org/matrix-viewer](https://github.com/matrix-org/matrix-viewer) - View the history of public and world readable Matrix rooms
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
@@ -768,6 +782,7 @@
 
 ## Others 
 
+- [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [roobscoob/among-us-protocol](https://github.com/roobscoob/among-us-protocol) - A writeup of the network protocol used in Among Us, a game by Innersloth.
 - [kovidomi/game-reversing](https://github.com/kovidomi/game-reversing) - Beginner learning materials on how to reverse engineer video games
 - [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - A repository for Skyline, Vita3K and Yuzu Android compatible Adreno drivers.
@@ -859,6 +874,12 @@
 
 ## Python 
 
+- [hmzjwhmzjw/pytorch_onnx_ncnn_android_example](https://github.com/hmzjwhmzjw/pytorch_onnx_ncnn_android_example) - 
+- [weirdseed/vits-ncnn-convert-tool](https://github.com/weirdseed/vits-ncnn-convert-tool) - 
+- [MollySophia/rwkv-ncnn](https://github.com/MollySophia/rwkv-ncnn) - Infere RWKV on NCNN
+- [starimeL/PytorchConverter](https://github.com/starimeL/PytorchConverter) - Pytorch model to caffe & ncnn
+- [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) - NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
+- [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [GaspardCulis/elevenlabs-unleashed](https://github.com/GaspardCulis/elevenlabs-unleashed) - Provides unlimited ElevenLabs API calls.
 - [LlmKira/VitsServer](https://github.com/LlmKira/VitsServer) - 🌻 A VITS ONNX server designed for fast inference 🔥
 - [thorstenMueller/Thorsten-Voice](https://github.com/thorstenMueller/Thorsten-Voice) - Thorsten-Voice: A free to use, offline working, high quality german TTS voice should be available for every project without any license struggling.
@@ -868,12 +889,11 @@
 - [Schwartzblat/WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) - A patcher that decompiles WhatsApp APK, patches the smali, recompiles and signs it.
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
-- [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 - [bkerler/oppo_decrypt](https://github.com/bkerler/oppo_decrypt) - Oppo .ofp Firmware decrypter and oneplus .ops de-/encrypter
 - [Numenorean/ShazamAPI](https://github.com/Numenorean/ShazamAPI) - Fully reverse engeenired shazam api
 - [dotX12/ShazamIO](https://github.com/dotX12/ShazamIO) - 🎵 Is a free asynchronous library from reverse engineered Shazam API written in Python 3.8+ with asyncio and aiohttp.
-- [dmytrostriletskyi/threads-net](https://github.com/dmytrostriletskyi/threads-net) - Unofficial and reverse-engineered Threads (threads.net) Python API wrapper. Supports read and write capabilities.
+- [dmytrostriletskyi/threads-net](https://github.com/dmytrostriletskyi/threads-net) - Unofficial and reverse-engineered Threads (threads.net) Python API wrapper. Created for academic purposes and is not intended to be used in real software.
 - [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
 - [viblo/pymunk](https://github.com/viblo/pymunk) - Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  you need 2d rigid body physics from Python
 - [ARISE-Initiative/robosuite](https://github.com/ARISE-Initiative/robosuite) - robosuite: A Modular Simulation Framework and Benchmark for Robot Learning
@@ -884,7 +904,6 @@
 - [OpenLMLab/fastNLP](https://github.com/OpenLMLab/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
 - [OpenBuddy/text-generation-inference](https://github.com/OpenBuddy/text-generation-inference) - Large Language Model Text Generation Inference
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
-- [XzaiCloud/AI-Vtuber](https://github.com/XzaiCloud/AI-Vtuber) - :octocat:AI Vtuber是一个由ChatterBot驱动的虚拟主播，可以在Bilibili直播中与观众实时互动。它使用自然语言处理和文本转语音技术生成对观众问题的回答。
 - [zhvng/open-musiclm](https://github.com/zhvng/open-musiclm) - Implementation of MusicLM, a text to music model published by Google Research, with a few modifications.
 - [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) - Enlighten Progress Bar for Python Console Apps
 - [ken-nakanishi/qupy](https://github.com/ken-nakanishi/qupy) - QuPy: Quantum circuit simulator for both CPU and GPU
@@ -1173,6 +1192,7 @@
 
 ## Shell 
 
+- [Tempaccnt/Termux-alpaca](https://github.com/Tempaccnt/Termux-alpaca) - This is a simple shell script to install the alpaca llama 7B model on termux for Android phones. All credits goes to the original developers of alpaca.cpp and ggml-model-q4_1.bin.
 - [CodeNinja-sys/FEX-Emu-Termux](https://github.com/CodeNinja-sys/FEX-Emu-Termux) - A FEX-Emu + Wine on Termux!
 - [jurises99/Fex-on-termux](https://github.com/jurises99/Fex-on-termux) - 
 - [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot.
@@ -1315,6 +1335,7 @@
 
 ## Zig 
 
+- [hexops/mach-glfw](https://github.com/hexops/mach-glfw) - Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Aransentin/ZWL](https://github.com/Aransentin/ZWL) - Zig Windowing Library
 - [ziglibs/zgl](https://github.com/ziglibs/zgl) - Zig OpenGL Wrapper
