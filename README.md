@@ -152,7 +152,6 @@
 - [weirdseed/Vits-Android-ncnn](https://github.com/weirdseed/Vits-Android-ncnn) - vits Android部署
 - [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, etc.
 - [nihui/ncnn-android-yolov5](https://github.com/nihui/ncnn-android-yolov5) - The YOLOv5 object detection android example
-- [lrw04/llama2.c-to-ncnn](https://github.com/lrw04/llama2.c-to-ncnn) - A converter for llama2.c legacy models to ncnn models.
 - [daquexian/faster-rwkv](https://github.com/daquexian/faster-rwkv) - 
 - [axodox/axodox-machinelearning](https://github.com/axodox/axodox-machinelearning) - This repository contains a C++ ONNX implementation of StableDiffusion.
 - [EdVince/Stable-Diffusion-NCNN](https://github.com/EdVince/Stable-Diffusion-NCNN) - Stable Diffusion in NCNN with c++, supported txt2img and img2img
@@ -877,6 +876,7 @@
 
 - [hmzjwhmzjw/pytorch_onnx_ncnn_android_example](https://github.com/hmzjwhmzjw/pytorch_onnx_ncnn_android_example) - 
 - [weirdseed/vits-ncnn-convert-tool](https://github.com/weirdseed/vits-ncnn-convert-tool) - 
+- [lrw04/llama2.c-to-ncnn](https://github.com/lrw04/llama2.c-to-ncnn) - A converter for llama2.c legacy models to ncnn models.
 - [MollySophia/rwkv-ncnn](https://github.com/MollySophia/rwkv-ncnn) - Infere RWKV on NCNN
 - [starimeL/PytorchConverter](https://github.com/starimeL/PytorchConverter) - Pytorch model to caffe & ncnn
 - [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) - NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
@@ -929,7 +929,7 @@
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
 - [FACEGOOD/FACEGOOD-Audio2Face](https://github.com/FACEGOOD/FACEGOOD-Audio2Face) - http://www.facegood.cc
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc.
 - [catid/supercharger](https://github.com/catid/supercharger) - Supercharge Open-Source AI Models
