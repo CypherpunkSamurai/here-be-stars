@@ -873,6 +873,7 @@
 
 ## Python 
 
+- [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [hmzjwhmzjw/pytorch_onnx_ncnn_android_example](https://github.com/hmzjwhmzjw/pytorch_onnx_ncnn_android_example) - 
 - [weirdseed/vits-ncnn-convert-tool](https://github.com/weirdseed/vits-ncnn-convert-tool) - 
 - [lrw04/llama2.c-to-ncnn](https://github.com/lrw04/llama2.c-to-ncnn) - A converter for llama2.c legacy models to ncnn models.
