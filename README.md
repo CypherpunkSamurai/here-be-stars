@@ -408,7 +408,7 @@
 - [wadezhan/billfeller.github.io](https://github.com/wadezhan/billfeller.github.io) - 
 - [HangZhouCat/ReaverAPKTools](https://github.com/HangZhouCat/ReaverAPKTools) - 逆向APK工具
 - [WSG88/ak47](https://github.com/WSG88/ak47) - 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [MrGreensWorkshop/MrGreen-JekyllTheme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) - Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.
 - [JakeWharton/jakewharton.com](https://github.com/JakeWharton/jakewharton.com) - Personal website and blog.
 - [Berny23/eclipse-portable](https://github.com/Berny23/eclipse-portable) - Portable version of the multifunctional development platform Eclipse.
@@ -741,7 +741,6 @@
 - [hamidrezasahraei/MusicAppComposeUI](https://github.com/hamidrezasahraei/MusicAppComposeUI) - A sample Music Player project that help you learn about Compose in Android. Note that this app only contain UI and has no logic. The design is inspired from this and this.
 - [markusressel/KodeEditor](https://github.com/markusressel/KodeEditor) - A simple code editor with syntax highlighting and pinch to zoom
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
-- [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
 - [Jacekun/CloudStream-3XXX](https://github.com/Jacekun/CloudStream-3XXX) - 
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
