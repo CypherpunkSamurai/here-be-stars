@@ -146,6 +146,7 @@
 
 ## C++ 
 
+- [google/nearby](https://github.com/google/nearby) - 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
 - [yaoyi30/ResNet_ncnn_android](https://github.com/yaoyi30/ResNet_ncnn_android) - This is an android app about monkey image classification
 - [EdVince/GPT2-ChineseChat-NCNN](https://github.com/EdVince/GPT2-ChineseChat-NCNN) - GPT2⚡NCNN⚡中文对话⚡x86⚡Android
 - [EdVince/CLIP-ImageSearch-NCNN](https://github.com/EdVince/CLIP-ImageSearch-NCNN) - CLIP⚡NCNN⚡基于自然语言的图片搜索(Image Search)⚡以字搜图⚡x86⚡Android
@@ -444,6 +445,7 @@
 
 ## Java 
 
+- [LittleProxy/LittleProxy](https://github.com/LittleProxy/LittleProxy) - High performance HTTP proxy originally written by your friends at Lantern and now maintained by volunteer open source programmers.  This fork of adamfisk's repository was created in order to keep the 
 - [pytorch/android-demo-app](https://github.com/pytorch/android-demo-app) - PyTorch android examples of usage in applications
 - [moseoridev/WarpShare](https://github.com/moseoridev/WarpShare) - An Open-source AirDrop Alternative
 - [marwa-eltayeb/YoutubeDownloader](https://github.com/marwa-eltayeb/YoutubeDownloader) - Android App for searching for videos on Youtube by keywords using YouTube Data API and download videos from YouTube in different formats.
@@ -568,6 +570,7 @@
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [rzarvirov/newbot-server](https://github.com/rzarvirov/newbot-server) - 
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
+- [Mouad-scriptz/HCaptcha-Image-Scraper](https://github.com/Mouad-scriptz/HCaptcha-Image-Scraper) - A fast HCaptcha images scraper that scrapes challenge images and questions for whatever you need them for.
 - [SchneeHertz/chat-xiuliu](https://github.com/SchneeHertz/chat-xiuliu) - ChatGPT Client with Function Calling | ChatGPT客户端，支持联网，IO操作和执行代码
 - [DominikDoom/a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) - Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI
 - [onweru/compose](https://github.com/onweru/compose) - A Hugo theme for documentation sites.
@@ -943,7 +946,6 @@
 - [SillyTavern/SillyTavern-Extras](https://github.com/SillyTavern/SillyTavern-Extras) - Extensions API for SillyTavern.
 - [lucidrains/gigagan-pytorch](https://github.com/lucidrains/gigagan-pytorch) - Implementation of GigaGAN, new SOTA GAN out of Adobe. Culmination of nearly a decade of research into GANs
 - [ssbuild/chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning) - chatglm 6b finetuning and alpaca finetuning
-- [Mouad-scriptz/HCaptcha-Image-Scraper](https://github.com/Mouad-scriptz/HCaptcha-Image-Scraper) - A Fast hcaptcha images scraper that scrapes captcha images and questions for what every you need those for.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
