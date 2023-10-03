@@ -557,6 +557,7 @@
 
 ## JavaScript 
 
+- [LizzyFleckenstein03/google_images](https://github.com/LizzyFleckenstein03/google_images) - Reverse Engineered Google Image Search API
 - [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
 - [threadsjs/threads.js](https://github.com/threadsjs/threads.js) - A Node.js library for the Threads API
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
@@ -877,6 +878,7 @@
 
 ## Python 
 
+- [krishna2206/google-lens-python](https://github.com/krishna2206/google-lens-python) - A python package to reverse image search on Google Lens.
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [hmzjwhmzjw/pytorch_onnx_ncnn_android_example](https://github.com/hmzjwhmzjw/pytorch_onnx_ncnn_android_example) - 
 - [weirdseed/vits-ncnn-convert-tool](https://github.com/weirdseed/vits-ncnn-convert-tool) - 
