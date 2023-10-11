@@ -78,7 +78,7 @@
 - [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 - [wouterdevinck/clonos-poc-spotify](https://github.com/wouterdevinck/clonos-poc-spotify) - Spotify Connect integration proof-of-concept
 - [AndnixSH/Auto-Il2cppDumper](https://github.com/AndnixSH/Auto-Il2cppDumper) - Internal dumper for Unity3D libil2cpp.so
-- [brunodev85/winlator](https://github.com/brunodev85/winlator) - 
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [paxo-phone/paxos_8](https://github.com/paxo-phone/paxos_8) - 
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [darvincisec/DetectFrida](https://github.com/darvincisec/DetectFrida) - Detect Frida for Android
@@ -681,6 +681,7 @@
 
 ## Jupyter Notebook 
 
+- [Anderson-ALGO/Anderson-ALGO.github.io](https://github.com/Anderson-ALGO/Anderson-ALGO.github.io) - FX-DASHBOARD
 - [mobassir94/comprehensive-bangla-tts](https://github.com/mobassir94/comprehensive-bangla-tts) - Aiming to achieve ultimate Multilingual TTS pipeline with main focus on releasing COQUI🐸TTS(Text-to-Speech) based high performing neural voice cloning systems for Bangla for the first time, supporting
 - [atherfawaz/Quantum-Simulator](https://github.com/atherfawaz/Quantum-Simulator) - Colab-friendly implementation of a quantum computing simulator using only numpy
 - [someshkar/colabcat](https://github.com/someshkar/colabcat) - :smiley_cat: Running Hashcat on Google Colab with session backup and restore.
@@ -879,6 +880,18 @@
 
 ## Python 
 
+- [mkhushi/MQL5-Python-Backtesting](https://github.com/mkhushi/MQL5-Python-Backtesting) - MQL5 based backtesting using python
+- [trentstauff/FXBot](https://github.com/trentstauff/FXBot) - A fully automated Forex trading bot utilizing the OANDA API.
+- [Dannyspev4560/Algo](https://github.com/Dannyspev4560/Algo) - Algorithmic trading scripts with alpaca free paper trading platform
+- [Cyn7hia/Double-DQN-stock-trading-rule](https://github.com/Cyn7hia/Double-DQN-stock-trading-rule) - Code for paper Stock trading rule discovery with double deep Q-network
+- [edarchimbaud/awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
+- [TRetraint/RSI_Trading_Bot](https://github.com/TRetraint/RSI_Trading_Bot) - Simple Bot with a simple RSI Strategy, developped in Python with the Binance API trading Cryptocurrencies
+- [ant358/oanda_v20_platform_public](https://github.com/ant358/oanda_v20_platform_public) - A platform to enable automated trading and market analysis with Python on the Oanda brokerage API
+- [mOrGaNCrYpTo/omega_bot](https://github.com/mOrGaNCrYpTo/omega_bot) - 
+- [JanStureNielsen/wolfinch](https://github.com/JanStureNielsen/wolfinch) - Wolfinch is your friendly trader Bot written in Python
+- [mabdullahsoyturk/trading-bot](https://github.com/mabdullahsoyturk/trading-bot) - An engulfing based crypto trading bot
+- [nikita-olechko/Algorithmic-Trading-In-Python](https://github.com/nikita-olechko/Algorithmic-Trading-In-Python) - A Customizable Trading System
 - [Eltion/Tiktok-SSL-Pinning-Bypass](https://github.com/Eltion/Tiktok-SSL-Pinning-Bypass) - Bypass Tiktok SSL pinning on Android devices.
 - [krishna2206/google-lens-python](https://github.com/krishna2206/google-lens-python) - A python package to reverse image search on Google Lens.
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
