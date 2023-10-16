@@ -799,7 +799,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [togethercomputer/OpenDataHub](https://github.com/togethercomputer/OpenDataHub) - 
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything) - General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX
 - [VV123/LLM-papers](https://github.com/VV123/LLM-papers) - LLM survey
 - [wangschang/chatgpt-resource](https://github.com/wangschang/chatgpt-resource) - openai notionai chatgpt 免费chatgpt资源整理  MidJourney关键词 prompt chatgpt代理配置
