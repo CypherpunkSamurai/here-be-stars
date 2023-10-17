@@ -682,6 +682,7 @@
 
 ## Jupyter Notebook 
 
+- [camenduru/gaussian-splatting-colab](https://github.com/camenduru/gaussian-splatting-colab) - 
 - [Anderson-ALGO/Anderson-ALGO.github.io](https://github.com/Anderson-ALGO/Anderson-ALGO.github.io) - FX-DASHBOARD
 - [mobassir94/comprehensive-bangla-tts](https://github.com/mobassir94/comprehensive-bangla-tts) - Aiming to achieve ultimate Multilingual TTS pipeline with main focus on releasing COQUI🐸TTS(Text-to-Speech) based high performing neural voice cloning systems for Bangla for the first time, supporting
 - [atherfawaz/Quantum-Simulator](https://github.com/atherfawaz/Quantum-Simulator) - Colab-friendly implementation of a quantum computing simulator using only numpy
