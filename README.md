@@ -1015,7 +1015,7 @@
 - [rapidrabbit76/stable-diffusion-API](https://github.com/rapidrabbit76/stable-diffusion-API) - Unofficial Fastapi implementation of Stable-Diffusion API
 - [kiri-art/docker-compvis-stable-diffusion-api](https://github.com/kiri-art/docker-compvis-stable-diffusion-api) - CompVis Stable Diffusion in docker with a REST API
 - [vexingcodes/slack-stable-diffusion](https://github.com/vexingcodes/slack-stable-diffusion) - A Slack slash-command to generate images using Stable Diffusion
-- [Mikubill/naifu-diffusion](https://github.com/Mikubill/naifu-diffusion) - Train stable diffusion model with Diffusers, Hivemind and Pytorch Lightning
+- [Mikubill/naifu-diffusion](https://github.com/Mikubill/naifu-diffusion) - Train stable diffusion model with Diffusers and Pytorch Lightning
 - [patil-suraj/stable-diffusion-jax](https://github.com/patil-suraj/stable-diffusion-jax) - 
 - [DavidDworetzky/Fastcasso](https://github.com/DavidDworetzky/Fastcasso) - FastApi Implementation of Stable Diffusion Art Generation
 - [shyamsn97/stable-diffusion-server](https://github.com/shyamsn97/stable-diffusion-server) - Stable Diffusion colab server built with fastapi
