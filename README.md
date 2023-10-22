@@ -473,7 +473,7 @@
 - [micha4w/MC-PacketRouter](https://github.com/micha4w/MC-PacketRouter) - Simple Fabric Mod that catches *valid* Mineraft Packets
 - [CloudburstMC/ProxyPass](https://github.com/CloudburstMC/ProxyPass) - MITM proxy tool for Minecraft: Bedrock Edition
 - [happylishang/AntiFakerAndroidChecker](https://github.com/happylishang/AntiFakerAndroidChecker) - 设备指纹 获取真实的IMEI AndroidId 序列号 MAC地址等，Android模拟器检测，检测Android模拟器 ，作为可信DeviceID，应对防刷需求等                  Android设备指纹  How to detect Android emulator
-- [TimScriptov/ApkSignatureKill](https://github.com/TimScriptov/ApkSignatureKill) - 
+- [timscriptov/ApkSignatureKill](https://github.com/timscriptov/ApkSignatureKill) - 
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) - A syntax highlighting, code folding text editor for Java Swing applications.
 - [rejochandran/Text-Editor-in-Java](https://github.com/rejochandran/Text-Editor-in-Java) - Text Editor in Java with syntax highlighting
@@ -564,7 +564,7 @@
 - [threadsjs/threads.js](https://github.com/threadsjs/threads.js) - A Node.js library for the Threads API
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [bfs15/slaude](https://github.com/bfs15/slaude) - 
-- [XzaiCloud/luna-ai](https://github.com/XzaiCloud/luna-ai) - Luna AI - 全自动的 AI 直播系统
+- [Aiyu-awa/luna-ai](https://github.com/Aiyu-awa/luna-ai) - Luna AI - 全自动的 AI 直播系统
 - [matrix-org/matrix-viewer](https://github.com/matrix-org/matrix-viewer) - View the history of public and world readable Matrix rooms
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
@@ -1026,7 +1026,7 @@
 - [magneto261290/deezloader](https://github.com/magneto261290/deezloader) - Grabbed from pypi.org    (Deleted repo of https://github.com/An0nimia)
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [eyaadh/megadlbot_oss](https://github.com/eyaadh/megadlbot_oss) - Megatron was a telegram file management bot that helped a lot of users, specially movie channel managers to upload their files to telegram by just providing a link to it. The project initially started
-- [Owen-Cochell/mctools](https://github.com/Owen-Cochell/mctools) - Minecraft Connection Tools - Python implementations of common Minecraft protocols.
+- [OwenCochell/mctools](https://github.com/OwenCochell/mctools) - Minecraft Connection Tools - Python implementations of common Minecraft protocols.
 - [mcfletch/pyopengl](https://github.com/mcfletch/pyopengl) - Repository for the PyOpenGL Project
 - [pokepetter/ursina](https://github.com/pokepetter/ursina) - A game engine powered by python and panda3d.
 - [ractf/core](https://github.com/ractf/core) - The Django backend running RACTF wargame events.
