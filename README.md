@@ -893,7 +893,6 @@
 - [mOrGaNCrYpTo/omega_bot](https://github.com/mOrGaNCrYpTo/omega_bot) - 
 - [JanStureNielsen/wolfinch](https://github.com/JanStureNielsen/wolfinch) - Wolfinch is your friendly trader Bot written in Python
 - [mabdullahsoyturk/trading-bot](https://github.com/mabdullahsoyturk/trading-bot) - An engulfing based crypto trading bot
-- [nikita-olechko/Algorithmic-Trading-In-Python](https://github.com/nikita-olechko/Algorithmic-Trading-In-Python) - A Customizable Trading System
 - [Eltion/Tiktok-SSL-Pinning-Bypass](https://github.com/Eltion/Tiktok-SSL-Pinning-Bypass) - Bypass Tiktok SSL pinning on Android devices.
 - [krishna2206/google-lens-python](https://github.com/krishna2206/google-lens-python) - A python package to reverse image search on Google Lens.
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
