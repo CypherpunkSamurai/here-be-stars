@@ -1275,7 +1275,7 @@
 - [jerameel/sushi](https://github.com/jerameel/sushi) - A personal finance management app built with react-native.
 - [PawanOsman/GoogleBard](https://github.com/PawanOsman/GoogleBard) - GoogleBard - A reverse engineered API for Google Bard chatbot for NodeJS
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
