@@ -447,6 +447,7 @@
 
 ## Java 
 
+- [ZTMIDGO/Android-Stable-diffusion-ONNX](https://github.com/ZTMIDGO/Android-Stable-diffusion-ONNX) - 使用Android手机的CPU推理stable diffusion
 - [LittleProxy/LittleProxy](https://github.com/LittleProxy/LittleProxy) - High performance HTTP proxy originally written by your friends at Lantern and now maintained by volunteer open source programmers.  This fork of adamfisk's repository was created in order to keep the 
 - [pytorch/android-demo-app](https://github.com/pytorch/android-demo-app) - PyTorch android examples of usage in applications
 - [moseoridev/WarpShare](https://github.com/moseoridev/WarpShare) - An Open-source AirDrop Alternative
@@ -716,6 +717,8 @@
 
 ## Kotlin 
 
+- [UmairOye/AI-Art-Generator](https://github.com/UmairOye/AI-Art-Generator) - The AI Art Generator App is an Android application that leverages the Stable Diffusion API to create unique artworks based on user-provided prompts. It follows the MVVM architecture pattern and uses R
+- [Jokimax/OpenStableDiffusion](https://github.com/Jokimax/OpenStableDiffusion) - A simple android app for generating stable diffusion images using AI horde
 - [crowforkotlin/CopyMangaX](https://github.com/crowforkotlin/CopyMangaX) - 拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发
 - [alexbezhan/Instagram-Clone-Kotlin](https://github.com/alexbezhan/Instagram-Clone-Kotlin) - Source code for Instagram app - Youtube video series for making Kotlin clone app
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
@@ -787,6 +790,8 @@
 
 ## Others 
 
+- [zehuajun/Stable-diffusion-for-Android](https://github.com/zehuajun/Stable-diffusion-for-Android) - 
+- [ClashSAN/stable-diffusion-android-cpu-steps](https://github.com/ClashSAN/stable-diffusion-android-cpu-steps) - memo
 - [jbro129/android-modding](https://github.com/jbro129/android-modding) - A large collection of github repositories related to android modding.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
@@ -806,7 +811,7 @@
 - [wangschang/chatgpt-resource](https://github.com/wangschang/chatgpt-resource) - openai notionai chatgpt 免费chatgpt资源整理  MidJourney关键词 prompt chatgpt代理配置
 - [GTRONICK/QSS](https://github.com/GTRONICK/QSS) - QT Style Sheets templates
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
-- [LeaderbotX400/chatbot-experiments](https://github.com/LeaderbotX400/chatbot-experiments) - A place to store jailbreaks, or results of some prompts
+- [LeaderbotX400/chatbot-experiments](https://github.com/LeaderbotX400/chatbot-experiments) - A place to store jailbreaks, results of some prompts, or helpful utilities
 - [jobobby04/TachiyomiSYPreview](https://github.com/jobobby04/TachiyomiSYPreview) - A download host for TachiyomiSY Preview builds
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [gayolGate/gayolGate](https://github.com/gayolGate/gayolGate) - Information about my GitHub profile
@@ -882,6 +887,8 @@
 
 ## Python 
 
+- [jeong-jimin-github/Stable-Diffusion-Android](https://github.com/jeong-jimin-github/Stable-Diffusion-Android) - 
+- [Yang-013/Stable-diffusion-Android-termux](https://github.com/Yang-013/Stable-diffusion-Android-termux) - Run SD onnx model on termux
 - [mkhushi/MQL5-Python-Backtesting](https://github.com/mkhushi/MQL5-Python-Backtesting) - MQL5 based backtesting using python
 - [trentstauff/FXBot](https://github.com/trentstauff/FXBot) - A fully automated Forex trading bot utilizing the OANDA API.
 - [Dannyspev4560/Algo](https://github.com/Dannyspev4560/Algo) - Algorithmic trading scripts with alpaca free paper trading platform
@@ -950,7 +957,7 @@
 - [hwchase17/notion-qa](https://github.com/hwchase17/notion-qa) - 
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [FACEGOOD/FACEGOOD-Audio2Face](https://github.com/FACEGOOD/FACEGOOD-Audio2Face) - http://www.facegood.cc
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc.
 - [catid/supercharger](https://github.com/catid/supercharger) - Supercharge Open-Source AI Models
