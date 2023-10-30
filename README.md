@@ -683,6 +683,7 @@
 
 ## Jupyter Notebook 
 
+- [ypeleg/keras_rl_tutorial](https://github.com/ypeleg/keras_rl_tutorial) - 
 - [PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt
 - [camenduru/gaussian-splatting-colab](https://github.com/camenduru/gaussian-splatting-colab) - 
 - [Anderson-ALGO/Anderson-ALGO.github.io](https://github.com/Anderson-ALGO/Anderson-ALGO.github.io) - FX-DASHBOARD
@@ -888,6 +889,7 @@
 
 ## Python 
 
+- [kunalupadya/reinforcment-learning-games](https://github.com/kunalupadya/reinforcment-learning-games) - 
 - [jeong-jimin-github/Stable-Diffusion-Android](https://github.com/jeong-jimin-github/Stable-Diffusion-Android) - 
 - [Yang-013/Stable-diffusion-Android-termux](https://github.com/Yang-013/Stable-diffusion-Android-termux) - Run SD onnx model on termux
 - [mkhushi/MQL5-Python-Backtesting](https://github.com/mkhushi/MQL5-Python-Backtesting) - MQL5 based backtesting using python
