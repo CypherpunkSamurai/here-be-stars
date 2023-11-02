@@ -385,7 +385,7 @@
 - [wafer-bw/whatsmyip](https://github.com/wafer-bw/whatsmyip) - Golang API deployed as a Vercel Serverless Function that returns your public IP address
 - [forrestjgq/gmeter](https://github.com/forrestjgq/gmeter) - gmeter customizes HTTP RESTful clients and HTTP RESTful servers and runs them by configuration. With variable and command system supports, json acts as a script language to process HTTP request and re
 - [drachenfels-de/http-static](https://github.com/drachenfels-de/http-static) - Simple HTTP static files server.
-- [txthinking/nami](https://github.com/txthinking/nami) - The easy way to download anything from anywhere. 从任何地方下载任何东西
+- [txthinking/nami](https://github.com/txthinking/nami) - A clean and tidy decentralized package manager.
 - [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. zoro 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. 内网穿透.
 - [bitcav/nitr](https://github.com/bitcav/nitr) - :computer: Nitr is a System and Hardware Inspection and Monitoring Web API.
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
@@ -398,6 +398,7 @@
 
 ## HTML 
 
+- [kha-white/mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text.
 - [jllllll/bitsandbytes-windows-webui](https://github.com/jllllll/bitsandbytes-windows-webui) - Windows compile of bitsandbytes for use in text-generation-webui.
 - [josephrocca/OpenCharacters](https://github.com/josephrocca/OpenCharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
@@ -564,7 +565,7 @@
 - [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
 - [threadsjs/threads.js](https://github.com/threadsjs/threads.js) - A Node.js library for the Threads API
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
-- [bfs15/slaude](https://github.com/bfs15/slaude) - 
+- [aisu-wata0/slaude](https://github.com/aisu-wata0/slaude) - 
 - [Aiyu-awa/luna-ai](https://github.com/Aiyu-awa/luna-ai) - Luna AI - 全自动的 AI 直播系统
 - [matrix-org/matrix-viewer](https://github.com/matrix-org/matrix-viewer) - View the history of public and world readable Matrix rooms
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
@@ -889,6 +890,9 @@
 
 ## Python 
 
+- [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
+- [blueaxis/Poricom](https://github.com/blueaxis/Poricom) - Optical character recognition in manga images. Manga OCR desktop application
+- [kha-white/manga-ocr](https://github.com/kha-white/manga-ocr) - Optical character recognition for Japanese text, with the main focus being Japanese manga
 - [kunalupadya/reinforcment-learning-games](https://github.com/kunalupadya/reinforcment-learning-games) - 
 - [jeong-jimin-github/Stable-Diffusion-Android](https://github.com/jeong-jimin-github/Stable-Diffusion-Android) - 
 - [Yang-013/Stable-diffusion-Android-termux](https://github.com/Yang-013/Stable-diffusion-Android-termux) - Run SD onnx model on termux
