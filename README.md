@@ -819,7 +819,6 @@
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [gayolGate/gayolGate](https://github.com/gayolGate/gayolGate) - Information about my GitHub profile
 - [Jihadist/qt-stylesheets](https://github.com/Jihadist/qt-stylesheets) - Qt stylesheets (QSS) or QStyle ideas
-- [aiioats/clashd](https://github.com/aiioats/clashd) - Clash profiles repo مخزن پروفایل‌های کلش
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [Delcos/Hentai-Diffusion](https://github.com/Delcos/Hentai-Diffusion) - The official place for the best A.I.
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
