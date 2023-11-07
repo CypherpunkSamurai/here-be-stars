@@ -29,6 +29,7 @@
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Nim](#nim)
@@ -62,7 +63,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [FoxP/PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) - KISS batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution ICO files using ImageMagick.
 - [osm0sis/Android-Image-Kitchen](https://github.com/osm0sis/Android-Image-Kitchen) - Automated scripts to unpack/repack Android kernel/recovery images + ramdisks
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
@@ -775,6 +776,10 @@
 - [librespot-org/spotify-analyze](https://github.com/librespot-org/spotify-analyze) - Spotify Reverse Engineering tools and scripts
 - [plietar/spotify-analyze](https://github.com/plietar/spotify-analyze) - Spotify Reverse Engineering tools and scripts
 
+## MDX 
+
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -805,7 +810,6 @@
 - [TyCaugher/SaltyViewer](https://github.com/TyCaugher/SaltyViewer) - An e621/booru viewer built on modern android ui
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [togethercomputer/OpenDataHub](https://github.com/togethercomputer/OpenDataHub) - 
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
