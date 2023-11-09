@@ -1120,7 +1120,7 @@
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
 - [mzjdy/MobaXterm-Keygen](https://github.com/mzjdy/MobaXterm-Keygen) - MobaXterm Keygen Originally by DoubleLabyrinth
-- [rainbowpigeon/sublime-text-4-patcher](https://github.com/rainbowpigeon/sublime-text-4-patcher) - Python 3 patcher for Sublime Text v4107-4143 Windows x64
+- [rainbowpigeon/sublime-text-4-patcher](https://github.com/rainbowpigeon/sublime-text-4-patcher) - Python 3 patcher for Sublime Text v4107-4160 Windows x64
 - [python-geeks/Automation-scripts](https://github.com/python-geeks/Automation-scripts) - Repo for creating awesome automation scripts to make my panda lazier
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [SuperCV/Book](https://github.com/SuperCV/Book) - :green_book:我的个人书籍学习和收藏
