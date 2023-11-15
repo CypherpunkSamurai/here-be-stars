@@ -727,6 +727,7 @@
 
 ## Kotlin 
 
+- [zhoujia456888/BeautifulGirl](https://github.com/zhoujia456888/BeautifulGirl) - 爬了宅男女神网的地址做的一个看美女的APP
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [jsericksk/ChatGPT](https://github.com/jsericksk/ChatGPT) - Application created with Jetpack Compose that uses the OpenAI API.
 - [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
