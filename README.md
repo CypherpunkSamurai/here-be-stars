@@ -577,7 +577,7 @@
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的 JS 插件
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [rzarvirov/newbot-server](https://github.com/rzarvirov/newbot-server) - 
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
@@ -902,6 +902,7 @@
 
 ## Python 
 
+- [vsakkas/bard.py](https://github.com/vsakkas/bard.py) - Python Client for Bard, a Chat Based AI tool by Google.
 - [mallorbc/Finetune_LLMs](https://github.com/mallorbc/Finetune_LLMs) - Repo for fine-tuning Casual LLMs
 - [hisrg/SNPE](https://github.com/hisrg/SNPE) - Snapdragon Neural Processing Engine (SNPE) SDKThe Snapdragon Neural Processing Engine (SNPE) is a Qualcomm Snapdragon software accelerated runtime for the execution of deep neural networks. With SNPE,
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
@@ -1065,7 +1066,7 @@
 - [babca/python-gsmmodem](https://github.com/babca/python-gsmmodem) - Maintained fork of a Python module to control GSM modems attached to the system: send/receive SMS messages in your scripts, handle calls, and more.
 - [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - 
 - [hyprex-deva/DC-Bot-python](https://github.com/hyprex-deva/DC-Bot-python) - 
-- [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) - Patch boot image with magisk on windows/linux
+- [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) - Patch boot image with magisk on windows/linux/macos
 - [Furniel/Apk-Changer](https://github.com/Furniel/Apk-Changer) - Command line program for modifying apk files
 - [portabledevapps/jupyterlab-portable](https://github.com/portabledevapps/jupyterlab-portable) - 🌌 JUPYTERLAB PORTABLE : Portable version of JupyterLab for Windows. "JupyterLab is the next-generation web-based user interface for Project Jupyter."
 - [binsync/binsync](https://github.com/binsync/binsync) - A collaborative reversing plugin for cross-decompiler collaboration, built on git.
