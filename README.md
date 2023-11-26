@@ -567,6 +567,7 @@
 
 ## JavaScript 
 
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [LizzyFleckenstein03/google_images](https://github.com/LizzyFleckenstein03/google_images) - Reverse Engineered Google Image Search API
 - [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
 - [threadsjs/threads.js](https://github.com/threadsjs/threads.js) - A Node.js library for the Threads API
@@ -728,6 +729,9 @@
 
 ## Kotlin 
 
+- [Tapadoo/Alerter](https://github.com/Tapadoo/Alerter) - An Android Alerting Library
+- [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+- [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 - [zhoujia456888/BeautifulGirl](https://github.com/zhoujia456888/BeautifulGirl) - 爬了宅男女神网的地址做的一个看美女的APP
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [jsericksk/ChatGPT](https://github.com/jsericksk/ChatGPT) - Application created with Jetpack Compose that uses the OpenAI API.
