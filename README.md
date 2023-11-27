@@ -1121,7 +1121,7 @@
 - [sbaack/archive-md-urls](https://github.com/sbaack/archive-md-urls) - Turn URLs in Markdown files into archive.org snapshots
 - [ptswarm/reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 - [intelowlproject/GreedyBear](https://github.com/intelowlproject/GreedyBear) - Threat Intel Platform for T-POTs
-- [alechilczenko/spidex](https://github.com/alechilczenko/spidex) - A little internet crawler
+- [alechilczenko/spidex](https://github.com/alechilczenko/spidex) - Continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets.
 - [TuYuxiao/face_recognize](https://github.com/TuYuxiao/face_recognize) - 
 - [rscloura/Doldrums](https://github.com/rscloura/Doldrums) - A Flutter/Dart reverse engineering tool
 - [CHEFINHOTM/userbot](https://github.com/CHEFINHOTM/userbot) - user
