@@ -906,6 +906,7 @@
 
 ## Python 
 
+- [alex9099/SimpleNearby](https://github.com/alex9099/SimpleNearby) - Reimplementation and documentation of Google's Nearby Share
 - [vsakkas/bard.py](https://github.com/vsakkas/bard.py) - Python Client for Bard, a Chat Based AI tool by Google.
 - [mallorbc/Finetune_LLMs](https://github.com/mallorbc/Finetune_LLMs) - Repo for fine-tuning Casual LLMs
 - [hisrg/SNPE](https://github.com/hisrg/SNPE) - Snapdragon Neural Processing Engine (SNPE) SDKThe Snapdragon Neural Processing Engine (SNPE) is a Qualcomm Snapdragon software accelerated runtime for the execution of deep neural networks. With SNPE,
