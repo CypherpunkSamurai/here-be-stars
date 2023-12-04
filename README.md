@@ -150,6 +150,7 @@
 
 ## C++ 
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [google/nearby](https://github.com/google/nearby) - 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
 - [yaoyi30/ResNet_ncnn_android](https://github.com/yaoyi30/ResNet_ncnn_android) - This is an android app about monkey image classification
 - [EdVince/GPT2-ChineseChat-NCNN](https://github.com/EdVince/GPT2-ChineseChat-NCNN) - GPT2⚡NCNN⚡中文对话⚡x86⚡Android
@@ -385,7 +386,7 @@
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [TruthHun/BookStack](https://github.com/TruthHun/BookStack) - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [wafer-bw/whatsmyip](https://github.com/wafer-bw/whatsmyip) - Golang API deployed as a Vercel Serverless Function that returns your public IP address
+- [wafer-bw/whatsmyip](https://github.com/wafer-bw/whatsmyip) - Golang API deployed as a Vercel Serverless Function that returns your public IP address.
 - [forrestjgq/gmeter](https://github.com/forrestjgq/gmeter) - gmeter customizes HTTP RESTful clients and HTTP RESTful servers and runs them by configuration. With variable and command system supports, json acts as a script language to process HTTP request and re
 - [drachenfels-de/http-static](https://github.com/drachenfels-de/http-static) - Simple HTTP static files server.
 - [txthinking/nami](https://github.com/txthinking/nami) - A clean and tidy decentralized package manager.
@@ -907,6 +908,8 @@
 
 ## Python 
 
+- [pirate/crypto-trader](https://github.com/pirate/crypto-trader) - :moneybag: Cryptocurrency trading bot library with a simple example strategy (trading via Gemini).
+- [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.
 - [alex9099/SimpleNearby](https://github.com/alex9099/SimpleNearby) - Reimplementation and documentation of Google's Nearby Share
 - [vsakkas/bard.py](https://github.com/vsakkas/bard.py) - Python Client for Bard, a Chat Based AI tool by Google.
 - [mallorbc/Finetune_LLMs](https://github.com/mallorbc/Finetune_LLMs) - Repo for fine-tuning Casual LLMs
