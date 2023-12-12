@@ -38,6 +38,7 @@
 - [PHP](#php)
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
+- [Protocol Buffer](#protocol-buffer)
 - [Python](#python)
 - [R](#r)
 - [Reason](#reason)
@@ -568,6 +569,7 @@
 
 ## JavaScript 
 
+- [Hashim-mansoor/Bookmark-Manager](https://github.com/Hashim-mansoor/Bookmark-Manager) - This is a modified and restored version of the extension 'Bookmark Manager' by Google.
 - [ShinoKana/multipleWindow3dScene](https://github.com/ShinoKana/multipleWindow3dScene) - based on bgstaal/multipleWindow3dScene
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [LizzyFleckenstein03/google_images](https://github.com/LizzyFleckenstein03/google_images) - Reverse Engineered Google Image Search API
@@ -909,8 +911,15 @@
 
 - [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more 😉
 
+## Protocol Buffer 
+
+- [kitt-browser/chrome-sync](https://github.com/kitt-browser/chrome-sync) - 
+
 ## Python 
 
+- [DeuceAceTrey/CRAWLER_RT](https://github.com/DeuceAceTrey/CRAWLER_RT) - real time web url crawler
+- [majhcc/M-API](https://github.com/majhcc/M-API) - This is M-API that helps you to do some cool stuff.
+- [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Online Book
@@ -1259,6 +1268,7 @@
 
 ## Shell 
 
+- [CoolElectronics/crumpet](https://github.com/CoolElectronics/crumpet) - chromium os chroot environment for linux (crouton in reverse)
 - [tanyiok1234/waifu2x_srmd-ncnn-vulkan-termux-binary](https://github.com/tanyiok1234/waifu2x_srmd-ncnn-vulkan-termux-binary) - A prebuilt armv8 waifu2x/srmd-ncnn-vulkan binary for termux
 - [Tempaccnt/Termux-alpaca](https://github.com/Tempaccnt/Termux-alpaca) - This is a simple shell script to install the alpaca llama 7B model on termux for Android phones. All credits goes to the original developers of alpaca.cpp and ggml-model-q4_1.bin.
 - [CodeNinja-sys/FEX-Emu-Termux](https://github.com/CodeNinja-sys/FEX-Emu-Termux) - A FEX-Emu + Wine on Termux!
@@ -1337,7 +1347,7 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [KeJunMao/edgegpt](https://github.com/KeJunMao/edgegpt) - The reverse engineering the chat feature of the new version of Bing.新必应聊天功能的逆向工程
-- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [tuhinpal/bingchat-api](https://github.com/tuhinpal/bingchat-api) - Bing Chat unofficial API
 - [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
