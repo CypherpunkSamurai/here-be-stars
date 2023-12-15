@@ -730,7 +730,7 @@
 - [tugstugi/dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks) - Try out  deep learning models online on Google Colab
 - [tulasiram58827/TTS_TFLite](https://github.com/tulasiram58827/TTS_TFLite) - This repository is a collection of TTS Models in TFLite
 - [robmarkcole/tensorflow-lite-rest-server](https://github.com/robmarkcole/tensorflow-lite-rest-server) - Expose tensorflow-lite models via a rest API using FastAPI
-- [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - jupyter/ipython experiment containers for GPU and general RAM re-use
+- [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - Automatic GPU+CPU memory profiling, re-use and memory leaks detection using jupyter/ipython experiment containers
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 
 ## Kotlin 
