@@ -301,7 +301,7 @@
 - [msquee/go-websockify](https://github.com/msquee/go-websockify) - Pure Go implementation of novnc/websockify TCP to WebSocket proxy with improved connection handling. Runs on Linux, Windows and MacOS.
 - [miladj/websockify-go](https://github.com/miladj/websockify-go) - websockify implementation in golang
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple CI engine with great extensibility.
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple yet powerful CI/CD engine with great extensibility.
 - [forewing/csgo-rcon](https://github.com/forewing/csgo-rcon) - Golang package for CS:GO RCON Protocol client. Also support other games using the protocol (Source Engine games, Minecraft, etc.)
 - [Narasimha1997/tor-proxy](https://github.com/Narasimha1997/tor-proxy) - An experimental Tor-Proxy serivce written in Go using Go-proxy and Go-libtor.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
@@ -717,6 +717,7 @@
 - [peppertaco/AI](https://github.com/peppertaco/AI) - 
 - [Vision-CAIR/ChatCaptioner](https://github.com/Vision-CAIR/ChatCaptioner) - Official Repository of ChatCaptioner
 - [lablab-ai/How-to-use-OpenAIs-Whisper-Tutorial](https://github.com/lablab-ai/How-to-use-OpenAIs-Whisper-Tutorial) - In this tutorial you will learn how to use OpenAIs Whisper to useful applications that leverage speech recognition
+- [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [karaage0703/stable-diffusion-colab-tools](https://github.com/karaage0703/stable-diffusion-colab-tools) - Stable diffusion very easy and useful tools on Google Colaboratory(Google Colab)
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -735,6 +736,7 @@
 
 ## Kotlin 
 
+- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
 - [axiel7/AniHyou-android](https://github.com/axiel7/AniHyou-android) - Another unofficial Android AniList client
 - [Chesire/Nekome](https://github.com/Chesire/Nekome) - Nekome is an Android application to manage tracked Anime and Manga lists.
 - [akshay2211/BubbleTabBar](https://github.com/akshay2211/BubbleTabBar) - BubbleTabBar is a bottom navigation bar with customizable bubble-like tabs
@@ -1043,7 +1045,6 @@
 - [kinosal/tweet](https://github.com/kinosal/tweet) - Generate Tweet texts using OpenAI's GPT-3 based Davinci model
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
-- [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
 - [anapnoe/stable-diffusion-webui-ux](https://github.com/anapnoe/stable-diffusion-webui-ux) - Stable Diffusion web UI UX
 - [TsingJyujing/DataSpider](https://github.com/TsingJyujing/DataSpider) - A spider library of several data sources.
