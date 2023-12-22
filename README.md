@@ -923,6 +923,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [DeuceAceTrey/CRAWLER_RT](https://github.com/DeuceAceTrey/CRAWLER_RT) - real time web url crawler
 - [majhcc/M-API](https://github.com/majhcc/M-API) - This is M-API that helps you to do some cool stuff.
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
@@ -1333,6 +1334,8 @@
 
 ## TypeScript 
 
+- [sinkaroid/lustpress](https://github.com/sinkaroid/lustpress) - RESTful and experimental API for PornHub and other porn sites
+- [kerwanp/notionx](https://github.com/kerwanp/notionx) - 
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
