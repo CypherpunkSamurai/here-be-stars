@@ -861,7 +861,7 @@
 - [liaohuqiu/android-dynamic-load-awesome](https://github.com/liaohuqiu/android-dynamic-load-awesome) - 
 - [Redgifs/api](https://github.com/Redgifs/api) - API documentation
 - [MacianYuan/pro3288-07inch](https://github.com/MacianYuan/pro3288-07inch) - 手持仪
-- [wtdcode/DebianOnQEMU](https://github.com/wtdcode/DebianOnQEMU) - 
+- [wtdcode/DebianOnQEMU](https://github.com/wtdcode/DebianOnQEMU) - Run multiarch Debian on QEMU via tcg emulation.
 - [kakathic/Tool-Shells](https://github.com/kakathic/Tool-Shells) - Application integrated editing apk
 - [paralax/awesome-internet-scanning](https://github.com/paralax/awesome-internet-scanning) - A curated list of awesome Internet port and host scanners, plus related components and much more, with a focus on free and open source projects.
 - [connglli/blog-notes](https://github.com/connglli/blog-notes) - My personal notes ✍️
