@@ -417,7 +417,7 @@
 - [wadezhan/billfeller.github.io](https://github.com/wadezhan/billfeller.github.io) - 
 - [HangZhouCat/ReaverAPKTools](https://github.com/HangZhouCat/ReaverAPKTools) - 逆向APK工具
 - [WSG88/ak47](https://github.com/WSG88/ak47) - 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [MrGreensWorkshop/MrGreen-JekyllTheme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) - Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.
 - [JakeWharton/jakewharton.com](https://github.com/JakeWharton/jakewharton.com) - Personal website and blog.
 - [Berny23/eclipse-portable](https://github.com/Berny23/eclipse-portable) - Portable version of the multifunctional development platform Eclipse.
@@ -861,7 +861,7 @@
 - [liaohuqiu/android-dynamic-load-awesome](https://github.com/liaohuqiu/android-dynamic-load-awesome) - 
 - [Redgifs/api](https://github.com/Redgifs/api) - API documentation
 - [MacianYuan/pro3288-07inch](https://github.com/MacianYuan/pro3288-07inch) - 手持仪
-- [wtdcode/DebianOnQEMU](https://github.com/wtdcode/DebianOnQEMU) - Run multiarch Debian on QEMU via tcg emulation.
+- [wtdcode/DebianOnQEMU](https://github.com/wtdcode/DebianOnQEMU) - Run out-of-box multiarch Debian system on QEMU via tcg emulation.
 - [kakathic/Tool-Shells](https://github.com/kakathic/Tool-Shells) - Application integrated editing apk
 - [paralax/awesome-internet-scanning](https://github.com/paralax/awesome-internet-scanning) - A curated list of awesome Internet port and host scanners, plus related components and much more, with a focus on free and open source projects.
 - [connglli/blog-notes](https://github.com/connglli/blog-notes) - My personal notes ✍️
