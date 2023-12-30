@@ -605,7 +605,6 @@
 - [p2004a/ace-clang-completion-poc](https://github.com/p2004a/ace-clang-completion-poc) - Proof of concept of Clang completion through WebSockets in Ace editor.
 - [Amithab/Ace-Editor-example](https://github.com/Amithab/Ace-Editor-example) - Basic custom theme, mode, and autcomplete for Ace editor
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
-- [PrismarineJS/minecraft-packets](https://github.com/PrismarineJS/minecraft-packets) - Stores minecraft packets to test implementation of the minecraft protocol
 - [Heath123/pakkit](https://github.com/Heath123/pakkit) - 
 - [Mz49/emuparadise-mirror](https://github.com/Mz49/emuparadise-mirror) - A Cloudflare Worker script that mirrors EmuParadise and alters download pages to include a working link.
 - [aD4wn/Workers-Proxy](https://github.com/aD4wn/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
@@ -857,6 +856,7 @@
 - [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [PrismarineJS/minecraft-packets](https://github.com/PrismarineJS/minecraft-packets) - Stores minecraft packets to test implementation of the minecraft protocol
 - [cheshie/secrets](https://github.com/cheshie/secrets) - Various secrets for regex search and rules for DumpsterDiver.py https://github.com/securing/DumpsterDiver
 - [liaohuqiu/android-dynamic-load-awesome](https://github.com/liaohuqiu/android-dynamic-load-awesome) - 
 - [Redgifs/api](https://github.com/Redgifs/api) - API documentation
@@ -1104,7 +1104,7 @@
 - [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) - Patch boot image with magisk on windows/linux/macos
 - [Furniel/Apk-Changer](https://github.com/Furniel/Apk-Changer) - Command line program for modifying apk files
 - [portabledevapps/jupyterlab-portable](https://github.com/portabledevapps/jupyterlab-portable) - 🌌 JUPYTERLAB PORTABLE : Portable version of JupyterLab for Windows. "JupyterLab is the next-generation web-based user interface for Project Jupyter."
-- [binsync/binsync](https://github.com/binsync/binsync) - A collaborative reversing plugin for cross-decompiler collaboration, built on git.
+- [binsync/binsync](https://github.com/binsync/binsync) - A reversing plugin for cross-decompiler collaboration, built on git.
 - [marin-m/pbtk](https://github.com/marin-m/pbtk) - A toolset for reverse engineering and fuzzing Protobuf-based apps
 - [Ledger-Donjon/rainbow](https://github.com/Ledger-Donjon/rainbow) - Makes Unicorn traces. Generic Side-Channel and Fault Injection simulator
 - [Pr0214/uTrace](https://github.com/Pr0214/uTrace) - 一个简易的unicorn tracer，剪裁自项目Rainbow。
