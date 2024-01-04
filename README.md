@@ -454,6 +454,7 @@
 
 ## Java 
 
+- [journeyapps/zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded) - Barcode scanner library for Android, based on the ZXing decoder
 - [Goxome/BlackBox](https://github.com/Goxome/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, s
 - [jsericksk/Image-Loader-Legacy](https://github.com/jsericksk/Image-Loader-Legacy) - App to search and get images from a page, using Jsoup.
 - [muthukrishnan-suresh/soul-surfer-android](https://github.com/muthukrishnan-suresh/soul-surfer-android) - A powerful library to show link preview in Android applications
@@ -512,7 +513,6 @@
 - [ikws4/CodeEditor](https://github.com/ikws4/CodeEditor) - Code editor for android
 - [alimogh/JavaCompile](https://github.com/alimogh/JavaCompile) - Android平台的Java IDE
 - [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.
-- [Cosmic-Ide/Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) - A next-gen Ide for JVM development on Android
 - [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future.
 - [Col-E/Bytecode-Modification-Framework](https://github.com/Col-E/Bytecode-Modification-Framework) - A bytecode modification library
 - [synnkfps/JByteCustom](https://github.com/synnkfps/JByteCustom) - project discontinued due to lack of performance, usage and some other development issues, rip JByteCustom.
@@ -579,7 +579,7 @@
 - [threadsjs/threads.js](https://github.com/threadsjs/threads.js) - A Node.js library for the Threads API
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [aisu-wata0/slaude](https://github.com/aisu-wata0/slaude) - 
-- [Aiyu-awa/luna-ai](https://github.com/Aiyu-awa/luna-ai) - Luna AI - 全自动的 AI 直播系统
+- [0x648/luna-ai](https://github.com/0x648/luna-ai) - Luna AI - 全自动的 AI 直播系统
 - [matrix-org/matrix-viewer](https://github.com/matrix-org/matrix-viewer) - View the history of public and world readable Matrix rooms
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
@@ -778,6 +778,7 @@
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 - [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
 - [hamidrezasahraei/MusicAppComposeUI](https://github.com/hamidrezasahraei/MusicAppComposeUI) - A sample Music Player project that help you learn about Compose in Android. Note that this app only contain UI and has no logic. The design is inspired from this and this.
+- [Cosmic-Ide/Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) - A next-gen Ide for JVM development on Android
 - [markusressel/KodeEditor](https://github.com/markusressel/KodeEditor) - A simple code editor with syntax highlighting and pinch to zoom
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
@@ -823,6 +824,7 @@
 
 ## Others 
 
+- [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2024 tech internships!
 - [Goxome/Magisk-on-VMOS](https://github.com/Goxome/Magisk-on-VMOS) - Magisk successfully installed on VMOS
 - [Goxome/TikTokPatcher](https://github.com/Goxome/TikTokPatcher) - Apk Editor Pro Patch File for unblock TikTok from banned Countries.
 - [zehuajun/Stable-diffusion-for-Android](https://github.com/zehuajun/Stable-diffusion-for-Android) - 
@@ -924,6 +926,7 @@
 
 ## Python 
 
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [ClaraLeigh/proxy-for-copilot](https://github.com/ClaraLeigh/proxy-for-copilot) - A quick, dirty hack to get GitHub Copilot Chat to use GPT4 using api keys
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [DeuceAceTrey/CRAWLER_RT](https://github.com/DeuceAceTrey/CRAWLER_RT) - real time web url crawler
@@ -1023,7 +1026,7 @@
 - [yuanzhoulvpi2017/DocumentSearch](https://github.com/yuanzhoulvpi2017/DocumentSearch) - 基于sentence transformers和chatglm实现的文档搜索工具
 - [ttengwang/Caption-Anything](https://github.com/ttengwang/Caption-Anything) - Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences. https://huggingface.co/space
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [Buhankoanon/OAI_API_Checker](https://github.com/Buhankoanon/OAI_API_Checker) - Program that allows you to check all the available information about your OAI API keys
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [SillyTavern/SillyTavern-Extras](https://github.com/SillyTavern/SillyTavern-Extras) - Extensions API for SillyTavern.
