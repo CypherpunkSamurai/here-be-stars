@@ -68,7 +68,7 @@
 - [FoxP/PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) - KISS batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution ICO files using ImageMagick.
 - [osm0sis/Android-Image-Kitchen](https://github.com/osm0sis/Android-Image-Kitchen) - Automated scripts to unpack/repack Android kernel/recovery images + ramdisks
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
-- [vip123456789/Docs](https://github.com/vip123456789/Docs) - 一些文本
+- [NewHappy1024/Docs](https://github.com/NewHappy1024/Docs) - 一些文本
 - [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
 - [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
 - [Elenedeath/AIK-Windows-mirror](https://github.com/Elenedeath/AIK-Windows-mirror) - 
