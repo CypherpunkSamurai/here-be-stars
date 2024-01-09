@@ -513,7 +513,7 @@
 - [ikws4/CodeEditor](https://github.com/ikws4/CodeEditor) - Code editor for android
 - [alimogh/JavaCompile](https://github.com/alimogh/JavaCompile) - Android平台的Java IDE
 - [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.
-- [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future.
+- [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future that supports any programming language.
 - [Col-E/Bytecode-Modification-Framework](https://github.com/Col-E/Bytecode-Modification-Framework) - A bytecode modification library
 - [synnkfps/JByteCustom](https://github.com/synnkfps/JByteCustom) - project discontinued due to lack of performance, usage and some other development issues, rip JByteCustom.
 - [Col-E/JRemapper](https://github.com/Col-E/JRemapper) - Remapping tool for compiled java programs.
@@ -749,7 +749,7 @@
 - [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
 - [UmairOye/AI-Art-Generator](https://github.com/UmairOye/AI-Art-Generator) - The AI Art Generator App is an Android application that leverages the Stable Diffusion API to create unique artworks based on user-provided prompts. It follows the MVVM architecture pattern and uses R
 - [Jokimax/OpenStableDiffusion](https://github.com/Jokimax/OpenStableDiffusion) - A simple android app for generating stable diffusion images using AI horde
-- [crowforkotlin/CopyMangaX](https://github.com/crowforkotlin/CopyMangaX) - 拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发
+- [crowforkotlin/CopyMangaX](https://github.com/crowforkotlin/CopyMangaX) - 🌟拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发
 - [alexbezhan/Instagram-Clone-Kotlin](https://github.com/alexbezhan/Instagram-Clone-Kotlin) - Source code for Instagram app - Youtube video series for making Kotlin clone app
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
@@ -776,7 +776,6 @@
 - [NeNpO/QuillNote](https://github.com/NeNpO/QuillNote) - Take beautiful markdown notes and stay organized with task lists.
 - [oianmol/DiscordJetpackCompose](https://github.com/oianmol/DiscordJetpackCompose) - A Jetpack compose clone for Discord Android Client
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
-- [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
 - [hamidrezasahraei/MusicAppComposeUI](https://github.com/hamidrezasahraei/MusicAppComposeUI) - A sample Music Player project that help you learn about Compose in Android. Note that this app only contain UI and has no logic. The design is inspired from this and this.
 - [Cosmic-Ide/Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) - A next-gen Ide for JVM development on Android
 - [markusressel/KodeEditor](https://github.com/markusressel/KodeEditor) - A simple code editor with syntax highlighting and pinch to zoom
@@ -784,7 +783,7 @@
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
 - [Jacekun/CloudStream-3XXX](https://github.com/Jacekun/CloudStream-3XXX) - 
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
-- [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - Unofficial fork of Tachiyomi for anime
+- [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
 - [msoultanidis/quillnote](https://github.com/msoultanidis/quillnote) - Take beautiful markdown notes and stay organized with task lists.
 
 ## Liquid 
@@ -1345,7 +1344,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [EhTagTranslation/EhSyringe](https://github.com/EhTagTranslation/EhSyringe) - E 站注射器，将中文翻译注入到 E 站体内
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
 - [yacineMTB/talk](https://github.com/yacineMTB/talk) - Let's make sand talk
