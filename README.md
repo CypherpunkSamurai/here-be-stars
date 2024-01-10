@@ -749,7 +749,7 @@
 - [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
 - [UmairOye/AI-Art-Generator](https://github.com/UmairOye/AI-Art-Generator) - The AI Art Generator App is an Android application that leverages the Stable Diffusion API to create unique artworks based on user-provided prompts. It follows the MVVM architecture pattern and uses R
 - [Jokimax/OpenStableDiffusion](https://github.com/Jokimax/OpenStableDiffusion) - A simple android app for generating stable diffusion images using AI horde
-- [crowforkotlin/CopyMangaX](https://github.com/crowforkotlin/CopyMangaX) - 🌟拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发
+- [crowforkotlin/CopyMangaX](https://github.com/crowforkotlin/CopyMangaX) - 🚀拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发
 - [alexbezhan/Instagram-Clone-Kotlin](https://github.com/alexbezhan/Instagram-Clone-Kotlin) - Source code for Instagram app - Youtube video series for making Kotlin clone app
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
