@@ -972,7 +972,7 @@
 - [RangiLyu/nanodet](https://github.com/RangiLyu/nanodet) - NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [GaspardCulis/elevenlabs-unleashed](https://github.com/GaspardCulis/elevenlabs-unleashed) - Provides unlimited ElevenLabs API calls.
-- [LlmKira/VitsServer](https://github.com/LlmKira/VitsServer) - 🌻 A VITS ONNX server designed for fast inference 🔥
+- [LlmKira/VitsServer](https://github.com/LlmKira/VitsServer) - 🌻 VITS ONNX TTS server designed for fast inference 🔥
 - [thorstenMueller/Thorsten-Voice](https://github.com/thorstenMueller/Thorsten-Voice) - Thorsten-Voice: A free to use, offline working, high quality german TTS voice should be available for every project without any license struggling.
 - [scrazzz/redgifs](https://github.com/scrazzz/redgifs) - Simple Python API wrapper for the RedGIFs API
 - [Fornoth/spotify-connect-web](https://github.com/Fornoth/spotify-connect-web) - 
