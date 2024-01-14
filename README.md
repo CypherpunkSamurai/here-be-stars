@@ -917,7 +917,7 @@
 
 ## PowerShell 
 
-- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - Stops Adobe's pesky background apps and more 😉
+- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - [No longer actively maintained] Stops Adobe's pesky background apps and more 😉
 
 ## Protocol Buffer 
 
