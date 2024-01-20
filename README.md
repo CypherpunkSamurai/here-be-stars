@@ -467,7 +467,7 @@
 - [TeamYouDown/YouDown](https://github.com/TeamYouDown/YouDown) - YouTube Audio/MP3 and Video Downloader Application - The first version of YouDown is live. Now you can use all premium features of YouTube for free and without ads. Make your own music and video libra
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
-- [HardcodedCat/termux-monet](https://github.com/HardcodedCat/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
+- [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) - A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing sche
 - [Numinha/pabb](https://github.com/Numinha/pabb) - PABB - Por*graphic App Booru Based is a android app thats show booru and other sites like a tiktok, with donwloader various images, simple gui and tagged system. You can use this app for SFW searchs, 
 - [faldez/shachi](https://github.com/faldez/shachi) - Booru client for Android
