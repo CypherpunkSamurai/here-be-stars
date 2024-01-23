@@ -953,7 +953,7 @@
 - [trentstauff/FXBot](https://github.com/trentstauff/FXBot) - A fully automated Forex trading bot utilizing the OANDA API.
 - [Dannyspev4560/Algo](https://github.com/Dannyspev4560/Algo) - Algorithmic trading scripts with alpaca free paper trading platform
 - [Cyn7hia/Double-DQN-stock-trading-rule](https://github.com/Cyn7hia/Double-DQN-stock-trading-rule) - Code for paper Stock trading rule discovery with double deep Q-network
-- [edarchimbaud/awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+- [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
 - [TRetraint/RSI_Trading_Bot](https://github.com/TRetraint/RSI_Trading_Bot) - Simple Bot with a simple RSI Strategy, developped in Python with the Binance API trading Cryptocurrencies
 - [ant358/oanda_v20_platform_public](https://github.com/ant358/oanda_v20_platform_public) - A platform to enable automated trading and market analysis with Python on the Oanda brokerage API
