@@ -822,6 +822,7 @@
 
 ## Others 
 
+- [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
 - [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2024 tech internships!
 - [Goxome/Magisk-on-VMOS](https://github.com/Goxome/Magisk-on-VMOS) - Magisk successfully installed on VMOS
 - [Goxome/TikTokPatcher](https://github.com/Goxome/TikTokPatcher) - Apk Editor Pro Patch File for unblock TikTok from banned Countries.
