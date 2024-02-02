@@ -270,6 +270,7 @@
 
 ## Go 
 
+- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [shahab14/gradle-resolver-redirector](https://github.com/shahab14/gradle-resolver-redirector) - Redirect gradle resolver requests
 - [laminy/gradle-cache-server](https://github.com/laminy/gradle-cache-server) - Golang Gradle cache server
 - [Mindgamesnl/maven-dependency-extractor](https://github.com/Mindgamesnl/maven-dependency-extractor) - A simple commandline tool to extract/download maven dependencies from a pom.xml into a directory
@@ -571,6 +572,8 @@
 
 ## JavaScript 
 
+- [github-20k/awesome-opensource](https://github.com/github-20k/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
+- [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [Hashim-mansoor/Bookmark-Manager](https://github.com/Hashim-mansoor/Bookmark-Manager) - This is a modified and restored version of the extension 'Bookmark Manager' by Google.
 - [ShinoKana/multipleWindow3dScene](https://github.com/ShinoKana/multipleWindow3dScene) - based on bgstaal/multipleWindow3dScene
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
@@ -822,6 +825,7 @@
 
 ## Others 
 
+- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
 - [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2024 tech internships!
 - [Goxome/Magisk-on-VMOS](https://github.com/Goxome/Magisk-on-VMOS) - Magisk successfully installed on VMOS
