@@ -322,7 +322,7 @@
 - [cretz/bine](https://github.com/cretz/bine) - Go library for accessing and embedding Tor clients and servers
 - [Baozisoftware/qrcode-terminal-go](https://github.com/Baozisoftware/qrcode-terminal-go) - QRCode terminal for golang.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [hymkor/zenn-dev](https://github.com/hymkor/zenn-dev) - The contents source for https://zenn.dev/zetamatta
+- [hymkor/zenn-dev](https://github.com/hymkor/zenn-dev) - The source files of my zenn-dev documents
 - [skanehira/rtty](https://github.com/skanehira/rtty) - Terminal on browser via websocket
 - [intelowlproject/go-intelowl](https://github.com/intelowlproject/go-intelowl) - IntelOwl's client library/SDK in golang.
 - [shaunschembri/restreamer](https://github.com/shaunschembri/restreamer) - Go application/library that re-streams an HLS stream through a Writer interface
