@@ -962,7 +962,6 @@
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
 - [TRetraint/RSI_Trading_Bot](https://github.com/TRetraint/RSI_Trading_Bot) - Simple Bot with a simple RSI Strategy, developped in Python with the Binance API trading Cryptocurrencies
 - [ant358/oanda_v20_platform_public](https://github.com/ant358/oanda_v20_platform_public) - A platform to enable automated trading and market analysis with Python on the Oanda brokerage API
-- [mOrGaNCrYpTo/omega_bot](https://github.com/mOrGaNCrYpTo/omega_bot) - 
 - [JanStureNielsen/wolfinch](https://github.com/JanStureNielsen/wolfinch) - Wolfinch is your friendly trader Bot written in Python
 - [mabdullahsoyturk/trading-bot](https://github.com/mabdullahsoyturk/trading-bot) - An engulfing based crypto trading bot
 - [Eltion/Tiktok-SSL-Pinning-Bypass](https://github.com/Eltion/Tiktok-SSL-Pinning-Bypass) - Bypass Tiktok SSL pinning on Android devices.
