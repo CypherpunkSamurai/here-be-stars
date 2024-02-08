@@ -830,7 +830,6 @@
 - [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2024 tech internships!
 - [Goxome/Magisk-on-VMOS](https://github.com/Goxome/Magisk-on-VMOS) - Magisk successfully installed on VMOS
 - [Goxome/TikTokPatcher](https://github.com/Goxome/TikTokPatcher) - Apk Editor Pro Patch File for unblock TikTok from banned Countries.
-- [zehuajun/Stable-diffusion-for-Android](https://github.com/zehuajun/Stable-diffusion-for-Android) - 
 - [ClashSAN/stable-diffusion-android-cpu-steps](https://github.com/ClashSAN/stable-diffusion-android-cpu-steps) - memo
 - [jbro129/android-modding](https://github.com/jbro129/android-modding) - A large collection of github repositories related to android modding.
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
