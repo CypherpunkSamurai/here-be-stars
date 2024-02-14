@@ -892,7 +892,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [Gowee/nyancat-svg](https://github.com/Gowee/nyancat-svg) - nyancat.svg
 - [octocat/Hello-World](https://github.com/octocat/Hello-World) - My first repository on GitHub!
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [abhishekkrthakur/how-to-become-a-ds-in-30-days](https://github.com/abhishekkrthakur/how-to-become-a-ds-in-30-days) - How to become a data scientist in 30 days
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [W00t3k/Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Awesome-Cellular-Hacking
