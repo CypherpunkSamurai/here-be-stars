@@ -727,6 +727,7 @@
 - [Linaqruf/kohya-trainer](https://github.com/Linaqruf/kohya-trainer) - Adapted from https://note.com/kohya_ss/n/nbf7ce8d80f29 for easier cloning
 - [victorchall/EveryDream-trainer](https://github.com/victorchall/EveryDream-trainer) - General fine tuning for Stable Diffusion
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
+- [Mikubill/naifu-diffusion](https://github.com/Mikubill/naifu-diffusion) - Train stable diffusion model with Diffusers and Pytorch Lightning
 - [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
 - [arty4999/UnstableFusion](https://github.com/arty4999/UnstableFusion) - 
 - [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
@@ -825,6 +826,7 @@
 
 ## Others 
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
 - [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2024 tech internships!
@@ -985,7 +987,7 @@
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 - [bkerler/oppo_decrypt](https://github.com/bkerler/oppo_decrypt) - Oppo .ofp Firmware decrypter and oneplus .ops de-/encrypter
 - [Numenorean/ShazamAPI](https://github.com/Numenorean/ShazamAPI) - Fully reverse engeenired shazam api
-- [dotX12/ShazamIO](https://github.com/dotX12/ShazamIO) - 🎵 Is a free asynchronous library from reverse engineered Shazam API written in Python 3.8+ with asyncio and aiohttp.
+- [shazamio/ShazamIO](https://github.com/shazamio/ShazamIO) - 🎵 Is a free asynchronous library from reverse engineered Shazam API written in Python 3.8+ with asyncio and aiohttp.
 - [dmytrostriletskyi/threads-net](https://github.com/dmytrostriletskyi/threads-net) - Unofficial and reverse-engineered Threads (threads.net) Python API wrapper. Created for academic purposes and is not intended to be used in real software.
 - [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
 - [viblo/pymunk](https://github.com/viblo/pymunk) - Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  you need 2d rigid body physics from Python
@@ -1084,7 +1086,6 @@
 - [rapidrabbit76/stable-diffusion-API](https://github.com/rapidrabbit76/stable-diffusion-API) - Unofficial Fastapi implementation of Stable-Diffusion API
 - [kiri-art/docker-compvis-stable-diffusion-api](https://github.com/kiri-art/docker-compvis-stable-diffusion-api) - CompVis Stable Diffusion in docker with a REST API
 - [vexingcodes/slack-stable-diffusion](https://github.com/vexingcodes/slack-stable-diffusion) - A Slack slash-command to generate images using Stable Diffusion
-- [Mikubill/naifu-diffusion](https://github.com/Mikubill/naifu-diffusion) - Train stable diffusion model with Diffusers and Pytorch Lightning
 - [patil-suraj/stable-diffusion-jax](https://github.com/patil-suraj/stable-diffusion-jax) - 
 - [DavidDworetzky/Fastcasso](https://github.com/DavidDworetzky/Fastcasso) - FastApi Implementation of Stable Diffusion Art Generation
 - [shyamsn97/stable-diffusion-server](https://github.com/shyamsn97/stable-diffusion-server) - Stable Diffusion colab server built with fastapi
