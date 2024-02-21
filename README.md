@@ -727,7 +727,6 @@
 - [Linaqruf/kohya-trainer](https://github.com/Linaqruf/kohya-trainer) - Adapted from https://note.com/kohya_ss/n/nbf7ce8d80f29 for easier cloning
 - [victorchall/EveryDream-trainer](https://github.com/victorchall/EveryDream-trainer) - General fine tuning for Stable Diffusion
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
-- [Mikubill/naifu-diffusion](https://github.com/Mikubill/naifu-diffusion) - Train stable diffusion model with Diffusers and Pytorch Lightning
 - [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
 - [arty4999/UnstableFusion](https://github.com/arty4999/UnstableFusion) - 
 - [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
@@ -1086,6 +1085,7 @@
 - [rapidrabbit76/stable-diffusion-API](https://github.com/rapidrabbit76/stable-diffusion-API) - Unofficial Fastapi implementation of Stable-Diffusion API
 - [kiri-art/docker-compvis-stable-diffusion-api](https://github.com/kiri-art/docker-compvis-stable-diffusion-api) - CompVis Stable Diffusion in docker with a REST API
 - [vexingcodes/slack-stable-diffusion](https://github.com/vexingcodes/slack-stable-diffusion) - A Slack slash-command to generate images using Stable Diffusion
+- [Mikubill/naifu-diffusion](https://github.com/Mikubill/naifu-diffusion) - Train generative models with pytorch lightning
 - [patil-suraj/stable-diffusion-jax](https://github.com/patil-suraj/stable-diffusion-jax) - 
 - [DavidDworetzky/Fastcasso](https://github.com/DavidDworetzky/Fastcasso) - FastApi Implementation of Stable Diffusion Art Generation
 - [shyamsn97/stable-diffusion-server](https://github.com/shyamsn97/stable-diffusion-server) - Stable Diffusion colab server built with fastapi
