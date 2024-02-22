@@ -149,6 +149,7 @@
 
 ## C++ 
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [google/nearby](https://github.com/google/nearby) - 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
 - [yaoyi30/ResNet_ncnn_android](https://github.com/yaoyi30/ResNet_ncnn_android) - This is an android app about monkey image classification
