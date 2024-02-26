@@ -176,7 +176,7 @@
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 - [HappySeaFox/qsseditor](https://github.com/HappySeaFox/qsseditor) - 🎨 Cross-platform application to edit and preview Qt style sheets (QSS).
 - [LSPosed/LSPlant](https://github.com/LSPosed/LSPlant) - A hook framework for Android Runtime (ART)
@@ -838,7 +838,7 @@
 - [roobscoob/among-us-protocol](https://github.com/roobscoob/among-us-protocol) - A writeup of the network protocol used in Among Us, a game by Innersloth.
 - [kovidomi/game-reversing](https://github.com/kovidomi/game-reversing) - Beginner learning materials on how to reverse engineer video games
 - [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - A repository for Skyline, Vita3K and Yuzu Android compatible Adreno drivers.
-- [catppuccin/termux](https://github.com/catppuccin/termux) - ⛄ Soothing pastel theme for Termux!
+- [catppuccin/termux](https://github.com/catppuccin/termux) - ⛄ Soothing pastel theme for Termux
 - [TyCaugher/SaltyViewer](https://github.com/TyCaugher/SaltyViewer) - An e621/booru viewer built on modern android ui
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
