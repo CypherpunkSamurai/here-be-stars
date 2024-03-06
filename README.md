@@ -929,6 +929,7 @@
 
 ## Python 
 
+- [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Building your own video generation model like OpenAI's Sora
 - [heiskane/Bookstore-Project](https://github.com/heiskane/Bookstore-Project) - 
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [ClaraLeigh/proxy-for-copilot](https://github.com/ClaraLeigh/proxy-for-copilot) - A quick, dirty hack to get GitHub Copilot Chat to use GPT4 using api keys
