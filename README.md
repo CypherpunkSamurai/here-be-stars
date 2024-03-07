@@ -1346,6 +1346,7 @@
 
 ## TypeScript 
 
+- [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore
 - [kevinanielsen/go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn) - A fast and easy-to-use CDN, built with Go.
 - [sinkaroid/lustpress](https://github.com/sinkaroid/lustpress) - RESTful and experimental API for PornHub and other porn sites
 - [kerwanp/notionx](https://github.com/kerwanp/notionx) - 
