@@ -751,7 +751,7 @@
 - [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
 - [UmairOye/AI-Art-Generator](https://github.com/UmairOye/AI-Art-Generator) - The AI Art Generator App is an Android application that leverages the Stable Diffusion API to create unique artworks based on user-provided prompts. It follows the MVVM architecture pattern and uses R
 - [Jokimax/OpenStableDiffusion](https://github.com/Jokimax/OpenStableDiffusion) - A simple android app for generating stable diffusion images using AI horde
-- [crowforkotlin/CopyMangaX](https://github.com/crowforkotlin/CopyMangaX) - 🚀拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发
+- [crowforkotlin/CopyMangaX](https://github.com/crowforkotlin/CopyMangaX) - 🚀拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发、Compose + 原生混合开发
 - [alexbezhan/Instagram-Clone-Kotlin](https://github.com/alexbezhan/Instagram-Clone-Kotlin) - Source code for Instagram app - Youtube video series for making Kotlin clone app
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
@@ -946,7 +946,6 @@
 - [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.
 - [alex9099/SimpleNearby](https://github.com/alex9099/SimpleNearby) - Reimplementation and documentation of Google's Nearby Share
 - [vsakkas/bard.py](https://github.com/vsakkas/bard.py) - Python Client for Bard, a Chat Based AI tool by Google.
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [mallorbc/Finetune_LLMs](https://github.com/mallorbc/Finetune_LLMs) - Repo for fine-tuning Casual LLMs
 - [hisrg/SNPE](https://github.com/hisrg/SNPE) - Snapdragon Neural Processing Engine (SNPE) SDKThe Snapdragon Neural Processing Engine (SNPE) is a Qualcomm Snapdragon software accelerated runtime for the execution of deep neural networks. With SNPE,
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
@@ -1355,6 +1354,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [EhTagTranslation/EhSyringe](https://github.com/EhTagTranslation/EhSyringe) - E 站注射器，将中文翻译注入到 E 站体内
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
 - [yacineMTB/talk](https://github.com/yacineMTB/talk) - Let's make sand talk
