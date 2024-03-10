@@ -572,7 +572,7 @@
 
 ## JavaScript 
 
-- [github-20k/awesome-opensource](https://github.com/github-20k/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
+- [gitroomhq/awesome-opensource](https://github.com/gitroomhq/awesome-opensource) - Best open-source GitHub libraries voted by members 🎤
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [Hashim-mansoor/Bookmark-Manager](https://github.com/Hashim-mansoor/Bookmark-Manager) - This is a modified and restored version of the extension 'Bookmark Manager' by Google.
 - [ShinoKana/multipleWindow3dScene](https://github.com/ShinoKana/multipleWindow3dScene) - based on bgstaal/multipleWindow3dScene
