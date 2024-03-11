@@ -500,7 +500,7 @@
 - [singwhatiwanna/dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) - DL : dynamic load framework in android
 - [BalazsAtWork/blog-polymorphism-with-gson](https://github.com/BalazsAtWork/blog-polymorphism-with-gson) - Gson and Object Hierarchies
 - [revanthstrakz/vx](https://github.com/revanthstrakz/vx) - 
-- [WindySha/Xpatch](https://github.com/WindySha/Xpatch) - 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
+- [WindySha/Xpatch](https://github.com/WindySha/Xpatch) - This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
 - [WindySha/xposed_module_loader](https://github.com/WindySha/xposed_module_loader) - This is a library that can load  installed xposed modules and load xposed modules by file path. And native libraries in the xposed module can also be loaded.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [airmessage/airmessage-connect-java](https://github.com/airmessage/airmessage-connect-java) - AirMessage's online Connect service
