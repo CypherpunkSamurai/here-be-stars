@@ -271,6 +271,7 @@
 
 ## Go 
 
+- [nakamauwu/nakama](https://github.com/nakamauwu/nakama) - The next social network for anime fans uwu
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [shahab14/gradle-resolver-redirector](https://github.com/shahab14/gradle-resolver-redirector) - Redirect gradle resolver requests
 - [laminy/gradle-cache-server](https://github.com/laminy/gradle-cache-server) - Golang Gradle cache server
@@ -1346,6 +1347,7 @@
 
 ## TypeScript 
 
+- [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore
 - [kevinanielsen/go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn) - A fast and easy-to-use CDN, built with Go.
 - [sinkaroid/lustpress](https://github.com/sinkaroid/lustpress) - RESTful and experimental API for PornHub and other porn sites
