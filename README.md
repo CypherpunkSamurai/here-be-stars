@@ -245,7 +245,6 @@
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [SongTube/SongTube-App](https://github.com/SongTube/SongTube-App) - Simple & Beautiful App (Tool) made in Flutter to Download Media from YouTube
-- [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
@@ -706,7 +705,6 @@
 - [PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt
 - [camenduru/gaussian-splatting-colab](https://github.com/camenduru/gaussian-splatting-colab) - 
 - [Anderson-ALGO/Anderson-ALGO.github.io](https://github.com/Anderson-ALGO/Anderson-ALGO.github.io) - FX-DASHBOARD
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [mobassir94/comprehensive-bangla-tts](https://github.com/mobassir94/comprehensive-bangla-tts) - Aiming to achieve ultimate Multilingual TTS pipeline with main focus on releasing COQUI🐸TTS(Text-to-Speech) based high performing neural voice cloning systems for Bangla for the first time, supporting
 - [atherfawaz/Quantum-Simulator](https://github.com/atherfawaz/Quantum-Simulator) - Colab-friendly implementation of a quantum computing simulator using only numpy
 - [someshkar/colabcat](https://github.com/someshkar/colabcat) - :smiley_cat: Running Hashcat on Google Colab with session backup and restore.
@@ -834,6 +832,7 @@
 - [Goxome/TikTokPatcher](https://github.com/Goxome/TikTokPatcher) - Apk Editor Pro Patch File for unblock TikTok from banned Countries.
 - [ClashSAN/stable-diffusion-android-cpu-steps](https://github.com/ClashSAN/stable-diffusion-android-cpu-steps) - memo
 - [jbro129/android-modding](https://github.com/jbro129/android-modding) - A large collection of github repositories related to android modding.
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [roobscoob/among-us-protocol](https://github.com/roobscoob/among-us-protocol) - A writeup of the network protocol used in Among Us, a game by Innersloth.
 - [kovidomi/game-reversing](https://github.com/kovidomi/game-reversing) - Beginner learning materials on how to reverse engineer video games
@@ -1347,6 +1346,7 @@
 
 ## TypeScript 
 
+- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore
 - [kevinanielsen/go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn) - A fast and easy-to-use CDN, built with Go.
