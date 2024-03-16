@@ -832,7 +832,6 @@
 - [Goxome/TikTokPatcher](https://github.com/Goxome/TikTokPatcher) - Apk Editor Pro Patch File for unblock TikTok from banned Countries.
 - [ClashSAN/stable-diffusion-android-cpu-steps](https://github.com/ClashSAN/stable-diffusion-android-cpu-steps) - memo
 - [jbro129/android-modding](https://github.com/jbro129/android-modding) - A large collection of github repositories related to android modding.
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [roobscoob/among-us-protocol](https://github.com/roobscoob/among-us-protocol) - A writeup of the network protocol used in Among Us, a game by Innersloth.
 - [kovidomi/game-reversing](https://github.com/kovidomi/game-reversing) - Beginner learning materials on how to reverse engineer video games
@@ -1290,6 +1289,7 @@
 
 - [CoolElectronics/crumpet](https://github.com/CoolElectronics/crumpet) - chromium os chroot environment for linux (crouton in reverse)
 - [tanyiok1234/waifu2x_srmd-ncnn-vulkan-termux-binary](https://github.com/tanyiok1234/waifu2x_srmd-ncnn-vulkan-termux-binary) - A prebuilt armv8 waifu2x/srmd-ncnn-vulkan binary for termux
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [Tempaccnt/Termux-alpaca](https://github.com/Tempaccnt/Termux-alpaca) - This is a simple shell script to install the alpaca llama 7B model on termux for Android phones. All credits goes to the original developers of alpaca.cpp and ggml-model-q4_1.bin.
 - [CodeNinja-sys/FEX-Emu-Termux](https://github.com/CodeNinja-sys/FEX-Emu-Termux) - A FEX-Emu + Wine on Termux!
 - [jurises99/Fex-on-termux](https://github.com/jurises99/Fex-on-termux) - 
