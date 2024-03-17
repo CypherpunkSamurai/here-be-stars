@@ -64,6 +64,7 @@
 
 ## Batchfile 
 
+- [dhlife09/QuickShare_forALL](https://github.com/dhlife09/QuickShare_forALL) - Edit the registry so that QuickShare for Samsung PCs can be activated on non-Samsung PCs. 삼성 PC용 퀵쉐어(Quick Share)를 삼성 외 PC에서도 활성화 가능하게 레지스트리를 편집합니다.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [FoxP/PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) - KISS batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution ICO files using ImageMagick.
 - [osm0sis/Android-Image-Kitchen](https://github.com/osm0sis/Android-Image-Kitchen) - Automated scripts to unpack/repack Android kernel/recovery images + ramdisks
@@ -920,7 +921,7 @@
 
 ## PowerShell 
 
-- [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper) - [Archived] Stops Adobe's pesky background apps and more 😉
+- [t4rra/CCStopper](https://github.com/t4rra/CCStopper) - [Archived] Stops Adobe's pesky background apps and more 😉
 
 ## Protocol Buffer 
 
@@ -1086,7 +1087,7 @@
 - [rapidrabbit76/stable-diffusion-API](https://github.com/rapidrabbit76/stable-diffusion-API) - Unofficial Fastapi implementation of Stable-Diffusion API
 - [kiri-art/docker-compvis-stable-diffusion-api](https://github.com/kiri-art/docker-compvis-stable-diffusion-api) - CompVis Stable Diffusion in docker with a REST API
 - [vexingcodes/slack-stable-diffusion](https://github.com/vexingcodes/slack-stable-diffusion) - A Slack slash-command to generate images using Stable Diffusion
-- [Mikubill/naifu-diffusion](https://github.com/Mikubill/naifu-diffusion) - Train generative models with pytorch lightning
+- [Mikubill/naifu](https://github.com/Mikubill/naifu) - Train generative models with pytorch lightning
 - [patil-suraj/stable-diffusion-jax](https://github.com/patil-suraj/stable-diffusion-jax) - 
 - [DavidDworetzky/Fastcasso](https://github.com/DavidDworetzky/Fastcasso) - FastApi Implementation of Stable Diffusion Art Generation
 - [shyamsn97/stable-diffusion-server](https://github.com/shyamsn97/stable-diffusion-server) - Stable Diffusion colab server built with fastapi
@@ -1240,6 +1241,7 @@
 
 ## Rust 
 
+- [bagel897/rustdrop](https://github.com/bagel897/rustdrop) - Rust implementation of google quickshare/nearby share
 - [octaltree/web-browser-lsp](https://github.com/octaltree/web-browser-lsp) - web browser as a language server
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
