@@ -79,7 +79,7 @@
 
 - [symisc/tiny-dream](https://github.com/symisc/tiny-dream) - Tiny Dream - An embedded, Header Only, Stable Diffusion C++ implementation
 - [fdchiu/SNPECam](https://github.com/fdchiu/SNPECam) - Qualcomm SNPE inference with a Android Camera Feed
-- [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, nearest, bilinear, bicubic, AVIR.
+- [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, Anime4kcpp, nearest, bilinear, bicubic, AVIR...
 - [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 - [wouterdevinck/clonos-poc-spotify](https://github.com/wouterdevinck/clonos-poc-spotify) - Spotify Connect integration proof-of-concept
 - [AndnixSH/Auto-Il2cppDumper](https://github.com/AndnixSH/Auto-Il2cppDumper) - Internal dumper for Unity3D libil2cpp.so
@@ -157,7 +157,7 @@
 - [EdVince/GPT2-ChineseChat-NCNN](https://github.com/EdVince/GPT2-ChineseChat-NCNN) - GPT2⚡NCNN⚡中文对话⚡x86⚡Android
 - [EdVince/CLIP-ImageSearch-NCNN](https://github.com/EdVince/CLIP-ImageSearch-NCNN) - CLIP⚡NCNN⚡基于自然语言的图片搜索(Image Search)⚡以字搜图⚡x86⚡Android
 - [weirdseed/Vits-Android-ncnn](https://github.com/weirdseed/Vits-Android-ncnn) - vits Android部署
-- [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, etc.
+- [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, LicheePi4A etc.
 - [nihui/ncnn-android-yolov5](https://github.com/nihui/ncnn-android-yolov5) - The YOLOv5 object detection android example
 - [daquexian/faster-rwkv](https://github.com/daquexian/faster-rwkv) - 
 - [axodox/axodox-machinelearning](https://github.com/axodox/axodox-machinelearning) - This repository contains a C++ ONNX implementation of StableDiffusion.
@@ -833,6 +833,7 @@
 - [Goxome/TikTokPatcher](https://github.com/Goxome/TikTokPatcher) - Apk Editor Pro Patch File for unblock TikTok from banned Countries.
 - [ClashSAN/stable-diffusion-android-cpu-steps](https://github.com/ClashSAN/stable-diffusion-android-cpu-steps) - memo
 - [jbro129/android-modding](https://github.com/jbro129/android-modding) - A large collection of github repositories related to android modding.
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [roobscoob/among-us-protocol](https://github.com/roobscoob/among-us-protocol) - A writeup of the network protocol used in Among Us, a game by Innersloth.
 - [kovidomi/game-reversing](https://github.com/kovidomi/game-reversing) - Beginner learning materials on how to reverse engineer video games
@@ -933,7 +934,7 @@
 - [heiskane/Bookstore-Project](https://github.com/heiskane/Bookstore-Project) - 
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [ClaraLeigh/proxy-for-copilot](https://github.com/ClaraLeigh/proxy-for-copilot) - A quick, dirty hack to get GitHub Copilot Chat to use GPT4 using api keys
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [DeuceAceTrey/CRAWLER_RT](https://github.com/DeuceAceTrey/CRAWLER_RT) - real time web url crawler
 - [m7medVision/M-API](https://github.com/m7medVision/M-API) - This is M-API that helps you to do some cool stuff.
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
@@ -1291,7 +1292,6 @@
 
 - [CoolElectronics/crumpet](https://github.com/CoolElectronics/crumpet) - chromium os chroot environment for linux (crouton in reverse)
 - [tanyiok1234/waifu2x_srmd-ncnn-vulkan-termux-binary](https://github.com/tanyiok1234/waifu2x_srmd-ncnn-vulkan-termux-binary) - A prebuilt armv8 waifu2x/srmd-ncnn-vulkan binary for termux
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [Tempaccnt/Termux-alpaca](https://github.com/Tempaccnt/Termux-alpaca) - This is a simple shell script to install the alpaca llama 7B model on termux for Android phones. All credits goes to the original developers of alpaca.cpp and ggml-model-q4_1.bin.
 - [CodeNinja-sys/FEX-Emu-Termux](https://github.com/CodeNinja-sys/FEX-Emu-Termux) - A FEX-Emu + Wine on Termux!
 - [jurises99/Fex-on-termux](https://github.com/jurises99/Fex-on-termux) - 
