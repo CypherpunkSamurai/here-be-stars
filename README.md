@@ -79,7 +79,6 @@
 
 - [symisc/tiny-dream](https://github.com/symisc/tiny-dream) - Tiny Dream - An embedded, Header Only, Stable Diffusion C++ implementation
 - [fdchiu/SNPECam](https://github.com/fdchiu/SNPECam) - Qualcomm SNPE inference with a Android Camera Feed
-- [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, Anime4kcpp, nearest, bilinear, bicubic, AVIR...
 - [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 - [wouterdevinck/clonos-poc-spotify](https://github.com/wouterdevinck/clonos-poc-spotify) - Spotify Connect integration proof-of-concept
 - [AndnixSH/Auto-Il2cppDumper](https://github.com/AndnixSH/Auto-Il2cppDumper) - Internal dumper for Unity3D libil2cpp.so
@@ -158,6 +157,7 @@
 - [EdVince/CLIP-ImageSearch-NCNN](https://github.com/EdVince/CLIP-ImageSearch-NCNN) - CLIP⚡NCNN⚡基于自然语言的图片搜索(Image Search)⚡以字搜图⚡x86⚡Android
 - [weirdseed/Vits-Android-ncnn](https://github.com/weirdseed/Vits-Android-ncnn) - vits Android部署
 - [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, LicheePi4A etc.
+- [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, Anime4kcpp, nearest, bilinear, bicubic, AVIR...
 - [nihui/ncnn-android-yolov5](https://github.com/nihui/ncnn-android-yolov5) - The YOLOv5 object detection android example
 - [daquexian/faster-rwkv](https://github.com/daquexian/faster-rwkv) - 
 - [axodox/axodox-machinelearning](https://github.com/axodox/axodox-machinelearning) - This repository contains a C++ ONNX implementation of StableDiffusion.
