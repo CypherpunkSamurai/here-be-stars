@@ -515,6 +515,7 @@
 - [ikws4/CodeEditor](https://github.com/ikws4/CodeEditor) - Code editor for android
 - [alimogh/JavaCompile](https://github.com/alimogh/JavaCompile) - Android平台的Java IDE
 - [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.
+- [Cosmic-Ide/Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) - A next-gen Ide for JVM development on Android
 - [omegaui/omegaide](https://github.com/omegaui/omegaide) - An Instant IDE from the Future that supports any programming language.
 - [Col-E/Bytecode-Modification-Framework](https://github.com/Col-E/Bytecode-Modification-Framework) - A bytecode modification library
 - [synnkfps/JByteCustom](https://github.com/synnkfps/JByteCustom) - project discontinued due to lack of performance, usage and some other development issues, rip JByteCustom.
@@ -779,7 +780,6 @@
 - [oianmol/DiscordJetpackCompose](https://github.com/oianmol/DiscordJetpackCompose) - A Jetpack compose clone for Discord Android Client
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 - [hamidrezasahraei/MusicAppComposeUI](https://github.com/hamidrezasahraei/MusicAppComposeUI) - A sample Music Player project that help you learn about Compose in Android. Note that this app only contain UI and has no logic. The design is inspired from this and this.
-- [Cosmic-Ide/Cosmic-IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) - A next-gen Ide for JVM development on Android
 - [markusressel/KodeEditor](https://github.com/markusressel/KodeEditor) - A simple code editor with syntax highlighting and pinch to zoom
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 - [yausername/dvd](https://github.com/yausername/dvd) - Download videos from anywhere
