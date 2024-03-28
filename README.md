@@ -82,6 +82,7 @@
 - [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 - [wouterdevinck/clonos-poc-spotify](https://github.com/wouterdevinck/clonos-poc-spotify) - Spotify Connect integration proof-of-concept
 - [AndnixSH/Auto-Il2cppDumper](https://github.com/AndnixSH/Auto-Il2cppDumper) - Internal dumper for Unity3D libil2cpp.so
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [paxo-phone/PaxOS-8](https://github.com/paxo-phone/PaxOS-8) - Code source du système d'exploitation du PaxoPhone
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [darvincisec/DetectFrida](https://github.com/darvincisec/DetectFrida) - Detect Frida for Android
@@ -467,7 +468,6 @@
 - [marwa-eltayeb/YoutubeDownloader](https://github.com/marwa-eltayeb/YoutubeDownloader) - Android App for searching for videos on Youtube by keywords using YouTube Data API and download videos from YouTube in different formats.
 - [KhunHtetzNaing/xGetter](https://github.com/KhunHtetzNaing/xGetter) - Android library for extract stream/download url from Google Drive,MegaUp,Google Photos,Mp4Upload,Facebook,Mediafire,Ok.Ru,VK,Twitter,Youtube,SolidFiles,Vidoza,UptoStream,SendVid,FanSubs,Uptobox,FEmbed
 - [TeamYouDown/YouDown](https://github.com/TeamYouDown/YouDown) - YouTube Audio/MP3 and Video Downloader Application - The first version of YouDown is live. Now you can use all premium features of YouTube for free and without ads. Make your own music and video libra
-- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
 - [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) - A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing sche
