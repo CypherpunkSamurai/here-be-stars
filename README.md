@@ -32,6 +32,7 @@
 - [MDX](#mdx)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
+- [Mojo](#mojo)
 - [Nim](#nim)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -814,6 +815,10 @@
 
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space
 
+## Mojo 
+
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+
 ## Nim 
 
 - [yglukhov/nim-only-uuid](https://github.com/yglukhov/nim-only-uuid) - Nim UUID generator - Nim source only library
@@ -833,7 +838,6 @@
 - [Goxome/TikTokPatcher](https://github.com/Goxome/TikTokPatcher) - Apk Editor Pro Patch File for unblock TikTok from banned Countries.
 - [ClashSAN/stable-diffusion-android-cpu-steps](https://github.com/ClashSAN/stable-diffusion-android-cpu-steps) - memo
 - [jbro129/android-modding](https://github.com/jbro129/android-modding) - A large collection of github repositories related to android modding.
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [roobscoob/among-us-protocol](https://github.com/roobscoob/among-us-protocol) - A writeup of the network protocol used in Among Us, a game by Innersloth.
 - [kovidomi/game-reversing](https://github.com/kovidomi/game-reversing) - Beginner learning materials on how to reverse engineer video games
@@ -1374,7 +1378,7 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [KeJunMao/edgegpt](https://github.com/KeJunMao/edgegpt) - The reverse engineering the chat feature of the new version of Bing.新必应聊天功能的逆向工程
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by the newest LLMs. Bundling AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art LLMs. Bundling AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers
 - [tuhinpal/bingchat-api](https://github.com/tuhinpal/bingchat-api) - Bing Chat unofficial API
 - [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
