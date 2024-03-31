@@ -702,6 +702,7 @@
 
 ## Jupyter Notebook 
 
+- [Locutusque/TPU-Alignment](https://github.com/Locutusque/TPU-Alignment) - Fully fine-tune large models like Mistral, Llama-2-13B, or Qwen-14B completely for free
 - [camenduru/MagicAnimate-colab](https://github.com/camenduru/MagicAnimate-colab) - 
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
 - [ypeleg/keras_rl_tutorial](https://github.com/ypeleg/keras_rl_tutorial) - 
@@ -934,6 +935,7 @@
 
 ## Python 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - 2-5X faster 70% less memory QLoRA & LoRA finetuning
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [heiskane/Bookstore-Project](https://github.com/heiskane/Bookstore-Project) - 
