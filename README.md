@@ -78,6 +78,7 @@
 
 ## C 
 
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [symisc/tiny-dream](https://github.com/symisc/tiny-dream) - Tiny Dream - An embedded, Header Only, Stable Diffusion C++ implementation
 - [fdchiu/SNPECam](https://github.com/fdchiu/SNPECam) - Qualcomm SNPE inference with a Android Camera Feed
 - [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
@@ -151,6 +152,7 @@
 
 ## C++ 
 
+- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -1250,6 +1252,7 @@
 
 ## Rust 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bagel897/rustdrop](https://github.com/bagel897/rustdrop) - Rust implementation of google quickshare/nearby share
 - [octaltree/web-browser-lsp](https://github.com/octaltree/web-browser-lsp) - web browser as a language server
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
