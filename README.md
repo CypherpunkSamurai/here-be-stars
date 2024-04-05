@@ -152,6 +152,7 @@
 
 ## C++ 
 
+- [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
@@ -249,6 +250,7 @@
 
 ## Dart 
 
+- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [SongTube/SongTube-App](https://github.com/SongTube/SongTube-App) - Simple & Beautiful App (Tool) made in Flutter to Download Media from YouTube
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
