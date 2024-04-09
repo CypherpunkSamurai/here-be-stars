@@ -126,6 +126,7 @@
 
 ## C# # 
 
+- [atom0s/Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 - [n00mkrad/text2image-gui](https://github.com/n00mkrad/text2image-gui) - Somewhat modular text2image GUI, initially just for Stable Diffusion
 - [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
 - [compujuckel/AssettoServer](https://github.com/compujuckel/AssettoServer) - Custom Assetto Corsa server with focus on freeroam
@@ -194,7 +195,7 @@
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [mrtazz/restclient-cpp](https://github.com/mrtazz/restclient-cpp) - C++ client for making HTTP/REST requests
 - [KooroshRZ/Windows-DLL-Injector](https://github.com/KooroshRZ/Windows-DLL-Injector) - Some DLL Injection techniques in C++ implemented for both x86 and x64 windows OS processes
-- [AYIDouble/Simple-DLL-Injection](https://github.com/AYIDouble/Simple-DLL-Injection) - 🔧 Simple DLL Injection into a Process with C++ 🔧
+- [IDouble/Simple-DLL-Injection](https://github.com/IDouble/Simple-DLL-Injection) - 🔧 Simple DLL Injection into a Process with C++ 🔧
 - [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft) - C++ program to capture and display all traffic between a client and a server in minecraft
 - [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
 - [hippyau/pb-cimgui](https://github.com/hippyau/pb-cimgui) - PureBasic interface to CImGui Wrapper
