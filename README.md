@@ -1153,7 +1153,7 @@
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [imb4dm4n/dexStudy](https://github.com/imb4dm4n/dexStudy) - 
 - [ebadawy/voice_conversion](https://github.com/ebadawy/voice_conversion) - 
-- [hxz393/BaiduPanFilesTransfers](https://github.com/hxz393/BaiduPanFilesTransfers) - 百度网盘批量转存工具
+- [hxz393/BaiduPanFilesTransfers](https://github.com/hxz393/BaiduPanFilesTransfers) - 百度网盘批量转存、分享和检测工具
 - [chihuan389/python_spider](https://github.com/chihuan389/python_spider) - 
 - [dmknght/xvideos-downloader](https://github.com/dmknght/xvideos-downloader) - simple script to download video from xvideos
 - [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other lan
@@ -1368,7 +1368,7 @@
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
+- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore
 - [kevinanielsen/go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn) - A fast and easy-to-use CDN, built with Go.
