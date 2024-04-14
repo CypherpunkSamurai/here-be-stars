@@ -284,6 +284,10 @@
 
 ## Go 
 
+- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
+- [webtor-io/torrent-store](https://github.com/webtor-io/torrent-store) - Temporary torrent storage with Redis backend and GRPC access
+- [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
+- [o-nix/golang-sample-torrent-client-from-scratch](https://github.com/o-nix/golang-sample-torrent-client-from-scratch) - 
 - [nakamauwu/nakama](https://github.com/nakamauwu/nakama) - The next social network for anime fans uwu
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [shahab14/gradle-resolver-redirector](https://github.com/shahab14/gradle-resolver-redirector) - Redirect gradle resolver requests
