@@ -866,7 +866,7 @@
 - [anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [togethercomputer/OpenDataHub](https://github.com/togethercomputer/OpenDataHub) - 
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
 - [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything) - General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX
 - [VV123/LLM-papers](https://github.com/VV123/LLM-papers) - LLM survey
 - [wangschang/chatgpt-resource](https://github.com/wangschang/chatgpt-resource) - openai notionai chatgpt 免费chatgpt资源整理  MidJourney关键词 prompt chatgpt代理配置
@@ -1394,7 +1394,7 @@
 - [kevinanielsen/go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn) - A fast and easy-to-use CDN, built with Go.
 - [sinkaroid/lustpress](https://github.com/sinkaroid/lustpress) - RESTful and experimental API for PornHub and other porn sites
 - [kerwanp/notionx](https://github.com/kerwanp/notionx) - 
-- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [EhTagTranslation/EhSyringe](https://github.com/EhTagTranslation/EhSyringe) - E 站注射器，将中文翻译注入到 E 站体内
