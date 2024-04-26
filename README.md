@@ -1341,6 +1341,7 @@
 
 ## Shell 
 
+- [wrenth04/download-scripts](https://github.com/wrenth04/download-scripts) - 
 - [CoolElectronics/crumpet](https://github.com/CoolElectronics/crumpet) - chromium os chroot environment for linux (crouton in reverse)
 - [tanyiok1234/waifu2x_srmd-ncnn-vulkan-termux-binary](https://github.com/tanyiok1234/waifu2x_srmd-ncnn-vulkan-termux-binary) - A prebuilt armv8 waifu2x/srmd-ncnn-vulkan binary for termux
 - [Tempaccnt/Termux-alpaca](https://github.com/Tempaccnt/Termux-alpaca) - This is a simple shell script to install the alpaca llama 7B model on termux for Android phones. All credits goes to the original developers of alpaca.cpp and ggml-model-q4_1.bin.
