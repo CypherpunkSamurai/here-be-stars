@@ -80,6 +80,7 @@
 
 ## C 
 
+- [SoftwareGuy/stealthChamp-qemu](https://github.com/SoftwareGuy/stealthChamp-qemu) - A modified version of QEMU with maximum stealth for those annoying VM-detecting rootkits
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [symisc/tiny-dream](https://github.com/symisc/tiny-dream) - Tiny Dream - An embedded, Header Only, Stable Diffusion C++ implementation
 - [fdchiu/SNPECam](https://github.com/fdchiu/SNPECam) - Qualcomm SNPE inference with a Android Camera Feed
@@ -291,6 +292,7 @@
 
 ## Go 
 
+- [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [webtor-io/torrent-store](https://github.com/webtor-io/torrent-store) - Temporary torrent storage with Redis backend and GRPC access
