@@ -599,7 +599,6 @@
 - [asLody/SandVXposed](https://github.com/asLody/SandVXposed) - Xposed environment without root (OS 5.0 - 10.0)
 - [Nakebenihime/oauth2-workshop](https://github.com/Nakebenihime/oauth2-workshop) - This repository contains a minimal springboot configuration in order to interact with the reddit API using the OAuth2 Authorization grant code flow.
 - [iGio90/FridaAndroidInjector](https://github.com/iGio90/FridaAndroidInjector) - Inject frida agents on local processes through an Android app
-- [CypherpunkSamurai/App-Testing-Werm](https://github.com/CypherpunkSamurai/App-Testing-Werm) - A testing app
 
 ## JavaScript 
 
@@ -707,8 +706,6 @@
 - [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [siyujie/OkHttpLogger-Frida](https://github.com/siyujie/OkHttpLogger-Frida) - Frida 实现拦截okhttp的脚本
-- [CypherpunkSamurai/node-red-heroku](https://github.com/CypherpunkSamurai/node-red-heroku) - Node-RED in Heroku. A visual tool for wiring the Internet of Things.
-- [CypherpunkSamurai/node-red-pg](https://github.com/CypherpunkSamurai/node-red-pg) - 
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 - [librariesio/justopensourced](https://github.com/librariesio/justopensourced) - :bird: Tweeting whenever a repo is open sourced on GitHub
 - [xinxin8816/heroku-ariang-21vianet](https://github.com/xinxin8816/heroku-ariang-21vianet) - 世纪互联版 Heroku-AriaNG。Heroku-AriaNG-21vianet.
@@ -717,7 +714,6 @@
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
 - [botgram/shell-bot](https://github.com/botgram/shell-bot) - :robot: Telegram bot that executes commands and sends the live output
 - [izumin5210/action-go-crossbuild](https://github.com/izumin5210/action-go-crossbuild) - Build Go applications for multiplatform on GitHub Actions
-- [CypherpunkSamurai/RandomPicTGBot](https://github.com/CypherpunkSamurai/RandomPicTGBot) - 
 - [BolverBlitz/RandomPicTGBot](https://github.com/BolverBlitz/RandomPicTGBot) - 
 - [ajaxorg/ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
 - [svr8/Desk](https://github.com/svr8/Desk) - Light-weight ide for competitive programming.
