@@ -80,6 +80,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [SoftwareGuy/stealthChamp-qemu](https://github.com/SoftwareGuy/stealthChamp-qemu) - A modified version of QEMU with maximum stealth for those annoying VM-detecting rootkits
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [symisc/tiny-dream](https://github.com/symisc/tiny-dream) - Tiny Dream - An embedded, Header Only, Stable Diffusion C++ implementation
@@ -691,7 +692,6 @@
 - [cloudflare/websocket-template](https://github.com/cloudflare/websocket-template) - Example template for working with the WebSocketPair API in Cloudflare Workers.
 - [AudiusProject/web3-provider-proxy](https://github.com/AudiusProject/web3-provider-proxy) - 🌍 Proxying and caching web3 requests with Cloudflare workers
 - [suconghou/u2worker](https://github.com/suconghou/u2worker) - cloudflare youtube proxy worker
-- [tuhinpal/amazon-scraper](https://github.com/tuhinpal/amazon-scraper) - Serverless Amazon India Scraper with search and product API, made with Cloudflare worker
 - [Wist9063/spotify-data](https://github.com/Wist9063/spotify-data) - Get your listening data directly from Spotify's API via vercel.
 - [jasonappah/google-sheet-to-json](https://github.com/jasonappah/google-sheet-to-json) - Use a Google Sheet as a read-only backend using Vercel's serverless functions.
 - [trentm/json](https://github.com/trentm/json) - A "json" command for massaging JSON on your Unix command line.
@@ -968,6 +968,7 @@
 
 ## Python 
 
+- [bot66/MNISTDiffusion](https://github.com/bot66/MNISTDiffusion) - Implement a MNIST(also minimal) version of denoising diffusion probabilistic model from scratch.The model only has 4.55MB.
 - [ikonikisop/Epic-Manifest-Downloader](https://github.com/ikonikisop/Epic-Manifest-Downloader) - Epic Manifest Downloader Made With PYQT6 & Legendary In Python.
 - [MinshuG/EpicManifestDownloader](https://github.com/MinshuG/EpicManifestDownloader) - 
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
@@ -1477,6 +1478,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [chame1eon/jnitrace](https://github.com/chame1eon/jnitrace) - A Frida based tool that traces usage of the JNI API in Android apps.
 - [A5rocks/slash-worker](https://github.com/A5rocks/slash-worker) - A Cloudflare Workers thing for your Discord Slash Commands.
+- [tuhinpal/amazon-api](https://github.com/tuhinpal/amazon-api) - Serverless Amazon Search and Product API, runs on Cloudflare worker. Supports multiple country's amazon version.
 - [tsndr/cloudflare-worker-router](https://github.com/tsndr/cloudflare-worker-router) - A super lightweight router (1.0K) with middleware support and ZERO dependencies for Cloudflare Workers.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [tgcallsjs/gram-tgcalls](https://github.com/tgcallsjs/gram-tgcalls) - https://tgcallsjs.github.io/gram-tgcalls/
