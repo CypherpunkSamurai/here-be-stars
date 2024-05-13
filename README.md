@@ -859,6 +859,7 @@
 
 ## Others 
 
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The most of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [kimocoder/qualcomm_android_monitor_mode](https://github.com/kimocoder/qualcomm_android_monitor_mode) - Qualcomm QCACLD WiFi monitor mode for Android
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
@@ -970,6 +971,7 @@
 
 ## Python 
 
+- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
 - [TeaPearce/Counter-Strike_Behavioural_Cloning](https://github.com/TeaPearce/Counter-Strike_Behavioural_Cloning) - IEEE CoG & NeurIPS workshop paper 'Counter-Strike Deathmatch with Large-Scale Behavioural Cloning'
 - [bot66/MNISTDiffusion](https://github.com/bot66/MNISTDiffusion) - Implement a MNIST(also minimal) version of denoising diffusion probabilistic model from scratch.The model only has 4.55MB.
 - [MinshuG/EpicManifestDownloader](https://github.com/MinshuG/EpicManifestDownloader) - 
