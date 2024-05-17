@@ -52,6 +52,7 @@
 - [Shell](#shell)
 - [Smali](#smali)
 - [Stylus](#stylus)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
@@ -137,7 +138,7 @@
 - [icsharpcode/AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
-- [MasterQ32/zig-opengl](https://github.com/MasterQ32/zig-opengl) - OpenGL binding generator based on the opengl registry
+- [ikskuh/zig-opengl](https://github.com/ikskuh/zig-opengl) - OpenGL binding generator based on the opengl registry
 - [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
 - [UlyssesWu/D2Evil](https://github.com/UlyssesWu/D2Evil) - Managed waifu model parsing libs.
 - [DenchiSoft/VTubeStudio](https://github.com/DenchiSoft/VTubeStudio) - VTube Studio API Development Page
@@ -603,6 +604,7 @@
 
 ## JavaScript 
 
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [dimdenGD/chrome-lens-ocr](https://github.com/dimdenGD/chrome-lens-ocr) - Library to use Google Lens OCR for free, via API used in Chromium.
 - [Zren/ResizeYoutubePlayerToWindowSize](https://github.com/Zren/ResizeYoutubePlayerToWindowSize) - Userscript: Moves the YouTube video to the top of the website and fill the window with the video player.
 - [phoenixlzx/mochimochi](https://github.com/phoenixlzx/mochimochi) - Simple Asset Management
@@ -1409,8 +1411,13 @@
 - [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus) - :cactus: A responsive, clean and simple theme for Hexo.
 - [Danktuary/vuepress-theme-yuu](https://github.com/Danktuary/vuepress-theme-yuu) - A VuePress 1.x theme that supports a dark theme, multiple color themes, and other useful features.
 
+## Svelte 
+
+- [zakkor/lluminous](https://github.com/zakkor/lluminous) - A fast, light, open chat UI with full tool use support
+
 ## TypeScript 
 
+- [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Popular AI / LLM Model Brand SVG Logo and Icon Collection.
 - [yoannchb-pro/google-img-scrap](https://github.com/yoannchb-pro/google-img-scrap) - Scrap images from google images with customs pre filled google dork options
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
@@ -1509,6 +1516,7 @@
 
 ## Vue 
 
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 - [aqualxx/stable-ui](https://github.com/aqualxx/stable-ui) - 🔥 A frontend for generating images with Stable Diffusion through Stable Horde
 - [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
 - [shcant/vuepress-theme-casper](https://github.com/shcant/vuepress-theme-casper) - Ghost default theme ported to vuepress
