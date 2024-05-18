@@ -81,6 +81,7 @@
 
 ## C 
 
+- [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [SoftwareGuy/stealthChamp-qemu](https://github.com/SoftwareGuy/stealthChamp-qemu) - A modified version of QEMU with maximum stealth for those annoying VM-detecting rootkits
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
@@ -131,6 +132,7 @@
 
 ## C# # 
 
+- [JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper) - Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。
 - [atom0s/Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 - [n00mkrad/text2image-gui](https://github.com/n00mkrad/text2image-gui) - Somewhat modular text2image GUI, initially just for Stable Diffusion
 - [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
@@ -294,6 +296,8 @@
 
 ## Go 
 
+- [winfsp/cgofuse](https://github.com/winfsp/cgofuse) - Cross-platform FUSE library for Go - Works on Windows, macOS, Linux, FreeBSD, NetBSD, OpenBSD
+- [px-org/PanIndex](https://github.com/px-org/PanIndex) - Network disk directory index / 网盘目录索引
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
@@ -772,6 +776,7 @@
 
 ## Kotlin 
 
+- [ammargitham/WallFlow](https://github.com/ammargitham/WallFlow) - Wallpaper app for Android using Jetpack Compose
 - [meromelo/Kontroller](https://github.com/meromelo/Kontroller) - Android Bluetooth HID Device sample by Kotlin
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
 - [axiel7/AniHyou-android](https://github.com/axiel7/AniHyou-android) - Another unofficial Android AniList client
@@ -974,6 +979,7 @@
 
 ## Python 
 
+- [libfuse/pyfuse3](https://github.com/libfuse/pyfuse3) - Python 3 bindings for libfuse 3 with asynchronous API (Trio compatible)
 - [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
 - [TeaPearce/Counter-Strike_Behavioural_Cloning](https://github.com/TeaPearce/Counter-Strike_Behavioural_Cloning) - IEEE CoG & NeurIPS workshop paper 'Counter-Strike Deathmatch with Large-Scale Behavioural Cloning'
 - [bot66/MNISTDiffusion](https://github.com/bot66/MNISTDiffusion) - Implement a MNIST(also minimal) version of denoising diffusion probabilistic model from scratch.The model only has 4.55MB.
@@ -1304,6 +1310,7 @@
 
 ## Rust 
 
+- [booiris/pikpakcli_rust](https://github.com/booiris/pikpakcli_rust) - 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bagel897/rustdrop](https://github.com/bagel897/rustdrop) - Rust implementation of google quickshare/nearby share
 - [octaltree/web-browser-lsp](https://github.com/octaltree/web-browser-lsp) - web browser as a language server
