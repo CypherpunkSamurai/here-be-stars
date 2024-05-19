@@ -1424,6 +1424,7 @@
 
 ## TypeScript 
 
+- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons) - 🥨 Lobe Icons - Popular AI / LLM Model Brand SVG Logo and Icon Collection.
 - [yoannchb-pro/google-img-scrap](https://github.com/yoannchb-pro/google-img-scrap) - Scrap images from google images with customs pre filled google dork options
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
