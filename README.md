@@ -160,6 +160,7 @@
 
 ## C++ 
 
+- [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.
 - [emoose/VideoRenderer](https://github.com/emoose/VideoRenderer) - RTX HDR modded into MPC-VideoRenderer.
 - [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
