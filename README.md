@@ -738,6 +738,7 @@
 
 ## Jupyter Notebook 
 
+- [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [Locutusque/TPU-Alignment](https://github.com/Locutusque/TPU-Alignment) - Fully fine-tune large models like Mistral, Llama-2-13B, or Qwen-14B completely for free
 - [camenduru/MagicAnimate-colab](https://github.com/camenduru/MagicAnimate-colab) - 
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
