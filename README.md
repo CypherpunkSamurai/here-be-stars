@@ -1425,7 +1425,7 @@
 
 ## Svelte 
 
-- [zakkor/lluminous](https://github.com/zakkor/lluminous) - A fast, light, open chat UI with full tool use support
+- [zakkor/lluminous](https://github.com/zakkor/lluminous) - A fast, light, open chat UI with full tool use support across many models
 
 ## TypeScript 
 
