@@ -379,7 +379,7 @@
 - [crosbymichael/share](https://github.com/crosbymichael/share) - just a playground for tty websockets
 - [aroz-online/WsTTY](https://github.com/aroz-online/WsTTY) - Websocket based terminal subservice for ArozOS
 - [kaorimatz/trapdoor](https://github.com/kaorimatz/trapdoor) - Connect to TTY applications from a web browser through WebSocket
-- [x3ro/websocket-tty](https://github.com/x3ro/websocket-tty) - Execute shell commands from your local browser via websockets
+- [x3ro/websocket-tty](https://github.com/x3ro/websocket-tty) - Execute shell commands from your local browser via websockets (terrible idea)
 - [felix/colour](https://github.com/felix/colour) - [mirror] Colourize outputs
 - [greensnark/httpaccept](https://github.com/greensnark/httpaccept) - Go HTTP listener that writes requests to tty
 - [guillermo/tty](https://github.com/guillermo/tty) - Go package that abstracts a pty and provides common functions to deal with the terminal
@@ -1003,7 +1003,7 @@
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [heiskane/Bookstore-Project](https://github.com/heiskane/Bookstore-Project) - 
