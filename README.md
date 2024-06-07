@@ -63,6 +63,7 @@
 
 ## Assembly 
 
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [francisconamvi/usb2esp](https://github.com/francisconamvi/usb2esp) - Library and examples of how to use USB Flash Drive Reader/Writer, by hobbytronics, with ESP32.
 - [msm8916-mainline/qhypstub](https://github.com/msm8916-mainline/qhypstub) - "hyp" firmware stub for Qualcomm MSM8916/MSM8939 that allows using EL2/KVM
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
@@ -299,6 +300,7 @@
 
 ## Go 
 
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [winfsp/cgofuse](https://github.com/winfsp/cgofuse) - Cross-platform FUSE library for Go - Works on Windows, macOS, Linux, FreeBSD, NetBSD, OpenBSD
 - [px-org/PanIndex](https://github.com/px-org/PanIndex) - Network disk directory index / 网盘目录索引
@@ -511,7 +513,6 @@
 - [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) - A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing sche
 - [Numinha/pabb](https://github.com/Numinha/pabb) - PABB - Por*graphic App Booru Based is a android app thats show booru and other sites like a tiktok, with donwloader various images, simple gui and tagged system. You can use this app for SFW searchs, 
-- [faldez/shachi](https://github.com/faldez/shachi) - Booru client for Android
 - [lukeaschenbrenner/TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - An app that lets you browse the web over SMS
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [tyron12233/CodeAssist](https://github.com/tyron12233/CodeAssist) - Experimental IDE for building Android applicatons on Android.
@@ -984,6 +985,8 @@
 
 ## Python 
 
+- [blaise-tk/RVC_CLI](https://github.com/blaise-tk/RVC_CLI) - RVC CLI enables seamless interaction with Retrieval-based Voice Conversion through commands or HTTP requests.
+- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [libfuse/pyfuse3](https://github.com/libfuse/pyfuse3) - Python 3 bindings for libfuse 3 with asynchronous API (Trio compatible)
 - [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
 - [TeaPearce/Counter-Strike_Behavioural_Cloning](https://github.com/TeaPearce/Counter-Strike_Behavioural_Cloning) - IEEE CoG & NeurIPS workshop paper 'Counter-Strike Deathmatch with Large-Scale Behavioural Cloning'
