@@ -986,7 +986,7 @@
 
 ## Python 
 
-- [evilsocket/zippo](https://github.com/evilsocket/zippo) - Use LLMs to perform custom tasks via bash commands.
+- [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [blaise-tk/RVC_CLI](https://github.com/blaise-tk/RVC_CLI) - RVC CLI enables seamless interaction with Retrieval-based Voice Conversion through commands or HTTP requests.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [libfuse/pyfuse3](https://github.com/libfuse/pyfuse3) - Python 3 bindings for libfuse 3 with asynchronous API (Trio compatible)
