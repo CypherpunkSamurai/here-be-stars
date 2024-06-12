@@ -967,6 +967,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [allscriptz/jiotv](https://github.com/allscriptz/jiotv) - jiotv token
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
@@ -978,6 +979,7 @@
 
 ## PowerShell 
 
+- [toksaitov/AndroidStudioPortable](https://github.com/toksaitov/AndroidStudioPortable) - Scripts to make Android Studio portable
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [t4rra/CCStopper](https://github.com/t4rra/CCStopper) - [Archived] Stops Adobe's pesky background apps and more 😉
 
