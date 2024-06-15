@@ -989,6 +989,7 @@
 
 ## Python 
 
+- [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [blaise-tk/RVC_CLI](https://github.com/blaise-tk/RVC_CLI) - RVC CLI enables seamless interaction with Retrieval-based Voice Conversion through commands or HTTP requests.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
@@ -1373,6 +1374,7 @@
 
 ## Shell 
 
+- [blyndusk/sm-prompt](https://github.com/blyndusk/sm-prompt) - ⛓ a Simplistic & Minimalist theme for Bash and Zsh prompts.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [wrenth04/download-scripts](https://github.com/wrenth04/download-scripts) - 
 - [velzie/crumpet](https://github.com/velzie/crumpet) - chromium os chroot environment for linux (crouton in reverse)
