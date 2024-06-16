@@ -891,7 +891,7 @@
 - [ClashSAN/stable-diffusion-android-cpu-steps](https://github.com/ClashSAN/stable-diffusion-android-cpu-steps) - memo
 - [jbro129/android-modding](https://github.com/jbro129/android-modding) - A large collection of github repositories related to android modding.
 - [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
-- [crowforkotlin/PasteMangaX](https://github.com/crowforkotlin/PasteMangaX) - 🚀拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发、Compose + 原生混合开发
+- [crowforkotlin/pastemangax](https://github.com/crowforkotlin/pastemangax) - 🚀拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发、Compose + 原生混合开发
 - [roobscoob/among-us-protocol](https://github.com/roobscoob/among-us-protocol) - A writeup of the network protocol used in Among Us, a game by Innersloth.
 - [kovidomi/game-reversing](https://github.com/kovidomi/game-reversing) - Beginner learning materials on how to reverse engineer video games
 - [K11MCH1/AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - A repository for Skyline, Vita3K and Yuzu Android compatible Adreno drivers.
@@ -989,6 +989,7 @@
 
 ## Python 
 
+- [sachinsenal0x64/hifi-tui](https://github.com/sachinsenal0x64/hifi-tui) - 🎵 🔋Privacy Focused Cross Platform Self Hostable Tidal Reverse Proxy / Tui + Batteries Included
 - [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [blaise-tk/RVC_CLI](https://github.com/blaise-tk/RVC_CLI) - RVC CLI enables seamless interaction with Retrieval-based Voice Conversion through commands or HTTP requests.
