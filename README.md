@@ -312,6 +312,7 @@
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [o-nix/golang-sample-torrent-client-from-scratch](https://github.com/o-nix/golang-sample-torrent-client-from-scratch) - 
 - [nakamauwu/nakama](https://github.com/nakamauwu/nakama) - The next social network for anime fans uwu
+- [kevinanielsen/go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn) - A fast and easy-to-use CDN, built with Go.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [shahab14/gradle-resolver-redirector](https://github.com/shahab14/gradle-resolver-redirector) - Redirect gradle resolver requests
 - [laminy/gradle-cache-server](https://github.com/laminy/gradle-cache-server) - Golang Gradle cache server
@@ -712,7 +713,6 @@
 - [rooklift/lc0_mitm](https://github.com/rooklift/lc0_mitm) - 
 - [royzhao/learn4meIDE](https://github.com/royzhao/learn4meIDE) - 
 - [niklasbuschmann/contrast](https://github.com/niklasbuschmann/contrast) - Jekyll Theme
-- [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [janczizikow/sleek](https://github.com/janczizikow/sleek) - :chart_with_upwards_trend: Sleek is a modern Jekyll theme focused on speed performance & SEO best practices
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -993,7 +993,7 @@
 - [sachinsenal0x64/hifi-tui](https://github.com/sachinsenal0x64/hifi-tui) - 🎵 🔋Privacy Focused Cross Platform Self Hostable Tidal Reverse Proxy / Tui + Batteries Included
 - [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
-- [blaise-tk/RVC_CLI](https://github.com/blaise-tk/RVC_CLI) - RVC CLI enables seamless interaction with Retrieval-based Voice Conversion through commands or HTTP requests.
+- [blaisewf/RVC_CLI](https://github.com/blaisewf/RVC_CLI) - RVC CLI enables seamless interaction with Retrieval-based Voice Conversion through commands or HTTP requests.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [libfuse/pyfuse3](https://github.com/libfuse/pyfuse3) - Python 3 bindings for libfuse 3 with asynchronous API (Trio compatible)
 - [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
@@ -1458,7 +1458,6 @@
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore
-- [kevinanielsen/go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn) - A fast and easy-to-use CDN, built with Go.
 - [sinkaroid/lustpress](https://github.com/sinkaroid/lustpress) - RESTful and experimental API for PornHub and other porn sites
 - [kerwanp/notionx](https://github.com/kerwanp/notionx) - 
 - [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
@@ -1522,6 +1521,7 @@
 - [tsndr/cloudflare-worker-router](https://github.com/tsndr/cloudflare-worker-router) - A super lightweight router (1.0K) with middleware support and ZERO dependencies for Cloudflare Workers.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [tgcallsjs/gram-tgcalls](https://github.com/tgcallsjs/gram-tgcalls) - https://tgcallsjs.github.io/gram-tgcalls/
+- [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
