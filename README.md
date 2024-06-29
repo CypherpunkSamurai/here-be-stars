@@ -105,7 +105,7 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
-- [radareorg/radare2-book](https://github.com/radareorg/radare2-book) - Radare2 official book
+- [radareorg/radare2-book](https://github.com/radareorg/radare2-book) - The Official Radare2 Book
 - [Ximerixx/freezer](https://github.com/Ximerixx/freezer) - 
 - [simple2d/simple2d](https://github.com/simple2d/simple2d) - :video_game: Simple, open-source 2D graphics for everyone
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
