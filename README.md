@@ -1329,6 +1329,7 @@
 
 ## Rust 
 
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [booiris/pikpakcli_rust](https://github.com/booiris/pikpakcli_rust) - 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bagel897/rustdrop](https://github.com/bagel897/rustdrop) - Rust implementation of google quickshare/nearby share
