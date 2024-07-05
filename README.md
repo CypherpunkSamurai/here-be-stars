@@ -84,7 +84,7 @@
 ## C 
 
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [SoftwareGuy/stealthChamp-qemu](https://github.com/SoftwareGuy/stealthChamp-qemu) - A modified version of QEMU with maximum stealth for those annoying VM-detecting rootkits
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [symisc/tiny-dream](https://github.com/symisc/tiny-dream) - Tiny Dream - An embedded, Header Only, Stable Diffusion C++ implementation
@@ -659,7 +659,7 @@
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [Heath123/pakkit](https://github.com/Heath123/pakkit) - 
 - [aD4wn/Workers-Proxy](https://github.com/aD4wn/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ebenezerdon/nextjs-mdx-blog](https://github.com/ebenezerdon/nextjs-mdx-blog) - A Next.js and MDX blog
 - [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
 - [ikeq/hexo-theme-inside](https://github.com/ikeq/hexo-theme-inside) - 🌈  SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside
