@@ -301,6 +301,7 @@
 
 ## Go 
 
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
@@ -992,6 +993,7 @@
 
 ## Python 
 
+- [mesquidar/adbsploit](https://github.com/mesquidar/adbsploit) - A python based tool for exploiting and managing Android devices via ADB
 - [sachinsenal0x64/hifi-tui](https://github.com/sachinsenal0x64/hifi-tui) - 🎵 🔋Privacy Focused Cross Platform Self Hostable Tidal Reverse Proxy / Tui + Batteries Included
 - [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
@@ -1329,6 +1331,7 @@
 
 ## Rust 
 
+- [evilsocket/llama3-cake](https://github.com/evilsocket/llama3-cake) - Distributed LLama3 inference.
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [booiris/pikpakcli_rust](https://github.com/booiris/pikpakcli_rust) - 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
