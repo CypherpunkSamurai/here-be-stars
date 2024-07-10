@@ -993,6 +993,7 @@
 
 ## Python 
 
+- [the-crypt-keeper/tldw](https://github.com/the-crypt-keeper/tldw) - Too Long, Didn't Watch: End-to-End Rolling Summarizer of Long Videos
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [mesquidar/adbsploit](https://github.com/mesquidar/adbsploit) - A python based tool for exploiting and managing Android devices via ADB
 - [sachinsenal0x64/hifi-tui](https://github.com/sachinsenal0x64/hifi-tui) - 🎵 🔋Privacy Focused Cross Platform Self Hostable Tidal Reverse Proxy / Tui + Batteries Included
