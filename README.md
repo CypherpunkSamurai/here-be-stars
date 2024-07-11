@@ -904,7 +904,7 @@
 - [anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [togethercomputer/OpenDataHub](https://github.com/togethercomputer/OpenDataHub) - 
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything) - General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX
 - [VV123/LLM-papers](https://github.com/VV123/LLM-papers) - LLM survey
 - [wangschang/chatgpt-resource](https://github.com/wangschang/chatgpt-resource) - openai notionai chatgpt 免费chatgpt资源整理  MidJourney关键词 prompt chatgpt代理配置
@@ -1333,7 +1333,6 @@
 
 ## Rust 
 
-- [evilsocket/llama3-cake](https://github.com/evilsocket/llama3-cake) - Distributed LLama3 inference.
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [booiris/pikpakcli_rust](https://github.com/booiris/pikpakcli_rust) - 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
