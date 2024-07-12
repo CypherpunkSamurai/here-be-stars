@@ -36,6 +36,7 @@
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Mojo](#mojo)
+- [NSIS](#nsis)
 - [Nim](#nim)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -301,6 +302,7 @@
 
 ## Go 
 
+- [AnishDe12020/spintron](https://github.com/AnishDe12020/spintron) - Extensible Go terminal spinner with advanced functions with 82 built-in spinners
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -867,6 +869,10 @@
 ## Mojo 
 
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+
+## NSIS 
+
+- [daemondevin/DiscordPortable](https://github.com/daemondevin/DiscordPortable) - The popular Discord App packaged as a portable application (PAF).
 
 ## Nim 
 
