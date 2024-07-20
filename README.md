@@ -621,6 +621,7 @@
 
 ## JavaScript 
 
+- [MangoLion/bgbye](https://github.com/MangoLion/bgbye) - FOSS Image background remover with 10 open source rmbg models
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [dimdenGD/chrome-lens-ocr](https://github.com/dimdenGD/chrome-lens-ocr) - Library to use Google Lens OCR for free, via API used in Chromium.
 - [Zren/ResizeYoutubePlayerToWindowSize](https://github.com/Zren/ResizeYoutubePlayerToWindowSize) - Userscript: Moves the YouTube video to the top of the website and fill the window with the video player.
@@ -999,6 +1000,7 @@
 
 ## Python 
 
+- [john-mnz/ComfyUI-Inspyrenet-Rembg](https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg) - ComfyUI node for background removal, implementing InSPyreNet the best method up to date
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
