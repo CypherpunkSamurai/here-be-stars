@@ -1421,7 +1421,7 @@
 - [Apon77Lab/aosp-builder](https://github.com/Apon77Lab/aosp-builder) - Build aosp project in docker with Ubuntu 20.04 via ci environments (by @Apon77)
 - [Apon77/aosp-builder](https://github.com/Apon77/aosp-builder) - Build aosp project in docker with Ubuntu 20.04 via ci environments (by @Apon77)
 - [Chatur27/aosp-builder-8_cores](https://github.com/Chatur27/aosp-builder-8_cores) - Build ROMs in docker with Ubuntu 20.04 via ci environments. This was originally written by @Apon77. I have rewritten it. I have been able to build vanilla version of Sakura arm64 !
-- [beerpiss/sh0wer](https://github.com/beerpiss/sh0wer) - yet another distribution for jailbreaking A7-A11 iOS devices with checkra1n
+- [beer-psi/sh0wer](https://github.com/beer-psi/sh0wer) - yet another distribution for jailbreaking A7-A11 iOS devices with checkra1n
 - [puppylinux-woof-CE/woof-CE](https://github.com/puppylinux-woof-CE/woof-CE) - woof - the Puppy builder
 - [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
 - [green-green-avk/build-proot-android](https://github.com/green-green-avk/build-proot-android) - PRoot build scripts (and prebuilt binaries) for Android.
