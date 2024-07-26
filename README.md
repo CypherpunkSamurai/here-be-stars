@@ -1054,7 +1054,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [mallorbc/Finetune_LLMs](https://github.com/mallorbc/Finetune_LLMs) - Repo for fine-tuning Casual LLMs
 - [hisrg/SNPE](https://github.com/hisrg/SNPE) - Snapdragon Neural Processing Engine (SNPE) SDKThe Snapdragon Neural Processing Engine (SNPE) is a Qualcomm Snapdragon software accelerated runtime for the execution of deep neural networks. With SNPE,
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [blueaxis/Poricom](https://github.com/blueaxis/Poricom) - Optical character recognition in manga images. Manga OCR desktop application
 - [kha-white/manga-ocr](https://github.com/kha-white/manga-ocr) - Optical character recognition for Japanese text, with the main focus being Japanese manga
