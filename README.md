@@ -98,7 +98,7 @@
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [darvincisec/DetectFrida](https://github.com/darvincisec/DetectFrida) - Detect Frida for Android
 - [MrPurple666/skyline](https://github.com/MrPurple666/skyline) - Run Nintendo Switch homebrew & games on your Android device!
-- [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plugin for WhatsApp Web.
+- [hoehermann/purple-gowhatsapp](https://github.com/hoehermann/purple-gowhatsapp) - Pidgin/libpurple plug-in for WhatsApp Web.
 - [msm8916-mainline/linux](https://github.com/msm8916-mainline/linux) - Linux mainline kernel fork for various Qualcomm MSM8909/MSM8916/MSM8939 devices
 - [msm8916-mainline/lk2nd](https://github.com/msm8916-mainline/lk2nd) - Custom bootloader for Qualcomm MSM8916/MSM8226/MSM8974/... devices
 - [HandsomeMod/HandsomeMod](https://github.com/HandsomeMod/HandsomeMod) - IOT freedom for end users!
@@ -276,7 +276,6 @@
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-- [h4h13/Paisa](https://github.com/h4h13/Paisa) - Expense manager for Android with Material Design
 - [moffatman/chan](https://github.com/moffatman/chan) - Flutter imageboard browser for iOS and Android
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -1146,7 +1145,7 @@
 - [SillyTavern/SillyTavern-Extras](https://github.com/SillyTavern/SillyTavern-Extras) - Extensions API for SillyTavern.
 - [lucidrains/gigagan-pytorch](https://github.com/lucidrains/gigagan-pytorch) - Implementation of GigaGAN, new SOTA GAN out of Adobe. Culmination of nearly a decade of research into GANs
 - [ssbuild/chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning) - chatglm 6b finetuning and alpaca finetuning
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
