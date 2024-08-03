@@ -1003,6 +1003,7 @@
 
 ## Python 
 
+- [SecMeyo/WorkshopManager](https://github.com/SecMeyo/WorkshopManager) - CLI tool to install and update Steam Workshop mods
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 - [pipiku915/FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading) - FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design
 - [john-mnz/ComfyUI-Inspyrenet-Rembg](https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg) - ComfyUI node for background removal, implementing InSPyreNet the best method up to date
