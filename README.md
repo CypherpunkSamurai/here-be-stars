@@ -1121,7 +1121,6 @@
 - [leehanchung/lora-instruct](https://github.com/leehanchung/lora-instruct) - Finetune Falcon, LLaMA, MPT, and RedPajama on consumer hardware using PEFT LoRA
 - [Barbariskaa/Biba](https://github.com/Barbariskaa/Biba) - 
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
-- [chavinlo/deepfloyd-api](https://github.com/chavinlo/deepfloyd-api) - Simple but scalable API for IF by Deepfloyd
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
