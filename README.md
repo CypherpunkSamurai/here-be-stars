@@ -20,7 +20,6 @@
 - [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
-- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
 - [Java](#java)
@@ -377,6 +376,7 @@
 - [mixcode/https_capture](https://github.com/mixcode/https_capture) - A tiny utility to capture and save HTTP(s) communications to files
 - [micvbang/pocketmine-rcon](https://github.com/micvbang/pocketmine-rcon) - Very simple, synchronous minecraft and minecraft pocket edition (pocketmine, minecraft PE) RCON client
 - [t3rm1n4l/go-mega](https://github.com/t3rm1n4l/go-mega) - A client library in go for mega.co.nz storage service
+- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -451,6 +451,7 @@
 
 ## HTML 
 
+- [comfyanonymous/ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 - [Meldiron/almost-reddit-place](https://github.com/Meldiron/almost-reddit-place) - r/place canvas clone made with Appwrite, Alpine.js and TailwindCSS
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [kha-white/mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text.
@@ -487,10 +488,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [fsfw-dresden/usb-live-linux](https://github.com/fsfw-dresden/usb-live-linux) - USB-Stick-Live-Softwareumgebung für Lernende und Lehrende jeden Alters: Schulstick, Unistick, Makerstick, Rentnerstick..
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
-
-## Handlebars 
-
-- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 
 ## Haskell 
 
