@@ -66,7 +66,7 @@
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [francisconamvi/usb2esp](https://github.com/francisconamvi/usb2esp) - Library and examples of how to use USB Flash Drive Reader/Writer, by hobbytronics, with ESP32.
 - [msm8916-mainline/qhypstub](https://github.com/msm8916-mainline/qhypstub) - "hyp" firmware stub for Qualcomm MSM8916/MSM8939 that allows using EL2/KVM
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
 
 ## Batchfile 
 
@@ -1110,7 +1110,7 @@
 - [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten) - Enlighten Progress Bar for Python Console Apps
 - [ken-nakanishi/qupy](https://github.com/ken-nakanishi/qupy) - QuPy: Quantum circuit simulator for both CPU and GPU
 - [unitaryfund/pyqrack](https://github.com/unitaryfund/pyqrack) - Pure Python bindings for the pure C++11/OpenCL Qrack quantum computer simulator library
-- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [kachayev/fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
 - [ading2210/openplayground-api](https://github.com/ading2210/openplayground-api) - A reverse engineered Python API wrapper for OpenPlayground (nat.dev)
