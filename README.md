@@ -514,7 +514,7 @@
 - [KhunHtetzNaing/xGetter](https://github.com/KhunHtetzNaing/xGetter) - Android library for extract stream/download url from Google Drive,MegaUp,Google Photos,Mp4Upload,Facebook,Mediafire,Ok.Ru,VK,Twitter,Youtube,SolidFiles,Vidoza,UptoStream,SendVid,FanSubs,Uptobox,FEmbed
 - [TeamYouDown/YouDown](https://github.com/TeamYouDown/YouDown) - YouTube Audio/MP3 and Video Downloader Application - The first version of YouDown is live. Now you can use all premium features of YouTube for free and without ads. Make your own music and video libra
 - [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
-- [KitsunedFox/termux-monet](https://github.com/KitsunedFox/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
+- [Termux-Monet/termux-monet](https://github.com/Termux-Monet/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) - A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing sche
 - [Numinha/pabb](https://github.com/Numinha/pabb) - PABB - Por*graphic App Booru Based is a android app thats show booru and other sites like a tiktok, with donwloader various images, simple gui and tagged system. You can use this app for SFW searchs, 
 - [lukeaschenbrenner/TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - An app that lets you browse the web over SMS
