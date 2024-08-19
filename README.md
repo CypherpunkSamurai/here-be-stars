@@ -1565,7 +1565,7 @@
 
 ## Vue 
 
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux..
 - [aqualxx/stable-ui](https://github.com/aqualxx/stable-ui) - 🔥 A frontend for generating images with Stable Diffusion through Stable Horde
 - [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
 - [shcant/vuepress-theme-casper](https://github.com/shcant/vuepress-theme-casper) - Ghost default theme ported to vuepress
