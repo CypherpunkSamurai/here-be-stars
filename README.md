@@ -301,6 +301,7 @@
 
 ## Go 
 
+- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [AnishDe12020/spintron](https://github.com/AnishDe12020/spintron) - Extensible Go terminal spinner with advanced functions with 82 built-in spinners
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
@@ -499,6 +500,7 @@
 
 ## Java 
 
+- [song9446/Dawn](https://github.com/song9446/Dawn) - DPI evader for Android
 - [LaurieWired/BadUnboxing](https://github.com/LaurieWired/BadUnboxing) - Automated Android custom unpacker generator
 - [balthazar/react-native-zeroconf](https://github.com/balthazar/react-native-zeroconf) - :satellite: Discover Zeroconf services using react-native
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -791,6 +793,7 @@
 
 ## Kotlin 
 
+- [Jungwoon/ToyShark](https://github.com/Jungwoon/ToyShark) - Packet Analyzer for Android
 - [ammargitham/WallFlow](https://github.com/ammargitham/WallFlow) - Wallpaper app for Android using Jetpack Compose
 - [meromelo/Kontroller](https://github.com/meromelo/Kontroller) - Android Bluetooth HID Device sample by Kotlin
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
