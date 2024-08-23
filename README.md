@@ -1003,6 +1003,7 @@
 
 ## Python 
 
+- [masterking32/ProxyFinder](https://github.com/masterking32/ProxyFinder) - Find HTTP, HTTP, Socks proxies from IP ranges. (Proxy list generator)
 - [SecMeyo/WorkshopManager](https://github.com/SecMeyo/WorkshopManager) - CLI tool to install and update Steam Workshop mods
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 - [pipiku915/FinMem-LLM-StockTrading](https://github.com/pipiku915/FinMem-LLM-StockTrading) - FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design
