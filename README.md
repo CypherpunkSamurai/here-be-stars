@@ -75,7 +75,6 @@
 - [FoxP/PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) - KISS batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution ICO files using ImageMagick.
 - [osm0sis/Android-Image-Kitchen](https://github.com/osm0sis/Android-Image-Kitchen) - Automated scripts to unpack/repack Android kernel/recovery images + ramdisks
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
-- [NewHappy1024/Docs](https://github.com/NewHappy1024/Docs) - 一些文本
 - [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Adobe Deloater
 - [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
 - [Elenedeath/AIK-Windows-mirror](https://github.com/Elenedeath/AIK-Windows-mirror) - 
@@ -301,6 +300,7 @@
 
 ## Go 
 
+- [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [AnishDe12020/spintron](https://github.com/AnishDe12020/spintron) - Extensible Go terminal spinner with advanced functions with 82 built-in spinners
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
@@ -850,6 +850,7 @@
 
 ## Lua 
 
+- [trisulnsm/ja3prints](https://github.com/trisulnsm/ja3prints) - JA3 TLS Fingerprint database
 - [ac-custom-shaders-patch/acc-extension-config](https://github.com/ac-custom-shaders-patch/acc-extension-config) - Configuration files for Assetto Corsa Custom Shaders Patch
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
@@ -1429,6 +1430,7 @@
 - [beer-psi/sh0wer](https://github.com/beer-psi/sh0wer) - yet another distribution for jailbreaking A7-A11 iOS devices with checkra1n
 - [puppylinux-woof-CE/woof-CE](https://github.com/puppylinux-woof-CE/woof-CE) - woof - the Puppy builder
 - [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - (Yes, the project is still alive 😃) This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
+- [NewHappy1024/Docs](https://github.com/NewHappy1024/Docs) - 一些文本
 - [green-green-avk/build-proot-android](https://github.com/green-green-avk/build-proot-android) - PRoot build scripts (and prebuilt binaries) for Android.
 - [CypherpunkArmory/UserLAnd-Assets-Support](https://github.com/CypherpunkArmory/UserLAnd-Assets-Support) - Repository for building and holding the core assets of UserLAnd
 - [fanzheming/Blog](https://github.com/fanzheming/Blog) - :bear:基于vuepress、vuepress-theme-reco、vssue、travis-ci 搭建的静态博客
