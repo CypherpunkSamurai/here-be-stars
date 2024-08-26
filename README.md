@@ -300,6 +300,7 @@
 
 ## Go 
 
+- [gospider007/fp](https://github.com/gospider007/fp) - 🚀obtain the client's ja3 fingerprint, http2 fingerprint, and ja4 fingerprint
 - [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [hashicorp/go-cleanhttp](https://github.com/hashicorp/go-cleanhttp) - 
