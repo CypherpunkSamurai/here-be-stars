@@ -1295,7 +1295,6 @@
 - [rainbowpigeon/sublime-text-4-patcher](https://github.com/rainbowpigeon/sublime-text-4-patcher) - Python 3 patcher for Sublime Text v4107-4180 Windows x64
 - [python-geeks/Automation-scripts](https://github.com/python-geeks/Automation-scripts) - Repo for creating awesome automation scripts to make my panda lazier
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [SuperCV/Book](https://github.com/SuperCV/Book) - :green_book:我的个人书籍学习和收藏
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [alilleybrinker/langs-in-rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration.
 - [hyeonsangjeon/youtube-dl-nas](https://github.com/hyeonsangjeon/youtube-dl-nas) - youtube download queue websocket server with login for private NAS.
