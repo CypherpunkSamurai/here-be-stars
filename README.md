@@ -70,6 +70,7 @@
 
 ## Batchfile 
 
+- [reksar/vsget](https://github.com/reksar/vsget) - Portable MS Visual C++, MS Build, Windows SDK
 - [dhlife09/QuickShare_forALL](https://github.com/dhlife09/QuickShare_forALL) - Edit the registry so that QuickShare/Samsung Ntoes for Samsung PCs can be activated on non-Samsung PCs. 삼성 PC용 퀵쉐어(Quick Share)와 삼성노트(Samsung Notes)를 삼성 외 PC에서도 활성화 가능하게 레지스트리를 편집합니다.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [FoxP/PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) - KISS batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution ICO files using ImageMagick.
@@ -82,6 +83,9 @@
 
 ## C 
 
+- [google/android-emulator-hypervisor-driver](https://github.com/google/android-emulator-hypervisor-driver) - 
+- [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
+- [0x7a657573/zroxy](https://github.com/0x7a657573/zroxy) - Transparent TLS sni proxy ( sniproxy ) written with pure C.
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [SoftwareGuy/stealthChamp-qemu](https://github.com/SoftwareGuy/stealthChamp-qemu) - A modified version of QEMU with maximum stealth for those annoying VM-detecting rootkits
@@ -355,7 +359,7 @@
 - [msquee/go-websockify](https://github.com/msquee/go-websockify) - Pure Go implementation of novnc/websockify TCP to WebSocket proxy with improved connection handling. Runs on Linux, Windows and MacOS.
 - [miladj/websockify-go](https://github.com/miladj/websockify-go) - websockify implementation in golang
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple yet powerful CI/CD engine with great extensibility.
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [forewing/csgo-rcon](https://github.com/forewing/csgo-rcon) - Golang package for CS:GO RCON Protocol client. Also support other games using the protocol (Source Engine games, Minecraft, etc.)
 - [Narasimha1997/tor-proxy](https://github.com/Narasimha1997/tor-proxy) - An experimental Tor-Proxy serivce written in Go using Go-proxy and Go-libtor.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
@@ -895,6 +899,7 @@
 
 ## Others 
 
+- [containers/podman-machine-wsl-os](https://github.com/containers/podman-machine-wsl-os) - WSL OS Images for Podman Machine 5.x - based on Fedora
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -1009,6 +1014,8 @@
 
 ## Python 
 
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [masterking32/ProxyFinder](https://github.com/masterking32/ProxyFinder) - Find HTTP, HTTP, Socks proxies from IP ranges. (Proxy list generator)
 - [SecMeyo/WorkshopManager](https://github.com/SecMeyo/WorkshopManager) - CLI tool to install and update Steam Workshop mods
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
@@ -1355,6 +1362,7 @@
 
 ## Rust 
 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [booiris/pikpakcli_rust](https://github.com/booiris/pikpakcli_rust) - 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -1473,6 +1481,7 @@
 
 ## TypeScript 
 
+- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client
