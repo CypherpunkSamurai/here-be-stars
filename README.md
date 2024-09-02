@@ -630,6 +630,7 @@
 
 ## JavaScript 
 
+- [ipenywis/express-passport-sso](https://github.com/ipenywis/express-passport-sso) - Expressjs API with Google Single Sign On and JWT using Passportjs with full authentication working with React application
 - [dataarts/armsglobe](https://github.com/dataarts/armsglobe) - Arms Globe Visualization
 - [MangoLion/bgbye](https://github.com/MangoLion/bgbye) - FOSS Image background remover with 10 open source rmbg models
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -1414,6 +1415,7 @@
 
 ## Shell 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [blyndusk/sm-prompt](https://github.com/blyndusk/sm-prompt) - ⛓ a Simplistic & Minimalist theme for Bash and Zsh prompts.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [wrenth04/download-scripts](https://github.com/wrenth04/download-scripts) - 
