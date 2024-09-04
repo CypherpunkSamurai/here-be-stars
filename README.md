@@ -83,6 +83,7 @@
 
 ## C 
 
+- [wolfeidau/esp32-hid-joystick](https://github.com/wolfeidau/esp32-hid-joystick) - 
 - [google/android-emulator-hypervisor-driver](https://github.com/google/android-emulator-hypervisor-driver) - 
 - [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
 - [0x7a657573/zroxy](https://github.com/0x7a657573/zroxy) - Transparent TLS sni proxy ( sniproxy ) written with pure C.
@@ -167,7 +168,11 @@
 
 ## C++ 
 
+- [lemmingDev/ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad) - Bluetooth LE Gamepad library for the ESP32
+- [Peluko/BLERetro32](https://github.com/Peluko/BLERetro32) - ESP32 Bluetooth LE HID host for gamepad.
+- [wolfshow/gamepad](https://github.com/wolfshow/gamepad) - USB-HID gamepad based on Arduino Joystick Library
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [emoose/VideoRenderer](https://github.com/emoose/VideoRenderer) - RTX HDR modded into MPC-VideoRenderer.
 - [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
@@ -304,6 +309,7 @@
 
 ## Go 
 
+- [71/stadiacontroller](https://github.com/71/stadiacontroller) - Command line application that emulates an Xbox 360 controller from a wired Stadia controller on Windows.
 - [gospider007/fp](https://github.com/gospider007/fp) - 🚀obtain the client's ja3 fingerprint, http2 fingerprint, and ja4 fingerprint
 - [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
@@ -510,6 +516,8 @@
 
 ## Java 
 
+- [domi1294/BluetoothHidDemo](https://github.com/domi1294/BluetoothHidDemo) - Small demo for connecting your android device as a keyboard
+- [controlwear/virtual-joystick-android](https://github.com/controlwear/virtual-joystick-android) - This library provides a very simple and ready-to-use custom view which emulates a joystick for Android.
 - [song9446/Dawn](https://github.com/song9446/Dawn) - DPI evader for Android
 - [LaurieWired/BadUnboxing](https://github.com/LaurieWired/BadUnboxing) - Automated Android custom unpacker generator
 - [balthazar/react-native-zeroconf](https://github.com/balthazar/react-native-zeroconf) - :satellite: Discover Zeroconf services using react-native
@@ -634,7 +642,6 @@
 - [dataarts/armsglobe](https://github.com/dataarts/armsglobe) - Arms Globe Visualization
 - [MangoLion/bgbye](https://github.com/MangoLion/bgbye) - FOSS Image background remover with 10 open source rmbg models
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [dimdenGD/chrome-lens-ocr](https://github.com/dimdenGD/chrome-lens-ocr) - Library to use Google Lens OCR for free, via API used in Chromium.
 - [Zren/ResizeYoutubePlayerToWindowSize](https://github.com/Zren/ResizeYoutubePlayerToWindowSize) - Userscript: Moves the YouTube video to the top of the website and fill the window with the video player.
 - [phoenixlzx/mochimochi](https://github.com/phoenixlzx/mochimochi) - Simple Asset Management
@@ -900,6 +907,8 @@
 
 ## Others 
 
+- [DJm00n/ControllersInfo](https://github.com/DJm00n/ControllersInfo) - This repo contains info on various game controlles. HID Descriptor dumps etc
+- [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 - [containers/podman-machine-wsl-os](https://github.com/containers/podman-machine-wsl-os) - WSL OS Images for Podman Machine 5.x - based on Fedora
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
@@ -1015,6 +1024,9 @@
 
 ## Python 
 
+- [007durgesh219/BTGamepad](https://github.com/007durgesh219/BTGamepad) - Emulate Bluetooth HID (Keyboard, Gamepad, ...) From linux BlueZ
+- [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
+- [TemryL/ComfyUI-IDM-VTON](https://github.com/TemryL/ComfyUI-IDM-VTON) - ComfyUI adaptation of IDM-VTON for virtual try-on.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [masterking32/ProxyFinder](https://github.com/masterking32/ProxyFinder) - Find HTTP, HTTP, Socks proxies from IP ranges. (Proxy list generator)
