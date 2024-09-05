@@ -83,6 +83,9 @@
 
 ## C 
 
+- [libui-ng/libui-ng](https://github.com/libui-ng/libui-ng) - libui-ng: a portable GUI library for C. "libui for the next generation"
+- [nefarius/ViGEmClient](https://github.com/nefarius/ViGEmClient) - ViGEm Client SDK for feeder development.
+- [h2zero/NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino) - A fork of the NimBLE library structured for compilation with Arduino, for use with ESP32, nRF5x.
 - [wolfeidau/esp32-hid-joystick](https://github.com/wolfeidau/esp32-hid-joystick) - 
 - [google/android-emulator-hypervisor-driver](https://github.com/google/android-emulator-hypervisor-driver) - 
 - [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
@@ -138,6 +141,8 @@
 
 ## C# # 
 
+- [nefarius/ViGEm.NET](https://github.com/nefarius/ViGEm.NET) - .NET bindings for the ViGEmClient library.
+- [csutorasa/XOutput](https://github.com/csutorasa/XOutput) - DirectInput to XInput wrapper
 - [duducorvao/EmptyStandbyListTimer](https://github.com/duducorvao/EmptyStandbyListTimer) - This is a simple application that allow users to choose a time interval which the EmptyStandbyList.exe process will execute.
 - [pointfeev/CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selec
 - [JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper) - Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。
@@ -309,6 +314,9 @@
 
 ## Go 
 
+- [lmittmann/tint](https://github.com/lmittmann/tint) - 🌈 slog.Handler that writes tinted (colorized) logs
+- [mattn/go-colorable](https://github.com/mattn/go-colorable) - 
+- [openstadia/go-vigem](https://github.com/openstadia/go-vigem) - Go bindings for the ViGEmClient library.
 - [71/stadiacontroller](https://github.com/71/stadiacontroller) - Command line application that emulates an Xbox 360 controller from a wired Stadia controller on Windows.
 - [gospider007/fp](https://github.com/gospider007/fp) - 🚀obtain the client's ja3 fingerprint, http2 fingerprint, and ja4 fingerprint
 - [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
@@ -907,6 +915,7 @@
 
 ## Others 
 
+- [denji/golang-tls](https://github.com/denji/golang-tls) - Simple Golang HTTPS/TLS Examples
 - [DJm00n/ControllersInfo](https://github.com/DJm00n/ControllersInfo) - This repo contains info on various game controlles. HID Descriptor dumps etc
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 - [containers/podman-machine-wsl-os](https://github.com/containers/podman-machine-wsl-os) - WSL OS Images for Podman Machine 5.x - based on Fedora
@@ -1024,6 +1033,7 @@
 
 ## Python 
 
+- [RoMeLaUCLA/pygamepad](https://github.com/RoMeLaUCLA/pygamepad) - Python based gamepad for controlling robots
 - [007durgesh219/BTGamepad](https://github.com/007durgesh219/BTGamepad) - Emulate Bluetooth HID (Keyboard, Gamepad, ...) From linux BlueZ
 - [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
 - [TemryL/ComfyUI-IDM-VTON](https://github.com/TemryL/ComfyUI-IDM-VTON) - ComfyUI adaptation of IDM-VTON for virtual try-on.
