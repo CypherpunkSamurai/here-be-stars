@@ -70,6 +70,7 @@
 
 ## Batchfile 
 
+- [daboynb/windows_scripts](https://github.com/daboynb/windows_scripts) - some scripts for windows
 - [reksar/vsget](https://github.com/reksar/vsget) - Portable MS Visual C++, MS Build, Windows SDK
 - [dhlife09/QuickShare_forALL](https://github.com/dhlife09/QuickShare_forALL) - Edit the registry so that QuickShare/Samsung Ntoes for Samsung PCs can be activated on non-Samsung PCs. 삼성 PC용 퀵쉐어(Quick Share)와 삼성노트(Samsung Notes)를 삼성 외 PC에서도 활성화 가능하게 레지스트리를 편집합니다.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
@@ -141,6 +142,7 @@
 
 ## C# # 
 
+- [Snoothy/UCR](https://github.com/Snoothy/UCR) - Universal Control Remapper [Alpha]
 - [nefarius/ViGEm.NET](https://github.com/nefarius/ViGEm.NET) - .NET bindings for the ViGEmClient library.
 - [csutorasa/XOutput](https://github.com/csutorasa/XOutput) - DirectInput to XInput wrapper
 - [duducorvao/EmptyStandbyListTimer](https://github.com/duducorvao/EmptyStandbyListTimer) - This is a simple application that allow users to choose a time interval which the EmptyStandbyList.exe process will execute.
@@ -646,6 +648,8 @@
 
 ## JavaScript 
 
+- [bobboteck/JoyStick](https://github.com/bobboteck/JoyStick) - A simple JoyStick that use HTML5, Canvas and Vanilla JavaScript, for touch and mouse interfaces (no JQuery required), preview at:
+- [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [ipenywis/express-passport-sso](https://github.com/ipenywis/express-passport-sso) - Expressjs API with Google Single Sign On and JWT using Passportjs with full authentication working with React application
 - [dataarts/armsglobe](https://github.com/dataarts/armsglobe) - Arms Globe Visualization
 - [MangoLion/bgbye](https://github.com/MangoLion/bgbye) - FOSS Image background remover with 10 open source rmbg models
@@ -818,6 +822,11 @@
 
 ## Kotlin 
 
+- [kitswas/VirtualGamePad-Mobile](https://github.com/kitswas/VirtualGamePad-Mobile) - Android App for Virtual Gamepad.
+- [abaire/android_joymouse](https://github.com/abaire/android_joymouse) - An Android AccessibilityService to provide a mouse-like experience using a joystick.
+- [shripal17/DPadView](https://github.com/shripal17/DPadView) - A simple, yet highly customisable DPadView for Android.
+- [whitescent/Engine](https://github.com/whitescent/Engine) - Mapping your phone as a virtual joystick
+- [manalkaff/JetStick](https://github.com/manalkaff/JetStick) - Jetpack Compose Virtual Joystick For Android
 - [Jungwoon/ToyShark](https://github.com/Jungwoon/ToyShark) - Packet Analyzer for Android
 - [ammargitham/WallFlow](https://github.com/ammargitham/WallFlow) - Wallpaper app for Android using Jetpack Compose
 - [meromelo/Kontroller](https://github.com/meromelo/Kontroller) - Android Bluetooth HID Device sample by Kotlin
@@ -1033,6 +1042,8 @@
 
 ## Python 
 
+- [RoyalCities/RC-stable-audio-tools](https://github.com/RoyalCities/RC-stable-audio-tools) - Generative models for conditional audio generation
+- [Heerkog/MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
 - [RoMeLaUCLA/pygamepad](https://github.com/RoMeLaUCLA/pygamepad) - Python based gamepad for controlling robots
 - [007durgesh219/BTGamepad](https://github.com/007durgesh219/BTGamepad) - Emulate Bluetooth HID (Keyboard, Gamepad, ...) From linux BlueZ
 - [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
@@ -1505,6 +1516,7 @@
 
 ## TypeScript 
 
+- [endel/pixi-virtual-joystick](https://github.com/endel/pixi-virtual-joystick) - 🕹 Virtual Touch Joystick for pixi.js
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
