@@ -316,6 +316,7 @@
 
 ## Go 
 
+- [pion/example-webrtc-applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries
 - [lmittmann/tint](https://github.com/lmittmann/tint) - 🌈 slog.Handler that writes tinted (colorized) logs
 - [mattn/go-colorable](https://github.com/mattn/go-colorable) - 
 - [openstadia/go-vigem](https://github.com/openstadia/go-vigem) - Go bindings for the ViGEmClient library.
@@ -1516,6 +1517,7 @@
 
 ## TypeScript 
 
+- [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
 - [endel/pixi-virtual-joystick](https://github.com/endel/pixi-virtual-joystick) - 🕹 Virtual Touch Joystick for pixi.js
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
