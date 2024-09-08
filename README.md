@@ -73,7 +73,7 @@
 - [daboynb/windows_scripts](https://github.com/daboynb/windows_scripts) - some scripts for windows
 - [reksar/vsget](https://github.com/reksar/vsget) - Portable MS Visual C++, MS Build, Windows SDK
 - [dhlife09/QuickShare_forALL](https://github.com/dhlife09/QuickShare_forALL) - Edit the registry so that QuickShare/Samsung Ntoes for Samsung PCs can be activated on non-Samsung PCs. 삼성 PC용 퀵쉐어(Quick Share)와 삼성노트(Samsung Notes)를 삼성 외 PC에서도 활성화 가능하게 레지스트리를 편집합니다.
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [FoxP/PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) - KISS batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution ICO files using ImageMagick.
 - [osm0sis/Android-Image-Kitchen](https://github.com/osm0sis/Android-Image-Kitchen) - Automated scripts to unpack/repack Android kernel/recovery images + ramdisks
 - [pal1000/save-legacy-intel-graphics](https://github.com/pal1000/save-legacy-intel-graphics) - A collection of fixes and driver addons to get OpenGL, OpenCL and Quicksync video working with old (before Ivy Bridge and Bay Trail) Intel GPU on Windows 10
