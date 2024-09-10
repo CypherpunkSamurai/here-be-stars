@@ -831,7 +831,7 @@
 - [Jungwoon/ToyShark](https://github.com/Jungwoon/ToyShark) - Packet Analyzer for Android
 - [ammargitham/WallFlow](https://github.com/ammargitham/WallFlow) - Wallpaper app for Android using Jetpack Compose
 - [meromelo/Kontroller](https://github.com/meromelo/Kontroller) - Android Bluetooth HID Device sample by Kotlin
-- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
+- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [axiel7/AniHyou-android](https://github.com/axiel7/AniHyou-android) - Another unofficial Android AniList client
 - [Chesire/Nekome](https://github.com/Chesire/Nekome) - Nekome is an Android application to manage tracked Anime and Manga lists.
 - [akshay2211/BubbleTabBar](https://github.com/akshay2211/BubbleTabBar) - BubbleTabBar is a bottom navigation bar with customizable bubble-like tabs
@@ -1062,7 +1062,7 @@
 - [the-crypt-keeper/tldw](https://github.com/the-crypt-keeper/tldw) - Too Long, Didn't Watch: End-to-End Rolling Summarizer of Long Videos
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [mesquidar/adbsploit](https://github.com/mesquidar/adbsploit) - A python based tool for exploiting and managing Android devices via ADB
-- [sachinsenal0x64/hifi-tui](https://github.com/sachinsenal0x64/hifi-tui) - 🎵 🔋Privacy Focused Cross Platform Self Hostable Tidal Reverse Proxy / Tui + Batteries Included
+- [sachinsenal0x64/hifi-tui](https://github.com/sachinsenal0x64/hifi-tui) - 🎵   Privacy-focused, cross-platform, self-hostable Tidal instance.
 - [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [blaisewf/rvc-cli](https://github.com/blaisewf/rvc-cli) - 🚀 RVC + UVR = A perfect set of tools for voice cloning, easily and free!
@@ -1368,7 +1368,7 @@
 - [Quansight/.github](https://github.com/Quansight/.github) - Common GitHub community health files for Quansight
 - [AlfredoSequeida/fvid](https://github.com/AlfredoSequeida/fvid) - fvid is a project that aims to encode any file as a video using 1-bit color images to survive compression algorithms for data retrieval.
 - [TheApeMachine/cloudtube](https://github.com/TheApeMachine/cloudtube) - Using YouTube as an arbitrary Cloud storage for files.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
