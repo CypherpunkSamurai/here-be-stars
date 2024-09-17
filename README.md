@@ -555,7 +555,7 @@
 - [zytedata/zyte-smartproxy-clients](https://github.com/zytedata/zyte-smartproxy-clients) - HTTPS clients for Smart Proxy Manager
 - [mandiant/Ghidrathon](https://github.com/mandiant/Ghidrathon) - The FLARE team's open-source extension to add Python 3 scripting to Ghidra.
 - [anujd64/Thunder](https://github.com/anujd64/Thunder) - An Android app to stream and download your media stored in Google Drive in an Awesome way !!
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [SkyTubeTeam/SkyTube](https://github.com/SkyTubeTeam/SkyTube) - Copylefted libre / open source YouTube player for Android
 - [twoyi/twoyi](https://github.com/twoyi/twoyi) - A lightweight Android container on Android
