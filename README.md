@@ -84,6 +84,7 @@
 
 ## C 
 
+- [Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro) - Retro games for Reinforcement Learning
 - [libui-ng/libui-ng](https://github.com/libui-ng/libui-ng) - libui-ng: a portable GUI library for C. "libui for the next generation"
 - [nefarius/ViGEmClient](https://github.com/nefarius/ViGEmClient) - ViGEm Client SDK for feeder development.
 - [h2zero/NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino) - A fork of the NimBLE library structured for compilation with Arduino, for use with ESP32, nRF5x.
@@ -776,6 +777,7 @@
 
 ## Jupyter Notebook 
 
+- [w-okada/beatrice-trainer-colab](https://github.com/w-okada/beatrice-trainer-colab) - 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [Locutusque/TPU-Alignment](https://github.com/Locutusque/TPU-Alignment) - Fully fine-tune large models like Mistral, Llama-2-13B, or Qwen-14B completely for free
