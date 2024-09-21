@@ -317,6 +317,7 @@
 
 ## Go 
 
+- [hamidrabedi/tradingview-realtime](https://github.com/hamidrabedi/tradingview-realtime) - TradingView RealTime Tracker is a extension of https://github.com/marcos-gonalons/tradingview-scraper, adding an HTTP server and advanced management with maps and scheduling to ensure continuous, real
 - [pion/example-webrtc-applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries
 - [lmittmann/tint](https://github.com/lmittmann/tint) - 🌈 slog.Handler that writes tinted (colorized) logs
 - [mattn/go-colorable](https://github.com/mattn/go-colorable) - 
@@ -1044,6 +1045,7 @@
 
 ## Python 
 
+- [vsjha18/nsetools](https://github.com/vsjha18/nsetools) - Realtime Data From National Stock Exchange (India)
 - [dleemiller/WordLlama](https://github.com/dleemiller/WordLlama) - Things you can do with the token embeddings of an LLM
 - [RoyalCities/RC-stable-audio-tools](https://github.com/RoyalCities/RC-stable-audio-tools) - Generative models for conditional audio generation
 - [Heerkog/MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
