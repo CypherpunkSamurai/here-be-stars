@@ -449,7 +449,6 @@
 - [brianmoran/mockify](https://github.com/brianmoran/mockify) - Easy, configurable API mocking you can change on-the-fly
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [devlights/gitpod-gui-example](https://github.com/devlights/gitpod-gui-example) - This is a example that is shown the Gui application in Gitpod. (using gitpod-full-vnc docker file)
-- [crgimenes/term](https://github.com/crgimenes/term) - 90's VGA terminal emulator
 - [rjm521/Rose](https://github.com/rjm521/Rose) - This is a back-end program for an online code runner, implemented in Go.
 - [tomatod/wsnc](https://github.com/tomatod/wsnc) - WebSocket CLI (like NetCat) written by Golang
 - [willbarkoff/airport](https://github.com/willbarkoff/airport) - 🛫 A simple program for redirecting stdout and stdin to the network.
