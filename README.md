@@ -493,7 +493,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [learnlatex/learnlatex.github.io](https://github.com/learnlatex/learnlatex.github.io) - Learn LaTeX online
 - [wsztrush/wsztrush.github.io](https://github.com/wsztrush/wsztrush.github.io) - 
-- [wadezhan/wadezhan.github.io](https://github.com/wadezhan/wadezhan.github.io) - 编码记录
+- [billfeller/billfeller.github.io](https://github.com/billfeller/billfeller.github.io) - 编码记录
 - [HangZhouCat/ReaverAPKTools](https://github.com/HangZhouCat/ReaverAPKTools) - 逆向APK工具
 - [WSG88/ak47](https://github.com/WSG88/ak47) - 
 - [MrGreensWorkshop/MrGreen-JekyllTheme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme) - Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.
@@ -777,6 +777,7 @@
 
 ## Jupyter Notebook 
 
+- [ylacombe/musicgen-dreamboothing](https://github.com/ylacombe/musicgen-dreamboothing) - Fine-tune your own MusicGen with LoRA
 - [w-okada/beatrice-trainer-colab](https://github.com/w-okada/beatrice-trainer-colab) - 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
@@ -824,6 +825,7 @@
 
 ## Kotlin 
 
+- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [kitswas/VirtualGamePad-Mobile](https://github.com/kitswas/VirtualGamePad-Mobile) - Android App for Virtual Gamepad.
 - [abaire/android_joymouse](https://github.com/abaire/android_joymouse) - An Android AccessibilityService to provide a mouse-like experience using a joystick.
 - [shripal17/DPadView](https://github.com/shripal17/DPadView) - A simple, yet highly customisable DPadView for Android.
@@ -1044,6 +1046,8 @@
 
 ## Python 
 
+- [Exploited7/outlook-account-creator](https://github.com/Exploited7/outlook-account-creator) - Outlook account Creator / Generator, Requests Based.
+- [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
 - [vsjha18/nsetools](https://github.com/vsjha18/nsetools) - Realtime Data From National Stock Exchange (India)
 - [dleemiller/WordLlama](https://github.com/dleemiller/WordLlama) - Things you can do with the token embeddings of an LLM
 - [RoyalCities/RC-stable-audio-tools](https://github.com/RoyalCities/RC-stable-audio-tools) - Generative models for conditional audio generation
@@ -1400,6 +1404,7 @@
 
 ## Rust 
 
+- [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
