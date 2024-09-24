@@ -84,6 +84,7 @@
 
 ## C 
 
+- [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above
 - [Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro) - Retro games for Reinforcement Learning
 - [libui-ng/libui-ng](https://github.com/libui-ng/libui-ng) - libui-ng: a portable GUI library for C. "libui for the next generation"
 - [nefarius/ViGEmClient](https://github.com/nefarius/ViGEmClient) - ViGEm Client SDK for feeder development.
@@ -480,6 +481,7 @@
 
 ## HTML 
 
+- [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [comfyanonymous/ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 - [Meldiron/almost-reddit-place](https://github.com/Meldiron/almost-reddit-place) - r/place canvas clone made with Appwrite, Alpine.js and TailwindCSS
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
@@ -967,7 +969,7 @@
 - [jobobby04/TachiyomiSYPreview](https://github.com/jobobby04/TachiyomiSYPreview) - A download host for TachiyomiSY Preview builds
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [gayolGate/gayolGate](https://github.com/gayolGate/gayolGate) - Information about my GitHub profile
-- [Jihadist/qt-stylesheets](https://github.com/Jihadist/qt-stylesheets) - Qt stylesheets (QSS) or QStyle ideas
+- [xakod/qt-stylesheets](https://github.com/xakod/qt-stylesheets) - Qt stylesheets (QSS) or QStyle ideas
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [Delcos/Hentai-Diffusion](https://github.com/Delcos/Hentai-Diffusion) - The official place for the best A.I.
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
