@@ -84,6 +84,7 @@
 
 ## C 
 
+- [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
 - [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above
 - [Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro) - Retro games for Reinforcement Learning
 - [libui-ng/libui-ng](https://github.com/libui-ng/libui-ng) - libui-ng: a portable GUI library for C. "libui for the next generation"
