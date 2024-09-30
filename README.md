@@ -178,6 +178,7 @@
 
 ## C++ 
 
+- [quic/wos-ai-plugins](https://github.com/quic/wos-ai-plugins) - 
 - [lemmingDev/ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad) - Bluetooth LE Gamepad library for the ESP32
 - [Peluko/BLERetro32](https://github.com/Peluko/BLERetro32) - ESP32 Bluetooth LE HID host for gamepad.
 - [wolfshow/gamepad](https://github.com/wolfshow/gamepad) - USB-HID gamepad based on Arduino Joystick Library
@@ -482,6 +483,7 @@
 
 ## HTML 
 
+- [budcribar/QualcommNPU](https://github.com/budcribar/QualcommNPU) - 
 - [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [comfyanonymous/ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 - [Meldiron/almost-reddit-place](https://github.com/Meldiron/almost-reddit-place) - r/place canvas clone made with Appwrite, Alpine.js and TailwindCSS
@@ -652,6 +654,7 @@
 
 ## JavaScript 
 
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [bobboteck/JoyStick](https://github.com/bobboteck/JoyStick) - A simple JoyStick that use HTML5, Canvas and Vanilla JavaScript, for touch and mouse interfaces (no JQuery required), preview at:
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [ipenywis/express-passport-sso](https://github.com/ipenywis/express-passport-sso) - Expressjs API with Google Single Sign On and JWT using Passportjs with full authentication working with React application
@@ -708,7 +711,6 @@
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
 - [iGio90/GDumper](https://github.com/iGio90/GDumper) - SC packet dumper and proto parser + encryption
 - [Arashvscode/Vs-code-Mobile](https://github.com/Arashvscode/Vs-code-Mobile) - This is a public project, not all files are uploaded simply because of developer privacy
-- [arandintday/js_backup](https://github.com/arandintday/js_backup) - 
 - [chylex/Userscripts](https://github.com/chylex/Userscripts) - A collection of small userscripts I made because websites suck.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
 - [apkunpacker/dumper](https://github.com/apkunpacker/dumper) - Dump L3 CDM from any Android device
