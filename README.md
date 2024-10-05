@@ -784,6 +784,7 @@
 
 - [ylacombe/musicgen-dreamboothing](https://github.com/ylacombe/musicgen-dreamboothing) - Fine-tune your own MusicGen with LoRA
 - [w-okada/beatrice-trainer-colab](https://github.com/w-okada/beatrice-trainer-colab) - 
+- [dleemiller/WordLlama](https://github.com/dleemiller/WordLlama) - Things you can do with the token embeddings of an LLM
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [Locutusque/TPU-Alignment](https://github.com/Locutusque/TPU-Alignment) - Fully fine-tune large models like Mistral, Llama-2-13B, or Qwen-14B completely for free
@@ -1054,7 +1055,6 @@
 - [Exploited7/outlook-account-creator](https://github.com/Exploited7/outlook-account-creator) - Outlook account Creator / Generator, Requests Based.
 - [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
 - [vsjha18/nsetools](https://github.com/vsjha18/nsetools) - Realtime Data From National Stock Exchange (India)
-- [dleemiller/WordLlama](https://github.com/dleemiller/WordLlama) - Things you can do with the token embeddings of an LLM
 - [RoyalCities/RC-stable-audio-tools](https://github.com/RoyalCities/RC-stable-audio-tools) - Generative models for conditional audio generation
 - [Heerkog/MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - Human Interface Device (HID) over Bluetooth Low Energy (BLE) GATT library for MicroPython.
 - [RoMeLaUCLA/pygamepad](https://github.com/RoMeLaUCLA/pygamepad) - Python based gamepad for controlling robots
@@ -1411,7 +1411,7 @@
 
 - [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [booiris/pikpakcli_rust](https://github.com/booiris/pikpakcli_rust) - 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
