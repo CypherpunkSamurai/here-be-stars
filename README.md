@@ -319,6 +319,12 @@
 
 ## Go 
 
+- [emitter-io/emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+- [PiterWeb/RemoteController](https://github.com/PiterWeb/RemoteController) - ✨ Steam Remote Play 🎮 Alternative powered by P2P 🌐 and the Web
+- [yapingcat/gomedia](https://github.com/yapingcat/gomedia) - golang library for rtmp, mpeg-ts,mpeg-ps,flv,mp4,ogg,rtsp
+- [sogilis/Voogle](https://github.com/sogilis/Voogle) - 
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [hamidrabedi/tradingview-realtime](https://github.com/hamidrabedi/tradingview-realtime) - TradingView RealTime Tracker is a extension of https://github.com/marcos-gonalons/tradingview-scraper, adding an HTTP server and advanced management with maps and scheduling to ensure continuous, real
 - [pion/example-webrtc-applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries
 - [lmittmann/tint](https://github.com/lmittmann/tint) - 🌈 slog.Handler that writes tinted (colorized) logs
@@ -1409,6 +1415,7 @@
 
 ## Rust 
 
+- [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) - A list of publicly available STUN servers, refreshed every hour.
 - [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
