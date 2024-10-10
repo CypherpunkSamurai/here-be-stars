@@ -1471,7 +1471,7 @@
 ## Shell 
 
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- [blyndusk/sm-prompt](https://github.com/blyndusk/sm-prompt) - ⛓ a Simplistic & Minimalist theme for Bash and Zsh prompts.
+- [alexandre-delaloy/sm-prompt](https://github.com/alexandre-delaloy/sm-prompt) - ⛓ a Simplistic & Minimalist theme for Bash and Zsh prompts.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [wrenth04/download-scripts](https://github.com/wrenth04/download-scripts) - 
 - [velzie/crumpet](https://github.com/velzie/crumpet) - chromium os chroot environment for linux (crouton in reverse)
