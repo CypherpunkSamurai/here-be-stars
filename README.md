@@ -1084,7 +1084,7 @@
 - [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [blaisewf/rvc-cli](https://github.com/blaisewf/rvc-cli) - 🚀 RVC + UVR = A perfect set of tools for voice cloning, easily and free!
-- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
+- [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
 - [libfuse/pyfuse3](https://github.com/libfuse/pyfuse3) - Python 3 bindings for libfuse 3 with asynchronous API (Trio compatible)
 - [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
 - [TeaPearce/Counter-Strike_Behavioural_Cloning](https://github.com/TeaPearce/Counter-Strike_Behavioural_Cloning) - IEEE CoG & NeurIPS workshop paper 'Counter-Strike Deathmatch with Large-Scale Behavioural Cloning'
