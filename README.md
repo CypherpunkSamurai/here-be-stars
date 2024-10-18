@@ -1056,6 +1056,7 @@
 
 ## Python 
 
+- [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
 - [Exploited7/outlook-account-creator](https://github.com/Exploited7/outlook-account-creator) - Outlook account Creator / Generator, Requests Based.
 - [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
@@ -1210,7 +1211,6 @@
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Buhankoanon/OAI_API_Checker](https://github.com/Buhankoanon/OAI_API_Checker) - Program that allows you to check all the available information about your OAI API keys
-- [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [SillyTavern/SillyTavern-Extras](https://github.com/SillyTavern/SillyTavern-Extras) - Extensions API for SillyTavern.
 - [lucidrains/gigagan-pytorch](https://github.com/lucidrains/gigagan-pytorch) - Implementation of GigaGAN, new SOTA GAN out of Adobe. Culmination of nearly a decade of research into GANs
 - [ssbuild/chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning) - chatglm 6b finetuning and alpaca finetuning
@@ -1579,6 +1579,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
