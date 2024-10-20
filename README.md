@@ -52,6 +52,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smali](#smali)
+- [Starlark](#starlark)
 - [Stylus](#stylus)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
@@ -1193,7 +1194,6 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
-- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [houseofsecrets/SdPaint](https://github.com/houseofsecrets/SdPaint) - Stable Diffusion Painting
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [johannakarras/DreamPose](https://github.com/johannakarras/DreamPose) - Official implementation of "DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion"
@@ -1427,6 +1427,7 @@
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [keyvank/femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
+- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
@@ -1526,6 +1527,10 @@
 
 - [Deskfrest/JatToSmali_D8](https://github.com/Deskfrest/JatToSmali_D8) - jar包转smali，使用d8，支持java8特性的jar包转化
 
+## Starlark 
+
+- [googleapis/googleapis](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
+
 ## Stylus 
 
 - [fan-lv/Fan](https://github.com/fan-lv/Fan) - hexo-theme
@@ -1538,6 +1543,7 @@
 
 ## TypeScript 
 
+- [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [kriziu/collabio](https://github.com/kriziu/collabio) - Real-time whiteboard
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
