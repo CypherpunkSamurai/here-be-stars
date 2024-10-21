@@ -659,6 +659,7 @@
 
 ## JavaScript 
 
+- [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [AwesomeWebProjects/react-player](https://github.com/AwesomeWebProjects/react-player) - One audio player built with ReactJS, Web Audio API and Web Worker API
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [bobboteck/JoyStick](https://github.com/bobboteck/JoyStick) - A simple JoyStick that use HTML5, Canvas and Vanilla JavaScript, for touch and mouse interfaces (no JQuery required), preview at:
@@ -1255,7 +1256,6 @@
 - [WaltDisneyWorld/okgendiz](https://github.com/WaltDisneyWorld/okgendiz) - 
 - [arenasys/sd-tagging-helper](https://github.com/arenasys/sd-tagging-helper) - A GUI to help with manual tagging and cropping
 - [rundfunk47/Google-Image-Scraper](https://github.com/rundfunk47/Google-Image-Scraper) - A library to scrape and resize google images, focusing on faces - mainly for machine learning (Stable Diffusion)
-- [shenao1100/Baidu_Netdisk_thirdpart](https://github.com/shenao1100/Baidu_Netdisk_thirdpart) - 百度网盘第三方管理工具
 - [noshbar/SDGG](https://github.com/noshbar/SDGG) - Stable Diffusion Gradio GUI
 - [Criptc/minecraft-handmade-headless-client](https://github.com/Criptc/minecraft-handmade-headless-client) - A minecraft client that I hand made. Still very WIP
 - [Gaming32/Minecraft-Protocol](https://github.com/Gaming32/Minecraft-Protocol) - interaction with minecraft server/client protocol
@@ -1543,6 +1543,7 @@
 
 ## TypeScript 
 
+- [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [kriziu/collabio](https://github.com/kriziu/collabio) - Real-time whiteboard
