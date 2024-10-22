@@ -321,7 +321,6 @@
 
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
-- [PiterWeb/RemoteController](https://github.com/PiterWeb/RemoteController) - ✨ Steam Remote Play 🎮 Alternative powered by P2P 🌐 and the Web
 - [yapingcat/gomedia](https://github.com/yapingcat/gomedia) - golang library for rtmp, mpeg-ts,mpeg-ps,flv,mp4,ogg,rtsp
 - [sogilis/Voogle](https://github.com/sogilis/Voogle) - 
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
@@ -1547,6 +1546,7 @@
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [kriziu/collabio](https://github.com/kriziu/collabio) - Real-time whiteboard
+- [PiterWeb/RemoteController](https://github.com/PiterWeb/RemoteController) - ✨ Steam Remote Play 🎮 Alternative powered by P2P 🌐 and the Web
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
