@@ -46,6 +46,7 @@
 - [Python](#python)
 - [R](#r)
 - [Reason](#reason)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -85,6 +86,8 @@
 
 ## C 
 
+- [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷
+- [mpenkov/ffmpeg-tutorial](https://github.com/mpenkov/ffmpeg-tutorial) - A set of tutorials that demonstrates how to write a video player based on FFmpeg
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
 - [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above
 - [Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro) - Retro games for Reinforcement Learning
@@ -322,6 +325,7 @@
 
 ## Go 
 
+- [hsnks100/liveflow](https://github.com/hsnks100/liveflow) - Liveflow is a modular live streaming solution that supports RTMP and WebRTC inputs, and outputs to WebRTC, HLS, and MP4 formats.
 - [sunshineplan/node](https://github.com/sunshineplan/node) - HTML parsing library, the alternative to BeautifulSoup in Golang.
 - [lxn/walk](https://github.com/lxn/walk) - A Windows GUI toolkit for the Go Programming Language
 - [akavel/rsrc](https://github.com/akavel/rsrc) - Tool for embedding .ico & manifest resources in Go programs for Windows.
@@ -1072,6 +1076,7 @@
 
 ## Python 
 
+- [RLHFlow/RLHF-Reward-Modeling](https://github.com/RLHFlow/RLHF-Reward-Modeling) - Recipes to train reward model for RLHF.
 - [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM
 - [coffinxp/loxs](https://github.com/coffinxp/loxs) - best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect
 - [ikergarcia1996/Self-Driving-Car-in-Video-Games](https://github.com/ikergarcia1996/Self-Driving-Car-in-Video-Games) - A deep neural network that learns to drive in video games
@@ -1125,7 +1130,7 @@
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.2, Mistral, Phi, Qwen & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.2, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [heiskane/Bookstore-Project](https://github.com/heiskane/Bookstore-Project) - 
@@ -1423,6 +1428,10 @@
 ## Reason 
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
+
+## Roff 
+
+- [simman/gortsp](https://github.com/simman/gortsp) - 
 
 ## Ruby 
 
