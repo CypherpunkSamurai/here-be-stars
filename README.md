@@ -151,6 +151,8 @@
 
 ## C# # 
 
+- [marcinotorowski/MSIX-Hero](https://github.com/marcinotorowski/MSIX-Hero) - MSIX Hero - Open source MSIX manager and toolkit
+- [LukeFZ/MsixvcPackageDownloader](https://github.com/LukeFZ/MsixvcPackageDownloader) - Proof-of-Concept tool to generate (MSI)XVC download links for Windows Store / Xbox Game Pass titles.
 - [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx) - Experimental Switch emulator written in C#
 - [Snoothy/UCR](https://github.com/Snoothy/UCR) - Universal Control Remapper [Alpha]
 - [nefarius/ViGEm.NET](https://github.com/nefarius/ViGEm.NET) - .NET bindings for the ViGEmClient library.
