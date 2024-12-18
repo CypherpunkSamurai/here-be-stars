@@ -690,6 +690,7 @@
 
 ## JavaScript 
 
+- [kopiro/siriwave](https://github.com/kopiro/siriwave) - The Apple® Siri wave-form replicated in a JS library.
 - [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
 - [leaningtech/cheerpx-meta](https://github.com/leaningtech/cheerpx-meta) - Run X86 binary applications and libraries in the browser
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -979,6 +980,7 @@
 
 ## Objective-C 
 
+- [prscX/PXSiriWave9](https://github.com/prscX/PXSiriWave9) - iOS: Siri Waveform effect similar to 9
 - [EthanArbuckle/Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials) - Tweak to use your own reddit API credentials in Apollo
 - [NeoTheCapt/aweme-algorithm](https://github.com/NeoTheCapt/aweme-algorithm) - 抖音协议中的加解密算法实现
 
