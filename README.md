@@ -157,7 +157,7 @@
 
 - [marcinotorowski/MSIX-Hero](https://github.com/marcinotorowski/MSIX-Hero) - MSIX Hero - Open source MSIX manager and toolkit
 - [LukeFZ/MsixvcPackageDownloader](https://github.com/LukeFZ/MsixvcPackageDownloader) - Proof-of-Concept tool to generate (MSI)XVC download links for Windows Store / Xbox Game Pass titles.
-- [GreemDev/Ryujinx](https://github.com/GreemDev/Ryujinx) - Nintendo Switch emulator written in C#, originally created by gdkchan.
+- [Ryubing/Ryujinx](https://github.com/Ryubing/Ryujinx) - Nintendo Switch emulator written in C#, originally created by gdkchan.
 - [Snoothy/UCR](https://github.com/Snoothy/UCR) - Universal Control Remapper [Alpha]
 - [nefarius/ViGEm.NET](https://github.com/nefarius/ViGEm.NET) - .NET bindings for the ViGEmClient library.
 - [csutorasa/XOutput](https://github.com/csutorasa/XOutput) - DirectInput to XInput wrapper
@@ -901,6 +901,7 @@
 
 ## Kotlin 
 
+- [25huizengek1/ViTune](https://github.com/25huizengek1/ViTune) - An Android application for seamless music streaming
 - [Trojan295/android-webauthn-token](https://github.com/Trojan295/android-webauthn-token) - A FIDO2 WebAuthn BLE Android phone token
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [kitswas/VirtualGamePad-Mobile](https://github.com/kitswas/VirtualGamePad-Mobile) - Android App for Virtual Gamepad.
@@ -965,6 +966,7 @@
 
 ## Lua 
 
+- [tjdevries/advent-of-nvim](https://github.com/tjdevries/advent-of-nvim) - 
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex & inline html) previewer for Neovim
 - [trisulnsm/ja3prints](https://github.com/trisulnsm/ja3prints) - JA3 TLS Fingerprint database
 - [ac-custom-shaders-patch/acc-extension-config](https://github.com/ac-custom-shaders-patch/acc-extension-config) - Configuration files for Assetto Corsa Custom Shaders Patch
@@ -1543,7 +1545,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [littlebenlittle/web-terminal-rs](https://github.com/littlebenlittle/web-terminal-rs) - pty over websockets
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
