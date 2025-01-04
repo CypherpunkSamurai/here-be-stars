@@ -39,6 +39,7 @@
 - [NSIS](#nsis)
 - [Nim](#nim)
 - [Objective-C](#objective-c)
+- [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -88,6 +89,10 @@
 
 ## C 
 
+- [jtornosm/USBIP-Virtual-USB-Device](https://github.com/jtornosm/USBIP-Virtual-USB-Device) - Emulates USB Devices using USBIP in Python or c
+- [lcgamboa/USBIP-Virtual-USB-Device](https://github.com/lcgamboa/USBIP-Virtual-USB-Device) - Emulates USB Devices using USBIP in Python or c
+- [xxandy/USB_UDE_Sample](https://github.com/xxandy/USB_UDE_Sample) - UDE (USB Device Emulation) Hardware-less sample, with matching Host-Side drivers. Used as a USB study test bed.
+- [NSG650/NoMoreBugCheckReloaded](https://github.com/NSG650/NoMoreBugCheckReloaded) - NoMoreBugCheck Reloaded
 - [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 - [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
@@ -156,6 +161,11 @@
 
 ## C# # 
 
+- [BestOwl/MyPhone](https://github.com/BestOwl/MyPhone) - Connect your mobile devices (Android/iOS/WindowsPhone) to  PC
+- [Shein/conduitBT](https://github.com/Shein/conduitBT) - 
+- [stjeong/USBIP-Virtual-USB-Device](https://github.com/stjeong/USBIP-Virtual-USB-Device) - Emulates USB Devices using USBIP in Python or c
+- [shrimqy/Seki](https://github.com/shrimqy/Seki) - Phone Link / KDE Connect alternative with Notification Mirroring, Clipboard Sync, File Transfer, Media Control
+- [scrtwpns/mixbox](https://github.com/scrtwpns/mixbox) - Mixbox is a library for natural color mixing based on real pigments.
 - [SteamAutoCracks/Steam-auto-crack](https://github.com/SteamAutoCracks/Steam-auto-crack) - Steam Game Automatic Cracker
 - [marcinotorowski/MSIX-Hero](https://github.com/marcinotorowski/MSIX-Hero) - MSIX Hero - Open source MSIX manager and toolkit
 - [LukeFZ/MsixvcPackageDownloader](https://github.com/LukeFZ/MsixvcPackageDownloader) - Proof-of-Concept tool to generate (MSI)XVC download links for Windows Store / Xbox Game Pass titles.
@@ -191,6 +201,8 @@
 
 ## C++ 
 
+- [amanison/OpenAudioCable](https://github.com/amanison/OpenAudioCable) - Virtual Audio Loopback Cable for Windows
+- [dlech/pywinrt](https://github.com/dlech/pywinrt) - Code generation tool to create Python bindings from WinRT metadata.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
@@ -596,6 +608,7 @@
 
 ## Java 
 
+- [adamharrison/lite-xl-android](https://github.com/adamharrison/lite-xl-android) - A repository that compiles lite-xl for android.
 - [tejado/Authorizer](https://github.com/tejado/Authorizer) - Authorizer is a Password Manager for Android. It emulates an HID keyboard over USB and enters your credentials on your target device. Additionally it supports OTP :key::mobile_phone_off:
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [librespot-org/librespot-java](https://github.com/librespot-org/librespot-java) - The most up-to-date open source Spotify client
@@ -1022,8 +1035,14 @@
 - [EthanArbuckle/Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials) - Tweak to use your own reddit API credentials in Apollo
 - [NeoTheCapt/aweme-algorithm](https://github.com/NeoTheCapt/aweme-algorithm) - 抖音协议中的加解密算法实现
 
+## OpenSCAD 
+
+- [MicrosoftDocs/windows-driver-docs](https://github.com/MicrosoftDocs/windows-driver-docs) - The official Windows Driver Kit documentation sources
+
 ## Others 
 
+- [deevus/zed-windows-builds](https://github.com/deevus/zed-windows-builds) - 
+- [0x90/qualcomm-arsenal](https://github.com/0x90/qualcomm-arsenal) - Qualcomm baseband hacking stuff
 - [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -1133,12 +1152,14 @@
 
 ## Pascal 
 
+- [MartinDrab/IRPMon](https://github.com/MartinDrab/IRPMon) - The goal of the tool is to monitor requests received by selected device objects or kernel drivers. The tool is quite similar to IrpTracker but has several enhancements. It supports 64-bit versions of 
 - [Kisspeace/NsfwBox](https://github.com/Kisspeace/NsfwBox) - Cross-platform app for search and download porn
 - [JoeJoeTV/startLazarusPortable](https://github.com/JoeJoeTV/startLazarusPortable) - A launcher application for Windows that starts Lazarus from a folder/USB stick and keeps it all contained.
 - [Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp) - A fast, portable, simple, and free C/C++ IDE
 
 ## PowerShell 
 
+- [jonaslyk/windows-driver-docs](https://github.com/jonaslyk/windows-driver-docs) - The official Windows Driver Kit documentation sources\
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 - [toksaitov/AndroidStudioPortable](https://github.com/toksaitov/AndroidStudioPortable) - Scripts to make Android Studio portable
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
@@ -1678,6 +1699,7 @@
 
 ## TypeScript 
 
+- [Abdallah-Alwarawreh/Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) - Syrup, a Honey alternative
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
