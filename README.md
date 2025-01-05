@@ -733,6 +733,8 @@
 
 ## JavaScript 
 
+- [itsPreto/tangent](https://github.com/itsPreto/tangent) - Excalidraw meets ComfyUI for LLMs
+- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [shawnlawson/The_Force](https://github.com/shawnlawson/The_Force) - webGL live coding performance IDE
 - [benjamminf/warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
 - [kopiro/siriwave](https://github.com/kopiro/siriwave) - The Apple® Siri wave-form replicated in a JS library.
@@ -927,6 +929,7 @@
 
 ## Kotlin 
 
+- [CookieJarApps/SmartCookieWeb-Preview](https://github.com/CookieJarApps/SmartCookieWeb-Preview) - SmartCookieWeb, redesigned using GeckoView
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [25huizengek1/ViTune](https://github.com/25huizengek1/ViTune) - An Android application for seamless music streaming
 - [Trojan295/android-webauthn-token](https://github.com/Trojan295/android-webauthn-token) - A FIDO2 WebAuthn BLE Android phone token
@@ -1171,6 +1174,8 @@
 
 ## Python 
 
+- [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
+- [bkerler/edl](https://github.com/bkerler/edl) - Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :)
 - [harishsg993010/LLM-Research-Scripts](https://github.com/harishsg993010/LLM-Research-Scripts) - 
 - [bhancockio/instagram-llama3-crewai](https://github.com/bhancockio/instagram-llama3-crewai) - 
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
