@@ -170,7 +170,7 @@
 - [BestOwl/MyPhone](https://github.com/BestOwl/MyPhone) - Connect your mobile devices (Android/iOS/WindowsPhone) to  PC
 - [Shein/conduitBT](https://github.com/Shein/conduitBT) - 
 - [stjeong/USBIP-Virtual-USB-Device](https://github.com/stjeong/USBIP-Virtual-USB-Device) - Emulates USB Devices using USBIP in Python or c
-- [shrimqy/Sefirah](https://github.com/shrimqy/Sefirah) - Phone Link / KDE Connect alternative with Notification Mirroring, Clipboard Sync, File Transfer, Media Control
+- [shrimqy/Sefirah](https://github.com/shrimqy/Sefirah) - Phone Link / KDE Connect alternative with Notification Mirroring, Clipboard Sync, File Transfer, Android Windows Explorer Integration, Media Control
 - [scrtwpns/mixbox](https://github.com/scrtwpns/mixbox) - Mixbox is a library for natural color mixing based on real pigments.
 - [SteamAutoCracks/Steam-auto-crack](https://github.com/SteamAutoCracks/Steam-auto-crack) - Steam Game Automatic Cracker
 - [marcinotorowski/MSIX-Hero](https://github.com/marcinotorowski/MSIX-Hero) - MSIX Hero - Open source MSIX manager and toolkit
@@ -565,7 +565,7 @@
 
 ## HTML 
 
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI.
+- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) - A list of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 - [sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits) - A collection of android Exploits and Hacks
 - [williamtcastro/carthing-non-premium-spotify](https://github.com/williamtcastro/carthing-non-premium-spotify) - 
 - [budcribar/QualcommNPU](https://github.com/budcribar/QualcommNPU) - 
@@ -1015,7 +1015,7 @@
 - [cpow/neovim-for-newbs](https://github.com/cpow/neovim-for-newbs) - a simple lua neovim configuration for newbs
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [tjdevries/advent-of-nvim](https://github.com/tjdevries/advent-of-nvim) - 
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex & inline html) previewer for Neovim
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & YAML previewer for Neovim
 - [trisulnsm/ja3prints](https://github.com/trisulnsm/ja3prints) - JA3 TLS Fingerprint database
 - [ac-custom-shaders-patch/acc-extension-config](https://github.com/ac-custom-shaders-patch/acc-extension-config) - Configuration files for Assetto Corsa Custom Shaders Patch
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
