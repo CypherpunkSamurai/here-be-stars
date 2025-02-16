@@ -259,7 +259,7 @@
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 - [HappySeaFox/qsseditor](https://github.com/HappySeaFox/qsseditor) - 🎨 Cross-platform application to edit and preview Qt style sheets (QSS).
 - [LSPosed/LSPlant](https://github.com/LSPosed/LSPlant) - A hook framework for Android Runtime (ART)
@@ -1215,7 +1215,7 @@
 - [quantalogic/quantalogic](https://github.com/quantalogic/quantalogic) - Quantalogic ReAct Agent - Coding Agent Framework - Gives a ⭐️ if you like the project
 - [michaelnny/QLoRA-LLM](https://github.com/michaelnny/QLoRA-LLM) - A simple custom QLoRA implementation for fine-tuning a language model (LLM) with basic tools such as PyTorch and Bitsandbytes, completely decoupled from Hugging Face.
 - [Petrichor625/BATraj-Behavior-aware-Model](https://github.com/Petrichor625/BATraj-Behavior-aware-Model) - [AAAI 2024] Official PyTorch Implementation of  ''BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving''.
-- [volcengine/verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
+- [volcengine/verl](https://github.com/volcengine/verl) - verl: Volcano Engine Reinforcement Learning for LLMs
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 - [50RC3/vAIn](https://github.com/50RC3/vAIn) - vAIn (Virtual Artificial Intelligence Network) is a decentralized AGI project utilizing a peer-to-peer network. It combines collaborative learning, federated learning, symbolic reasoning, and reinforc
 - [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework (70B+ PPO Full Tuning & Iterative DPO & LoRA & RingAttention & RFT)
@@ -1768,6 +1768,7 @@
 
 ## TypeScript 
 
+- [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨
