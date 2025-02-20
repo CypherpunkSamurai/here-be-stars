@@ -70,7 +70,6 @@
 ## Assembly 
 
 - [yds12/x64-roadmap](https://github.com/yds12/x64-roadmap) - A roadmap to learn x64 assembly using nasm on Linux.
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [francisconamvi/usb2esp](https://github.com/francisconamvi/usb2esp) - Library and examples of how to use USB Flash Drive Reader/Writer, by hobbytronics, with ESP32.
 - [msm8916-mainline/qhypstub](https://github.com/msm8916-mainline/qhypstub) - "hyp" firmware stub for Qualcomm MSM8916/MSM8939 that allows using EL2/KVM
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
@@ -428,6 +427,7 @@
 - [AnishDe12020/spintron](https://github.com/AnishDe12020/spintron) - Extensible Go terminal spinner with advanced functions with 82 built-in spinners
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [winfsp/cgofuse](https://github.com/winfsp/cgofuse) - Cross-platform FUSE library for Go - Works on Windows, macOS, Linux, FreeBSD, NetBSD, OpenBSD
@@ -631,7 +631,7 @@
 
 ## Java 
 
-- [aenu/aps3e](https://github.com/aenu/aps3e) - a ps3 emulator for android
+- [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 - [adamharrison/lite-xl-android](https://github.com/adamharrison/lite-xl-android) - A repository that compiles lite-xl for android.
 - [tejado/Authorizer](https://github.com/tejado/Authorizer) - Authorizer is a Password Manager for Android. It emulates an HID keyboard over USB and enters your credentials on your target device. Additionally it supports OTP :key::mobile_phone_off:
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
@@ -1213,6 +1213,7 @@
 
 ## Python 
 
+- [open-thought/reasoning-gym](https://github.com/open-thought/reasoning-gym) - procedural reasoning datasets
 - [ZihanWang314/RAGEN](https://github.com/ZihanWang314/RAGEN) - RAGEN is the first open-source reproduction of DeepSeek-R1 on AGENT training.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [adhiiisetiawan/atari-dqn](https://github.com/adhiiisetiawan/atari-dqn) - Implementation Deep Q Network to play Atari Games
