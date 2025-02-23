@@ -762,6 +762,7 @@
 
 ## JavaScript 
 
+- [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
 - [itsPreto/tangent](https://github.com/itsPreto/tangent) - Excalidraw meets ComfyUI for LLMs
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [shawnlawson/The_Force](https://github.com/shawnlawson/The_Force) - webGL live coding performance IDE
@@ -910,6 +911,7 @@
 
 ## Jupyter Notebook 
 
+- [ArcInstitute/evo2](https://github.com/ArcInstitute/evo2) - Genome modeling and design across all domains of life
 - [QwenLM/Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 - [neuralsorcerer/LLM-Distillation](https://github.com/neuralsorcerer/LLM-Distillation) - A concise demonstration of how to distill a Large Language Model Teacher into a Smaller Language Model Student using Knowledge Distillation and Reinforcement Learning.
 - [amrrs/deepseek-r1-agent](https://github.com/amrrs/deepseek-r1-agent) - Deepseek R1 Agent powered by LMStudio and Smolagents
@@ -1219,6 +1221,7 @@
 
 ## Python 
 
+- [om-ai-lab/VLM-R1](https://github.com/om-ai-lab/VLM-R1) - Solve Visual Understanding with Reinforced VLMs
 - [open-thought/reasoning-gym](https://github.com/open-thought/reasoning-gym) - procedural reasoning datasets
 - [ZihanWang314/RAGEN](https://github.com/ZihanWang314/RAGEN) - RAGEN is the first open-source reproduction of DeepSeek-R1 on AGENT training.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
@@ -1702,6 +1705,7 @@
 
 ## Shell 
 
+- [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) - A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
 - [alixaxel/halBox](https://github.com/alixaxel/halBox) - Bash Script to Bootstrap Debian/Ubuntu Servers
 - [kadu-v/prebuilt-executorch](https://github.com/kadu-v/prebuilt-executorch) - 
 - [mvaisakh/wsl-distro-tars](https://github.com/mvaisakh/wsl-distro-tars) - A script that creates importable tar files for Windows Subsystem for Linux (WSL2). These files can be used to install any Linux distribution of your choice, provided it is available on Docker.
@@ -1785,6 +1789,7 @@
 
 ## TypeScript 
 
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
