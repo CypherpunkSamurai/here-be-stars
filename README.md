@@ -1122,7 +1122,7 @@
 - [mjun0812/flash-attention-prebuild-wheels](https://github.com/mjun0812/flash-attention-prebuild-wheels) - Provide with pre-build flash-attention package wheels using GitHub Actions
 - [asdetycv1zzc/woa-aria2c-building](https://github.com/asdetycv1zzc/woa-aria2c-building) - Tutorial to build native ARM64 aria2c
 - [RobThePCGuy/Root-Bluestacks-with-Kitsune-Mask](https://github.com/RobThePCGuy/Root-Bluestacks-with-Kitsune-Mask) - Steps to root Bluestacks 5 with Kitsune Mask without any external tools.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 - [vbaemulator/GBA-Roms](https://github.com/vbaemulator/GBA-Roms) - Game Boy Advance Roms
 - [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
@@ -1293,7 +1293,7 @@
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [Open-Reasoner-Zero/Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero) - Official Repo for Open-Reasoner-Zero
 - [Feiyuyu0503/free-dall-e-proxy](https://github.com/Feiyuyu0503/free-dall-e-proxy) - Free-Dall-E-Proxy, an open-source repository that serves as a proxy for API-based interactions with OpenAI's DALL·E 3 image generation model provided by coze.
-- [TheProxyCompany/proxy-structuring-engine](https://github.com/TheProxyCompany/proxy-structuring-engine) - Gain complete control over LLM outputs. Advanced structured outputs & dynamic tool calling at inference time.
+- [TheProxyCompany/proxy-structuring-engine](https://github.com/TheProxyCompany/proxy-structuring-engine) - Guaranteed structured outputs from any language model. Eliminate 100% of schema violations and state tracking failures in your LLM applications.
 - [RuchiTanmay/nselib](https://github.com/RuchiTanmay/nselib) - nse data library
 - [philtabor/Deep-Q-Learning-Paper-To-Code](https://github.com/philtabor/Deep-Q-Learning-Paper-To-Code) - 
 - [carlthome/python-audio-effects](https://github.com/carlthome/python-audio-effects) - Apply audio effects such as reverb and EQ directly to audio files or NumPy ndarrays.
