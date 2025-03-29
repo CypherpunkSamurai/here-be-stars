@@ -239,7 +239,7 @@
 - [vicr123/QNearbyShare](https://github.com/vicr123/QNearbyShare) - Nearby Share implementation for Linux
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [rdp/screen-capture-recorder-to-video-windows-free](https://github.com/rdp/screen-capture-recorder-to-video-windows-free) - a free open source  windows "screen capture" device and recorder (also allows VLC/ffmpeg and others to capture/stream desktop/audio)
-- [quic/wos-ai-plugins](https://github.com/quic/wos-ai-plugins) - 
+- [quic/wos-ai-plugins](https://github.com/quic/wos-ai-plugins) - AI Plugins for Windows on Snapdragon
 - [lemmingDev/ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad) - Bluetooth LE Gamepad library for the ESP32
 - [Peluko/BLERetro32](https://github.com/Peluko/BLERetro32) - ESP32 Bluetooth LE HID host for gamepad.
 - [wolfshow/gamepad](https://github.com/wolfshow/gamepad) - USB-HID gamepad based on Arduino Joystick Library
@@ -326,7 +326,7 @@
 
 ## CSS 
 
-- [selkies-project/selkies-gstreamer](https://github.com/selkies-project/selkies-gstreamer) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
+- [selkies-project/selkies](https://github.com/selkies-project/selkies) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
 - [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
 - [hdxw/hexo-theme-prowiki](https://github.com/hdxw/hexo-theme-prowiki) - 自制精简hexo模板
 - [glazec/hexo-cheatsheets](https://github.com/glazec/hexo-cheatsheets) - a cheatsheets theme for hexo
@@ -1510,7 +1510,7 @@
 - [SillyTavern/SillyTavern-Extras](https://github.com/SillyTavern/SillyTavern-Extras) - Extensions API for SillyTavern.
 - [lucidrains/gigagan-pytorch](https://github.com/lucidrains/gigagan-pytorch) - Implementation of GigaGAN, new SOTA GAN out of Adobe. Culmination of nearly a decade of research into GANs
 - [ssbuild/chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning) - chatglm 6b finetuning and alpaca finetuning
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 15+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
