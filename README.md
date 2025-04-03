@@ -91,6 +91,7 @@
 
 ## C 
 
+- [TomKing062/vendor_sprd_proprietories-source_packimage](https://github.com/TomKing062/vendor_sprd_proprietories-source_packimage) - sign BootChain images and vbmeta
 - [TomKing062/spreadtrum_flash](https://github.com/TomKing062/spreadtrum_flash) - Spreadtrum firmware dumper
 - [tboox/vm86](https://github.com/tboox/vm86) - 🍔 A x86 Script Instruction Virtual Machine
 - [OzymandiasTheGreat/libfvad-wasm](https://github.com/OzymandiasTheGreat/libfvad-wasm) - Voice activity detection (VAD) library, based on WebRTC's VAD engine built to WASM with Emscripten to run in browsers, Node, and NativeScript
@@ -867,7 +868,7 @@
 - [KarthickMathesh/Text-Editor](https://github.com/KarthickMathesh/Text-Editor) - Text Editor created using ace.js with Emmet auto completion features.
 - [p2004a/ace-clang-completion-poc](https://github.com/p2004a/ace-clang-completion-poc) - Proof of concept of Clang completion through WebSockets in Ace editor.
 - [Amithab/Ace-Editor-example](https://github.com/Amithab/Ace-Editor-example) - Basic custom theme, mode, and autcomplete for Ace editor
-- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [Heath123/pakkit](https://github.com/Heath123/pakkit) - 
 - [aD4wn/Workers-Proxy](https://github.com/aD4wn/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
