@@ -91,6 +91,7 @@
 
 ## C 
 
+- [hzqst/VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
 - [TomKing062/vendor_sprd_proprietories-source_packimage](https://github.com/TomKing062/vendor_sprd_proprietories-source_packimage) - sign BootChain images and vbmeta
 - [TomKing062/spreadtrum_flash](https://github.com/TomKing062/spreadtrum_flash) - Spreadtrum firmware dumper
 - [tboox/vm86](https://github.com/tboox/vm86) - 🍔 A x86 Script Instruction Virtual Machine
@@ -397,6 +398,7 @@
 
 ## Go 
 
+- [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
 - [rwxd/vmrss](https://github.com/rwxd/vmrss) - Tool to show the memory usage of a process and its children
 - [nhanb/shark](https://github.com/nhanb/shark) - Gura on your desktop!
